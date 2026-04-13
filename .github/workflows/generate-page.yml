@@ -1,0 +1,59 @@
+name: The Morning Pull — Generate Page
+
+on:
+  push:
+    paths:
+      - 'scan-data.json'
+  workflow_dispatch:  # allow manual run from Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push index.html back to main
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate newspaper page
+        run: python generate.py
+
+      - name: Commit and push index.html
+        run: |
+          git config user.name "Morning Pull Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --staged --quiet; then
+            echo "No changes to index.html — skipping commit"
+          else
+            DATE_LABEL=$(date +"%B %-d, %Y")
+            git commit -m "The Morning Pull — ${DATE_LABEL}"
+            git push
+          fi
+
+      - name: Send Telegram notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Telegram secrets not configured — skipping notification"
+            exit 0
+          fi
+
+          DATE_LABEL=$(date +"%a %b %-d")
+          MESSAGE="The Morning Pull — ${DATE_LABEL}
+          https://flavr57.github.io/morning-scan"
+
+          curl -s -X POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${MESSAGE}" \
+            -o /dev/null
+          echo "Telegram notification sent"

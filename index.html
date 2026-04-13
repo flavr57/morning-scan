@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Morning Pull &mdash; Sunday, April 12</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #FAF7F2; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+
+  .wrap { max-width: 880px; margin: 0 auto; padding: 2.5rem 2rem; color: #2A2018; }
+
+  /* ── Masthead ── */
+  .masthead { text-align: center; border-bottom: 2px solid #2A2018; padding-bottom: 1rem; margin-bottom: 0.35rem; }
+  .masthead-eyebrow { font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #5BADA0; font-weight: 500; margin: 0 0 5px; }
+  .masthead-title { font-size: 36px; font-weight: 500; color: #2A2018; margin: 0; letter-spacing: -0.01em; }
+  .masthead-meta { font-size: 13px; color: #9A8878; margin: 8px 0 0; display: flex; justify-content: center; }
+  .masthead-meta span { border-right: 1px solid #C8BAAE; padding: 0 18px; }
+  .masthead-meta span:last-child { border: none; }
+  .rule { height: 1px; background: #2A2018; margin: 0 0 1.25rem; }
+  .rule-thin { height: 0.5px; background: #C8BAAE; margin: 1.25rem 0; }
+
+  /* ── Zone labels ── */
+  .above-fold-label { font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #5BADA0; font-weight: 500; border-bottom: 1.5px solid #5BADA0; padding-bottom: 5px; margin-bottom: 1.1rem; }
+  .sections-label { font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #9A8878; border-bottom: 0.5px solid #C8BAAE; padding-bottom: 5px; margin-bottom: 1.1rem; }
+
+  /* ── Lead zone ── */
+  .lead-source { font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: #5BADA0; font-weight: 500; margin: 0 0 4px; }
+  .lead-grid { display: grid; grid-template-columns: 1fr 1px 1fr; gap: 0 1.5rem; margin-bottom: 1.25rem; }
+  .col-divider { background: #C8BAAE; }
+  .lead-item { padding: 0 0 1rem; }
+  .lead-item + .lead-item { border-top: 0.5px solid #C8BAAE; padding-top: 1rem; }
+  .lead-title { font-size: 19px; font-weight: 500; color: #2A2018; margin: 0 0 5px; line-height: 1.35; }
+  .lead-body { font-size: 15px; color: #7A6858; margin: 0; line-height: 1.5; }
+  .lead-pay { font-size: 15px; font-weight: 500; background: #FAAF85; color: #fff; display: inline-block; padding: 3px 10px; border-radius: 3px; margin-top: 6px; }
+  .lead-tag { font-size: 12px; background: #FAAF85; color: #fff; padding: 3px 9px; border-radius: 3px; margin-top: 5px; font-weight: 500; display: inline-block; }
+  .urgent-tag { font-size: 12px; background: #E8956A; color: #fff; padding: 3px 9px; border-radius: 3px; margin-top: 5px; font-weight: 500; display: inline-block; }
+
+  /* ── Links ── */
+  a { color: #1E3F6B; text-decoration: none; font-weight: 500; }
+  a:hover { text-decoration: underline; }
+  .item-link { font-size: 14px; color: #1E3F6B; font-weight: 500; display: block; margin-top: 4px; }
+
+  /* ── Full-scan grid ── */
+  .body-grid { display: grid; grid-template-columns: 1fr 1px 1fr 1px 1fr; gap: 0 1.25rem; }
+  .col-div { background: #C8BAAE; }
+  .col-section { margin-bottom: 1.25rem; }
+  .col-section-name { font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: #5BADA0; font-weight: 500; margin: 0 0 0.6rem; border-bottom: 1px solid #D6EEEA; padding-bottom: 4px; }
+  .item { margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 0.5px solid #E0D4C8; }
+  .item:last-child { border-bottom: none; }
+  .item-title { font-size: 15px; font-weight: 500; color: #2A2018; margin: 0 0 3px; line-height: 1.35; }
+  .item-meta { font-size: 13px; color: #9A8878; margin: 0; }
+  .item-pay { font-size: 13px; font-weight: 500; background: #FAAF85; color: #fff; display: inline-block; padding: 2px 8px; border-radius: 3px; margin-top: 3px; }
+  .empty-state { font-size: 14px; color: #B0A090; font-style: italic; }
+
+  /* ── Gmail flagged ── */
+  .gmail-item { background: #D6EEEA; border-left: 2px solid #5BADA0; padding: 8px 10px; border-radius: 0 4px 4px 0; margin-bottom: 0.6rem; }
+  .gmail-title { font-size: 15px; font-weight: 500; color: #2A2018; margin: 0 0 3px; }
+  .gmail-meta { font-size: 13px; color: #7A6858; margin: 0; }
+  .gmail-action { font-size: 13px; color: #1E3F6B; font-weight: 500; }
+
+  /* ── Responsive ── */
+  @media (max-width: 720px) {
+    .lead-grid { grid-template-columns: 1fr; gap: 0; }
+    .col-divider { display: none; }
+    .body-grid { grid-template-columns: 1fr; gap: 0; }
+    .col-div { display: none; }
+    .masthead-title { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="masthead">
+    <p class="masthead-eyebrow">Daily income scan</p>
+    <h1 class="masthead-title">The Morning Pull</h1>
+    <div class="masthead-meta">
+      <span>Sunday, April 12</span>
+      <span>Hermosa Beach, CA</span>
+      <span>Generated 5:22 PM PT</span>
+    </div>
+  </div>
+  <div class="rule"></div>
+
+  <p class="above-fold-label">Act on these today</p>
+
+  <p class="empty-state" style="text-align:center;padding:1.5rem 0;">No high-priority items today. Check the full scan below.</p>
+
+  <div class="rule-thin"></div>
+  <p class="sections-label">Full scan</p>
+
+  <div class="body-grid">
+    <div class="col">
+      <div class="col-section"><p class="col-section-name">Central Casting</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Casting Networks</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Everyset</p><p class="empty-state">Nothing new today.</p></div>
+    </div>
+    <div class="col-div"></div>
+    <div class="col">
+      <div class="col-section"><p class="col-section-name">Respondent</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">UserInterviews</p><p class="empty-state">Scan error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.userinterviews.com/studies
+</p></div><div class="col-section"><p class="col-section-name">Contra</p><p class="empty-state">Nothing new today.</p></div>
+    </div>
+    <div class="col-div"></div>
+    <div class="col">
+      <div class="col-section"><p class="col-section-name">LinkedIn</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Gmail</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">eBay / Marketplace</p><div class="item">
+      <p class="item-title">New sale activity detected</p>
+      
+      
+      <a class="item-link" href="https://www.ebay.com/sh/sold" target="_blank">View &rarr;</a>
+    </div></div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
