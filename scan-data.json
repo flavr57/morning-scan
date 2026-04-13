@@ -1,0 +1,56 @@
+{
+  "generated": "2026-04-13T00:09:23.863Z",
+  "location": "Hermosa Beach, CA",
+  "items": [
+    {
+      "platform": "eBay Sold",
+      "title": "New sale activity detected",
+      "link": "https://www.ebay.com/sh/sold"
+    }
+  ],
+  "errors": {
+    "UserInterviews": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.userinterviews.com/studies\nCall log:\n\u001b[2m  - navigating to \"https://app.userinterviews.com/studies\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  "platforms": {
+    "Respondent": {
+      "status": "ok",
+      "count": 0
+    },
+    "UserInterviews": {
+      "status": "ok",
+      "count": 0
+    },
+    "Contra": {
+      "status": "ok",
+      "count": 0
+    },
+    "Central Casting": {
+      "status": "ok",
+      "count": 0
+    },
+    "Casting Networks": {
+      "status": "ok",
+      "count": 0
+    },
+    "Everyset": {
+      "status": "ok",
+      "count": 0
+    },
+    "eBay": {
+      "status": "ok",
+      "count": 1
+    },
+    "FB Marketplace": {
+      "status": "ok",
+      "count": 0
+    },
+    "LinkedIn": {
+      "status": "ok",
+      "count": 0
+    },
+    "Gmail": {
+      "status": "ok",
+      "count": 0
+    }
+  }
+}
