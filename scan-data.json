@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-13T00:09:23.863Z",
+  "generated": "2026-04-14T01:03:57.273Z",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -8,9 +8,7 @@
       "link": "https://www.ebay.com/sh/sold"
     }
   ],
-  "errors": {
-    "UserInterviews": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.userinterviews.com/studies\nCall log:\n\u001b[2m  - navigating to \"https://app.userinterviews.com/studies\", waiting until \"networkidle\"\u001b[22m\n"
-  },
+  "errors": {},
   "platforms": {
     "Respondent": {
       "status": "ok",
