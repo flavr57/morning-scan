@@ -1,7 +1,21 @@
 {
-  "generated": "2026-04-14T01:03:57.273Z",
+  "generated": "2026-04-14T15:06:37.783Z",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "UserInterviews",
+      "title": "STUDY FORMAT",
+      "pay": "$125",
+      "duration": "45 min",
+      "link": "https://www.userinterviews.com/projects/xmc0bklKaw/apply"
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Do you work in enterprise automation and AI? We'd love to talk.",
+      "pay": "$125",
+      "duration": "45 min",
+      "link": "https://www.userinterviews.com/projects/xmc0bklKaw/apply"
+    },
     {
       "platform": "eBay Sold",
       "title": "New sale activity detected",
@@ -16,7 +30,7 @@
     },
     "UserInterviews": {
       "status": "ok",
-      "count": 0
+      "count": 2
     },
     "Contra": {
       "status": "ok",
