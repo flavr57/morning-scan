@@ -1,0 +1,42 @@
+name: Scrape All Platforms
+on:
+  schedule:
+      - cron: '0 13 * * *'  # 6am PT daily
+        workflow_dispatch:
+
+        jobs:
+          scrape:
+              runs-on: ubuntu-latest
+                  permissions:
+                        contents: write
+                            steps:
+                                  - uses: actions/checkout@v4
+
+                                        - uses: actions/setup-python@v5
+                                                with:
+                                                          python-version: '3.12'
+
+                                                                - name: Install dependencies
+                                                                        run: |
+                                                                                  pip install playwright requests beautifulsoup4
+                                                                                            playwright install chromium
+
+                                                                                                  - name: Run scraper
+                                                                                                          env:
+                                                                                                                    RESPONDENT_EMAIL: ${{ secrets.RESPONDENT_EMAIL }}
+                                                                                                                              RESPONDENT_PASS: ${{ secrets.RESPONDENT_PASS }}
+                                                                                                                                        USERINTERVIEWS_EMAIL: ${{ secrets.USERINTERVIEWS_EMAIL }}
+                                                                                                                                                  USERINTERVIEWS_PASS: ${{ secrets.USERINTERVIEWS_PASS }}
+                                                                                                                                                          run: python scrape_all.py
+                                                                                                                                                          
+                                                                                                                                                                - name: Commit scan-data.json
+                                                                                                                                                                        run: |
+                                                                                                                                                                                  git config user.name "Morning Pull Bot"
+                                                                                                                                                                                            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                                                                                                                                                                                                      git add scan-data.json
+                                                                                                                                                                                                                if git diff --staged --quiet; then
+                                                                                                                                                                                                                            echo "No changes to scan-data.json — skipping commit"
+                                                                                                                                                                                                                                      else
+                                                                                                                                                                                                                                                  git commit -m "Morning scan — $(date +'%B %-d, %Y')"
+                                                                                                                                                                                                                                                              git push
+                                                                                                                                                                                                                                                                        fi
