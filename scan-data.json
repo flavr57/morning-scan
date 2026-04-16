@@ -1,15 +1,17 @@
 {
-  "generated": "2026-04-16T13:01:16.586Z",
+  "generated": "2026-04-16T21:07:09.350Z",
   "location": "Hermosa Beach, CA",
-  "items": [
-    {
-      "platform": "eBay Sold",
-      "title": "New sale activity detected",
-      "link": "https://www.ebay.com/sh/sold"
-    }
-  ],
+  "items": [],
   "errors": {
-    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
+    "Respondent": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://app.respondent.io/respondents/v2/projects\nCall log:\n  - navigating to \"https://app.respondent.io/respondents/v2/projects\", waiting until \"networkidle\"\n",
+    "UserInterviews": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.userinterviews.com/studies\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n",
+    "Contra": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://contra.com/notifications\nCall log:\n  - navigating to \"https://contra.com/notifications\", waiting until \"networkidle\"\n",
+    "Central Casting": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://centralcasting.com/\nCall log:\n  - navigating to \"https://centralcasting.com/\", waiting until \"networkidle\"\n",
+    "Casting Networks": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://app.castingnetworks.com/\nCall log:\n  - navigating to \"https://app.castingnetworks.com/\", waiting until \"networkidle\"\n",
+    "Everyset": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://everyset.com/\nCall log:\n  - navigating to \"https://everyset.com/\", waiting until \"networkidle\"\n",
+    "eBay": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ebay.com/sh/sold\nCall log:\n  - navigating to \"https://www.ebay.com/sh/sold\", waiting until \"domcontentloaded\"\n",
+    "FB Marketplace": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.facebook.com/marketplace/inbox\nCall log:\n  - navigating to \"https://www.facebook.com/marketplace/inbox\", waiting until \"domcontentloaded\"\n",
+    "LinkedIn": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.linkedin.com/messaging/\nCall log:\n  - navigating to \"https://www.linkedin.com/messaging/\", waiting until \"domcontentloaded\"\n"
   },
   "platforms": {
     "Respondent": {
@@ -38,7 +40,7 @@
     },
     "eBay": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "FB Marketplace": {
       "status": "ok",
