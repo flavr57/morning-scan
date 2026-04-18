@@ -1,15 +1,10 @@
 {
-  "generated": "2026-04-18T13:01:13.523Z",
+  "generated": "2026-04-18T21:05:37.538Z",
   "location": "Hermosa Beach, CA",
-  "items": [
-    {
-      "platform": "eBay Sold",
-      "title": "New sale activity detected",
-      "link": "https://www.ebay.com/sh/sold"
-    }
-  ],
+  "items": [],
   "errors": {
-    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
+    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n",
+    "eBay": "page.goto: net::ERR_NETWORK_CHANGED at https://www.ebay.com/mye/messages\nCall log:\n  - navigating to \"https://www.ebay.com/mye/messages\", waiting until \"domcontentloaded\"\n"
   },
   "platforms": {
     "Respondent": {
@@ -38,7 +33,7 @@
     },
     "eBay": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "FB Marketplace": {
       "status": "ok",
