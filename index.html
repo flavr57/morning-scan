@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Morning Pull &mdash; Tuesday, April 14</title>
+<title>The Morning Pull &mdash; Monday, April 20</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #FAF7F2; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
@@ -59,6 +59,11 @@
   .gmail-meta { font-size: 13px; color: #7A6858; margin: 0; }
   .gmail-action { font-size: 13px; color: #1E3F6B; font-weight: 500; }
 
+  /* ── Dismiss / Applied ── */
+  .item-actions { display: flex; align-items: center; gap: 12px; margin-top: 4px; }
+  .dismiss-btn { background: none; border: 1px solid #C8BAAE; color: #B0A090; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 3px; cursor: pointer; letter-spacing: 0.04em; transition: all 0.15s; }
+  .dismiss-btn:hover { border-color: #5BADA0; color: #5BADA0; }
+
   /* ── Responsive ── */
   @media (max-width: 720px) {
     .lead-grid { grid-template-columns: 1fr; gap: 0; }
@@ -76,9 +81,9 @@
     <p class="masthead-eyebrow">Daily income scan</p>
     <h1 class="masthead-title">The Morning Pull</h1>
     <div class="masthead-meta">
-      <span>Tuesday, April 14</span>
+      <span>Monday, April 20</span>
       <span>Hermosa Beach, CA</span>
-      <span>Generated 1:03 AM PT</span>
+      <span>Generated 1:01 PM PT</span>
     </div>
   </div>
   <div class="rule"></div>
@@ -92,23 +97,51 @@
 
   <div class="body-grid">
     <div class="col">
-      <div class="col-section"><p class="col-section-name">Central Casting</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Casting Networks</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Everyset</p><p class="empty-state">Nothing new today.</p></div>
+      <div class="col-section"><p class="col-section-name">Central Casting</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Everyset</p><p class="empty-state">Nothing new today.</p></div>
     </div>
     <div class="col-div"></div>
     <div class="col">
-      <div class="col-section"><p class="col-section-name">Respondent</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">UserInterviews</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Contra</p><p class="empty-state">Nothing new today.</p></div>
+      <div class="col-section"><p class="col-section-name">Respondent</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">UserInterviews</p><p class="empty-state">Scan error: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to &quot;https://www.us</p></div><div class="col-section"><p class="col-section-name">Contra</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Aquent</p><p class="empty-state">Nothing new today.</p></div>
     </div>
     <div class="col-div"></div>
     <div class="col">
-      <div class="col-section"><p class="col-section-name">LinkedIn</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Gmail</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">eBay / Marketplace</p><div class="item">
+      <div class="col-section"><p class="col-section-name">LinkedIn</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">eBay / Marketplace</p><div class="item" data-id="4dcc38cdfa9d">
       <p class="item-title">New sale activity detected</p>
       
       
-      <a class="item-link" href="https://www.ebay.com/sh/sold" target="_blank">View &rarr;</a>
+      <div class="item-actions">
+        <a class="item-link" href="https://www.ebay.com/sh/sold" target="_blank">View &rarr;</a>
+        <button class="dismiss-btn" onclick="dismissItem('4dcc38cdfa9d')">Applied</button>
+      </div>
     </div></div>
     </div>
   </div>
 
 </div>
+<script>
+  const STORAGE_KEY = 'morning-pull-dismissed';
+
+  function getDismissed() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+    catch { return []; }
+  }
+
+  function dismissItem(id) {
+    const dismissed = getDismissed();
+    if (!dismissed.includes(id)) dismissed.push(id);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(dismissed));
+    document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+  }
+
+  // On load, hide anything already dismissed
+  document.addEventListener('DOMContentLoaded', function() {
+    const dismissed = getDismissed();
+    dismissed.forEach(id => {
+      document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+    });
+  });
+</script>
 </body>
 </html>
