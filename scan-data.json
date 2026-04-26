@@ -1,7 +1,13 @@
 {
-  "generated": "2026-04-25T21:00:48.910Z",
+  "generated": "2026-04-26T13:00:48.916Z",
   "location": "Hermosa Beach, CA",
-  "items": [],
+  "items": [
+    {
+      "platform": "eBay Sold",
+      "title": "New sale activity detected",
+      "link": "https://www.ebay.com/sh/sold"
+    }
+  ],
   "errors": {},
   "platforms": {
     "Respondent": {
@@ -30,7 +36,7 @@
     },
     "eBay": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "FB Marketplace": {
       "status": "ok",
