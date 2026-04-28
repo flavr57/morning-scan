@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T21:01:20.273Z",
+  "generated": "2026-04-28T13:16:07.042Z",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -9,7 +9,9 @@
     }
   ],
   "errors": {
-    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
+    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n",
+    "Contra": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://contra.com/notifications\", waiting until \"networkidle\"\n",
+    "Central Casting": "page.goto: net::ERR_NETWORK_CHANGED at https://centralcasting.com/\nCall log:\n  - navigating to \"https://centralcasting.com/\", waiting until \"networkidle\"\n"
   },
   "platforms": {
     "Respondent": {
