@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-06T21:00:48.739Z",
+  "generated": "2026-05-07T13:01:11.414Z",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -8,7 +8,9 @@
       "link": "https://www.ebay.com/sh/sold"
     }
   ],
-  "errors": {},
+  "errors": {
+    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
+  },
   "platforms": {
     "Respondent": {
       "status": "ok",
