@@ -36,6 +36,7 @@ PLATFORM_CATEGORY = {
     "Aquent": "Freelance",
     "Central Casting": "Acting",
     "Everyset": "Acting",
+    "Project Casting": "Acting",
     "LinkedIn": "Jobs",
     "eBay": "Marketplace",
     "eBay Sold": "Marketplace",
@@ -50,6 +51,7 @@ PLATFORM_LINK_VERB = {
     "Aquent": "View on",
     "Central Casting": "View on",
     "Everyset": "Apply on",
+    "Project Casting": "View on",
     "LinkedIn": "View on",
     "eBay": "View on",
     "eBay Sold": "View on",
@@ -59,7 +61,7 @@ PLATFORM_LINK_VERB = {
 
 HIGH_SIGNAL_PLATFORMS = {
     "Respondent", "UserInterviews", "Central Casting",
-    "Everyset", "Contra", "Aquent",
+    "Everyset", "Project Casting", "Contra", "Aquent",
 }
 
 
@@ -296,7 +298,7 @@ def generate_page(data):
     grouped["eBay / Marketplace"] = ebay_combined + fb
 
     # Column assignments
-    col1_platforms = ["Central Casting", "Everyset"]
+    col1_platforms = ["Central Casting", "Everyset", "Project Casting"]
     col2_platforms = ["Respondent", "UserInterviews", "Contra", "Aquent"]
     col3_platforms = ["LinkedIn", "eBay / Marketplace"]
 
