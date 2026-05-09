@@ -22,6 +22,7 @@ LOCATION = "Hermosa Beach, CA"
 # (platform_label, module_name) — adding a new scraper is one line here.
 PLUGINS = [
     ("Project Casting", "scrape_project_casting"),
+    ("LinkedIn", "scrape_linkedin"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
