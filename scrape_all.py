@@ -19,17 +19,20 @@ from pathlib import Path
 DATA_PATH = Path(__file__).resolve().parent / "scan-data.json"
 LOCATION = "Hermosa Beach, CA"
 
-# (platform_label, module_name) — adding a new scraper is one line here.
+# (labels, module_name). `labels` is the tuple of platform values the
+# plugin emits in its items; the first label is the display/log name.
+# Most plugins emit one label; eBay emits two.
 PLUGINS = [
-    ("Project Casting", "scrape_project_casting"),
-    ("LinkedIn", "scrape_linkedin"),
-    ("Central Casting", "scrape_central_casting"),
-    ("Everyset", "scrape_everyset"),
-    ("Aquent", "scrape_aquent"),
-    ("Contra", "scrape_contra"),
-    ("Indeed", "scrape_indeed"),
-    ("Respondent", "scrape_respondent"),
-    ("UserInterviews", "scrape_user_interviews"),
+    (("Project Casting",), "scrape_project_casting"),
+    (("LinkedIn",), "scrape_linkedin"),
+    (("Central Casting",), "scrape_central_casting"),
+    (("Everyset",), "scrape_everyset"),
+    (("Aquent",), "scrape_aquent"),
+    (("Contra",), "scrape_contra"),
+    (("Indeed",), "scrape_indeed"),
+    (("Respondent",), "scrape_respondent"),
+    (("UserInterviews",), "scrape_user_interviews"),
+    (("eBay Sold", "eBay Messages"), "scrape_ebay"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
@@ -68,8 +71,8 @@ def main():
 
     # Reset platforms we're about to run; strip hard exclusions; preserve
     # other entries (e.g., manually seeded items) untouched.
-    active_platforms = {label for label, _ in PLUGINS}
-    drop = active_platforms | HARD_EXCLUSIONS
+    active_labels = {lbl for labels, _ in PLUGINS for lbl in labels}
+    drop = active_labels | HARD_EXCLUSIONS
     data["items"] = [
         it for it in data.get("items", []) if it.get("platform") not in drop
     ]
@@ -80,17 +83,22 @@ def main():
         platforms.pop(label, None)
 
     total = 0
-    for label, module_name in PLUGINS:
-        print(f"\n=== {label} ({module_name}) ===")
-        items, err = run_plugin(label, module_name)
+    for labels, module_name in PLUGINS:
+        primary = labels[0]
+        print(f"\n=== {primary} ({module_name}) ===")
+        items, err = run_plugin(primary, module_name)
         if err:
-            errors[label] = err
-            platforms[label] = {"status": "error", "count": 0}
-            print(f"{label}: ERROR — {err}")
+            errors[primary] = err
+            platforms[primary] = {"status": "error", "count": 0}
+            print(f"{primary}: ERROR - {err}")
             continue
         data["items"].extend(items)
-        platforms[label] = {"status": "ok", "count": len(items)}
-        print(f"{label}: {len(items)} item(s)")
+        # Count items per declared label so multi-label plugins (eBay) report
+        # accurate per-platform counts.
+        for lbl in labels:
+            count = sum(1 for it in items if it.get("platform") == lbl)
+            platforms[lbl] = {"status": "ok", "count": count}
+        print(f"{primary}: {len(items)} item(s)")
         total += len(items)
 
     DATA_PATH.write_text(json.dumps(data, indent=2) + "\n")
