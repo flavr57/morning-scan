@@ -38,6 +38,7 @@ PLATFORM_CATEGORY = {
     "Everyset": "Acting",
     "Project Casting": "Acting",
     "LinkedIn": "Jobs",
+    "Indeed": "Jobs",
     "eBay": "Marketplace",
     "eBay Sold": "Marketplace",
     "eBay Messages": "Marketplace",
@@ -53,6 +54,7 @@ PLATFORM_LINK_VERB = {
     "Everyset": "Apply on",
     "Project Casting": "View on",
     "LinkedIn": "View on",
+    "Indeed": "View on",
     "eBay": "View on",
     "eBay Sold": "View on",
     "eBay Messages": "View on",
@@ -117,8 +119,6 @@ def get_category(item):
 def is_urgent(item):
     """Determine if item should get the urgent tag."""
     if item.get("urgent"):
-        return True
-    if item.get("flagged") and item.get("platform") == "Gmail":
         return True
     deadline = item.get("deadline")
     if deadline:
@@ -300,7 +300,7 @@ def generate_page(data):
     # Column assignments
     col1_platforms = ["Central Casting", "Everyset", "Project Casting"]
     col2_platforms = ["Respondent", "UserInterviews", "Contra", "Aquent"]
-    col3_platforms = ["LinkedIn", "eBay / Marketplace"]
+    col3_platforms = ["LinkedIn", "Indeed", "eBay / Marketplace"]
 
     def render_column(platforms):
         sections = ""
@@ -378,12 +378,6 @@ def generate_page(data):
   .item-meta {{ font-size: 13px; color: {MUTED}; margin: 0; }}
   .item-pay {{ font-size: 13px; font-weight: 500; background: {PEACH}; color: #fff; display: inline-block; padding: 2px 8px; border-radius: 3px; margin-top: 3px; }}
   .empty-state {{ font-size: 14px; color: {FAINT}; font-style: italic; }}
-
-  /* ── Gmail flagged ── */
-  .gmail-item {{ background: {SEAFOAM_TINT}; border-left: 2px solid {SEAFOAM}; padding: 8px 10px; border-radius: 0 4px 4px 0; margin-bottom: 0.6rem; }}
-  .gmail-title {{ font-size: 15px; font-weight: 500; color: {INK}; margin: 0 0 3px; }}
-  .gmail-meta {{ font-size: 13px; color: {BODY_COLOR}; margin: 0; }}
-  .gmail-action {{ font-size: 13px; color: {NAVY}; font-weight: 500; }}
 
   /* ── Dismiss / Applied ── */
   .item-actions {{ display: flex; align-items: center; gap: 12px; margin-top: 4px; }}
