@@ -359,6 +359,20 @@ def merge_into_scan_data(matched_items, error_msg=None):
     DATA_PATH.write_text(json.dumps(data, indent=2) + "\n")
 
 
+# ── Orchestrator entry point ─────────────────────────────────────────────
+
+def scrape():
+    """Fetch, parse, filter Project Casting listings.
+
+    Returns a list of scan-data item dicts. Raises on fetch failure so the
+    orchestrator can record the error.
+    """
+    html = fetch(URL)
+    listings = parse_listings(html)
+    matched = [L for L in listings if passes_filter(L)[0]]
+    return [to_scan_item(L) for L in matched]
+
+
 # ── Main ─────────────────────────────────────────────────────────────────
 
 def main():
