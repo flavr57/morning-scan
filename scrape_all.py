@@ -24,6 +24,7 @@ PLUGINS = [
     ("Project Casting", "scrape_project_casting"),
     ("LinkedIn", "scrape_linkedin"),
     ("Central Casting", "scrape_central_casting"),
+    ("Everyset", "scrape_everyset"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
