@@ -29,6 +29,7 @@ PLUGINS = [
     ("Contra", "scrape_contra"),
     ("Indeed", "scrape_indeed"),
     ("Respondent", "scrape_respondent"),
+    ("UserInterviews", "scrape_user_interviews"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
