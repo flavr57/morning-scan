@@ -27,6 +27,7 @@ PLUGINS = [
     ("Everyset", "scrape_everyset"),
     ("Aquent", "scrape_aquent"),
     ("Contra", "scrape_contra"),
+    ("Indeed", "scrape_indeed"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
