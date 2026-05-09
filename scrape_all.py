@@ -33,6 +33,7 @@ PLUGINS = [
     (("Respondent",), "scrape_respondent"),
     (("UserInterviews",), "scrape_user_interviews"),
     (("eBay Sold", "eBay Messages"), "scrape_ebay"),
+    (("FB Marketplace",), "scrape_fb_marketplace"),
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
