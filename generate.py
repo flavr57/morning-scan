@@ -279,6 +279,19 @@ def generate_page(data):
     date_display = dt.strftime("%A, %B %-d")
     time_display = dt.strftime("%-I:%M %p PT")
 
+    # Surf snapshot is header chrome, not scan data. Silent on any failure.
+    surf_html = ""
+    try:
+        from scrape_surfline import fetch_snapshot
+        snap = fetch_snapshot()
+        if snap and snap.get("height") and snap.get("rating"):
+            surf_html = (
+                f'<span>{escape(snap["height"])}, '
+                f'{escape(snap["rating"])}</span>'
+            )
+    except Exception:
+        surf_html = ""
+
     # ── Score and pick top items ─────────────────────────────────────
     scored = [(score_item(it), it) for it in all_items if not it.get("error")]
     scored.sort(key=lambda x: -x[0])
@@ -411,6 +424,7 @@ def generate_page(data):
       <span>{date_display}</span>
       <span>{location}</span>
       <span>Generated {time_display}</span>
+      {surf_html}
     </div>
   </div>
   <div class="rule"></div>
