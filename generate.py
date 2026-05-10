@@ -254,8 +254,11 @@ def render_platform_section(platform, items, error=None):
             clean = clean[:77] + "..."
         body = f'<p class="empty-state">Scan error: {escape(clean)}</p>'
     elif not items:
-        today_str = datetime.now().strftime("%b %-d")
-        body = f'<p class="empty-state">Nothing new today ({today_str}).</p>'
+        if platform == "Central Casting":
+            body = '<p class="empty-state">No current posts.</p>'
+        else:
+            today_str = datetime.now().strftime("%b %-d")
+            body = f'<p class="empty-state">Nothing new today ({today_str}).</p>'
     else:
         body = "".join(render_scan_item(it) for it in items)
 
