@@ -19,13 +19,9 @@ PLATFORM = "Everyset"
 BASE_URL = "https://jobs.everyset.com"
 
 CARD_SELECTORS = [
-    "[class*='JobCard']",
-    "[class*='job-card']",
-    "[class*='listing-card']",
-    "[class*='PostingCard']",
-    "[data-testid*='job']",
-    "article",
+    "div:has(> div > .post-title)",
 ]
+TITLE_SELECTOR = ".post-title-text"
 
 
 # ── Fetch + parse ────────────────────────────────────────────────────────
@@ -59,11 +55,23 @@ def fetch_listings():
                 continue
             if not text:
                 continue
-            first_line = text.splitlines()[0].strip()
-            title = first_line[:140]
+
+            title = ""
+            try:
+                title_el = card.query_selector(TITLE_SELECTOR)
+                if title_el:
+                    title = (title_el.inner_text() or "").strip()
+            except Exception:
+                title = ""
+            if not title:
+                title = text.splitlines()[0].strip()
+            title = title[:140]
             if len(title) < 4:
                 continue
 
+            # Cards on jobs.everyset.com are JS click-targets with no
+            # per-listing href. Fall back to the job-board URL so the user
+            # can still navigate to the listing.
             link = ""
             try:
                 anchor = card.query_selector("a[href]")
@@ -73,6 +81,8 @@ def fetch_listings():
                         link = urljoin(BASE_URL, href)
             except Exception:
                 link = ""
+            if not link:
+                link = URL
 
             listings.append({
                 "title": title,

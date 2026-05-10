@@ -215,7 +215,7 @@ def render_lead_item(item):
       {pay_html}
       <div class="item-actions">
         {link_html}
-        <button class="dismiss-btn" onclick="dismissItem('{iid}')">Applied</button>
+        <button class="apply-btn" data-id="{iid}" onclick="markApplied('{iid}')">Apply</button>
       </div>
       {tag_html}
     </div>'''
@@ -240,7 +240,7 @@ def render_scan_item(item):
       {pay_html}
       <div class="item-actions">
         {link_html}
-        <button class="dismiss-btn" onclick="dismissItem('{iid}')">Applied</button>
+        <button class="apply-btn" data-id="{iid}" onclick="markApplied('{iid}')">Apply</button>
       </div>
     </div>'''
 
@@ -249,9 +249,13 @@ def render_platform_section(platform, items, error=None):
     header = f'<p class="col-section-name">{escape(platform)}</p>'
 
     if error:
-        body = f'<p class="empty-state">Scan error: {escape(error[:80])}</p>'
+        clean = " ".join(error.split())
+        if len(clean) > 80:
+            clean = clean[:77] + "..."
+        body = f'<p class="empty-state">Scan error: {escape(clean)}</p>'
     elif not items:
-        body = '<p class="empty-state">Nothing new today.</p>'
+        today_str = datetime.now().strftime("%b %-d")
+        body = f'<p class="empty-state">Nothing new today ({today_str}).</p>'
     else:
         body = "".join(render_scan_item(it) for it in items)
 
@@ -379,10 +383,12 @@ def generate_page(data):
   .item-pay {{ font-size: 13px; font-weight: 500; background: {PEACH}; color: #fff; display: inline-block; padding: 2px 8px; border-radius: 3px; margin-top: 3px; }}
   .empty-state {{ font-size: 14px; color: {FAINT}; font-style: italic; }}
 
-  /* ── Dismiss / Applied ── */
+  /* ── Apply / Applied ── */
   .item-actions {{ display: flex; align-items: center; gap: 12px; margin-top: 4px; }}
-  .dismiss-btn {{ background: none; border: 1px solid {RULE}; color: {FAINT}; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 3px; cursor: pointer; letter-spacing: 0.04em; transition: all 0.15s; }}
-  .dismiss-btn:hover {{ border-color: {SEAFOAM}; color: {SEAFOAM}; }}
+  .apply-btn {{ background: none; border: 1px solid #1E3F6B; color: #1E3F6B; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 3px; cursor: pointer; letter-spacing: 0.04em; transition: all 0.15s; }}
+  .apply-btn:hover {{ background: #1E3F6B; color: #fff; }}
+  .apply-btn.applied {{ border-color: #C8BAAE; color: #9A8878; background: none; cursor: default; }}
+  .apply-btn.applied:hover {{ background: none; color: #9A8878; }}
 
   /* ── Responsive ── */
   @media (max-width: 720px) {{
@@ -431,25 +437,30 @@ def generate_page(data):
 
 </div>
 <script>
-  const STORAGE_KEY = 'morning-pull-dismissed';
+  const STORAGE_KEY = 'morning-pull-applied';
 
-  function getDismissed() {{
+  function getApplied() {{
     try {{ return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }}
     catch {{ return []; }}
   }}
 
-  function dismissItem(id) {{
-    const dismissed = getDismissed();
-    if (!dismissed.includes(id)) dismissed.push(id);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(dismissed));
-    document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+  function markApplied(id) {{
+    const applied = getApplied();
+    if (!applied.includes(id)) applied.push(id);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(applied));
+    document.querySelectorAll('.apply-btn[data-id="' + id + '"]').forEach(btn => {{
+      btn.textContent = 'Applied';
+      btn.classList.add('applied');
+    }});
   }}
 
-  // On load, hide anything already dismissed
   document.addEventListener('DOMContentLoaded', function() {{
-    const dismissed = getDismissed();
-    dismissed.forEach(id => {{
-      document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+    const applied = getApplied();
+    applied.forEach(id => {{
+      document.querySelectorAll('.apply-btn[data-id="' + id + '"]').forEach(btn => {{
+        btn.textContent = 'Applied';
+        btn.classList.add('applied');
+      }});
     }});
   }});
 </script>

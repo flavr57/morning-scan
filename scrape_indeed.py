@@ -10,17 +10,16 @@ Run with --dry-run: scrapes, prints; does not modify scan-data.json.
 
 import argparse
 import json
-import re
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urlunparse
+from urllib.parse import quote_plus, urljoin, urlparse, urlunparse
 
 
 PLATFORM = "Indeed"
 BASE_URL_TEMPLATE = (
-    "https://www.indeed.com/q-{keywords}-l-Los-Angeles,-CA-jobs.html"
+    "https://www.indeed.com/jobs?q={keywords}&l=Los+Angeles%2C+CA&fromage=1"
 )
 SEARCHES = [
     "art director",
@@ -75,15 +74,8 @@ CAPTCHA_MARKERS = [
 ]
 
 
-def slugify_keywords(keywords):
-    s = keywords.strip().lower()
-    s = re.sub(r"\s+", "-", s)
-    s = re.sub(r"[^a-z0-9-]", "", s)
-    return s
-
-
 def build_url(keywords):
-    return BASE_URL_TEMPLATE.format(keywords=slugify_keywords(keywords))
+    return BASE_URL_TEMPLATE.format(keywords=quote_plus(keywords.strip()))
 
 
 def canonical_link(link):

@@ -14,20 +14,63 @@ from urllib.parse import urljoin
 
 URL = (
     "https://aquent.com/find-work"
-    "?type=Creative+%26+Design&location=Los+Angeles%2C+CA"
+    "?size=n_12_n"
+    "&filters%5B0%5D%5Bfield%5D=offsite_preference.keyword"
+    "&filters%5B0%5D%5Bvalues%5D%5B0%5D=Remote"
+    "&filters%5B0%5D%5Btype%5D=any"
+    "&sort%5B0%5D%5Bfield%5D=posted_date"
+    "&sort%5B0%5D%5Bdirection%5D=desc"
 )
 PLATFORM = "Aquent"
 BASE = "https://aquent.com"
 
 CARD_SELECTORS = [
-    "[class*='job-card']",
+    "a.job-card",
+    "a[href*='/find-work/']",
     "[class*='JobCard']",
-    "[class*='listing']",
-    "[class*='result']",
     "article",
 ]
 
 TITLE_SELECTOR = "h2, h3, h4, [class*='title']"
+
+INCLUDE_KEYWORDS = [
+    "senior designer",
+    "graphic designer",
+    "art director",
+    "associate creative director",
+    "creative director",
+    "brand designer",
+]
+
+EXCLUDE_KEYWORDS = [
+    "price analyst",
+    "privacy analyst",
+    "data analyst",
+    "digital marketing",
+    "visual analyst",
+    "search performance manager",
+    "accounting support",
+    "product manager",
+    "technical motion designer",
+    "adobe experience manager",
+    "developer",
+    "pharmaceutical",
+]
+
+
+def _filter_decision(title):
+    """Return (keep: bool, reason: str) for a candidate title.
+
+    Rules: exclude wins over include; titles with no include match are dropped.
+    """
+    t = (title or "").lower()
+    for kw in EXCLUDE_KEYWORDS:
+        if kw in t:
+            return False, f"excluded by '{kw}'"
+    for kw in INCLUDE_KEYWORDS:
+        if kw in t:
+            return True, f"matched '{kw}'"
+    return False, "no include keyword matched"
 
 
 def _clean(text):
@@ -48,11 +91,13 @@ def _extract_card(card):
         return None
 
     link = ""
-    anchor = card.query_selector("a[href]")
-    if anchor:
-        href = anchor.get_attribute("href") or ""
-        if href:
-            link = urljoin(BASE, href)
+    href = card.get_attribute("href") or ""
+    if not href:
+        anchor = card.query_selector("a[href]")
+        if anchor:
+            href = anchor.get_attribute("href") or ""
+    if href:
+        link = urljoin(BASE, href)
     if not link:
         return None
 
@@ -95,11 +140,11 @@ def _collect(page):
     return [], None
 
 
-def scrape():
-    """Fetch and parse Aquent LA Creative & Design listings.
+def _scrape_raw():
+    """Fetch and parse all Aquent listings before filtering.
 
-    Returns a list of scan-data item dicts. Raises on Playwright/import or
-    navigation failures so the orchestrator can record the error.
+    Returns the unfiltered list of scan-data item dicts (deduped by link).
+    Raises on Playwright/import or navigation failures.
     """
     from playwright.sync_api import sync_playwright
 
@@ -132,6 +177,15 @@ def scrape():
     return items
 
 
+def scrape():
+    """Fetch, parse, and filter Aquent Remote Creative & Design listings.
+
+    Applies the title include/exclude filter. Returns kept items only.
+    """
+    raw = _scrape_raw()
+    return [it for it in raw if _filter_decision(it["title"])[0]]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true",
@@ -140,13 +194,22 @@ def main():
 
     print(f"Fetching {URL}")
     try:
-        items = scrape()
+        raw = _scrape_raw()
     except Exception as e:
         print(f"FETCH FAILED: {type(e).__name__}: {e}", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Parsed {len(items)} listing(s)\n")
-    for it in items:
+    print(f"Parsed {len(raw)} raw listing(s) before filter\n")
+    kept = []
+    for it in raw:
+        keep, reason = _filter_decision(it["title"])
+        marker = "KEEP" if keep else "skip"
+        print(f"  [{marker}] {it['title']}  ({reason})")
+        if keep:
+            kept.append(it)
+
+    print(f"\n{len(kept)} kept after filter:\n")
+    for it in kept:
         print("-" * 70)
         print(f"  Title:    {it['title']}")
         print(f"  Link:     {it['link']}")
@@ -160,11 +223,11 @@ def main():
     if args.dry_run:
         print("\n--dry-run: scan-data.json not modified.")
         print("\nWould return these item dicts:")
-        print(json.dumps(items, indent=2))
+        print(json.dumps(kept, indent=2))
     else:
         print("\nscrape_aquent.py is a plugin; orchestrator writes scan-data.json.")
         print("Items returned:")
-        print(json.dumps(items, indent=2))
+        print(json.dumps(kept, indent=2))
 
 
 if __name__ == "__main__":
