@@ -25,14 +25,13 @@ These platforms are NOT part of this system. They appear in older versions of `g
 
 ## Authoritative Platform List
 
-Twelve platforms across five columns. Every one is required. None is a higher priority than the others. The end state is all twelve scraping reliably and rendering on the page.
+Eleven platforms across five columns. Every one is required. None is a higher priority than the others. The end state is all eleven scraping reliably and rendering on the page.
 
 **Research**
 - Respondent (`respondent.io`) — auth required (Playwright + login)
 - UserInterviews (`userinterviews.com/studies`) — auth required (Playwright + login)
 
 **Freelance**
-- Contra (`contra.com`) — verify scrape access; if listings are public, Playwright on the public page; if not, defer to Phase 3
 - Aquent (`aquent.com/find-work`) — public, Playwright
 
 **Acting**
@@ -150,12 +149,11 @@ Build these in any order, parallel work via sub-agents encouraged:
 2. **Central Casting** (`scrape_central_casting.py`) — Playwright on `centralcasting.com/jobs/california/`. Reference the broken `scrape_all.py` for the selector approach. Apply the profile filter from `scrape_project_casting.py`.
 3. **Everyset** (`scrape_everyset.py`) — Playwright on `jobs.everyset.com/job-board`. Reference the broken `scrape_all.py`. Apply the profile filter.
 4. **Aquent** (`scrape_aquent.py`) — Playwright on `aquent.com/find-work?type=Creative+%26+Design&location=Los+Angeles%2C+CA`. Reference the broken `scrape_all.py`. No profile filter needed (this is freelance creative work, not talent casting).
-5. **Contra** (`scrape_contra.py`) — investigate `contra.com` to determine if listings are public. If yes, build. If they require login, defer to Phase 3 and document why.
-6. **Indeed** (`scrape_indeed.py`) — Playwright on `indeed.com/q-{keywords}-l-los-angeles,-ca-jobs.html`. Use a realistic browser fingerprint. Default search queries: `art director`, `creative director`, `brand designer`. Indeed has bot detection but is generally scrapeable with Playwright; if it proves unreliable in a reasonable time budget, document the blocker and ship a stub. Do not let Indeed block Phase 2 completion.
+5. **Indeed** (`scrape_indeed.py`) — Playwright on `indeed.com/q-{keywords}-l-los-angeles,-ca-jobs.html`. Use a realistic browser fingerprint. Default search queries: `art director`, `creative director`, `brand designer`. Indeed has bot detection but is generally scrapeable with Playwright; if it proves unreliable in a reasonable time budget, document the blocker and ship a stub. Do not let Indeed block Phase 2 completion.
 
 For each new scraper, plug it into `scrape_all.py` and confirm `generate.py` already has the platform configured. Run `--dry-run` locally, then commit. One scraper per commit.
 
-**Phase 2 is done when:** all six public scrapers are running daily, or have a documented stub explaining why they couldn't be made reliable.
+**Phase 2 is done when:** all five public scrapers are running daily, or have a documented stub explaining why they couldn't be made reliable.
 
 ### Phase 3 — Authenticated Scrapers
 

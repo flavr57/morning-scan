@@ -28,7 +28,6 @@ PLUGINS = [
     (("Central Casting",), "scrape_central_casting"),
     (("Everyset",), "scrape_everyset"),
     (("Aquent",), "scrape_aquent"),
-    (("Contra",), "scrape_contra"),
     (("Indeed",), "scrape_indeed"),
     (("Respondent",), "scrape_respondent"),
     (("UserInterviews",), "scrape_user_interviews"),
@@ -37,7 +36,7 @@ PLUGINS = [
 ]
 
 # Platforms that must never appear in scan-data.json. Stripped every run.
-HARD_EXCLUSIONS = {"Gmail", "Casting Networks"}
+HARD_EXCLUSIONS = {"Gmail", "Casting Networks", "Contra"}
 
 
 def run_plugin(label, module_name):

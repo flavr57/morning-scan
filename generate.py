@@ -32,7 +32,6 @@ LINEN = "#FAF7F2"
 PLATFORM_CATEGORY = {
     "Respondent": "Research",
     "UserInterviews": "Research",
-    "Contra": "Freelance",
     "Aquent": "Freelance",
     "Central Casting": "Acting",
     "Everyset": "Acting",
@@ -48,7 +47,6 @@ PLATFORM_CATEGORY = {
 PLATFORM_LINK_VERB = {
     "Respondent": "Apply on",
     "UserInterviews": "Apply on",
-    "Contra": "View on",
     "Aquent": "View on",
     "Central Casting": "View on",
     "Everyset": "Apply on",
@@ -63,7 +61,7 @@ PLATFORM_LINK_VERB = {
 
 HIGH_SIGNAL_PLATFORMS = {
     "Respondent", "UserInterviews", "Central Casting",
-    "Everyset", "Project Casting", "Contra", "Aquent",
+    "Everyset", "Project Casting", "Aquent",
 }
 
 
@@ -306,7 +304,7 @@ def generate_page(data):
 
     # Column assignments
     col1_platforms = ["Central Casting", "Everyset", "Project Casting"]
-    col2_platforms = ["Respondent", "UserInterviews", "Contra", "Aquent"]
+    col2_platforms = ["Respondent", "UserInterviews", "Aquent"]
     col3_platforms = ["LinkedIn", "Indeed", "eBay / Marketplace"]
 
     def render_column(platforms):
