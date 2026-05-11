@@ -29,8 +29,9 @@ SEARCHES = [
 DATA_PATH = Path(__file__).resolve().parent / "scan-data.json"
 
 USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
+    "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 "
+    "Mobile/15E148 Safari/604.1"
 )
 
 # The data-jk attribute is the stable signal across Indeed's layout
@@ -280,7 +281,7 @@ def scrape():
         try:
             context = browser.new_context(
                 user_agent=USER_AGENT,
-                viewport={"width": 1280, "height": 800},
+                viewport={"width": 390, "height": 844},
                 locale="en-US",
             )
             try:
