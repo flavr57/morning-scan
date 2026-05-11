@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T15:36:13.416643+00:00",
+  "generated": "2026-05-11T15:56:32.190258+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -32,8 +32,17 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-brand-visual-identity-at-z-gallerie-4385188930",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
+      "date": "13 hours ago",
       "source": "Z Gallerie"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director- Marvel Games - The Walt Disney Company",
+      "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "10 hours ago",
+      "source": "The Walt Disney Company"
     },
     {
       "platform": "LinkedIn",
@@ -41,7 +50,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-sparks-4382173659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "3 hours ago",
+      "date": "4 hours ago",
       "source": "Sparks"
     },
     {
@@ -55,66 +64,57 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "VP, Story - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/vp-story-at-day-one-agency-4403485888",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "Day One Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Design Director - Gensler",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-gensler-4394364804",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "16 hours ago",
-      "source": "Gensler"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Director, Social Creative - Warner Music Group",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-social-creative-at-warner-music-group-4373582200",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Warner Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "SVP, Brand - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/svp-brand-at-day-one-agency-4409560181",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "Day One Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director- Marvel Games - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
+      "title": "Director, Communications & Awards - The Walt Disney Company",
+      "link": "https://www.linkedin.com/jobs/view/director-communications-awards-at-the-walt-disney-company-4412646205",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "9 hours ago",
+      "date": "10 hours ago",
       "source": "The Walt Disney Company"
     },
     {
       "platform": "LinkedIn",
-      "title": "Growth Director - Tomorrow Recruitment Ltd | B Corp\u2122",
-      "link": "https://www.linkedin.com/jobs/view/growth-director-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4412752495",
+      "title": "Associate Director, Strategic Communications - The Lede Company",
+      "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-communications-at-the-lede-company-4412900161",
       "alert": false,
-      "location": "Culver City, CA",
-      "date": "4 hours ago",
-      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "1 hour ago",
+      "source": "The Lede Company"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr. Designer (IT Cosmetics) - L'Or\u00e9al",
-      "link": "https://www.linkedin.com/jobs/view/sr-designer-it-cosmetics-at-l-or%C3%A9al-4381898997",
+      "title": "Office Director - Architecture and Design - Cuningham",
+      "link": "https://www.linkedin.com/jobs/view/office-director-architecture-and-design-at-cuningham-4189684695",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "20 hours ago",
-      "source": "L'Or\u00e9al"
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "Cuningham"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Marketing - FORMA Brands",
+      "link": "https://www.linkedin.com/jobs/view/director-marketing-at-forma-brands-4387160703",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "5 hours ago",
+      "source": "FORMA Brands"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Martech Enablement - Warner Music Group",
+      "link": "https://www.linkedin.com/jobs/view/director-martech-enablement-at-warner-music-group-4373590041",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "9 hours ago",
+      "source": "Warner Music Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Publicity - Starz",
+      "link": "https://www.linkedin.com/jobs/view/director-publicity-at-starz-4381650988",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "15 hours ago",
+      "source": "Starz"
     },
     {
       "platform": "Central Casting",
