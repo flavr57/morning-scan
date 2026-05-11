@@ -1,17 +1,337 @@
 {
-  "generated": "2026-05-11T13:01:12.399Z",
+  "generated": "2026-05-11T15:36:13.416643+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
-      "platform": "eBay Sold",
-      "title": "New sale activity detected",
-      "link": "https://www.ebay.com/sh/sold"
+      "platform": "Project Casting",
+      "title": "L.A. Now Casting: Attractive/Fit/Muscular Men",
+      "link": "https://projectcasting.com/job/l-a-now-casting-attractive-fit-muscular-men",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 8, 2026",
+      "source": "Paul D Head",
+      "short_description": "A major cable network is now casting attractive, fit, and muscular men in Los Angeles for a fun social experiment competition series.",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Stunt Performer Casting Call for Motorcycle Scene",
+      "link": "https://projectcasting.com/job/stunt-performer-casting-call-for-motorcycle-scene",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "May 8, 2026",
+      "source": "Carl Smith Productions",
+      "short_description": "A production filming in Hollywood is now casting a stunt performer to double for a 23-year-old actor in a short motorcycle scene.",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director (Brand&Visual Identity) - Z Gallerie",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-visual-identity-at-z-gallerie-4385188930",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Z Gallerie"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Sparks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-sparks-4382173659",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Sparks"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - NBCUniversal",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
+      "alert": false,
+      "location": "Universal City, CA",
+      "date": "4 hours ago",
+      "source": "NBCUniversal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "VP, Story - Day One Agency",
+      "link": "https://www.linkedin.com/jobs/view/vp-story-at-day-one-agency-4403485888",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "17 hours ago",
+      "source": "Day One Agency"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Design Director - Gensler",
+      "link": "https://www.linkedin.com/jobs/view/design-director-at-gensler-4394364804",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "16 hours ago",
+      "source": "Gensler"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Director, Social Creative - Warner Music Group",
+      "link": "https://www.linkedin.com/jobs/view/associate-director-social-creative-at-warner-music-group-4373582200",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "8 hours ago",
+      "source": "Warner Music Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "SVP, Brand - Day One Agency",
+      "link": "https://www.linkedin.com/jobs/view/svp-brand-at-day-one-agency-4409560181",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "17 hours ago",
+      "source": "Day One Agency"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director- Marvel Games - The Walt Disney Company",
+      "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "9 hours ago",
+      "source": "The Walt Disney Company"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Growth Director - Tomorrow Recruitment Ltd | B Corp\u2122",
+      "link": "https://www.linkedin.com/jobs/view/growth-director-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4412752495",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "4 hours ago",
+      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Designer (IT Cosmetics) - L'Or\u00e9al",
+      "link": "https://www.linkedin.com/jobs/view/sr-designer-it-cosmetics-at-l-or%C3%A9al-4381898997",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "20 hours ago",
+      "source": "L'Or\u00e9al"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "SURFER WITH SPRINTER VAN AND WETSUIT - UNION SUBMISSIONS",
+      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-we2cl-wfjby",
+      "alert": false,
+      "date": "May 08, 2026"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "LANCASTER LOCAL w/ Car",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/lancaster-local-w-car",
+      "alert": false,
+      "date": "May 07, 2026"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "SCUBA DIVER",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/scuba-diver",
+      "alert": false,
+      "date": "April 22, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "NURSES",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "PATIENT",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Upscale Neighbor",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Political Aide",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Crazed Mob - Special Ability",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Masked BG - Female",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Masked BG - Male 6'1 to 6'3",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "JPD White Shirt",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Neighbor in Hair Rollers",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Roles (BARTENDER, BAR PATRON, BADGE BUNNY, LAWYER, CIVILIAN)",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Civilian / Lawyer",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Lawyer",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Shirtless Police Officer in Locker Room",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Stand-In Male Utility",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Stand-In Female Utility",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "1970's - 1980's Vehicle",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Homeless BG",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "MOCC/Scientist/Control Room Staff",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "RUN OF SHOW STAND IN",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "MALE & FEMALE PRISONERS",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "SWAT Team",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "OPEN CASTING CALL - AMERICAN BLUE",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "OPEN CALL BG",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Aquent",
+      "title": "Senior Designer",
+      "link": "https://aquent.com/find-work/210001",
+      "alert": false,
+      "date": "Posted May 8, 2026"
+    },
+    {
+      "platform": "Aquent",
+      "title": "Graphic Designer",
+      "link": "https://aquent.com/find-work/209996",
+      "alert": false,
+      "date": "Posted May 8, 2026"
     }
   ],
   "errors": {
-    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
+    "Indeed": "RuntimeError: all Indeed queries failed: art director: empty (no job cards found); creative director: empty (no job cards found); brand designer: empty (no job cards found)"
   },
   "platforms": {
+    "eBay": {
+      "status": "ok",
+      "count": 1
+    },
+    "Project Casting": {
+      "status": "ok",
+      "count": 2
+    },
+    "LinkedIn": {
+      "status": "ok",
+      "count": 10
+    },
+    "Central Casting": {
+      "status": "ok",
+      "count": 3
+    },
+    "Everyset": {
+      "status": "ok",
+      "count": 23
+    },
+    "Aquent": {
+      "status": "ok",
+      "count": 2
+    },
+    "Indeed": {
+      "status": "error",
+      "count": 0
+    },
     "Respondent": {
       "status": "ok",
       "count": 0
@@ -20,35 +340,15 @@
       "status": "ok",
       "count": 0
     },
-    "Contra": {
+    "eBay Sold": {
       "status": "ok",
       "count": 0
     },
-    "Central Casting": {
+    "eBay Messages": {
       "status": "ok",
       "count": 0
-    },
-    "Casting Networks": {
-      "status": "ok",
-      "count": 0
-    },
-    "Everyset": {
-      "status": "ok",
-      "count": 0
-    },
-    "eBay": {
-      "status": "ok",
-      "count": 1
     },
     "FB Marketplace": {
-      "status": "ok",
-      "count": 0
-    },
-    "LinkedIn": {
-      "status": "ok",
-      "count": 0
-    },
-    "Gmail": {
       "status": "ok",
       "count": 0
     }
