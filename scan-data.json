@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T17:05:47.290492+00:00",
+  "generated": "2026-05-11T17:54:32.485362+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -32,7 +32,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-brand-visual-identity-at-z-gallerie-4385188930",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "14 hours ago",
+      "date": "15 hours ago",
       "source": "Z Gallerie"
     },
     {
@@ -41,7 +41,7 @@
       "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "11 hours ago",
+      "date": "12 hours ago",
       "source": "The Walt Disney Company"
     },
     {
@@ -50,7 +50,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-sparks-4382173659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "5 hours ago",
+      "date": "6 hours ago",
       "source": "Sparks"
     },
     {
@@ -77,7 +77,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-communications-awards-at-the-walt-disney-company-4412646205",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "11 hours ago",
+      "date": "12 hours ago",
       "source": "The Walt Disney Company"
     },
     {
@@ -86,7 +86,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-communications-at-the-lede-company-4412900161",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "2 hours ago",
+      "date": "3 hours ago",
       "source": "The Lede Company"
     },
     {
@@ -95,7 +95,7 @@
       "link": "https://www.linkedin.com/jobs/view/office-director-architecture-and-design-at-cuningham-4189684695",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "16 hours ago",
+      "date": "17 hours ago",
       "source": "Cuningham"
     },
     {
@@ -104,7 +104,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-marketing-at-forma-brands-4387160703",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "18 minutes ago",
+      "date": "1 hour ago",
       "source": "FORMA Brands"
     },
     {
@@ -113,7 +113,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-martech-enablement-at-warner-music-group-4373590041",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "10 hours ago",
+      "date": "11 hours ago",
       "source": "Warner Music Group"
     },
     {
@@ -307,9 +307,7 @@
       "date": "Posted May 8, 2026"
     }
   ],
-  "errors": {
-    "Indeed": "RuntimeError: all Indeed queries failed: art director: empty (no job cards found); creative director: empty (no job cards found); brand designer: empty (no job cards found)"
-  },
+  "errors": {},
   "platforms": {
     "eBay": {
       "status": "ok",
@@ -336,7 +334,7 @@
       "count": 2
     },
     "Indeed": {
-      "status": "error",
+      "status": "ok",
       "count": 0
     },
     "Respondent": {
