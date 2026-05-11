@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Generate newspaper page
         run: python generate.py
 
