@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T19:54:22.570701+00:00",
+  "generated": "2026-05-11T20:33:42.079355+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -95,7 +95,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-whatnot-4363467338",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "3 hours ago",
+      "date": "4 hours ago",
       "source": "Whatnot"
     },
     {
@@ -104,7 +104,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
       "alert": false,
       "location": "Universal City, CA",
-      "date": "8 hours ago",
+      "date": "9 hours ago",
       "source": "NBCUniversal"
     },
     {
@@ -118,11 +118,20 @@
     },
     {
       "platform": "LinkedIn",
+      "title": "Art Director - American Jewish Committee (AJC)",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-american-jewish-committee-ajc-4412971060",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "28 minutes ago",
+      "source": "American Jewish Committee (AJC)"
+    },
+    {
+      "platform": "LinkedIn",
       "title": "Creative Director, Lifecycle & Organic Growth - Jerry",
       "link": "https://www.linkedin.com/jobs/view/creative-director-lifecycle-organic-growth-at-jerry-4413140138",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 minutes ago",
+      "date": "1 hour ago",
       "source": "Jerry"
     },
     {
@@ -131,7 +140,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-communications-at-the-lede-company-4412900161",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "5 hours ago",
+      "date": "6 hours ago",
       "source": "The Lede Company"
     },
     {
@@ -145,21 +154,21 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Creative Marketing (Lifecycle and Organic Growth) - Jerry",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-lifecycle-and-organic-growth-at-jerry-4413122954",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 minutes ago",
-      "source": "Jerry"
-    },
-    {
-      "platform": "LinkedIn",
       "title": "Sr. Product Designer - Jerry",
       "link": "https://www.linkedin.com/jobs/view/sr-product-designer-at-jerry-4413131380",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 minutes ago",
+      "date": "1 hour ago",
       "source": "Jerry"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Freelance Digital Designer - Part 4",
+      "link": "https://www.linkedin.com/jobs/view/freelance-digital-designer-at-part-4-4412956617",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "27 minutes ago",
+      "source": "Part 4"
     },
     {
       "platform": "LinkedIn",
@@ -167,8 +176,17 @@
       "link": "https://www.linkedin.com/jobs/view/associate-apparel-designer-at-sovereign-code-4413140346",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "10 minutes ago",
+      "date": "49 minutes ago",
       "source": "SOVEREIGN CODE"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Creative Marketing (Lifecycle and Organic Growth) - Jerry",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-lifecycle-and-organic-growth-at-jerry-4413122954",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Jerry"
     },
     {
       "platform": "Central Casting",
@@ -190,6 +208,13 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/scuba-diver",
       "alert": false,
       "date": "April 22, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Gallery Visitors",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -373,7 +398,7 @@
     },
     "LinkedIn": {
       "status": "ok",
-      "count": 12
+      "count": 14
     },
     "Central Casting": {
       "status": "ok",
@@ -381,7 +406,7 @@
     },
     "Everyset": {
       "status": "ok",
-      "count": 24
+      "count": 25
     },
     "Aquent": {
       "status": "ok",
