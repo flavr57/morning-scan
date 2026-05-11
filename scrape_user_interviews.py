@@ -16,11 +16,12 @@ import re
 import sys
 from urllib.parse import urljoin
 
-LOGIN_URL = "https://www.userinterviews.com/sign_in"
+LOGIN_URL = "https://www.userinterviews.com/accounts/signin"
 STUDIES_URL = "https://www.userinterviews.com/studies"
 FALLBACK_URLS = [
     "https://www.userinterviews.com/dashboard",
     "https://www.userinterviews.com/explore",
+    "https://www.userinterviews.com/participants/dashboard",
 ]
 PLATFORM = "UserInterviews"
 BASE = "https://www.userinterviews.com"
@@ -166,11 +167,25 @@ def _collect_cards(page):
 
 
 def _login(page, email, password):
+    # UserInterviews moved their participant login flow in 2026:
+    # /sign_in is now 404. /signin shows a role-picker. /accounts/signin
+    # is the actual form page with account_session[email] /
+    # account_session[password] field names.
     page.goto(LOGIN_URL, wait_until="domcontentloaded", timeout=45000)
-    page.wait_for_timeout(1500)
+    page.wait_for_timeout(2500)
 
-    email_sel = "input[name='user[email]'], input[type='email']"
-    pass_sel = "input[name='user[password]'], input[type='password']"
+    email_sel = (
+        "input[name='account_session[email]'], "
+        "input[id='email'], "
+        "input[name='user[email]'], "
+        "input[type='email']"
+    )
+    pass_sel = (
+        "input[name='account_session[password]'], "
+        "input[id='password'], "
+        "input[name='user[password]'], "
+        "input[type='password']"
+    )
     submit_sel = "button[type='submit'], input[type='submit']"
 
     try:
@@ -189,8 +204,9 @@ def _login(page, email, password):
     except Exception:
         pass
 
-    if "/sign_in" in current_url:
-        _log("UserInterviews login blocked or 2FA challenge")
+    # Still on any signin variant means login failed (blocked, bad creds, 2FA).
+    if "signin" in current_url or "sign_in" in current_url:
+        _log(f"UserInterviews login appears to have failed (still at {current_url})")
         return False
     return True
 

@@ -1,11 +1,28 @@
 #!/usr/bin/env python3
 """
-scrape_respondent.py - log into Respondent and surface available research-study
-listings under platform "Respondent".
+scrape_respondent.py - surface available research-study listings under
+platform "Respondent".
 
-Requires RESPONDENT_EMAIL and RESPONDENT_PASS environment variables. If they
-are missing, scrape() returns []. If login fails (CAPTCHA, redirect, etc.),
-scrape() logs a warning and returns [] rather than raising.
+Authentication: respondent.io added Google reCAPTCHA Enterprise (sitekey
+6LeHiRUpAAAAAMJqgV0i) to its login form. From cloud IPs (GitHub Actions
+runners) the reCAPTCHA token gets scored low and the server silently
+rejects the email/password POST. Email/password is unrecoverable from
+cloud IPs without a captcha-solving service.
+
+Auth paths supported, in priority order:
+
+  1. RESPONDENT_SESSION_COOKIE - the entire cookie header string from a
+     browser tab that is signed into app.respondent.io. Skips login
+     entirely. This is the path used in production and the one the
+     orchestrator runs on every cron.
+  2. RESPONDENT_EMAIL + RESPONDENT_PASS - tries the email/password flow.
+     Useful locally when reCAPTCHA hasn't fired against your home IP.
+     Will silently fail on the runner because of the reCAPTCHA Enterprise
+     server-side token validation.
+
+If neither is set, or if the cookie/login both fail to land on an
+authenticated URL, scrape() returns [] rather than raising - the
+orchestrator records "ok with 0 items" instead of an error state.
 
 Run with --dry-run: scrapes, prints results; does not modify scan-data.json.
 """
@@ -148,6 +165,117 @@ def to_scan_item(card_data):
     return item
 
 
+def _parse_cookie_header(s, domain):
+    """Parse a "name=value; name2=value2" cookie header string into the
+    list-of-dicts shape Playwright's context.add_cookies expects."""
+    out = []
+    for pair in s.split(";"):
+        pair = pair.strip()
+        if not pair or "=" not in pair:
+            continue
+        name, value = pair.split("=", 1)
+        out.append({
+            "name": name.strip(),
+            "value": value.strip(),
+            "domain": domain,
+            "path": "/",
+        })
+    return out
+
+
+def _collect_with_cookie(playwright, cookie_header):
+    """Seed a Respondent session cookie and scrape studies. Returns []
+    if the cookie is rejected or selectors find nothing."""
+    cookies = _parse_cookie_header(cookie_header, ".respondent.io")
+    if not cookies:
+        print(
+            "Respondent: cookie header parsed to zero pairs",
+            file=sys.stderr,
+        )
+        return []
+
+    browser = playwright.chromium.launch(headless=True)
+    try:
+        context = browser.new_context(user_agent=USER_AGENT)
+        try:
+            context.add_cookies(cookies)
+        except Exception as e:
+            print(
+                f"Respondent: add_cookies failed: {type(e).__name__}: {e}",
+                file=sys.stderr,
+            )
+            return []
+        page = context.new_page()
+
+        try:
+            page.goto(STUDIES_URL, wait_until="networkidle", timeout=30000)
+        except Exception as e:
+            print(
+                f"Respondent studies page load failed: "
+                f"{type(e).__name__}: {e}",
+                file=sys.stderr,
+            )
+            return []
+        page.wait_for_timeout(3000)
+
+        current_url = ""
+        try:
+            current_url = page.url or ""
+        except Exception:
+            pass
+        if "/login" in current_url:
+            print(
+                "Respondent cookie was rejected - redirected to /login. "
+                "The cookie has likely expired; refresh it.",
+                file=sys.stderr,
+            )
+            return []
+
+        return _harvest_cards(page)
+    finally:
+        browser.close()
+
+
+def _harvest_cards(page):
+    """Run the card selectors against an already-loaded page."""
+    cards_data = []
+    for selector in CARD_SELECTORS:
+        try:
+            locator = page.locator(selector)
+            count = locator.count()
+        except Exception:
+            continue
+        if count == 0:
+            continue
+        for i in range(count):
+            try:
+                card = locator.nth(i)
+                data = _extract_card_data(card)
+            except Exception:
+                continue
+            if _looks_like_study(data):
+                cards_data.append(data)
+        if cards_data:
+            break
+
+    if not cards_data:
+        print(
+            "Respondent studies page returned no recognizable cards; "
+            "selectors may have changed",
+            file=sys.stderr,
+        )
+
+    seen = set()
+    unique = []
+    for d in cards_data:
+        key = d["link"] or d["title"]
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(d)
+    return unique
+
+
 def _login_and_collect(playwright, email, password):
     """Run the login flow and return scraped card dicts. May return []."""
     browser = playwright.chromium.launch(headless=True)
@@ -244,18 +372,20 @@ def _login_and_collect(playwright, email, password):
 
 
 def scrape():
-    """Log into Respondent and return scan-data items.
+    """Return Respondent study scan-data items, or [] on any auth failure.
 
-    Returns [] when credentials are unset or login fails. Never raises on
-    auth/CAPTCHA - the orchestrator should record 0 items, not an error.
+    Cookie path is preferred (production). Email/password falls back when
+    the cookie isn't set - only useful locally because reCAPTCHA Enterprise
+    blocks the login form from cloud IPs.
     """
+    cookie = os.environ.get("RESPONDENT_SESSION_COOKIE", "").strip()
     email = os.environ.get("RESPONDENT_EMAIL", "")
     password = os.environ.get("RESPONDENT_PASS", "")
 
-    if not email or not password:
+    if not cookie and not (email and password):
         print(
-            "Respondent creds not set (RESPONDENT_EMAIL / RESPONDENT_PASS); "
-            "skipping",
+            "Respondent: no auth available - set RESPONDENT_SESSION_COOKIE "
+            "(preferred) or RESPONDENT_EMAIL + RESPONDENT_PASS",
             file=sys.stderr,
         )
         return []
@@ -271,7 +401,10 @@ def scrape():
 
     try:
         with sync_playwright() as p:
-            cards = _login_and_collect(p, email, password)
+            if cookie:
+                cards = _collect_with_cookie(p, cookie)
+            else:
+                cards = _login_and_collect(p, email, password)
     except Exception as e:
         print(
             f"Respondent scrape failed: {type(e).__name__}: {e}",

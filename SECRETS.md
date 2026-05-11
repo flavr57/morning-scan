@@ -9,14 +9,15 @@ Add each one at:
 
 ## Required secrets
 
-| Name                   | Type     | Value                                                |
-| ---------------------- | -------- | ---------------------------------------------------- |
-| `RESPONDENT_EMAIL`     | password | The email you sign into respondent.io with           |
-| `RESPONDENT_PASS`      | password | Password for that account                            |
-| `USERINTERVIEWS_EMAIL` | password | The email you sign into userinterviews.com with      |
-| `USERINTERVIEWS_PASS`  | password | Password for that account                            |
-| `EBAY_SESSION_COOKIE`  | cookie   | See "How to grab a session cookie" below             |
-| `FB_SESSION_COOKIE`    | cookie   | Optional — FB Marketplace ships as a stub; only fill if you want to revisit it |
+| Name                          | Type     | Value                                                |
+| ----------------------------- | -------- | ---------------------------------------------------- |
+| `RESPONDENT_SESSION_COOKIE`   | cookie   | **Required for production.** Respondent put Google reCAPTCHA Enterprise on the login form, so email/password cannot work from GitHub Actions IPs. Grab via "How to grab a session cookie" below against `app.respondent.io`. |
+| `RESPONDENT_EMAIL`            | password | Optional. Used only locally; the cron runner can't get past the captcha. Leave set if you already added it. |
+| `RESPONDENT_PASS`             | password | Optional. Same as above.                             |
+| `USERINTERVIEWS_EMAIL`        | password | The email you sign into userinterviews.com with      |
+| `USERINTERVIEWS_PASS`         | password | Password for that account                            |
+| `EBAY_SESSION_COOKIE`         | cookie   | See "How to grab a session cookie" below             |
+| `FB_SESSION_COOKIE`           | cookie   | Optional — FB Marketplace ships as a stub; only fill if you want to revisit it |
 
 The scraper degrades gracefully. If a secret is missing the orchestrator
 records that platform as ok / 0 items and moves on. One missing secret
@@ -37,7 +38,8 @@ will not break any other platform.
    GitHub Actions secrets.
 
 Same procedure for `FB_SESSION_COOKIE` against `https://www.facebook.com`,
-if you decide to enable it.
+if you decide to enable it. Same procedure for `RESPONDENT_SESSION_COOKIE`
+against `https://app.respondent.io` after you sign in there.
 
 ## When to refresh
 
