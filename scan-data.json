@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T15:56:32.190258+00:00",
+  "generated": "2026-05-11T16:49:42.093440+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -41,7 +41,7 @@
       "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "10 hours ago",
+      "date": "11 hours ago",
       "source": "The Walt Disney Company"
     },
     {
@@ -50,8 +50,17 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-sparks-4382173659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
+      "date": "5 hours ago",
       "source": "Sparks"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director, Design - Whatnot",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-whatnot-4363467338",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "46 minutes ago",
+      "source": "Whatnot"
     },
     {
       "platform": "LinkedIn",
@@ -59,7 +68,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
       "alert": false,
       "location": "Universal City, CA",
-      "date": "4 hours ago",
+      "date": "5 hours ago",
       "source": "NBCUniversal"
     },
     {
@@ -68,7 +77,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-communications-awards-at-the-walt-disney-company-4412646205",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "10 hours ago",
+      "date": "11 hours ago",
       "source": "The Walt Disney Company"
     },
     {
@@ -77,7 +86,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-communications-at-the-lede-company-4412900161",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
+      "date": "2 hours ago",
       "source": "The Lede Company"
     },
     {
@@ -95,7 +104,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-marketing-at-forma-brands-4387160703",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "5 hours ago",
+      "date": "2 minutes ago",
       "source": "FORMA Brands"
     },
     {
@@ -106,15 +115,6 @@
       "location": "Los Angeles, CA",
       "date": "9 hours ago",
       "source": "Warner Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Publicity - Starz",
-      "link": "https://www.linkedin.com/jobs/view/director-publicity-at-starz-4381650988",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "15 hours ago",
-      "source": "Starz"
     },
     {
       "platform": "Central Casting",
@@ -136,6 +136,13 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/scuba-diver",
       "alert": false,
       "date": "April 22, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Patient",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -322,7 +329,7 @@
     },
     "Everyset": {
       "status": "ok",
-      "count": 23
+      "count": 24
     },
     "Aquent": {
       "status": "ok",
