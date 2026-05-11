@@ -1,167 +1,17 @@
 {
-  "generated": "2026-05-10T14:19:29.417229+00:00",
+  "generated": "2026-05-11T13:01:12.399Z",
   "location": "Hermosa Beach, CA",
   "items": [
     {
-      "platform": "Project Casting",
-      "title": "L.A. Now Casting: Attractive/Fit/Muscular Men",
-      "link": "https://projectcasting.com/job/l-a-now-casting-attractive-fit-muscular-men",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "May 8, 2026",
-      "source": "Paul D Head",
-      "short_description": "A major cable network is now casting attractive, fit, and muscular men in Los Angeles for a fun social experiment competition series.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Stunt Performer Casting Call for Motorcycle Scene",
-      "link": "https://projectcasting.com/job/stunt-performer-casting-call-for-motorcycle-scene",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "May 8, 2026",
-      "source": "Carl Smith Productions",
-      "short_description": "A production filming in Hollywood is now casting a stunt performer to double for a 23-year-old actor in a short motorcycle scene.",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Pressed Juicery",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-pressed-juicery-4404470287",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "22 hours ago",
-      "source": "Pressed Juicery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Cantina Labs",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-cantina-labs-4383526962",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
-      "source": "Cantina Labs"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director, Global Brand Head of Design - Visa",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-global-brand-head-of-design-at-visa-4406524420",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Visa"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Office Director - Architecture and Design - Cuningham",
-      "link": "https://www.linkedin.com/jobs/view/office-director-architecture-and-design-at-cuningham-4189684695",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "Cuningham"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand Lead, Director of Brand Marketing, Brand Marketing Lead - Jobs via Dice",
-      "link": "https://www.linkedin.com/jobs/view/brand-lead-director-of-brand-marketing-brand-marketing-lead-at-jobs-via-dice-4410418338",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "18 hours ago",
-      "source": "Jobs via Dice"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director of Marketing - Pressed Juicery",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-pressed-juicery-4396371044",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "22 hours ago",
-      "source": "Pressed Juicery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Marketing - FORMA Brands",
-      "link": "https://www.linkedin.com/jobs/view/director-marketing-at-forma-brands-4387160703",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 minutes ago",
-      "source": "FORMA Brands"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Martech Enablement - Warner Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-martech-enablement-at-warner-music-group-4373590041",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Warner Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Practice Area Director - Healthcare Design - Syska Hennessy Group",
-      "link": "https://www.linkedin.com/jobs/view/associate-practice-area-director-healthcare-design-at-syska-hennessy-group-4412477786",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Syska Hennessy Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Manager, Contract Administration - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/manager-contract-administration-at-the-walt-disney-company-4412365981",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "2 hours ago",
-      "source": "The Walt Disney Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Brand Designer (Temporary) - Flexport",
-      "link": "https://www.linkedin.com/jobs/view/senior-brand-designer-temporary-at-flexport-4397677087",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "10 hours ago",
-      "source": "Flexport"
+      "platform": "eBay Sold",
+      "title": "New sale activity detected",
+      "link": "https://www.ebay.com/sh/sold"
     }
   ],
   "errors": {
-    "Indeed": "RuntimeError: all Indeed queries failed: art director: empty (no job cards found); creative director: empty (no job cards found); brand designer: empty (no job cards found)"
+    "UserInterviews": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.userinterviews.com/studies\", waiting until \"networkidle\"\n"
   },
   "platforms": {
-    "eBay": {
-      "status": "ok",
-      "count": 1
-    },
-    "Project Casting": {
-      "status": "ok",
-      "count": 2
-    },
-    "LinkedIn": {
-      "status": "ok",
-      "count": 11
-    },
-    "Central Casting": {
-      "status": "ok",
-      "count": 0
-    },
-    "Everyset": {
-      "status": "ok",
-      "count": 0
-    },
-    "Aquent": {
-      "status": "ok",
-      "count": 0
-    },
-    "Contra": {
-      "status": "ok",
-      "count": 0
-    },
-    "Indeed": {
-      "status": "error",
-      "count": 0
-    },
     "Respondent": {
       "status": "ok",
       "count": 0
@@ -170,15 +20,35 @@
       "status": "ok",
       "count": 0
     },
-    "eBay Sold": {
+    "Contra": {
       "status": "ok",
       "count": 0
     },
-    "eBay Messages": {
+    "Central Casting": {
       "status": "ok",
       "count": 0
+    },
+    "Casting Networks": {
+      "status": "ok",
+      "count": 0
+    },
+    "Everyset": {
+      "status": "ok",
+      "count": 0
+    },
+    "eBay": {
+      "status": "ok",
+      "count": 1
     },
     "FB Marketplace": {
+      "status": "ok",
+      "count": 0
+    },
+    "LinkedIn": {
+      "status": "ok",
+      "count": 0
+    },
+    "Gmail": {
       "status": "ok",
       "count": 0
     }
