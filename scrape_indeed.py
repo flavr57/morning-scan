@@ -33,7 +33,15 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
+# The data-jk attribute is the stable signal across Indeed's layout
+# variants (desktop table, mobile/simplified, A/B-tested classes). Class
+# names rotate; data-jk doesn't. The :has() variants pick a card-shaped
+# wrapper around the jk-bearing anchor; the legacy class selectors stay
+# as fallbacks for layouts where :has() finds nothing.
 CARD_SELECTORS = [
+    "div:has(> a[data-jk])",
+    "li:has(a[data-jk])",
+    "td:has(a[data-jk])",
     "[data-testid='job-card']",
     "[class*='job_seen_beacon']",
     ".cardOutline",
@@ -42,9 +50,11 @@ CARD_SELECTORS = [
 ]
 
 TITLE_SELECTORS = [
+    "a[data-jk] span[title]",
     "h2 a",
     "[class*='jobTitle'] a",
     "[class*='jobTitle']",
+    "a[data-jk]",
     "a",
 ]
 
@@ -145,7 +155,20 @@ def find_cards(page):
 
 def extract_card(card, page_url):
     title = first_text(card, TITLE_SELECTORS)
-    link = first_link(card, TITLE_SELECTORS, page_url)
+    # Prefer building the canonical viewjob URL from data-jk: the /rc/clk
+    # and /pagead/clk URLs Indeed returns are heavy with tracking params
+    # and don't dedupe across sponsored/organic copies of the same job.
+    link = ""
+    try:
+        jk_el = card.query_selector("a[data-jk], [data-jk]")
+        if jk_el is not None:
+            jk = jk_el.get_attribute("data-jk") or ""
+            if jk:
+                link = f"https://www.indeed.com/viewjob?jk={jk}"
+    except Exception:
+        link = ""
+    if not link:
+        link = first_link(card, TITLE_SELECTORS, page_url)
     company = first_text(card, COMPANY_SELECTORS)
     location = first_text(card, LOCATION_SELECTORS)
     time_ago = first_text(card, TIME_SELECTORS)
