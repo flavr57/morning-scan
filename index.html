@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Morning Pull &mdash; Saturday, May 9</title>
+<title>The Morning Pull &mdash; Monday, May 11</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #FAF7F2; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
@@ -53,10 +53,12 @@
   .item-pay { font-size: 13px; font-weight: 500; background: #FAAF85; color: #fff; display: inline-block; padding: 2px 8px; border-radius: 3px; margin-top: 3px; }
   .empty-state { font-size: 14px; color: #B0A090; font-style: italic; }
 
-  /* ── Dismiss / Applied ── */
+  /* ── Apply / Applied ── */
   .item-actions { display: flex; align-items: center; gap: 12px; margin-top: 4px; }
-  .dismiss-btn { background: none; border: 1px solid #C8BAAE; color: #B0A090; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 3px; cursor: pointer; letter-spacing: 0.04em; transition: all 0.15s; }
-  .dismiss-btn:hover { border-color: #5BADA0; color: #5BADA0; }
+  .apply-btn { background: none; border: 1px solid #1E3F6B; color: #1E3F6B; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 3px; cursor: pointer; letter-spacing: 0.04em; transition: all 0.15s; }
+  .apply-btn:hover { background: #1E3F6B; color: #fff; }
+  .apply-btn.applied { border-color: #C8BAAE; color: #9A8878; background: none; cursor: default; }
+  .apply-btn.applied:hover { background: none; color: #9A8878; }
 
   /* ── Responsive ── */
   @media (max-width: 720px) {
@@ -75,9 +77,10 @@
     <p class="masthead-eyebrow">Daily income scan</p>
     <h1 class="masthead-title">The Morning Pull</h1>
     <div class="masthead-meta">
-      <span>Saturday, May 9</span>
+      <span>Monday, May 11</span>
       <span>Hermosa Beach, CA</span>
-      <span>Generated 9:01 PM PT</span>
+      <span>Generated 1:01 PM PT</span>
+      
     </div>
   </div>
   <div class="rule"></div>
@@ -91,23 +94,21 @@
 
   <div class="body-grid">
     <div class="col">
-      <div class="col-section"><p class="col-section-name">Central Casting</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Everyset</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Project Casting</p><p class="empty-state">Nothing new today.</p></div>
+      <div class="col-section"><p class="col-section-name">Central Casting</p><p class="empty-state">No current posts.</p></div><div class="col-section"><p class="col-section-name">Everyset</p><p class="empty-state">Nothing new today (May 11).</p></div><div class="col-section"><p class="col-section-name">Project Casting</p><p class="empty-state">Nothing new today (May 11).</p></div>
     </div>
     <div class="col-div"></div>
     <div class="col">
-      <div class="col-section"><p class="col-section-name">Respondent</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">UserInterviews</p><p class="empty-state">Scan error: page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to &quot;https://www.us</p></div><div class="col-section"><p class="col-section-name">Contra</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Aquent</p><p class="empty-state">Nothing new today.</p></div>
+      <div class="col-section"><p class="col-section-name">Respondent</p><p class="empty-state">Nothing new today (May 11).</p></div><div class="col-section"><p class="col-section-name">UserInterviews</p><p class="empty-state">Scan error: page.goto: Timeout 30000ms exceeded. Call log: - navigating to &quot;https://www.u...</p></div><div class="col-section"><p class="col-section-name">Aquent</p><p class="empty-state">Nothing new today (May 11).</p></div>
     </div>
     <div class="col-div"></div>
     <div class="col">
-      <div class="col-section"><p class="col-section-name">LinkedIn</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">Indeed</p><p class="empty-state">Nothing new today.</p></div><div class="col-section"><p class="col-section-name">eBay / Marketplace</p><div class="item" data-id="4dcc38cdfa9d">
+      <div class="col-section"><p class="col-section-name">LinkedIn</p><p class="empty-state">Nothing new today (May 11).</p></div><div class="col-section"><p class="col-section-name">Indeed</p><p class="empty-state">Nothing new today (May 11).</p></div><div class="col-section"><p class="col-section-name">eBay / Marketplace</p><div class="item" data-id="4dcc38cdfa9d">
       <p class="item-title">New sale activity detected</p>
       
       
       <div class="item-actions">
         <a class="item-link" href="https://www.ebay.com/sh/sold" target="_blank">View &rarr;</a>
-        <button class="dismiss-btn" onclick="dismissItem('4dcc38cdfa9d')">Applied</button>
+        <button class="apply-btn" data-id="4dcc38cdfa9d" onclick="markApplied('4dcc38cdfa9d')">Apply</button>
       </div>
     </div></div>
     </div>
@@ -115,25 +116,30 @@ Call log:
 
 </div>
 <script>
-  const STORAGE_KEY = 'morning-pull-dismissed';
+  const STORAGE_KEY = 'morning-pull-applied';
 
-  function getDismissed() {
+  function getApplied() {
     try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
     catch { return []; }
   }
 
-  function dismissItem(id) {
-    const dismissed = getDismissed();
-    if (!dismissed.includes(id)) dismissed.push(id);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(dismissed));
-    document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+  function markApplied(id) {
+    const applied = getApplied();
+    if (!applied.includes(id)) applied.push(id);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(applied));
+    document.querySelectorAll('.apply-btn[data-id="' + id + '"]').forEach(btn => {
+      btn.textContent = 'Applied';
+      btn.classList.add('applied');
+    });
   }
 
-  // On load, hide anything already dismissed
   document.addEventListener('DOMContentLoaded', function() {
-    const dismissed = getDismissed();
-    dismissed.forEach(id => {
-      document.querySelectorAll('[data-id="' + id + '"]').forEach(el => el.remove());
+    const applied = getApplied();
+    applied.forEach(id => {
+      document.querySelectorAll('.apply-btn[data-id="' + id + '"]').forEach(btn => {
+        btn.textContent = 'Applied';
+        btn.classList.add('applied');
+      });
     });
   });
 </script>
