@@ -14,8 +14,9 @@ Add each one at:
 | `RESPONDENT_SESSION_COOKIE`   | cookie   | **Required for production.** Respondent put Google reCAPTCHA Enterprise on the login form, so email/password cannot work from GitHub Actions IPs. Grab via "How to grab a session cookie" below against `app.respondent.io`. |
 | `RESPONDENT_EMAIL`            | password | Optional. Used only locally; the cron runner can't get past the captcha. Leave set if you already added it. |
 | `RESPONDENT_PASS`             | password | Optional. Same as above.                             |
-| `USERINTERVIEWS_EMAIL`        | password | The email you sign into userinterviews.com with      |
-| `USERINTERVIEWS_PASS`         | password | Password for that account                            |
+| `USERINTERVIEWS_SESSION_COOKIE`| cookie  | **Recommended** if your UserInterviews account uses Google SSO (no password set) or if the password login keeps bouncing to OAuth. Grab against `www.userinterviews.com`. |
+| `USERINTERVIEWS_EMAIL`        | password | Optional, used only when no cookie is set. Won't work for Google-SSO-only accounts. |
+| `USERINTERVIEWS_PASS`         | password | Optional, same as above.                             |
 | `EBAY_SESSION_COOKIE`         | cookie   | See "How to grab a session cookie" below             |
 | `FB_SESSION_COOKIE`           | cookie   | Optional — FB Marketplace ships as a stub; only fill if you want to revisit it |
 
@@ -37,9 +38,10 @@ will not break any other platform.
 7. Paste that whole string as the value of `EBAY_SESSION_COOKIE` in
    GitHub Actions secrets.
 
-Same procedure for `FB_SESSION_COOKIE` against `https://www.facebook.com`,
-if you decide to enable it. Same procedure for `RESPONDENT_SESSION_COOKIE`
-against `https://app.respondent.io` after you sign in there.
+Same procedure for the other cookie secrets:
+- `RESPONDENT_SESSION_COOKIE` against `https://app.respondent.io` after signing in
+- `USERINTERVIEWS_SESSION_COOKIE` against `https://www.userinterviews.com` after signing in
+- `FB_SESSION_COOKIE` against `https://www.facebook.com`, if you decide to enable it
 
 ## When to refresh
 

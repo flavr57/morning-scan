@@ -169,8 +169,12 @@ def _collect_cards(page):
 def _login(page, email, password):
     # UserInterviews moved their participant login flow in 2026:
     # /sign_in is now 404. /signin shows a role-picker. /accounts/signin
-    # is the actual form page with account_session[email] /
-    # account_session[password] field names.
+    # is the actual form page. That page has TWO forms stacked - the
+    # first is Google SSO (form action=/auth/google), the second is
+    # the password form (form action=/accounts/signin). A generic
+    # button[type='submit'] click hits the Google form and bounces the
+    # user to accounts.google.com, so the submit selector must be
+    # scoped to the password form.
     page.goto(LOGIN_URL, wait_until="domcontentloaded", timeout=45000)
     page.wait_for_timeout(2500)
 
@@ -186,7 +190,10 @@ def _login(page, email, password):
         "input[name='user[password]'], "
         "input[type='password']"
     )
-    submit_sel = "button[type='submit'], input[type='submit']"
+    submit_sel = (
+        "form[action='/accounts/signin'] button[type='submit'], "
+        "form.Form:not(.AuthenticateWithGoogle) button[type='submit']"
+    )
 
     try:
         page.fill(email_sel, email)
@@ -204,7 +211,16 @@ def _login(page, email, password):
     except Exception:
         pass
 
-    # Still on any signin variant means login failed (blocked, bad creds, 2FA).
+    # Landing on Google OAuth means we clicked the Google form (shouldn't
+    # happen now that the selector is scoped), or the password form
+    # itself redirected. Either way, we don't have a session.
+    if "accounts.google.com" in current_url:
+        _log(
+            "UserInterviews login bounced to Google OAuth. The account "
+            "may be Google-SSO-only; consider switching to a session "
+            "cookie via USERINTERVIEWS_SESSION_COOKIE."
+        )
+        return False
     if "signin" in current_url or "sign_in" in current_url:
         _log(f"UserInterviews login appears to have failed (still at {current_url})")
         return False
@@ -239,12 +255,36 @@ def _open_studies(page):
     return None
 
 
+def _parse_cookie_header(s, domain):
+    """Parse 'name=value; name2=value2' into Playwright's cookie shape."""
+    out = []
+    for pair in s.split(";"):
+        pair = pair.strip()
+        if not pair or "=" not in pair:
+            continue
+        name, value = pair.split("=", 1)
+        out.append({
+            "name": name.strip(),
+            "value": value.strip(),
+            "domain": domain,
+            "path": "/",
+        })
+    return out
+
+
 def scrape():
-    """Authenticate and scrape UserInterviews studies. Returns list[dict]."""
+    """Authenticate and scrape UserInterviews studies. Returns list[dict].
+
+    Auth priority: USERINTERVIEWS_SESSION_COOKIE first (preferred when
+    the account is Google-SSO-only or when password login keeps bouncing
+    to OAuth). USERINTERVIEWS_EMAIL + USERINTERVIEWS_PASS as a fallback.
+    """
+    cookie = os.environ.get("USERINTERVIEWS_SESSION_COOKIE", "").strip()
     email = os.environ.get("USERINTERVIEWS_EMAIL", "")
     password = os.environ.get("USERINTERVIEWS_PASS", "")
-    if not email or not password:
-        _log("creds not set; skipping")
+
+    if not cookie and not (email and password):
+        _log("no auth available; skipping")
         return []
 
     try:
@@ -259,7 +299,17 @@ def scrape():
         context = browser.new_context()
         page = context.new_page()
         try:
-            if not _login(page, email, password):
+            if cookie:
+                cookies = _parse_cookie_header(cookie, ".userinterviews.com")
+                if not cookies:
+                    _log("cookie header parsed to zero pairs")
+                    return []
+                try:
+                    context.add_cookies(cookies)
+                except Exception as e:
+                    _log(f"add_cookies failed: {type(e).__name__}: {e}")
+                    return []
+            elif not _login(page, email, password):
                 return []
 
             landed = _open_studies(page)

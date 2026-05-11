@@ -284,7 +284,10 @@ def _login_and_collect(playwright, email, password):
         page = context.new_page()
 
         try:
-            page.goto(LOGIN_URL, wait_until="networkidle", timeout=20000)
+            # Use domcontentloaded, not networkidle: the reCAPTCHA
+            # Enterprise iframes keep network activity open indefinitely
+            # and would otherwise time out before we can fill the form.
+            page.goto(LOGIN_URL, wait_until="domcontentloaded", timeout=30000)
         except Exception as e:
             print(
                 f"Respondent login page load failed: {type(e).__name__}: {e}",
@@ -292,7 +295,7 @@ def _login_and_collect(playwright, email, password):
             )
             return []
 
-        page.wait_for_timeout(2000)
+        page.wait_for_timeout(3000)
 
         try:
             page.fill("input[type='email'], input[name='email']", email)
