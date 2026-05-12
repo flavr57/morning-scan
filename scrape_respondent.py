@@ -208,7 +208,7 @@ def _collect_with_cookie(playwright, cookie_header):
         page = context.new_page()
 
         try:
-            page.goto(STUDIES_URL, wait_until="networkidle", timeout=30000)
+            page.goto(STUDIES_URL, wait_until="domcontentloaded", timeout=30000)
         except Exception as e:
             print(
                 f"Respondent studies page load failed: "
@@ -216,7 +216,8 @@ def _collect_with_cookie(playwright, cookie_header):
                 file=sys.stderr,
             )
             return []
-        page.wait_for_timeout(3000)
+        # Give the SPA time to render after DOMContentLoaded fires.
+        page.wait_for_timeout(6000)
 
         current_url = ""
         try:
