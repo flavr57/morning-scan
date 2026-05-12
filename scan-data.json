@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T20:33:42.079355+00:00",
+  "generated": "2026-05-12T15:39:47.324913+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -13,6 +13,30 @@
       "source": "Alessi Hartigan Casting Los Angeles",
       "short_description": "A feature film production is now casting SAG-AFTRA members to portray MMA gym patrons in scenes filming in downtown Los Angeles.",
       "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$1000/Day \u201cHidden in the Woods\u201d Open Casting Call",
+      "link": "https://projectcasting.com/job/1000-day-hidden-in-the-woods-open-casting-call",
+      "alert": true,
+      "pay": "$1000",
+      "location": "Los Angeles, CA",
+      "date": "May 11, 2026",
+      "source": "Agencia BarbarellaCasting",
+      "short_description": "A new vertical series titled Hidden in the Woods is now casting men and women for an upcoming production in Los Angeles, California.",
+      "production_type": "Vertical Series"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "DOMA LA Style \u2013 Influencers",
+      "link": "https://projectcasting.com/job/doma-la-style-influencers",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 11, 2026",
+      "source": "DOM LA Style",
+      "short_description": "A growing brand is now seeking influencers and digital content creators for an upcoming collaboration campaign. This opportunity is ideal for social media personalities, lifestyle creators, fitness...",
+      "production_type": "Modeling"
     },
     {
       "platform": "Project Casting",
@@ -51,43 +75,40 @@
       "production_type": "TV & Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "Stunt Performer Casting Call for Motorcycle Scene",
-      "link": "https://projectcasting.com/job/stunt-performer-casting-call-for-motorcycle-scene",
-      "alert": true,
-      "pay": "$",
+      "platform": "LinkedIn",
+      "title": "Creative Director - 33 USA Inc.",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-33-usa-inc-4413237664",
+      "alert": false,
       "location": "Los Angeles, CA",
-      "date": "May 8, 2026",
-      "source": "Carl Smith Productions",
-      "short_description": "A production filming in Hollywood is now casting a stunt performer to double for a 23-year-old actor in a short motorcycle scene.",
-      "production_type": "Short Film"
+      "date": "11 hours ago",
+      "source": "33 USA Inc."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director (Brand&Visual Identity) - Z Gallerie",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-visual-identity-at-z-gallerie-4385188930",
+      "title": "Senior Creative Director - lululemon",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-lululemon-4413163038",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Santa Monica, CA",
       "date": "17 hours ago",
-      "source": "Z Gallerie"
+      "source": "lululemon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director- Marvel Games - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/art-director-marvel-games-at-the-walt-disney-company-4412649161",
+      "title": "Senior Art Director - WC+A",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-wc%2Ba-4410110085",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "14 hours ago",
-      "source": "The Walt Disney Company"
+      "location": "Culver City, CA",
+      "date": "15 hours ago",
+      "source": "WC+A"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Sparks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-sparks-4382173659",
+      "title": "Art Director [210047] - Aquent",
+      "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4413182143",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Sparks"
+      "location": "Glendale, CA",
+      "date": "16 hours ago",
+      "source": "Aquent"
     },
     {
       "platform": "LinkedIn",
@@ -95,8 +116,26 @@
       "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-whatnot-4363467338",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
+      "date": "23 hours ago",
       "source": "Whatnot"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Director of Brand & Creative - Proper Hospitality",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-of-brand-creative-at-proper-hospitality-4413500920",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "11 hours ago",
+      "source": "Proper Hospitality"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Infotree Global Solutions",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-infotree-global-solutions-4413573525",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "58 minutes ago",
+      "source": "Infotree Global Solutions"
     },
     {
       "platform": "LinkedIn",
@@ -104,17 +143,26 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
       "alert": false,
       "location": "Universal City, CA",
-      "date": "9 hours ago",
+      "date": "17 hours ago",
       "source": "NBCUniversal"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Communications & Awards - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/director-communications-awards-at-the-walt-disney-company-4412646205",
+      "title": "Associate Creative Director, Copy - Invisible Dynamics",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-invisible-dynamics-4413550519",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "14 hours ago",
-      "source": "The Walt Disney Company"
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "Invisible Dynamics"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Creative Director - myGwork - LGBTQ+ Business Community",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-mygwork-lgbtq%2B-business-community-4410171392",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "1 hour ago",
+      "source": "myGwork - LGBTQ+ Business Community"
     },
     {
       "platform": "LinkedIn",
@@ -122,7 +170,7 @@
       "link": "https://www.linkedin.com/jobs/view/art-director-at-american-jewish-committee-ajc-4412971060",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "28 minutes ago",
+      "date": "19 hours ago",
       "source": "American Jewish Committee (AJC)"
     },
     {
@@ -131,26 +179,8 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-lifecycle-organic-growth-at-jerry-4413140138",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
+      "date": "20 hours ago",
       "source": "Jerry"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Director, Strategic Communications - The Lede Company",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-communications-at-the-lede-company-4412900161",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "6 hours ago",
-      "source": "The Lede Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Office Director - Architecture and Design - Cuningham",
-      "link": "https://www.linkedin.com/jobs/view/office-director-architecture-and-design-at-cuningham-4189684695",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Cuningham"
     },
     {
       "platform": "LinkedIn",
@@ -158,7 +188,7 @@
       "link": "https://www.linkedin.com/jobs/view/sr-product-designer-at-jerry-4413131380",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
+      "date": "20 hours ago",
       "source": "Jerry"
     },
     {
@@ -167,8 +197,17 @@
       "link": "https://www.linkedin.com/jobs/view/freelance-digital-designer-at-part-4-4412956617",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "27 minutes ago",
+      "date": "19 hours ago",
       "source": "Part 4"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Apparel Designer - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/apparel-designer-at-24-seven-talent-4413149780",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "24 Seven Talent"
     },
     {
       "platform": "LinkedIn",
@@ -176,8 +215,53 @@
       "link": "https://www.linkedin.com/jobs/view/associate-apparel-designer-at-sovereign-code-4413140346",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "49 minutes ago",
+      "date": "19 hours ago",
       "source": "SOVEREIGN CODE"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Freelance- Denim Designer - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/freelance-denim-designer-at-24-seven-talent-4413201800",
+      "alert": false,
+      "location": "Vernon, CA",
+      "date": "14 hours ago",
+      "source": "24 Seven Talent"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Graphic Designer, Infographics - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/graphic-designer-infographics-at-24-seven-talent-4413168878",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "16 hours ago",
+      "source": "24 Seven Talent"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Production Designer - LA - Lindeman & Associates",
+      "link": "https://www.linkedin.com/jobs/view/production-designer-at-la-lindeman-associates-4413243044",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "13 hours ago",
+      "source": "LA - Lindeman & Associates"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "3D Visual Designer - Mathys+Potestio / The Creative Party\u00ae",
+      "link": "https://www.linkedin.com/jobs/view/3d-visual-designer-at-mathys%2Bpotestio-the-creative-party%C2%AE-4413160617",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "16 hours ago",
+      "source": "Mathys+Potestio / The Creative Party\u00ae"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Data Visualization - Mathys+Potestio / The Creative Party\u00ae",
+      "link": "https://www.linkedin.com/jobs/view/art-director-data-visualization-at-mathys%2Bpotestio-the-creative-party%C2%AE-4413260642",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "9 hours ago",
+      "source": "Mathys+Potestio / The Creative Party\u00ae"
     },
     {
       "platform": "LinkedIn",
@@ -185,8 +269,31 @@
       "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-lifecycle-and-organic-growth-at-jerry-4413122954",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
+      "date": "20 hours ago",
       "source": "Jerry"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Data Visualization - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/art-director-data-visualization-at-24-seven-talent-4413205609",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "14 hours ago",
+      "source": "24 Seven Talent"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "ROAD BIKES!",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/1cfwgbrsc7bnj2ucnin1ecmfqrpoun",
+      "alert": false,
+      "date": "May 11, 2026"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "LOOKING FOR WELL BEHAVED DOGS!",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/looking-for-well-behaved-dogs",
+      "alert": false,
+      "date": "May 11, 2026"
     },
     {
       "platform": "Central Casting",
@@ -196,18 +303,11 @@
       "date": "May 08, 2026"
     },
     {
-      "platform": "Central Casting",
-      "title": "LANCASTER LOCAL w/ Car",
-      "link": "https://blog.centralcasting.com/jobs-la/2026/lancaster-local-w-car",
-      "alert": false,
-      "date": "May 07, 2026"
-    },
-    {
-      "platform": "Central Casting",
-      "title": "SCUBA DIVER",
-      "link": "https://blog.centralcasting.com/jobs-la/2026/scuba-diver",
-      "alert": false,
-      "date": "April 22, 2026"
+      "platform": "Everyset",
+      "title": "Chase's Wife",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -236,12 +336,6 @@
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Upscale Neighbor",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
     },
     {
       "platform": "Everyset",
@@ -370,20 +464,6 @@
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Senior Designer",
-      "link": "https://aquent.com/find-work/210001",
-      "alert": false,
-      "date": "Posted May 8, 2026"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Graphic Designer",
-      "link": "https://aquent.com/find-work/209996",
-      "alert": false,
-      "date": "Posted May 8, 2026"
     }
   ],
   "errors": {},
@@ -394,11 +474,11 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "LinkedIn": {
       "status": "ok",
-      "count": 14
+      "count": 23
     },
     "Central Casting": {
       "status": "ok",
@@ -410,7 +490,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 2
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
