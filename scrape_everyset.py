@@ -258,7 +258,7 @@ def scrape():
     """
     listings = fetch_listings()
     matched = [L for L in listings if passes_filter(L)[0]]
-    return [to_scan_item(L) for L in matched]
+    return [to_scan_item(L) for L in matched][:10]
 
 
 # ── Main ─────────────────────────────────────────────────────────────────

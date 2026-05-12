@@ -429,7 +429,7 @@ def scrape():
         )
         return []
 
-    return [to_scan_item(c) for c in cards]
+    return [to_scan_item(c) for c in cards][:10]
 
 
 def main():

@@ -183,7 +183,7 @@ def scrape():
     Applies the title include/exclude filter. Returns kept items only.
     """
     raw = _scrape_raw()
-    return [it for it in raw if _filter_decision(it["title"])[0]]
+    return [it for it in raw if _filter_decision(it["title"])[0]][:10]
 
 
 def main():

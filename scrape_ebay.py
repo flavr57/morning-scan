@@ -152,7 +152,7 @@ def scrape_sold(page) -> list[dict]:
 
     if not items:
         print("eBay Sold: no rows matched any selector", file=sys.stderr)
-    return items
+    return items[:10]
 
 
 def scrape_messages(page) -> list[dict]:
@@ -260,7 +260,7 @@ def scrape_messages(page) -> list[dict]:
 
     if not items:
         print("eBay Messages: no rows matched any selector", file=sys.stderr)
-    return items
+    return items[:10]
 
 
 def scrape() -> list[dict]:

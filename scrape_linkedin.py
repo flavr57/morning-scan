@@ -143,7 +143,7 @@ def scrape():
     if not items and len(errors) == len(SEARCHES) and errors:
         raise errors[-1]
 
-    return items
+    return items[:10]
 
 
 def main():

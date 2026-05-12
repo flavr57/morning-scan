@@ -361,7 +361,7 @@ def scrape():
             except Exception:
                 pass
 
-    return items
+    return items[:10]
 
 
 def main():
