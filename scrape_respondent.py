@@ -35,7 +35,13 @@ import sys
 from urllib.parse import urljoin
 
 LOGIN_URL = "https://app.respondent.io/login"
-STUDIES_URL = "https://app.respondent.io/respondents/v2/projects"
+# Respondent rolled out a new SPA at /next/participants/projects in 2026;
+# the old /respondents/v2/projects URL is now a near-empty nav page.
+# eligible=true filters to projects Jason actually qualifies for.
+STUDIES_URL = (
+    "https://app.respondent.io/next/participants/projects"
+    "?sort=publishedAt&eligible=true"
+)
 BASE_URL = "https://app.respondent.io"
 PLATFORM = "Respondent"
 
@@ -45,6 +51,7 @@ USER_AGENT = (
 )
 
 CARD_SELECTORS = [
+    "a[href*='/next/participants/projects/']",
     "[class*='ProjectCard']",
     "[class*='project-card']",
     "[class*='StudyCard']",
@@ -53,7 +60,7 @@ CARD_SELECTORS = [
     "article",
 ]
 
-TITLE_SELECTORS = ["h2", "h3", "[class*='title']", "[class*='Title']", "a"]
+TITLE_SELECTORS = ["h3", "h2", "[class*='title']", "[class*='Title']", "a"]
 
 PAY_RE = re.compile(r"\$\d+(?:\.\d+)?")
 DURATION_RE = re.compile(
@@ -89,9 +96,15 @@ def _extract_card_data(card):
             continue
 
     try:
-        link_el = card.locator("a[href]").first
-        if link_el.count() > 0:
-            href = link_el.get_attribute("href", timeout=1500) or ""
+        # The new SPA wraps each card in an <a> element directly, so try
+        # reading href off the card itself before falling back to a
+        # descendant anchor.
+        href = card.get_attribute("href", timeout=1500) or ""
+        if not href:
+            link_el = card.locator("a[href]").first
+            if link_el.count() > 0:
+                href = link_el.get_attribute("href", timeout=1500) or ""
+        if href:
             link = _absolute_link(href)
     except Exception:
         link = ""
