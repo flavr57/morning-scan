@@ -27,6 +27,8 @@ PLATFORM = "UserInterviews"
 BASE = "https://www.userinterviews.com"
 
 CARD_SELECTORS = [
+    "section.ProjectListing",
+    "[class*='ProjectListing']",
     "[class*='StudyCard']",
     "[class*='study-card']",
     "[class*='ProjectCard']",
@@ -34,7 +36,14 @@ CARD_SELECTORS = [
     "article",
 ]
 
-TITLE_SELECTORS = ["h2", "h3", "[class*='title']", "[class*='Title']"]
+TITLE_SELECTORS = [
+    "h2.ProjectListing__title",
+    "[class*='ProjectListing__title']",
+    "h2",
+    "h3",
+    "[class*='title']",
+    "[class*='Title']",
+]
 
 PAY_RE = re.compile(r"\$\d+(?:\.\d+)?")
 DURATION_RE = re.compile(r"\d+\s*(?:min|minute|minutes|hour|hours)", re.IGNORECASE)
