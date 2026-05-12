@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T17:24:42.303224+00:00",
+  "generated": "2026-05-12T17:32:58.191874+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -107,7 +107,7 @@
       "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4413182143",
       "alert": false,
       "location": "Glendale, CA",
-      "date": "17 hours ago",
+      "date": "18 hours ago",
       "source": "Aquent"
     },
     {
@@ -125,7 +125,7 @@
       "link": "https://www.linkedin.com/jobs/view/sr-director-of-brand-creative-at-proper-hospitality-4413500920",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
+      "date": "13 hours ago",
       "source": "Proper Hospitality"
     },
     {
@@ -143,7 +143,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-invisible-dynamics-4413550519",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "5 hours ago",
+      "date": "6 hours ago",
       "source": "Invisible Dynamics"
     },
     {
@@ -170,7 +170,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-lifecycle-organic-growth-at-jerry-4413140138",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
+      "date": "22 hours ago",
       "source": "Jerry"
     },
     {
@@ -179,7 +179,7 @@
       "link": "https://www.linkedin.com/jobs/view/sr-product-designer-at-jerry-4413131380",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
+      "date": "22 hours ago",
       "source": "Jerry"
     },
     {
@@ -197,7 +197,7 @@
       "link": "https://www.linkedin.com/jobs/view/apparel-designer-at-24-seven-talent-4413149780",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "19 hours ago",
+      "date": "20 hours ago",
       "source": "24 Seven Talent"
     },
     {
@@ -251,7 +251,7 @@
       "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-lifecycle-and-organic-growth-at-jerry-4413122954",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
+      "date": "22 hours ago",
       "source": "Jerry"
     },
     {
@@ -453,6 +453,12 @@
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Cookie Policy",
+      "link": "https://www.respondent.io/privacy-policy",
+      "alert": false
     }
   ],
   "errors": {},
@@ -487,7 +493,7 @@
     },
     "Respondent": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "UserInterviews": {
       "status": "ok",
