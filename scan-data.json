@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T17:32:58.191874+00:00",
+  "generated": "2026-05-12T17:42:04.270843+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -13,6 +13,41 @@
       "source": "Alessi Hartigan Casting Los Angeles",
       "short_description": "A feature film production is now casting SAG-AFTRA members to portray MMA gym patrons in scenes filming in downtown Los Angeles.",
       "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "AHF VIP MODEL CASTING",
+      "link": "https://projectcasting.com/job/ahf-vip-model-casting",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "May 12, 2026",
+      "source": "Art Hearts Fashion",
+      "short_description": "Art Hearts Fashion is hosting an exclusive VIP model casting experience in Beverly Hills for upcoming Fashion Week and Swim Week productions around the world.",
+      "production_type": "Fashion Show"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Student Film Casting Call for Drama Scene Recreation",
+      "link": "https://projectcasting.com/job/student-film-casting-call-for-drama-scene-recreation",
+      "alert": true,
+      "location": "California",
+      "date": "May 12, 2026",
+      "source": "Santa Monica College",
+      "short_description": "A Santa Monica College student film production is now casting actors for Baby Boy , a dramatic scene recreation exploring themes of love, insecurity, emotional vulnerability, and control.",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Dog Owners Casting Call for Digital Series",
+      "link": "https://projectcasting.com/job/dog-owners-casting-call-for-digital-series",
+      "alert": true,
+      "pay": "$$$",
+      "location": "Los Angeles, CA",
+      "date": "May 12, 2026",
+      "source": "One Hot Mile Productions",
+      "short_description": "A brand-new digital transformation series is now casting dog owners in the Los Angeles area who are experiencing everyday challenges with their pets.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
@@ -37,42 +72,6 @@
       "source": "DOM LA Style",
       "short_description": "A growing brand is now seeking influencers and digital content creators for an upcoming collaboration campaign. This opportunity is ideal for social media personalities, lifestyle creators, fitness...",
       "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Videographer Casting Call for Creative Content",
-      "link": "https://projectcasting.com/job/videographer-casting-call-for-creative-content",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "May 11, 2026",
-      "source": "Matsu Media",
-      "short_description": "Matsu Media is seeking a talented Freelance Videographer to support the company\u2019s expansion from Japan into the United States.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Audio Technician Casting Call for Short Film",
-      "link": "https://projectcasting.com/job/audio-technician-casting-call-for-short-film",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "May 11, 2026",
-      "source": "Sweet Dee Productions",
-      "short_description": "A production team is seeking an experienced Audio Technician for the micro-budget short film High Sidity . The project will film in the San Fernando Valley and focuses on a dramatic family-centered...",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "L.A. Now Casting: Attractive/Fit/Muscular Men",
-      "link": "https://projectcasting.com/job/l-a-now-casting-attractive-fit-muscular-men",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "May 8, 2026",
-      "source": "Paul D Head",
-      "short_description": "A major cable network is now casting attractive, fit, and muscular men in Los Angeles for a fun social experiment competition series.",
-      "production_type": "TV & Video"
     },
     {
       "platform": "LinkedIn",
@@ -116,7 +115,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-infotree-global-solutions-4413573525",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "2 hours ago",
+      "date": "3 hours ago",
       "source": "Infotree Global Solutions"
     },
     {
@@ -134,7 +133,7 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
       "alert": false,
       "location": "Universal City, CA",
-      "date": "18 hours ago",
+      "date": "19 hours ago",
       "source": "NBCUniversal"
     },
     {
@@ -456,9 +455,163 @@
     },
     {
       "platform": "Respondent",
-      "title": "Cookie Policy",
-      "link": "https://www.respondent.io/privacy-policy",
-      "alert": false
+      "title": "Automate Multifamily Asset Management With AI",
+      "link": "https://app.respondent.io/next/participants/projects/6a035d97c93e2e7aa961f889",
+      "alert": true,
+      "pay": "$50",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Stragetigic Procurement Professionals",
+      "link": "https://app.respondent.io/next/participants/projects/6a03519be7ac41b1ed9454f7",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking School and District Administrators",
+      "link": "https://app.respondent.io/next/participants/projects/6a03259019d51fa68b363d49",
+      "alert": false,
+      "pay": "$80",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Managers and Business Owners: Dashboard Usage Feedback",
+      "link": "https://app.respondent.io/next/participants/projects/6a033b07e4b9497f2654ad00",
+      "alert": false,
+      "pay": "$25",
+      "duration": "15 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Help shape the future of feedback in the command line",
+      "link": "https://app.respondent.io/next/participants/projects/6a033b1ce4b9497f2654cd88",
+      "alert": true,
+      "pay": "$50",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Help shape the future of feedback in the command line",
+      "link": "https://app.respondent.io/next/participants/projects/6a0212ad22de60b98fec01f5",
+      "alert": true,
+      "pay": "$50",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "AI agent builder \u2014 60-minute feedback session",
+      "link": "https://app.respondent.io/next/participants/projects/6a02e14134fb7e87e75a637e",
+      "alert": true,
+      "pay": "$125",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "20302 Procurement DMs",
+      "link": "https://app.respondent.io/next/participants/projects/6a03229141d28d2413c59f39",
+      "alert": true,
+      "pay": "$250",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Men's Grooming and Skincare Habits Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a0317155dd20e86f42088fc",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Trellix Users General Discussion",
+      "link": "https://app.respondent.io/next/participants/projects/6a02eccb49dbc75394ae4fc4",
+      "alert": true,
+      "pay": "$120",
+      "duration": "75 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Calling AI Agent Creators: Share Your Experience!",
+      "link": "https://app.respondent.io/next/participants/projects/6a02e0284a4bb7f589d6f899",
+      "alert": true,
+      "pay": "$125",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Finance Team Members: Remote Interview Opportunity",
+      "link": "https://app.respondent.io/next/participants/projects/6a02d0ec6ce1e030cbc39284",
+      "alert": true,
+      "pay": "$200",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Ambulatory Surgery Centers: GI Endoscope Reprocessing Workflow Study",
+      "link": "https://app.respondent.io/next/participants/projects/69fa77dba38450ed8ef4cd40",
+      "alert": true,
+      "pay": "$125",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Quick 15-min store visit = earn \ud83d\udcb5",
+      "link": "https://app.respondent.io/next/participants/projects/6a02a369e4b9497f2645c66d",
+      "alert": false,
+      "pay": "$20",
+      "duration": "15 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Cloud Professionals Wanted: Research Study on Cloud Management and AI Tools",
+      "link": "https://app.respondent.io/next/participants/projects/6a024be15dd20e86f4c30f47",
+      "alert": true,
+      "pay": "$180",
+      "duration": "90 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Consumer Insights Study: Exploring New Brand Concepts",
+      "link": "https://app.respondent.io/next/participants/projects/6a0275936ce1e030cb3bc1eb",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Marketing & Ad Pros Wanted: Quick 30-Min Chat About Online Ads",
+      "link": "https://app.respondent.io/next/participants/projects/6a0262196ce1e030cb1342d4",
+      "alert": true,
+      "pay": "$150",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Procurement Professionals",
+      "link": "https://app.respondent.io/next/participants/projects/6a0246f343398309aa6b7ddd",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Marketing & Ad Professionals: Share Your Experience with Advertising Platforms",
+      "link": "https://app.respondent.io/next/participants/projects/6a02556f1969627210afa6a0",
+      "alert": true,
+      "pay": "$150",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Pulse check",
+      "link": "https://app.respondent.io/next/participants/projects/6a02454941d28d24134c1f1a",
+      "alert": false,
+      "pay": "$25",
+      "duration": "20 min"
     }
   ],
   "errors": {},
@@ -493,7 +646,7 @@
     },
     "Respondent": {
       "status": "ok",
-      "count": 1
+      "count": 20
     },
     "UserInterviews": {
       "status": "ok",
