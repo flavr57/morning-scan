@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T18:09:13.705289+00:00",
+  "generated": "2026-05-12T18:28:07.342657+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -13,6 +13,18 @@
       "source": "Alessi Hartigan Casting Los Angeles",
       "short_description": "A feature film production is now casting SAG-AFTRA members to portray MMA gym patrons in scenes filming in downtown Los Angeles.",
       "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "FOX World Cup 2026 After Hours Open Casting Call",
+      "link": "https://projectcasting.com/job/fox-world-cup-2026-after-hours-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 12, 2026",
+      "source": "Jennifer Louise Casting",
+      "short_description": "A FIFA World Cup 2026 television project is now casting passionate soccer fans living in Los Angeles to represent countries participating in the tournament.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
@@ -106,7 +118,7 @@
       "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4413182143",
       "alert": false,
       "location": "Glendale, CA",
-      "date": "18 hours ago",
+      "date": "19 hours ago",
       "source": "Aquent"
     },
     {
@@ -138,6 +150,15 @@
     },
     {
       "platform": "LinkedIn",
+      "title": "Associate Creative Director, Copy - Invisible Dynamics",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-invisible-dynamics-4413550519",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "6 hours ago",
+      "source": "Invisible Dynamics"
+    },
+    {
+      "platform": "LinkedIn",
       "title": "Senior Creative Director - myGwork - LGBTQ+ Business Community",
       "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-mygwork-lgbtq%2B-business-community-4410171392",
       "alert": false,
@@ -153,105 +174,6 @@
       "location": "Los Angeles, CA",
       "date": "22 hours ago",
       "source": "American Jewish Committee (AJC)"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director, Lifecycle & Organic Growth - Jerry",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-lifecycle-organic-growth-at-jerry-4413140138",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Jerry"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Product Designer - Jerry",
-      "link": "https://www.linkedin.com/jobs/view/sr-product-designer-at-jerry-4413131380",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Jerry"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Freelance Digital Designer - Part 4",
-      "link": "https://www.linkedin.com/jobs/view/freelance-digital-designer-at-part-4-4412956617",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Part 4"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Apparel Designer - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/apparel-designer-at-24-seven-talent-4413149780",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Apparel Designer - SOVEREIGN CODE",
-      "link": "https://www.linkedin.com/jobs/view/associate-apparel-designer-at-sovereign-code-4413140346",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "SOVEREIGN CODE"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Freelance- Denim Designer - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/freelance-denim-designer-at-24-seven-talent-4413201800",
-      "alert": false,
-      "location": "Vernon, CA",
-      "date": "17 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Graphic Designer, Infographics - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/graphic-designer-infographics-at-24-seven-talent-4413168878",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "18 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Production Designer - LA - Lindeman & Associates",
-      "link": "https://www.linkedin.com/jobs/view/production-designer-at-la-lindeman-associates-4413243044",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "16 hours ago",
-      "source": "LA - Lindeman & Associates"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director, Data Visualization - Mathys+Potestio / The Creative Party\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/art-director-data-visualization-at-mathys%2Bpotestio-the-creative-party%C2%AE-4413260642",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "12 hours ago",
-      "source": "Mathys+Potestio / The Creative Party\u00ae"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Creative Marketing (Lifecycle and Organic Growth) - Jerry",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-lifecycle-and-organic-growth-at-jerry-4413122954",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Jerry"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director, Data Visualization - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/art-director-data-visualization-at-24-seven-talent-4413205609",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "17 hours ago",
-      "source": "24 Seven Talent"
     },
     {
       "platform": "Central Casting",
@@ -344,105 +266,12 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "JPD White Shirt",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Neighbor in Hair Rollers",
-      "link": "https://jobs.everyset.com/job-board",
+      "platform": "Respondent",
+      "title": "Cloud Data Services Experts Wanted for Brief Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a035af5e70601c2bc3c011a",
       "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Roles (BARTENDER, BAR PATRON, BADGE BUNNY, LAWYER, CIVILIAN)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Civilian / Lawyer",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Lawyer",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Shirtless Police Officer in Locker Room",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Stand-In Male Utility",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Stand-In Female Utility",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "1970's - 1980's Vehicle",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Homeless BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "MOCC/Scientist/Control Room Staff",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "RUN OF SHOW STAND IN",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "MALE & FEMALE PRISONERS",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "SWAT Team",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "OPEN CASTING CALL - AMERICAN BLUE",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "OPEN CALL BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
+      "pay": "$125",
+      "duration": "60 min"
     },
     {
       "platform": "Respondent",
@@ -517,92 +346,67 @@
       "duration": "45 min"
     },
     {
-      "platform": "Respondent",
-      "title": "Trellix Users General Discussion",
-      "link": "https://app.respondent.io/next/participants/projects/6a02eccb49dbc75394ae4fc4",
-      "alert": true,
+      "platform": "UserInterviews",
+      "title": "Learning how professionals react to a new feature",
+      "link": "https://www.userinterviews.com/projects/AN4GMDTY0Q/apply",
+      "pay": "$35",
+      "duration": "22 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Prototype Test of Tools for Cloud Services (May 2026)",
+      "link": "https://www.userinterviews.com/projects/Qh4o_ygDGA/apply",
       "pay": "$120",
-      "duration": "75 min"
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": true
     },
     {
-      "platform": "Respondent",
-      "title": "Calling AI Agent Creators: Share Your Experience!",
-      "link": "https://app.respondent.io/next/participants/projects/6a02e0284a4bb7f589d6f899",
-      "alert": true,
-      "pay": "$125",
-      "duration": "60 min"
+      "platform": "UserInterviews",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/t1-H2Ragjg/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
-      "platform": "Respondent",
-      "title": "Finance Team Members: Remote Interview Opportunity",
-      "link": "https://app.respondent.io/next/participants/projects/6a02d0ec6ce1e030cbc39284",
-      "alert": true,
-      "pay": "$200",
-      "duration": "60 min"
+      "platform": "UserInterviews",
+      "title": "Share Your Perspective on Lifestyle & Experiences",
+      "link": "https://www.userinterviews.com/projects/ZuYpkgEW8A/apply",
+      "pay": "$57",
+      "duration": "43 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
-      "platform": "Respondent",
-      "title": "Ambulatory Surgery Centers: GI Endoscope Reprocessing Workflow Study",
-      "link": "https://app.respondent.io/next/participants/projects/69fa77dba38450ed8ef4cd40",
-      "alert": true,
-      "pay": "$125",
-      "duration": "30 min"
+      "platform": "UserInterviews",
+      "title": "Come test a peptide serum with us!",
+      "link": "https://www.userinterviews.com/projects/0YgLy7b2PQ/apply",
+      "pay": "$120",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": true
     },
     {
-      "platform": "Respondent",
-      "title": "Quick 15-min store visit = earn \ud83d\udcb5",
-      "link": "https://app.respondent.io/next/participants/projects/6a02a369e4b9497f2645c66d",
-      "alert": false,
-      "pay": "$20",
-      "duration": "15 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Cloud Professionals Wanted: Research Study on Cloud Management and AI Tools",
-      "link": "https://app.respondent.io/next/participants/projects/6a024be15dd20e86f4c30f47",
-      "alert": true,
-      "pay": "$180",
-      "duration": "90 min"
-    },
-    {
-      "platform": "Respondent",
+      "platform": "UserInterviews",
       "title": "Consumer Insights Study: Exploring New Brand Concepts",
-      "link": "https://app.respondent.io/next/participants/projects/6a0275936ce1e030cb3bc1eb",
-      "alert": false,
-      "pay": "$20",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Marketing & Ad Pros Wanted: Quick 30-Min Chat About Online Ads",
-      "link": "https://app.respondent.io/next/participants/projects/6a0262196ce1e030cb1342d4",
-      "alert": true,
-      "pay": "$150",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Procurement Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a0246f343398309aa6b7ddd",
-      "alert": true,
-      "pay": "$100",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Marketing & Ad Professionals: Share Your Experience with Advertising Platforms",
-      "link": "https://app.respondent.io/next/participants/projects/6a02556f1969627210afa6a0",
-      "alert": true,
-      "pay": "$150",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Pulse check",
-      "link": "https://app.respondent.io/next/participants/projects/6a02454941d28d24134c1f1a",
-      "alert": false,
+      "link": "https://www.userinterviews.com/projects/AapRh4u_qQ/apply",
       "pay": "$25",
-      "duration": "20 min"
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Watch TV, React, Reward!",
+      "link": "https://www.userinterviews.com/projects/_7h3rv3CJA/apply",
+      "pay": "$40",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
       "platform": "UserInterviews",
@@ -630,159 +434,6 @@
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Understanding Patient Support in Healthcare: Research Study",
-      "link": "https://www.userinterviews.com/projects/KX-ESY5xkA/apply",
-      "pay": "$85",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Household Products",
-      "link": "https://www.userinterviews.com/projects/752fArFpeA/apply",
-      "pay": "$125",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Customer Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/95CjhoM6Cg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Customer Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/4v2edtUe_w/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Understanding Patient Support in Healthcare: Research Study",
-      "link": "https://www.userinterviews.com/projects/SMR88f4XFw/apply",
-      "pay": "$85",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Western United States Bank Statement Study",
-      "link": "https://www.userinterviews.com/projects/HC8Fe1JCAw/apply",
-      "pay": "$200",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative Research Study",
-      "link": "https://www.userinterviews.com/projects/ICRYxye3tg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Working on any projects? Convergent Validity - Research Study",
-      "link": "https://www.userinterviews.com/projects/M6PgEcGZ-Q/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Worked on any project recently? Data Coding - Research Study",
-      "link": "https://www.userinterviews.com/projects/8M5aFrApBg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Needs of credit risk teams in trade credit",
-      "link": "https://www.userinterviews.com/projects/ooyE-_ClzQ/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Needs of credit risk teams in trade credit",
-      "link": "https://www.userinterviews.com/projects/DHoFQu5-Uw/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Needs of credit risk teams in trade credit",
-      "link": "https://www.userinterviews.com/projects/ghc6mI8gkA/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Participa en nuestro estudio sobre tus comidas y bebidas favoritas!",
-      "link": "https://www.userinterviews.com/projects/2VSQVHzldQ/apply",
-      "pay": "$35",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Participa en nuestro estudio sobre tus comidas y bebidas favoritas. [P-30368-7/420622]",
-      "link": "https://www.userinterviews.com/projects/SUgKGVFEnQ/apply",
-      "pay": "$35",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Shaping the Future of Customer Experience",
-      "link": "https://www.userinterviews.com/projects/UMij8jfBsA/apply",
-      "pay": "$200",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Experience - Professional Tools Survey",
-      "link": "https://www.userinterviews.com/projects/Fg46mpmyTw/apply",
-      "pay": "$30",
-      "duration": "23 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Comparte tu opini\u00f3n sobre productos de cuidado personal",
-      "link": "https://www.userinterviews.com/projects/JPBQ3EZzGQ/apply",
-      "pay": "$13",
-      "duration": "27 MIN",
-      "source": "UserInterviews",
-      "alert": false
     }
   ],
   "errors": {},
@@ -793,11 +444,11 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     "Central Casting": {
       "status": "ok",
@@ -805,7 +456,7 @@
     },
     "Everyset": {
       "status": "ok",
-      "count": 26
+      "count": 10
     },
     "Aquent": {
       "status": "ok",
@@ -817,11 +468,11 @@
     },
     "Respondent": {
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     "UserInterviews": {
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     "eBay Sold": {
       "status": "ok",
