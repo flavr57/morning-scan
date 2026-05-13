@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T18:28:07.342657+00:00",
+  "generated": "2026-05-13T15:44:48.324249+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -13,6 +13,18 @@
       "source": "Alessi Hartigan Casting Los Angeles",
       "short_description": "A feature film production is now casting SAG-AFTRA members to portray MMA gym patrons in scenes filming in downtown Los Angeles.",
       "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Zack Snyder\u2019s UFC \u2018Brawlers\u2019 Movie Casting Call for Filipino Boxers",
+      "link": "https://projectcasting.com/job/zack-snyders-ufc-brawlers-movie-casting-call-for-filipino-boxers",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 12, 2026",
+      "source": "Alessi Hartigan Casting Los Angeles",
+      "short_description": "A major television series is now casting individuals of Filipino descent with real boxing experience for featured roles portraying boxers in an upcoming production filming in Los Angeles, California.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
@@ -43,137 +55,101 @@
       "title": "Student Film Casting Call for Drama Scene Recreation",
       "link": "https://projectcasting.com/job/student-film-casting-call-for-drama-scene-recreation",
       "alert": true,
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "May 12, 2026",
       "source": "Santa Monica College",
       "short_description": "A Santa Monica College student film production is now casting actors for Baby Boy , a dramatic scene recreation exploring themes of love, insecurity, emotional vulnerability, and control.",
       "production_type": "Short Film"
     },
     {
-      "platform": "Project Casting",
-      "title": "Dog Owners Casting Call for Digital Series",
-      "link": "https://projectcasting.com/job/dog-owners-casting-call-for-digital-series",
-      "alert": true,
-      "pay": "$$$",
+      "platform": "LinkedIn",
+      "title": "Art Director - Fender Musical Instruments Corporation",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-fender-musical-instruments-corporation-4413719836",
+      "alert": false,
       "location": "Los Angeles, CA",
-      "date": "May 12, 2026",
-      "source": "One Hot Mile Productions",
-      "short_description": "A brand-new digital transformation series is now casting dog owners in the Los Angeles area who are experiencing everyday challenges with their pets.",
-      "production_type": "TV & Video"
+      "date": "19 hours ago",
+      "source": "Fender Musical Instruments Corporation"
     },
     {
-      "platform": "Project Casting",
-      "title": "$1000/Day \u201cHidden in the Woods\u201d Open Casting Call",
-      "link": "https://projectcasting.com/job/1000-day-hidden-in-the-woods-open-casting-call",
-      "alert": true,
-      "pay": "$1000",
-      "location": "Los Angeles, CA",
-      "date": "May 11, 2026",
-      "source": "Agencia BarbarellaCasting",
-      "short_description": "A new vertical series titled Hidden in the Woods is now casting men and women for an upcoming production in Los Angeles, California.",
-      "production_type": "Vertical Series"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "DOMA LA Style \u2013 Influencers",
-      "link": "https://projectcasting.com/job/doma-la-style-influencers",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "May 11, 2026",
-      "source": "DOM LA Style",
-      "short_description": "A growing brand is now seeking influencers and digital content creators for an upcoming collaboration campaign. This opportunity is ideal for social media personalities, lifestyle creators, fitness...",
-      "production_type": "Modeling"
+      "platform": "LinkedIn",
+      "title": "Art Director - Saatchi US",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-saatchi-us-4410357124",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "12 hours ago",
+      "source": "Saatchi US"
     },
     {
       "platform": "LinkedIn",
       "title": "Creative Director - 33 USA Inc.",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-33-usa-inc-4413237664",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-33-usa-inc-4413712759",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "14 hours ago",
+      "location": "West Hollywood, CA",
+      "date": "20 hours ago",
       "source": "33 USA Inc."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - WC+A",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-wc%2Ba-4410177951",
+      "title": "Creative Director - OSI Engineering",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-osi-engineering-4413816666",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "18 hours ago",
-      "source": "WC+A"
+      "date": "19 hours ago",
+      "source": "OSI Engineering"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director - lululemon",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-lululemon-4413163038",
+      "title": "Creative Director - Temporary - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-temporary-at-monks-4413708507",
       "alert": false,
-      "location": "Santa Monica, CA",
+      "location": "Los Angeles, CA",
       "date": "20 hours ago",
-      "source": "lululemon"
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director [210047] - Aquent",
-      "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4413182143",
+      "title": "Motion Design Director - Haus",
+      "link": "https://www.linkedin.com/jobs/view/motion-design-director-at-haus-4413764534",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "16 hours ago",
+      "source": "Haus"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Jobs via Dice",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-jobs-via-dice-4413862201",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "12 hours ago",
+      "source": "Jobs via Dice"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Art Director [82170] - Onward Search",
+      "link": "https://www.linkedin.com/jobs/view/sr-art-director-82170-at-onward-search-4410309842",
       "alert": false,
       "location": "Glendale, CA",
-      "date": "19 hours ago",
-      "source": "Aquent"
+      "date": "17 hours ago",
+      "source": "Onward Search"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Infotree Global Solutions",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-infotree-global-solutions-4413573525",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "3 hours ago",
-      "source": "Infotree Global Solutions"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Director of Brand & Creative - Proper Hospitality",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-of-brand-creative-at-proper-hospitality-4413500920",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Proper Hospitality"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - NBCUniversal",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4379024954",
-      "alert": false,
-      "location": "Universal City, CA",
-      "date": "19 hours ago",
-      "source": "NBCUniversal"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director, Copy - Invisible Dynamics",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-invisible-dynamics-4413550519",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "Invisible Dynamics"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Creative Director - myGwork - LGBTQ+ Business Community",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-mygwork-lgbtq%2B-business-community-4410171392",
+      "title": "Senior Director, Artist & Label Services - Universal Music Group",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-artist-label-services-at-universal-music-group-4393930024",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "4 hours ago",
-      "source": "myGwork - LGBTQ+ Business Community"
+      "date": "6 hours ago",
+      "source": "Universal Music Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - American Jewish Committee (AJC)",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-american-jewish-committee-ajc-4412971060",
+      "title": "Art Director, Franchise Development - Supercell",
+      "link": "https://www.linkedin.com/jobs/view/art-director-franchise-development-at-supercell-4382524330",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "American Jewish Committee (AJC)"
+      "date": "2 hours ago",
+      "source": "Supercell"
     },
     {
       "platform": "Central Casting",
@@ -195,6 +171,27 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-we2cl-wfjby",
       "alert": false,
       "date": "May 08, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Campbell's Staff",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Smoothie Shop Patron",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Smoothie Shop Employee",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -246,192 +243,172 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Crazed Mob - Special Ability",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Masked BG - Female",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Masked BG - Male 6'1 to 6'3",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Respondent",
-      "title": "Cloud Data Services Experts Wanted for Brief Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a035af5e70601c2bc3c011a",
-      "alert": true,
-      "pay": "$125",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Automate Multifamily Asset Management With AI",
-      "link": "https://app.respondent.io/next/participants/projects/6a035d97c93e2e7aa961f889",
-      "alert": true,
-      "pay": "$50",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Stragetigic Procurement Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a03519be7ac41b1ed9454f7",
+      "title": "Work in HVAC, security, energy, or electrical systems? We'd love your input.",
+      "link": "https://app.respondent.io/next/participants/projects/6a049b1bb6199aab9e337f6e",
       "alert": true,
       "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking School and District Administrators",
-      "link": "https://app.respondent.io/next/participants/projects/6a03259019d51fa68b363d49",
-      "alert": false,
-      "pay": "$80",
+      "title": "Get Paid to Complete an App Supervision Flow! [Louisiana]",
+      "link": "https://app.respondent.io/next/participants/projects/6a0496ba1969627210fce186",
+      "alert": true,
+      "pay": "$150",
+      "duration": "4 Hours"
+    },
+    {
+      "platform": "Respondent",
+      "title": "What does your work entail?",
+      "link": "https://app.respondent.io/next/participants/projects/6a049564e7ac41b1ed11a362",
+      "alert": true,
+      "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Managers and Business Owners: Dashboard Usage Feedback",
-      "link": "https://app.respondent.io/next/participants/projects/6a033b07e4b9497f2654ad00",
+      "title": "Seeking product designers to try out an unreleased tool",
+      "link": "https://app.respondent.io/next/participants/projects/6a048910bb71be9c7ef6bbaf",
       "alert": false,
-      "pay": "$25",
+      "pay": "$40",
+      "duration": "40 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Education & Healthcare Professionals: Career Insights Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a04888fe7ac41b1edec0cc0",
+      "alert": false,
+      "pay": "$20",
       "duration": "15 min"
     },
     {
       "platform": "Respondent",
-      "title": "Help shape the future of feedback in the command line",
-      "link": "https://app.respondent.io/next/participants/projects/6a033b1ce4b9497f2654cd88",
-      "alert": true,
-      "pay": "$50",
-      "duration": "30 min"
+      "title": "Have you purchased Pavers?",
+      "link": "https://app.respondent.io/next/participants/projects/6a048c61e70601c2bc814d2d",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
     },
     {
       "platform": "Respondent",
-      "title": "Help shape the future of feedback in the command line",
-      "link": "https://app.respondent.io/next/participants/projects/6a0212ad22de60b98fec01f5",
-      "alert": true,
-      "pay": "$50",
-      "duration": "30 min"
+      "title": "Have you recently purchased concrete?",
+      "link": "https://app.respondent.io/next/participants/projects/6a048c2534fb7e87e7b9b662",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
     },
     {
       "platform": "Respondent",
-      "title": "AI agent builder \u2014 60-minute feedback session",
-      "link": "https://app.respondent.io/next/participants/projects/6a02e14134fb7e87e75a637e",
+      "title": "Are you shopping for fencing?",
+      "link": "https://app.respondent.io/next/participants/projects/6a048bbe43398309aaba5e94",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Looking for IT Admins for Small Creative Businesses for Research Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a04858422de60b98fb53d46",
       "alert": true,
-      "pay": "$125",
+      "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "20302 Procurement DMs",
-      "link": "https://app.respondent.io/next/participants/projects/6a03229141d28d2413c59f39",
+      "title": "Understanding What Explainable AI Means to IT Operators",
+      "link": "https://app.respondent.io/next/participants/projects/6a02261f5dd20e86f4676136",
       "alert": true,
-      "pay": "$250",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Men's Grooming and Skincare Habits Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a0317155dd20e86f42088fc",
-      "alert": false,
-      "pay": "$20",
-      "duration": "45 min"
+      "pay": "$100",
+      "duration": "60 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Learning how professionals react to a new feature",
-      "link": "https://www.userinterviews.com/projects/AN4GMDTY0Q/apply",
-      "pay": "$35",
-      "duration": "22 MIN",
+      "title": "Share Your Professional Experience",
+      "link": "https://www.userinterviews.com/projects/Nr1jC9L4dQ/apply",
+      "pay": "$28",
+      "duration": "21 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Prototype Test of Tools for Cloud Services (May 2026)",
-      "link": "https://www.userinterviews.com/projects/Qh4o_ygDGA/apply",
-      "pay": "$120",
+      "title": "How recruiting professionals find reporting data",
+      "link": "https://www.userinterviews.com/projects/l1Lu0TkwcQ/apply",
+      "pay": "$20",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "$125 Home Improvement IN-PERSON Focus Groups - June 4",
+      "link": "https://www.userinterviews.com/projects/N1CHp8oohA/apply",
+      "pay": "$125",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "$125 Home Improvement IN-PERSON Focus Groups - June 2",
+      "link": "https://www.userinterviews.com/projects/xMHOH7Udqg/apply",
+      "pay": "$125",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We're looking for feedback on a product we are building.",
+      "link": "https://www.userinterviews.com/projects/LqTN4ZgDJA/apply",
+      "pay": "$60",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Quote-to-cash Workflows Study",
+      "link": "https://www.userinterviews.com/projects/dkatj4dOgQ/apply",
+      "pay": "$75",
       "duration": "45 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/t1-H2Ragjg/apply",
-      "pay": "$60",
-      "duration": "60 MIN",
+      "title": "Join us on a study about your health habits! #421029",
+      "link": "https://www.userinterviews.com/projects/h-p2OWOFHw/apply",
+      "pay": "$35",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share Your Perspective on Lifestyle & Experiences",
-      "link": "https://www.userinterviews.com/projects/ZuYpkgEW8A/apply",
-      "pay": "$57",
-      "duration": "43 MIN",
+      "title": "Share your health journey with us! (30400-5/421028)",
+      "link": "https://www.userinterviews.com/projects/azr9FuDi4w/apply",
+      "pay": "$35",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Come test a peptide serum with us!",
-      "link": "https://www.userinterviews.com/projects/0YgLy7b2PQ/apply",
-      "pay": "$120",
+      "title": "Seeking Beverage Consumers Aged 18\u201365",
+      "link": "https://www.userinterviews.com/projects/vztKWZ1dOQ/apply",
+      "pay": "$110",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Consumer Insights Study: Exploring New Brand Concepts",
-      "link": "https://www.userinterviews.com/projects/AapRh4u_qQ/apply",
-      "pay": "$25",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Watch TV, React, Reward!",
-      "link": "https://www.userinterviews.com/projects/_7h3rv3CJA/apply",
+      "title": "Canadian Healthcare Workers: Share Your Experience with Workplace Benefits During Life Transitions",
+      "link": "https://www.userinterviews.com/projects/PWvT4DTk8g/apply",
       "pay": "$40",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Consumer Insights Study",
-      "link": "https://www.userinterviews.com/projects/WsXLBh014Q/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Customer Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/6ieyxzdymw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Do you use productivity applications?",
-      "link": "https://www.userinterviews.com/projects/ERUn9JuEYg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -444,7 +421,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 7
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
