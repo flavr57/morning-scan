@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T15:47:20.998845+00:00",
+  "generated": "2026-05-23T14:28:04.142933+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -28,153 +28,172 @@
     },
     {
       "platform": "Project Casting",
-      "title": "Los Angeles Extras Casting Call for Real Tattoo Artists",
-      "link": "https://projectcasting.com/job/los-angeles-extras-casting-call-for-real-tattoo-artists",
+      "title": "$500/Day Tech Brand Commercial Casting Call",
+      "link": "https://projectcasting.com/job/500-day-tech-brand-commercial-casting-call",
       "alert": true,
-      "pay": "$$",
+      "pay": "$500",
       "location": "Los Angeles, CA",
-      "date": "May 21, 2026",
-      "source": "Central casting",
-      "short_description": "A television production in the Los Angeles area is now casting background and featured talent with real tattoo artist experience.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$300/Day Commercial Los Angeles Casting Call for Older Male",
-      "link": "https://projectcasting.com/job/300-day-commercial-los-angeles-casting-call-for-older-male",
-      "alert": true,
-      "pay": "$300",
-      "location": "Los Angeles, CA",
-      "date": "May 20, 2026",
-      "source": "Hake Agency",
-      "short_description": "A commercial production filming in Burbank, California is now casting an older Caucasian male for an upcoming non-union commercial shoot.",
+      "date": "May 22, 2026",
+      "source": "Prime Casting",
+      "short_description": "A leading tech and lifestyle brand is now casting real college students for an upcoming non-union commercial and social media campaign filming in Southern California.",
       "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
-      "title": "Production Assistant Casting Call for YouTube Shoots",
-      "link": "https://projectcasting.com/job/production-assistant-casting-call-for-youtube-shoots",
+      "title": "Personal Assistant for Talent",
+      "link": "https://projectcasting.com/job/personal-assistant-for-talent",
       "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "May 20, 2026",
-      "source": "Los Angeles-Based YouTube Channel",
-      "short_description": "A Los Angeles-based YouTube channel is seeking reliable and proactive Production Assistants for freelance and on-call shoots.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$700/Day Video Shoot San Diego Casting Call for Lead Roles",
-      "link": "https://projectcasting.com/job/700-day-video-shoot-san-diego-casting-call-for-lead-roles",
-      "alert": true,
-      "pay": "$700",
+      "pay": "$$$",
       "location": "California",
-      "date": "May 20, 2026",
-      "source": "Apecastings",
-      "short_description": "A lifestyle-focused production is seeking male and female lead talent, hosts, and extras for a beachside unscripted interview project in San Diego.",
+      "date": "May 22, 2026",
+      "source": "The Grapevine Agency",
+      "short_description": "A high-profile talent team in Southern California is now hiring a Personal Assistant to support both the principal client and their family across travel, scheduling, appearances, glam coordination,...",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Zach Snyder\u2019s UFC Movie \u2018Brawlers\u2019 Casting Call for Fight Attendees",
+      "link": "https://projectcasting.com/job/zach-snyders-ufc-movie-brawlers-casting-call-for-fight-attendees",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 22, 2026",
+      "source": "Alessi Hartigan Casting Los Angeles",
+      "short_description": "A Los Angeles production is now casting SAG and non-union background actors to portray fight attendees in scenes for an upcoming \u201cUnsanctioned Boxing Club\u201d project.",
       "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
-      "title": "Actor Casting Call for Short Film Drama",
-      "link": "https://projectcasting.com/job/actor-casting-call-for-short-film-drama",
+      "title": "$7,000 Los Angeles Casting Call for Curly Hair Models",
+      "link": "https://projectcasting.com/job/7000-los-angeles-casting-call-for-curly-hair-models",
       "alert": true,
-      "pay": "$",
+      "pay": "$7,000",
       "location": "Los Angeles, CA",
-      "date": "May 20, 2026",
-      "source": "All American Dinner Short Film Production",
-      "short_description": "A short film production is casting the role of Bob in All American Dinner , an emotionally grounded drama exploring disconnection and long-term relationships.",
-      "production_type": "Short Film"
+      "date": "May 22, 2026",
+      "source": "MegaFlash Models",
+      "short_description": "A Los Angeles commercial production is now casting male models with naturally curly hair for an upcoming fashion and social media campaign.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cCreed\u201d Spinoff \u201cDelphi\u201d Casting Call for Scary Man with a Dog",
+      "link": "https://projectcasting.com/job/creed-spinoff-delphi-casting-call-for-scary-man-with-a-dog",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 22, 2026",
+      "source": "Alessi Hartigan Casting Los Angeles",
+      "short_description": "A major television series is now casting a SAG-AFTRA male background actor with a tough or intimidating appearance and a dog with a similarly intimidating look for featured scenes filming in Los An...",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$750/Day Athletic Apparel Los Angeles Casting Call for Football Stand-In (Caucasian)",
+      "link": "https://projectcasting.com/job/750-day-athletic-apparel-los-angeles-casting-call-for-football-stand-in-caucasian",
+      "alert": true,
+      "pay": "$750",
+      "location": "Los Angeles, CA",
+      "date": "May 22, 2026",
+      "source": "Miami Talent Casting",
+      "short_description": "An athletic apparel project filming in Los Angeles is looking for a Caucasian male football stand-in to portray a tight end in upcoming production scenes.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-universal-music-group-4387477001",
+      "title": "Creative Lead - Americas - TikTok",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-americas-at-tiktok-4417199080",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "6 hours ago",
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "TikTok"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Services Director - Warner Bros. Games",
+      "link": "https://www.linkedin.com/jobs/view/creative-services-director-at-warner-bros-games-4378016265",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "20 hours ago",
+      "source": "Warner Bros. Games"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Storyteller - Nova Sky Stories",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-storyteller-at-nova-sky-stories-4369292522",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "2 hours ago",
+      "source": "Nova Sky Stories"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Catalog Creative - Universal Music Group",
+      "link": "https://www.linkedin.com/jobs/view/director-catalog-creative-at-universal-music-group-4378393804",
+      "alert": false,
+      "location": "West Hollywood, CA",
+      "date": "5 hours ago",
       "source": "Universal Music Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director - Experiential / Copy // Future Opportunity - 160over90",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-experiential-copy-future-opportunity-at-160over90-4284771048",
+      "title": "Director, Firefly Foundry Growth - Adobe",
+      "link": "https://www.linkedin.com/jobs/view/director-firefly-foundry-growth-at-adobe-4359149274",
       "alert": false,
-      "location": "Los Angeles Metropolitan Area",
+      "location": "Culver City, CA",
       "date": "5 hours ago",
-      "source": "160over90"
+      "source": "Adobe"
     },
     {
       "platform": "LinkedIn",
-      "title": "Executive Creative Director, Experience - Danny Wimmer Presents",
-      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-experience-at-danny-wimmer-presents-4416763314",
+      "title": "Director of Content Marketing - Manatt, Phelps & Phillips, LLP",
+      "link": "https://www.linkedin.com/jobs/view/director-of-content-marketing-at-manatt-phelps-phillips-llp-4409089796",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Danny Wimmer Presents"
+      "date": "20 hours ago",
+      "source": "Manatt, Phelps & Phillips, LLP"
     },
     {
       "platform": "LinkedIn",
-      "title": "Dir, Creative - Exemplis LLC",
-      "link": "https://www.linkedin.com/jobs/view/dir-creative-at-exemplis-llc-4406416645",
+      "title": "Director of Ecommerce - Full Time, Hybrid-LA - Orca Brands",
+      "link": "https://www.linkedin.com/jobs/view/director-of-ecommerce-full-time-hybrid-la-at-orca-brands-4417535248",
       "alert": false,
-      "location": "Cypress, CA",
-      "date": "22 hours ago",
-      "source": "Exemplis LLC"
+      "location": "El Segundo, CA",
+      "date": "10 hours ago",
+      "source": "Orca Brands"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - Nori Productions",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-nori-productions-4416719048",
+      "title": "Sr. Manager, Culture Events (West) - Red Bull",
+      "link": "https://www.linkedin.com/jobs/view/sr-manager-culture-events-west-at-red-bull-4409541755",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "Nori Productions"
+      "location": "Santa Monica, CA",
+      "date": "19 minutes ago",
+      "source": "Red Bull"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director (Copy) - Confidential",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-confidential-4418064991",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "8 hours ago",
-      "source": "Confidential"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director A&R - AWAL - Sony Music Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/director-a-r-awal-at-sony-music-entertainment-4405347947",
+      "title": "Director of Marketing - IV.AI",
+      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-at-iv-ai-4418410542",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "18 hours ago",
-      "source": "Sony Music Entertainment"
+      "source": "IV.AI"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - D\u00f4en",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4418036507",
+      "title": "Senior Director of Digital Growth Marketing - Brio Water Technology",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-of-digital-growth-marketing-at-brio-water-technology-4418426107",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "16 hours ago",
-      "source": "D\u00f4en"
+      "location": "Glendale, CA",
+      "date": "17 hours ago",
+      "source": "Brio Water Technology"
     },
     {
-      "platform": "LinkedIn",
-      "title": "Director, Video Production - Golden Hippo\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/director-video-production-at-golden-hippo%C2%AE-4416713718",
+      "platform": "Central Casting",
+      "title": "SUBMISSION FOR PHOTO DOUBLE - UNION & NON UNION WELCOME",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/submission-for-photo-double-union-amp-non-union-welcome",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Golden Hippo\u00ae"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Managing Director - Elevado Studio",
-      "link": "https://www.linkedin.com/jobs/view/managing-director-at-elevado-studio-4418070359",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "14 hours ago",
-      "source": "Elevado Studio"
+      "date": "May 22, 2026"
     },
     {
       "platform": "Central Casting",
@@ -191,11 +210,11 @@
       "date": "May 20, 2026"
     },
     {
-      "platform": "Central Casting",
-      "title": "***CLOSED*** ROAD BIKES!",
-      "link": "https://blog.centralcasting.com/jobs-la/2026/1cfwgbrsc7bnj2ucnin1ecmfqrpoun",
-      "alert": false,
-      "date": "May 11, 2026"
+      "platform": "Everyset",
+      "title": "Teen Partier",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -257,104 +276,168 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Stand-In Female Utility",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
+      "platform": "Aquent",
+      "title": "Lead Graphic Designer, Accessories",
+      "link": "https://aquent.com/find-work/210353",
+      "alert": false,
+      "date": "Posted May 22, 2026"
     },
     {
       "platform": "Respondent",
-      "title": "Finance Professionals: Quick 10-Minute Survey on Tool Usage",
-      "link": "https://app.respondent.io/next/participants/projects/6a10673aa180466b69b6685a",
+      "title": "Seeking Butter Substitute Shoppers",
+      "link": "https://app.respondent.io/next/participants/projects/6a115e3b3b7470536141d9f3",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Plant-Based Food Consumers",
+      "link": "https://app.respondent.io/next/participants/projects/6a115dfbccd3b6cd5130f65a",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Family Meal Shoppers",
+      "link": "https://app.respondent.io/next/participants/projects/6a115dae7b2ac802cb6986f5",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Professional Insights Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a10fd0e6cc294aec51a60bc",
+      "alert": false,
+      "pay": "$24",
+      "duration": "15 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Workplace Well-being Insights",
+      "link": "https://app.respondent.io/next/participants/projects/6a10fb645be489d32c36e26d",
+      "alert": false,
+      "pay": "$32",
+      "duration": "15 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share Your Experience With Health AI Apps",
+      "link": "https://app.respondent.io/next/participants/projects/6a10f373a180466b69dc9a78",
+      "alert": false,
+      "pay": "$30",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share Your Music Teaching Experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a10edf397a318ccd67de9a7",
+      "alert": false,
+      "pay": "$60",
+      "duration": "50 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Benefits, HR, Payroll, and Accounting Service Providers: 5-Minute Expert Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a10ca8080d3a170ec18d2a5",
       "alert": false,
       "pay": "$5",
       "duration": "10 min"
     },
     {
       "platform": "Respondent",
-      "title": "Injured at Work? Help Test the Workers' Comp Portal",
-      "link": "https://app.respondent.io/next/participants/projects/6a10421bef9caa92ab6f5ef8",
-      "alert": true,
-      "pay": "$100",
-      "duration": "40 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking users of online forms and surveys software",
-      "link": "https://app.respondent.io/next/participants/projects/6a0dc8ee8a28ae92eeb5bef5",
+      "title": "Share Your Experience Sending Money Home",
+      "link": "https://app.respondent.io/next/participants/projects/6a10e5bc07df49a2d16e9526",
       "alert": false,
       "pay": "$30",
-      "duration": "15 min"
+      "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Tech-savvy and Business professionals Survey: Share Your Insights in 10 Minutes",
-      "link": "https://app.respondent.io/next/participants/projects/6a0eff8a70a8e3c2bca48f3a",
-      "alert": false,
-      "pay": "$15",
-      "duration": "10 Minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Elementary School Teachers who use AI tools",
-      "link": "https://app.respondent.io/next/participants/projects/6a102b6e40e36e1457fe51b0",
-      "alert": false,
-      "pay": "$45",
-      "duration": "40 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Tell us about lead capture at events (Video)",
-      "link": "https://app.respondent.io/next/participants/projects/6a102122d0257f52eafbb9d6",
-      "alert": false,
-      "pay": "$7",
-      "duration": "7 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a101ecf15701cfe39787842",
+      "title": "Seeking cloud professional managing cloud infrastructure",
+      "link": "https://app.respondent.io/next/participants/projects/6a0e1d399c3b2f7f61e1d5e2",
       "alert": true,
-      "pay": "$50",
-      "duration": "30 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Audio & Tech on the Golf: Share Your Experience",
-      "link": "https://app.respondent.io/next/participants/projects/6a0ee6e4f3ebe47df6ef579b",
-      "alert": false,
-      "pay": "$5",
-      "duration": "56 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Sales Professionals: Share Your Experience with AI",
-      "link": "https://app.respondent.io/next/participants/projects/6a0fa81d4c0903f9635fbbb1",
-      "alert": true,
-      "pay": "$75",
-      "duration": "15 minute"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Digital Contribution Project",
-      "link": "https://app.respondent.io/next/participants/projects/6a0f92dc38839b6d206227c9",
-      "alert": false,
-      "pay": "$20",
-      "duration": "15 minutes"
+      "pay": "$120",
+      "duration": "60 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking Data Scientists - Share your Career Story!",
-      "link": "https://www.userinterviews.com/projects/AhpcuqxDJw/apply",
-      "pay": "$35",
-      "duration": "25 MIN",
+      "title": "Share Your Business Perspective",
+      "link": "https://www.userinterviews.com/projects/khkeQ8z0Mw/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "We want to speak with you! Dependent Variable - Research Study",
-      "link": "https://www.userinterviews.com/projects/fUtQh33OTA/apply",
+      "title": "In-Person Product Testing on May 26, 2026 in Logan, UT",
+      "link": "https://www.userinterviews.com/projects/JHyL7AB-iw/apply",
+      "pay": "$100",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Earn up to $1200! Paid In-Person Data Collection for Ireland Participants",
+      "link": "https://www.userinterviews.com/projects/Zh4ndgDCBQ/apply",
+      "pay": "$1200",
+      "duration": "24 hour",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Business owners help us sort out new business features",
+      "link": "https://www.userinterviews.com/projects/JXwd9K-ZXA/apply",
+      "pay": "$15",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Consumer Insights Study",
+      "link": "https://www.userinterviews.com/projects/V5YBxfYqFg/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking opinions on meals from adults aged 21\u201345!",
+      "link": "https://www.userinterviews.com/projects/KaXyFGEZCw/apply",
+      "pay": "$50",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Vacation Preferences",
+      "link": "https://www.userinterviews.com/projects/Xssu7CqfXQ/apply",
+      "pay": "$10",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Customer Insights Research Study",
+      "link": "https://www.userinterviews.com/projects/PUvQFQlYYg/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Customer Insights Research Study",
+      "link": "https://www.userinterviews.com/projects/J5wnBPLaLQ/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -362,75 +445,12 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Learning about benefits checks and prior authorizations for genetic testing",
-      "link": "https://www.userinterviews.com/projects/_Gzdv8Sk5g/apply",
-      "pay": "$75",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Fort\u00e6l om dine madvaner og bliv bel\u00f8nnet. (30448-17/423379)",
-      "link": "https://www.userinterviews.com/projects/Dkj6Ud7DrA/apply",
-      "pay": "$25",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Fort\u00e6l om dine madvaner og bliv bel\u00f8nnet.",
-      "link": "https://www.userinterviews.com/projects/Sl-RWXHgqA/apply",
-      "pay": "$25",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Fort\u00e6l om dine madvaner og bliv bel\u00f8nnet. (30448-11/423374)",
-      "link": "https://www.userinterviews.com/projects/CZnkNWtcpg/apply",
-      "pay": "$25",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Facility Operations Study",
-      "link": "https://www.userinterviews.com/projects/1xNgLRgzEw/apply",
-      "pay": "$23",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking opinions on meals from adults aged 21\u201345!",
-      "link": "https://www.userinterviews.com/projects/qM-1zE8G9g/apply",
-      "pay": "$50",
+      "title": "Dental Practice Owners: Share Your Perspective",
+      "link": "https://www.userinterviews.com/projects/sbsKokGUFw/apply",
+      "pay": "$120",
       "duration": "30 MIN",
       "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Studio di ricerca qualitativa, serve il tuo contributo",
-      "link": "https://www.userinterviews.com/projects/r1VSZbEwaA/apply",
-      "pay": "$40",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Have a job? Let's talk! Control Group - Research Study",
-      "link": "https://www.userinterviews.com/projects/uAlnin0N3A/apply",
-      "pay": "$30",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
+      "alert": true
     }
   ],
   "errors": {},
@@ -441,7 +461,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
@@ -457,7 +477,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "Indeed": {
       "status": "ok",
