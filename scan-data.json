@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T16:52:56.264626+00:00",
+  "generated": "2026-05-29T16:40:56.505713+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -13,6 +13,30 @@
       "source": "GEM Casting",
       "short_description": "An upcoming scripted K-pop musical series is searching for a talented lead actor with strong triple-threat abilities. Producers are seeking performers who can act, sing, and dance while bringing st...",
       "production_type": "Theater"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Director of Photography (DP) and Editor Casting Call for an Upcoming...",
+      "link": "https://projectcasting.com/job/director-of-photography-dp-and-editor-casting-call-for-an-upcoming-project",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "May 28, 2026",
+      "source": "Apecastings",
+      "short_description": "A paid production opportunity in the Los Angeles area is seeking a Director of Photography (DP) and Editor for an upcoming project.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "AI College Debate Participants Open Casting Call",
+      "link": "https://projectcasting.com/job/ai-college-debate-participants-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "May 28, 2026",
+      "source": "Cast Lab by MZ / MindyCasting",
+      "short_description": "A new YouTube channel is casting college students and recent graduates for an exciting on-camera debate centered around artificial intelligence.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
@@ -63,142 +87,94 @@
       "production_type": "TV & Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "Casting Call for Families Living in Atherton, California",
-      "link": "https://projectcasting.com/job/casting-call-for-families-living-in-atherton-california",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "May 27, 2026",
-      "source": "Ain\u2019t That Something Entertainment",
-      "short_description": "A major television production is now casting families and friend groups living in Atherton, California and surrounding areas.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "World Cup Dance Battle Campaign Casting Call for Dancers",
-      "link": "https://projectcasting.com/job/world-cup-dance-battle-campaign-casting-call-for-dancers",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "May 27, 2026",
-      "source": "We Are Social Casting",
-      "short_description": "A high-energy World Cup-inspired dance campaign is now casting fun and expressive individuals in Los Angeles. Producers are seeking people from all backgrounds and cultures to represent their count...",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "\u201cCreed\u201d Spinoff \u201cDelphi\u201d Casting Call for Beach Scene",
-      "link": "https://projectcasting.com/job/creed-spinoff-delphi-casting-call-for-beach-scene",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "May 27, 2026",
-      "source": "Alessi Hartigan Casting",
-      "short_description": "A production filming in Los Angeles is now casting background actors to portray TikTok streamers for an upcoming night shoot in Downtown LA.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "NOW HIRING: Brand Ambassadors \u2013 Beauty Brand Event",
-      "link": "https://projectcasting.com/job/now-hiring-brand-ambassadors-beauty-brand-event",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "May 27, 2026",
-      "source": "Jackson Dawson",
-      "short_description": "A beauty brand event is seeking outgoing and professional Brand Ambassadors for an exciting live activation during a major watch party experience.",
-      "production_type": "Live Event"
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director - Movers+Shakers",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-movers%2Bshakers-4422026432",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "21 minutes ago",
+      "source": "Movers+Shakers"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - MACH27",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-mach27-4419066879",
+      "title": "Senior Art Director - SSi People",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-ssi-people-4417654613",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "23 hours ago",
+      "source": "SSi People"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr Art Director - MACH27",
+      "link": "https://www.linkedin.com/jobs/view/sr-art-director-at-mach27-4420604369",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "1 hour ago",
+      "date": "20 hours ago",
       "source": "MACH27"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - NBCUniversal",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-nbcuniversal-4419971688",
+      "title": "Creative Director, AI & Innovation - Adobe",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-ai-innovation-at-adobe-4402327200",
       "alert": false,
-      "location": "Universal City, CA",
-      "date": "18 hours ago",
-      "source": "NBCUniversal"
+      "location": "Culver City, CA",
+      "date": "7 hours ago",
+      "source": "Adobe"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Creative Development - Warner Bros. Discovery",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-development-at-warner-bros-discovery-4420233865",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "12 hours ago",
-      "source": "Warner Bros. Discovery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Activities - Goliath",
-      "link": "https://www.linkedin.com/jobs/view/director-of-activities-at-goliath-4420447010",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Goliath"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Art Director - Rocket Money",
-      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-rocket-money-4418821676",
+      "title": "Creative Operations Manager - Birdy Grey",
+      "link": "https://www.linkedin.com/jobs/view/creative-operations-manager-at-birdy-grey-4415697134",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "23 hours ago",
-      "source": "Rocket Money"
+      "date": "17 hours ago",
+      "source": "Birdy Grey"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director of Marketing - Restaurant Company - Superior Talent Source",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-of-marketing-restaurant-company-at-superior-talent-source-4420233762",
+      "title": "Director, Design - United Talent Agency",
+      "link": "https://www.linkedin.com/jobs/view/director-design-at-united-talent-agency-4417902339",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
-      "source": "Superior Talent Source"
+      "date": "14 hours ago",
+      "source": "United Talent Agency"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Catalog Marketing (Pop/Rock) - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-catalog-marketing-pop-rock-at-universal-music-group-4345891054",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "7 hours ago",
-      "source": "Universal Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Catalog Marketing (Urban) - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-catalog-marketing-urban-at-universal-music-group-4345708373",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "7 hours ago",
-      "source": "Universal Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Ecommerce - ONZIE INC",
-      "link": "https://www.linkedin.com/jobs/view/director-of-ecommerce-at-onzie-inc-4417195638",
-      "alert": false,
-      "location": "Los Angeles County, CA",
-      "date": "1 day ago",
-      "source": "ONZIE INC"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Young Mens Associate Apparel Designer - SOVEREIGN CODE",
-      "link": "https://www.linkedin.com/jobs/view/young-mens-associate-apparel-designer-at-sovereign-code-4418867054",
+      "title": "Senior Art Director - LegalZoom",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-legalzoom-4380711860",
       "alert": false,
       "location": "Los Angeles, CA",
+      "date": "22 hours ago",
+      "source": "LegalZoom"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Creative - Exemplis LLC",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-at-exemplis-llc-4417900047",
+      "alert": false,
+      "location": "Cypress, CA",
+      "date": "17 hours ago",
+      "source": "Exemplis LLC"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Marketing - Chefmaster",
+      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-at-chefmaster-4419317456",
+      "alert": false,
+      "location": "Fullerton, CA",
       "date": "19 hours ago",
-      "source": "SOVEREIGN CODE"
+      "source": "Chefmaster"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Product Design - Warner Bros. Discovery",
+      "link": "https://www.linkedin.com/jobs/view/director-product-design-at-warner-bros-discovery-4411421542",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "23 hours ago",
+      "source": "Warner Bros. Discovery"
     },
     {
       "platform": "Central Casting",
@@ -293,6 +269,13 @@
     },
     {
       "platform": "Aquent",
+      "title": "Graphic Designer",
+      "link": "https://aquent.com/find-work/210466",
+      "alert": false,
+      "date": "Posted May 28, 2026"
+    },
+    {
+      "platform": "Aquent",
       "title": "Lead Graphic Designer, Accessories",
       "link": "https://aquent.com/find-work/210353",
       "alert": false,
@@ -300,88 +283,151 @@
     },
     {
       "platform": "Respondent",
-      "title": "We'd Like Your Input on a New Innovation!",
-      "link": "https://app.respondent.io/next/participants/projects/6a186c8c3e5eba61352a277c",
+      "title": "Office of the CIO/CTO: Quick 10-Minute Survey on Tool Usage",
+      "link": "https://app.respondent.io/next/participants/projects/6a19b5fa19d25c0948fe27eb",
       "alert": false,
-      "pay": "$30",
-      "duration": "27 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "AI Agents + CI/CD in Developer Workflows",
-      "link": "https://app.respondent.io/next/participants/projects/6a186aeb30ef9bab063340ef",
-      "alert": true,
-      "pay": "$60",
-      "duration": "26 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Workplace Software Login: Share Your Experience",
-      "link": "https://app.respondent.io/next/participants/projects/6a1864aa4a61e9956acd6f04",
-      "alert": false,
-      "pay": "$10",
+      "pay": "$5",
       "duration": "10 min"
     },
     {
       "platform": "Respondent",
-      "title": "AI Model Development & Management Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a02bcfa260f73a10f649d2f",
-      "alert": true,
-      "pay": "$180",
-      "duration": "70 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Healthcare Near You",
-      "link": "https://app.respondent.io/next/participants/projects/6a185d7b92d3651f5a4b8993",
+      "title": "Share Your Home Cooking Story",
+      "link": "https://app.respondent.io/next/participants/projects/6a19aaf66129ebe52a313a9a",
       "alert": false,
-      "pay": "$25",
-      "duration": "20 min"
+      "pay": "$10",
+      "duration": "15 min"
     },
     {
       "platform": "Respondent",
-      "title": "Property Managers and STR Hosts: Share Your VA Experience!",
-      "link": "https://app.respondent.io/next/participants/projects/6a1825032847078d18c157b5",
+      "title": "Share Your Professional Insights: Flexible Video Feedback Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a19aeece3355986a23ba1d6",
+      "alert": true,
+      "pay": "$50",
+      "duration": "15 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "AI in Billing and Payments: Customer Sentiment and Mental Models",
+      "link": "https://app.respondent.io/next/participants/projects/6a19963fa27dc5b6469caf5d",
       "alert": true,
       "pay": "$125",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Join our live sessions, answer a few questions!",
-      "link": "https://app.respondent.io/next/participants/projects/6a185514fe9606b5775ddc78",
+      "title": "Seeking Architect & Interior Design Experts - Help Us Build Your Ideal Portfolio Platform",
+      "link": "https://app.respondent.io/next/participants/projects/6a199dad19d25c0948c23acf",
       "alert": false,
-      "pay": "$45",
-      "duration": "45 min"
+      "pay": "$60",
+      "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Research Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a1830cf3e5eba6135b1b173",
-      "alert": false,
-      "pay": "$5",
-      "duration": "5 min"
+      "title": "Zoom Rooms Users Wanted! Share Your Work Experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a19952d1a144cb46fcf8d9f",
+      "alert": true,
+      "pay": "$175",
+      "duration": "90 min"
     },
     {
       "platform": "Respondent",
-      "title": "Welcome to our shaving and hair removal interview",
-      "link": "https://app.respondent.io/next/participants/projects/6a181061dedd6f03d83530cf",
+      "title": "Do you use Robinhood and have you received access to their new Agentic Trading feature?",
+      "link": "https://app.respondent.io/next/participants/projects/6a19626125b9bd7d6bdcc98e",
       "alert": false,
-      "pay": "$35",
-      "duration": "35 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Do you have an investment account with Stash?",
-      "link": "https://app.respondent.io/next/participants/projects/6a18008f462c4905181dd05d",
-      "alert": false,
-      "pay": "$15",
+      "pay": "$25",
       "duration": "10 min"
     },
     {
+      "platform": "Respondent",
+      "title": "Luxury Car Fans: Share Your Lifestyle & Ride Experiences",
+      "link": "https://app.respondent.io/next/participants/projects/6a190b6d73a1634ca24801be",
+      "alert": true,
+      "pay": "$50",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "STEM Teachers: Help Shape an AI Grading Tool That Saves Teachers Time",
+      "link": "https://app.respondent.io/next/participants/projects/6a17e2e3d3bb7f3411f8761f",
+      "alert": false,
+      "pay": "$80",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "For Parents/Guardians: Teen Gaming & Game Creation App Study Ages 15-18",
+      "link": "https://app.respondent.io/next/participants/projects/6a187dc541f390ac3416c349",
+      "alert": false,
+      "pay": "$90",
+      "duration": "60 min"
+    },
+    {
       "platform": "UserInterviews",
-      "title": "Customer Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/5H8kXHQSsg/apply",
+      "title": "Health & Wellness Brands",
+      "link": "https://www.userinterviews.com/projects/ykGH06f-Lg/apply",
+      "pay": "$15",
+      "duration": "16 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Project Type2",
+      "link": "https://www.userinterviews.com/projects/Oh00uLUpbg/apply",
+      "pay": "$50",
+      "duration": "19 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Diteci cosa ne pensate di alcuni contenuti creativi!",
+      "link": "https://www.userinterviews.com/projects/-_64NJTtqQ/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "\u00a1Danos tu opini\u00f3n sobre algunos contenidos creativos!",
+      "link": "https://www.userinterviews.com/projects/jFrufiwBRg/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Donnez-nous votre avis sur certains contenus cr\u00e9atifs !",
+      "link": "https://www.userinterviews.com/projects/A-cokF-diQ/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Sagen Sie uns Ihre Meinung zu einigen kreativen Inhalten!",
+      "link": "https://www.userinterviews.com/projects/5yUrL61rMA/apply",
+      "pay": "$25",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Tell us what you think of some creative content!",
+      "link": "https://www.userinterviews.com/projects/_bteNxHvLw/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Digital Tools Research Survey",
+      "link": "https://www.userinterviews.com/projects/Z_s_zti1pw/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -389,82 +435,19 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "CPG Brokers - We are researching a free CPG brand software management tool and want your input!",
-      "link": "https://www.userinterviews.com/projects/2ovEFNHYIg/apply",
-      "pay": "$75",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Insurance operations and prior authorizations: Tell us about your pain points!",
-      "link": "https://www.userinterviews.com/projects/2TUANBw_kw/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Legal and Benefits Leaders: Share Your Perspective",
-      "link": "https://www.userinterviews.com/projects/6_9f2SSi2A/apply",
-      "pay": "$120",
-      "duration": "30 MIN",
+      "title": "Teachers Needed to Evaluate a New Learning Tool",
+      "link": "https://www.userinterviews.com/projects/tlaU_f3IPg/apply",
+      "pay": "$350",
+      "duration": "90 min",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Use tools at work? Content Validity - Research Study",
-      "link": "https://www.userinterviews.com/projects/SwcDczOPGg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "GLP-1 Prescribers: Your Experience & Patient Care Practices",
-      "link": "https://www.userinterviews.com/projects/gsQoN-i-8g/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Succession Planning",
-      "link": "https://www.userinterviews.com/projects/wNwurCvyVg/apply",
-      "pay": "$85",
+      "title": "Global Retail AI & Image Recognition (IR) Study",
+      "link": "https://www.userinterviews.com/projects/2lsNB01uzQ/apply",
+      "pay": "$100",
       "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Why do you sell online? Give us your input and get rewarded! [P-30449-17/424493]",
-      "link": "https://www.userinterviews.com/projects/z08kmmpt7Q/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Figma Workplace Trends & AI Tools Research",
-      "link": "https://www.userinterviews.com/projects/oFjEogQm0g/apply",
-      "pay": "$75",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "YouTube Qualitative Brand Health Tracker \u2013 US Pilot 13-17 YO",
-      "link": "https://www.userinterviews.com/projects/UjMgY5xcyg/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -477,7 +460,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
@@ -493,7 +476,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "Indeed": {
       "status": "ok",
