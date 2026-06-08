@@ -1,43 +1,7 @@
 {
-  "generated": "2026-06-07T14:50:03.874303+00:00",
+  "generated": "2026-06-08T16:46:54.510405+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
-    {
-      "platform": "Project Casting",
-      "title": "$1,775 Disneyland Magic Key Holders Video Shoot",
-      "link": "https://projectcasting.com/job/1775-disneyland-magic-key-holders-video-shoot",
-      "alert": true,
-      "pay": "$1,775",
-      "location": "California",
-      "date": "June 4, 2026",
-      "source": "Tiffany Company Casting",
-      "short_description": "A new Disneyland project is seeking real Southern California Disneyland Magic Key holders with unforgettable stories. This casting call is open to individuals, families, and friend groups whose liv...",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$10,000 Casting Call for Entrepreneurs, Influencers, and Content Creators",
-      "link": "https://projectcasting.com/job/10000-casting-call-for-entrepreneurs-influencers-and-content-creators",
-      "alert": true,
-      "pay": "$10,000",
-      "location": "Los Angeles, CA",
-      "date": "June 2, 2026",
-      "source": "CAST LAB by MZ",
-      "short_description": "A new YouTube competition series is casting ambitious influencers, content creators, aspiring entrepreneurs, and business-minded individuals for a high-stakes challenge.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "\u201cCreed\u201d Spinoff \u201cDelphi\u201d Casting Call for Bartender",
-      "link": "https://projectcasting.com/job/creed-spinoff-delphi-casting-call-for-bartender",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "June 5, 2026",
-      "source": "Alessi Hartigan Casting",
-      "short_description": "An upcoming production is seeking an experienced Bartender for work in the Simi Valley area. This opportunity is ideal for professionals with bartending experience who can confidently perform bar s...",
-      "production_type": "TV & Video"
-    },
     {
       "platform": "Project Casting",
       "title": "Major Comedy Sequel Casting Call for Event Staff",
@@ -68,101 +32,137 @@
       "link": "https://projectcasting.com/job/music-video-casting-call-for-dogs",
       "alert": true,
       "pay": "$$",
-      "location": "Los Angeles, CA",
+      "location": "California",
       "date": "June 5, 2026",
       "source": "Apecastings",
       "short_description": "A music video production is seeking Dalmatian dogs for a paid appearance in an upcoming shoot in the Reseda area. Production is looking for well-behaved Dalmatians that are comfortable around camer...",
       "production_type": "Music Video"
     },
     {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Pinch",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-pinch-4425149561",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "18 hours ago",
-      "source": "Pinch"
+      "platform": "Project Casting",
+      "title": "Male Talent Casting Call for Father\u2019s Day Social Media Campaign",
+      "link": "https://projectcasting.com/job/male-talent-casting-call-for-fathers-day-social-media-campaign",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "June 5, 2026",
+      "source": "Apecastings",
+      "short_description": "A social media campaign is seeking fit and attractive fathers for a Father\u2019s Day-themed content shoot in the Altadena area.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Major Comedy Sequel Casting Call for Tall Man",
+      "link": "https://projectcasting.com/job/major-comedy-sequel-casting-call-for-tall-man",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "June 4, 2026",
+      "source": "Alessi Hartigan Casting",
+      "short_description": "A major comedy sequel is seeking an exceptionally tall male performer for a featured background role. Casting directors are looking for talent who can bring a memorable on-screen presence to this h...",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Singles for Reality Dating Television Series",
+      "link": "https://projectcasting.com/job/singles-for-reality-dating-television-series",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "June 4, 2026",
+      "source": "MIchelle Barnard",
+      "short_description": "A reality television production is seeking fun, outgoing singles in the Los Angeles area for an upcoming dating show. Casting directors are looking for unique personalities from all backgrounds who...",
+      "production_type": "Reality Show"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Marketing Director - 7 Leaves Cafe",
-      "link": "https://www.linkedin.com/jobs/view/creative-marketing-director-at-7-leaves-cafe-4425133553",
-      "alert": false,
-      "location": "Huntington Beach, CA",
-      "date": "19 hours ago",
-      "source": "7 Leaves Cafe"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Experiential Creative Production Director - Salt Productions",
-      "link": "https://www.linkedin.com/jobs/view/experiential-creative-production-director-at-salt-productions-4425148265",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "20 hours ago",
-      "source": "Salt Productions"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Strategy Director - We Are Social",
-      "link": "https://www.linkedin.com/jobs/view/strategy-director-at-we-are-social-4400343183",
+      "title": "Associate Creative Director (Design) - Day One Agency",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-day-one-agency-4425426133",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "We Are Social"
+      "date": "15 hours ago",
+      "source": "Day One Agency"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Director, Brand Marketing, Body Category, Naturium - TalentAlly",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-brand-marketing-body-category-naturium-at-talentally-4422532226",
+      "title": "Director, Physical Brand Production and Execution - Tennis Channel",
+      "link": "https://www.linkedin.com/jobs/view/director-physical-brand-production-and-execution-at-tennis-channel-4385824746",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "7 hours ago",
+      "source": "Tennis Channel"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Brand Marketing - UNice, Inc",
+      "link": "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-unice-inc-4425490069",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "11 hours ago",
-      "source": "TalentAlly"
+      "date": "6 hours ago",
+      "source": "UNice, Inc"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Production Director - Salt Productions",
-      "link": "https://www.linkedin.com/jobs/view/creative-production-director-at-salt-productions-4424673606",
+      "title": "LN Concerts, Director of Communications - Latin - Live Nation Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/ln-concerts-director-of-communications-latin-at-live-nation-entertainment-4416077002",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "Salt Productions"
+      "location": "Beverly Hills, CA",
+      "date": "3 hours ago",
+      "source": "Live Nation Entertainment"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Supervisor - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/art-supervisor-at-gsw-powered-by-syneos-health-4397508520",
+      "title": "Marketing Director - Shaka Wear",
+      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-shaka-wear-4425242768",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "20 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "location": "Los Angeles County, CA",
+      "date": "3 hours ago",
+      "source": "Shaka Wear"
     },
     {
       "platform": "LinkedIn",
-      "title": "Group Art Supervisor - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/group-art-supervisor-at-gsw-powered-by-syneos-health-4366406985",
+      "title": "Marketing Director - CRI Genetics",
+      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-cri-genetics-4421932929",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "20 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "location": "Redondo Beach, CA",
+      "date": "5 hours ago",
+      "source": "CRI Genetics"
     },
     {
       "platform": "LinkedIn",
-      "title": "General Creative Submission - RPA",
-      "link": "https://www.linkedin.com/jobs/view/general-creative-submission-at-rpa-4380146756",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "21 hours ago",
-      "source": "RPA"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Experiential Creative Strategist - Pinch",
-      "link": "https://www.linkedin.com/jobs/view/senior-experiential-creative-strategist-at-pinch-4425141660",
+      "title": "SVP / Managing Director,  Investor Relations, Public Relations  & Strategic Communications - Skyview Equity LLC",
+      "link": "https://www.linkedin.com/jobs/view/svp-managing-director-investor-relations-public-relations-strategic-communications-at-skyview-equity-llc-4425625549",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "18 hours ago",
-      "source": "Pinch"
+      "date": "38 minutes ago",
+      "source": "Skyview Equity LLC"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Global Ads Product Marketing - Netflix",
+      "link": "https://www.linkedin.com/jobs/view/director-global-ads-product-marketing-at-netflix-4383186305",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "7 hours ago",
+      "source": "Netflix"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Director- Construction Management- Progressive Design Build projects (Anticipated Opening) - Turner & Townsend",
+      "link": "https://www.linkedin.com/jobs/view/associate-director-construction-management-progressive-design-build-projects-anticipated-opening-at-turner-townsend-4374078341",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 day ago",
+      "source": "Turner & Townsend"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Business & Legal Affairs - Fox Corporation",
+      "link": "https://www.linkedin.com/jobs/view/director-business-legal-affairs-at-fox-corporation-4376134346",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Fox Corporation"
     },
     {
       "platform": "Central Casting",
@@ -184,6 +184,20 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-mfbx4",
       "alert": false,
       "date": "May 26, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Dive Bar Patron w/Beater Cars & Trucks",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Dive Bar Patron",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -241,186 +255,172 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "People with Trucks",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Beater Cars & Trucks",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Respondent",
-      "title": "Bank Account Access Study: Participants Wanted",
-      "link": "https://app.respondent.io/next/participants/projects/6a258368c4e6602153d86f3e",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26ec58887e5d0621b85e33",
       "alert": false,
       "pay": "$20",
-      "duration": "15 min"
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Bank Account Access Study: Participants Wanted",
-      "link": "https://app.respondent.io/next/participants/projects/6a25815df34418351adc1303",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26ec589ce04a3c14c31287",
       "alert": false,
       "pay": "$20",
-      "duration": "15 min"
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "\ud83c\udf6b What's in Your Snack Stash?",
-      "link": "https://app.respondent.io/next/participants/projects/6a2575a261b3fb97a36fe77e",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26e99ece76f6e3184a1ba3",
       "alert": false,
-      "pay": "$15",
-      "duration": "5 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Tell Us About the Snacks You Love",
-      "link": "https://app.respondent.io/next/participants/projects/6a25750b61b3fb97a36e4aba",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26e99ed061faa0850350ee",
       "alert": false,
-      "pay": "$15",
-      "duration": "5 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Got Snacks at Home? We Want to See Them!",
-      "link": "https://app.respondent.io/next/participants/projects/6a2574d30416e000e07ce79b",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da392808164ec91f3109",
       "alert": false,
-      "pay": "$15",
-      "duration": "5 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Show Us What You Snack On!",
-      "link": "https://app.respondent.io/next/participants/projects/6a2574848c185f7abcbd618b",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da392f86cdb844fbf56f",
       "alert": false,
-      "pay": "$15",
-      "duration": "5 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking Financial Advisors Familiar With Investment Platforms",
-      "link": "https://app.respondent.io/next/participants/projects/6a2567a5fdc78081bb3318cc",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da36d26782aa5c7379b8",
       "alert": false,
-      "pay": "$30",
-      "duration": "30 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Are you an ACE rewards member?",
-      "link": "https://app.respondent.io/next/participants/projects/6a24a116ba833e171da729a9",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da36682aa226c0f38c71",
       "alert": false,
-      "pay": "$5",
-      "duration": "5 min"
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Enterprise Professionals: 3rd Party Risk & Vendor Security Software Interview - $175 for 30 min",
-      "link": "https://app.respondent.io/next/participants/projects/6a2503fbff6ae2f14ce0c0d3",
-      "alert": true,
-      "pay": "$175",
-      "duration": "30 min"
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da316b82eaf0892eec38",
+      "alert": false,
+      "pay": "$20",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "How do you manage your personal finances?",
-      "link": "https://app.respondent.io/next/participants/projects/6a243626e7fafbda7ae7af4e",
-      "alert": true,
-      "pay": "$150",
+      "title": "Seeking Participants for Classic Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a26da31affbb24b474f88b6",
+      "alert": false,
+      "pay": "$20",
       "duration": "45 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "From AI product to revenue",
-      "link": "https://www.userinterviews.com/projects/dJvK_PPd0A/apply",
-      "pay": "$45",
-      "duration": "6 MIN",
+      "title": "Share your opinion on professional tools and services (15 min)",
+      "link": "https://www.userinterviews.com/projects/Xc3JF33sdQ/apply",
+      "pay": "$16",
+      "duration": "15 min",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking Financial Advisors Familiar With Investment Platforms",
-      "link": "https://www.userinterviews.com/projects/alwg5y9VOw/apply",
+      "title": "Are you a recruiter? We want to hear from you!",
+      "link": "https://www.userinterviews.com/projects/CzUwGsFGTQ/apply",
+      "pay": "$50",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Join Our Transit Testing: Elo Card Users Wanted [Rio de Janeiro, Brazil]",
+      "link": "https://www.userinterviews.com/projects/g8-AjBDdDA/apply",
+      "pay": "$110",
+      "duration": "180 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Get Paid to Complete an App Supervision Flow!",
+      "link": "https://www.userinterviews.com/projects/kBWqyP8hyw/apply",
+      "pay": "$150",
+      "duration": "180 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "GLP-1 medication users : supplement habits & side effects",
+      "link": "https://www.userinterviews.com/projects/QBi44lzd8g/apply",
       "pay": "$30",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Explore data with an AI tool for Excel",
-      "link": "https://www.userinterviews.com/projects/YbSUkAeyeA/apply",
-      "pay": "$20",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your thoughts on your daily work and responsibilities",
-      "link": "https://www.userinterviews.com/projects/7k8sindLug/apply",
-      "pay": "$33",
-      "duration": "25 MIN",
+      "title": "Money Study",
+      "link": "https://www.userinterviews.com/projects/SV4ph8cUDA/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "USD 80 for your Fiber supplement experience",
-      "link": "https://www.userinterviews.com/projects/Ku_9acC5xg/apply",
-      "pay": "$80",
-      "duration": "35 MIN",
+      "title": "Welcome to the study",
+      "link": "https://www.userinterviews.com/projects/2jZKJAJGBQ/apply",
+      "pay": "$15",
+      "duration": "16 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Fashion, Beauty & Lifestyle Social Media Influencers Wanted",
-      "link": "https://www.userinterviews.com/projects/HavoPWjsqw/apply",
-      "pay": "$120",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "USD 80 voor uw ervaring met vezelsupplementen",
-      "link": "https://www.userinterviews.com/projects/lwlIjkhV9A/apply",
-      "pay": "$80",
-      "duration": "35 MIN",
+      "title": "Welcome to our shaving and hair removal interview",
+      "link": "https://www.userinterviews.com/projects/6m4rgOlzOw/apply",
+      "pay": "$36",
+      "duration": "36 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "USD 70 for your fibre supplement experience",
-      "link": "https://www.userinterviews.com/projects/2Pb0rsTryg/apply",
-      "pay": "$70",
-      "duration": "35 MIN",
+      "title": "Does your company use batch ACH collections for customer payments?",
+      "link": "https://www.userinterviews.com/projects/cfdVpZuq3Q/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Technology & Young People - Earn US$165 in 2.5 hours",
-      "link": "https://www.userinterviews.com/projects/0fk9_GtCww/apply",
-      "pay": "$165",
-      "duration": "5 hour",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Travel Experiences Study \u2013 Your Input Is Needed P-30524-4/426854",
-      "link": "https://www.userinterviews.com/projects/DeM3fV4-Jg/apply",
-      "pay": "$45",
-      "duration": "40 MIN",
+      "title": "Calling all Practice Managers at Dermatology Clinics",
+      "link": "https://www.userinterviews.com/projects/Ur300Dce7g/apply",
+      "pay": "$100",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     }
