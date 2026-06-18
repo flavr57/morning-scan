@@ -1,71 +1,134 @@
 {
-  "generated": "2026-06-17T16:37:54.846454+00:00",
+  "generated": "2026-06-18T16:33:46.233066+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "Crew Casting Call for Indie Music Video Production",
-      "link": "https://projectcasting.com/job/crew-casting-call-for-indie-music-video-production",
+      "title": "Brand Ambassador Casting Call for Promotional Events",
+      "link": "https://projectcasting.com/job/brand-ambassador-casting-call-for-promotional-events-4",
       "alert": true,
       "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "June 16, 2026",
-      "source": "Independent Music Video Production",
-      "short_description": "An independent pop artist is seeking creative collaborators for an upcoming music video production in Los Angeles. The project features a hyperpop-meets-nostalgic-nightlife aesthetic, incorporating...",
-      "production_type": "Music Video"
+      "location": "California",
+      "date": "June 17, 2026",
+      "source": "The Allure Agency",
+      "short_description": "The Allure Agency is seeking experienced Brand Ambassadors for promotional and event marketing opportunities throughout Northern California.",
+      "production_type": "Live Event"
     },
     {
       "platform": "Project Casting",
-      "title": "Model Casting Call",
-      "link": "https://projectcasting.com/job/model-casting-call-10",
+      "title": "BET Awards Seatfillers Open Casting Call",
+      "link": "https://projectcasting.com/job/bet-awards-seatfillers-open-casting-call",
       "alert": true,
       "pay": "$$",
       "location": "Los Angeles, CA",
-      "date": "June 16, 2026",
-      "source": "The Mold",
-      "short_description": "A fashion show production is now casting models for an upcoming runway event in Los Angeles. This modeling opportunity is open to aspiring and experienced models looking to gain exposure, build the...",
+      "date": "June 17, 2026",
+      "source": "Seatfillers and More",
+      "short_description": "The 2026 BET Awards is seeking enthusiastic seat fillers to help maintain an energetic atmosphere during the live awards show in Los Angeles, California.",
+      "production_type": "Live Event"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Live Show Casting Call for Rappers",
+      "link": "https://projectcasting.com/job/live-show-casting-call-for-rappers",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "June 17, 2026",
+      "source": "T. Frog Casting",
+      "short_description": "A live show production is seeking talented rappers to compete as contestants in an upcoming event in San Francisco, California.",
+      "production_type": "Live Event"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Casting Call for Real Marching Band Members",
+      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-real-marching-band-members",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "June 17, 2026",
+      "source": "Dan Bell Casting",
+      "short_description": "A Los Angeles production is seeking real marching band drummers for a SAG-scale project filming in Southern California. Casting directors are looking for experienced marching band performers who pl...",
+      "production_type": "Documentary"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Brand Ambassador Casting Call for Coffee Brand Festival Activation",
+      "link": "https://projectcasting.com/job/brand-ambassador-casting-call-for-coffee-brand-festival-activation",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "June 17, 2026",
+      "source": "FLY Talent",
+      "short_description": "FLY Talent is seeking energetic, fit, and outgoing Brand Ambassadors who are passionate about coffee to represent a popular coffee brand at a major beach festival activation.",
       "production_type": "Live Event"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-24-seven-talent-4428088995",
+      "title": "Creative Director - Confidential",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-confidential-4428758351",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "20 hours ago",
-      "source": "24 Seven Talent"
+      "source": "Confidential"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - LIQUID MEDIA",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-liquid-media-4426879719",
+      "title": "Creative Director - ONA Creative",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ona-creative-4428734745",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "LIQUID MEDIA"
+      "date": "21 hours ago",
+      "source": "ONA Creative"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director (Contractor) - Gold House",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-contractor-at-gold-house-4429700439",
+      "title": "Art Director \u2013 Game Shows - Sony Pictures Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/art-director-%E2%80%93-game-shows-at-sony-pictures-entertainment-4367492988",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "6 hours ago",
+      "source": "Sony Pictures Entertainment"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Video Podcasts (Disney Entertainment Television) - The Walt Disney Company",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-video-podcasts-disney-entertainment-television-at-the-walt-disney-company-4429312291",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "4 hours ago",
+      "source": "The Walt Disney Company"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Social Media & AI Marketing | $75K-$150K + Bonus - W3Global",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-social-media-ai-marketing-%2475k-%24150k-%2B-bonus-at-w3global-4430141717",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Gold House"
+      "date": "16 hours ago",
+      "source": "W3Global"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
+      "title": "Junior Director (Influencer Marketing) - Newhouse",
+      "link": "https://www.linkedin.com/jobs/view/junior-director-influencer-marketing-at-newhouse-4428750783",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "12 hours ago",
-      "source": "Mattel, Inc."
+      "location": "Los Angeles Metropolitan Area",
+      "date": "18 hours ago",
+      "source": "Newhouse"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Creative Production - Highwire",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-production-at-highwire-4429598542",
+      "title": "Associate Creative Director, Motion & Design - Highwire",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-motion-design-at-highwire-4430169749",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "14 hours ago",
+      "source": "Highwire"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vice President, Copy - Highwire",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-copy-at-highwire-4430114539",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "20 hours ago",
@@ -73,48 +136,21 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Content Marketing - Gold House",
-      "link": "https://www.linkedin.com/jobs/view/director-of-content-marketing-at-gold-house-4429709215",
+      "title": "Director, Game Design - Game Modes (Apex Legends) - Respawn Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/director-game-design-game-modes-apex-legends-at-respawn-entertainment-4427807007",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "19 hours ago",
+      "source": "Respawn Entertainment"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Internal Communications - Crunchyroll",
+      "link": "https://www.linkedin.com/jobs/view/director-internal-communications-at-crunchyroll-4428759829",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Gold House"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Marketing Director - Confidential",
-      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-confidential-4428446013",
-      "alert": false,
-      "location": "Los Angeles County, CA",
-      "date": "14 hours ago",
-      "source": "Confidential"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Product Design - Fox Corporation",
-      "link": "https://www.linkedin.com/jobs/view/director-product-design-at-fox-corporation-4429749540",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "14 hours ago",
-      "source": "Fox Corporation"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Brand and Integrated Marketing - Whatnot",
-      "link": "https://www.linkedin.com/jobs/view/director-of-brand-and-integrated-marketing-at-whatnot-4408951341",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "56 minutes ago",
-      "source": "Whatnot"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Product Design & Experience - Herbalife",
-      "link": "https://www.linkedin.com/jobs/view/director-product-design-experience-at-herbalife-4429719378",
-      "alert": false,
-      "location": "Torrance, CA",
-      "date": "18 hours ago",
-      "source": "Herbalife"
+      "date": "17 hours ago",
+      "source": "Crunchyroll"
     },
     {
       "platform": "Central Casting",
@@ -136,6 +172,26 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-mfbx4",
       "alert": false,
       "date": "May 26, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Prison Tactical Team",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "AA Attendees",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "VARIOUS MARS ROLES",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -184,27 +240,6 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Inmate",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Fishermen w/ Fishing Poles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "BG w/ Dogs",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Aquent",
       "title": "Creative Director",
       "link": "https://aquent.com/find-work/210919",
@@ -220,124 +255,115 @@
     },
     {
       "platform": "Respondent",
-      "title": "Small and medium business owners needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a32befe9ccbe240d4dd4105",
+      "title": "Seeking Experts",
+      "link": "https://app.respondent.io/next/participants/projects/6a341834e77a6319af68083c",
       "alert": true,
       "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Competitive Pricing Intel",
-      "link": "https://app.respondent.io/next/participants/projects/6a2ac1aa1c00cc6fe0b94a52",
-      "alert": true,
-      "pay": "$500",
-      "duration": "180 min"
+      "title": "Sourcing Managers Wanted: Earn $45 in 45-Minute Prototype Test with GEP",
+      "link": "https://app.respondent.io/next/participants/projects/6a29b62ce962e86883982b51",
+      "alert": false,
+      "pay": "$45",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Competitive Pricing Intel 3",
-      "link": "https://app.respondent.io/next/participants/projects/6a2ac2bf8dca064996d8789f",
+      "title": "Looking for professionals to discuss authorized signed management and delegated authority",
+      "link": "https://app.respondent.io/next/participants/projects/6a34153cc03268402f1e441b",
       "alert": true,
-      "pay": "$500",
-      "duration": "180 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "IT, Ops, and Security professionals wanted to evaluate the website of a global networking provider!",
-      "link": "https://app.respondent.io/next/participants/projects/6a32ac0be0dbbbbfd21174e3",
-      "alert": true,
-      "pay": "$75",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Looking for Fraud & Risk Leaders",
-      "link": "https://app.respondent.io/next/participants/projects/6a32a3f6ac4b4b2368face74",
-      "alert": true,
-      "pay": "$200",
+      "pay": "$250",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Share Your Marketing Leadership Perspective",
-      "link": "https://app.respondent.io/next/participants/projects/6a327f969511c52cf37260ae",
+      "title": "Construction and Contracting Professionals: We Want To Hear From You!",
+      "link": "https://app.respondent.io/next/participants/projects/6a3413b0815d19f0fd4596d0",
       "alert": true,
       "pay": "$50",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Survey Creators Needed for a Feedback Session",
+      "link": "https://app.respondent.io/next/participants/projects/6a303cb42795ee0b284620a2",
+      "alert": true,
+      "pay": "$125",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "We'd like your feedback on a blog post!",
+      "link": "https://app.respondent.io/next/participants/projects/6a3404c775af53ee2c0a3b06",
+      "alert": false,
+      "pay": "$15",
       "duration": "15 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking Pricing Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a325088f65f90e434bb6730",
-      "alert": false,
-      "pay": "$20",
+      "title": "Help Shape the Future of Agentic AI Governance for Software Development",
+      "link": "https://app.respondent.io/next/participants/projects/6a33dfbf0127771d92d7b2f0",
+      "alert": true,
+      "pay": "$50",
       "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a3261d26c91a2ab501fc084",
+      "title": "Help Shape the Future of Security and Compliance Workflows for Software Development",
+      "link": "https://app.respondent.io/next/participants/projects/6a33df9b6bb494f560cc5299",
       "alert": false,
-      "pay": "$35",
-      "duration": "15 minutes"
+      "pay": "$40",
+      "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Help a well-known brand understand what girls your daughter's age think about their advertising",
-      "link": "https://app.respondent.io/next/participants/projects/6a325e99509da1078e7199e2",
+      "title": "Short recorded chat about home tech",
+      "link": "https://app.respondent.io/next/participants/projects/6a33b8256bb494f5605643ec",
       "alert": false,
-      "pay": "$20",
-      "duration": "15 min"
+      "pay": "$7",
+      "duration": "7 min"
     },
     {
       "platform": "Respondent",
-      "title": "Tell us about your experiences with merchandise!",
-      "link": "https://app.respondent.io/next/participants/projects/6a324b9e27e8a8c3482ff032",
-      "alert": true,
-      "pay": "$55",
-      "duration": "30 minutes"
+      "title": "Share Your Food Experiences",
+      "link": "https://app.respondent.io/next/participants/projects/6a33b5b026c150ab846691e2",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Products you may purchase and use",
-      "link": "https://www.userinterviews.com/projects/CpXaLn9sWg/apply",
-      "pay": "$30",
-      "duration": "30 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/9D7TDw8idg/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Products you may purchase and use",
-      "link": "https://www.userinterviews.com/projects/s2DtnXziww/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Products you may purchase and use",
-      "link": "https://www.userinterviews.com/projects/MUWbNhpj4g/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/LQdZQxYJBw/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
       "title": "Your Thoughts about Shopping Apps",
-      "link": "https://www.userinterviews.com/projects/lWVr3y5BgQ/apply",
+      "link": "https://www.userinterviews.com/projects/rflM_dOn6A/apply",
       "pay": "$30",
-      "duration": "24 MIN",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Customer Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/L47G-Vnd-Q/apply",
+      "title": "Let's talk about banks! Data Collection - Research Study",
+      "link": "https://www.userinterviews.com/projects/w25IGTfL-A/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -345,8 +371,8 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Tech Insights Research Study",
-      "link": "https://www.userinterviews.com/projects/pzWz0eZ0og/apply",
+      "title": "We want to speak with you! Data Triangulation - Research Study",
+      "link": "https://www.userinterviews.com/projects/AyP3hTtRlg/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -354,37 +380,46 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Get Paid $150 to Help Shape the Future of Salon Suite Management",
-      "link": "https://www.userinterviews.com/projects/ZQCuNLkrsw/apply",
-      "pay": "$150",
-      "duration": "60 MIN",
+      "title": "Insights Research Study",
+      "link": "https://www.userinterviews.com/projects/YB05Vt3bzA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "How are you building and deploying Agentic AI?",
-      "link": "https://www.userinterviews.com/projects/kfEu2uVBNg/apply",
-      "pay": "$200",
-      "duration": "60 MIN",
+      "title": "Welcome to your style interview",
+      "link": "https://www.userinterviews.com/projects/wInwN3Z-2g/apply",
+      "pay": "$30",
+      "duration": "26 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Do you like to sell special items? Tell us about it in this study! #429814",
-      "link": "https://www.userinterviews.com/projects/EgaN_DdV1Q/apply",
-      "pay": "$25",
+      "title": "Share Your Health & Wellness Routine",
+      "link": "https://www.userinterviews.com/projects/DV18zV20BQ/apply",
+      "pay": "$10",
+      "duration": "21 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Health & Wellness Routine",
+      "link": "https://www.userinterviews.com/projects/w-EEwl5nIw/apply",
+      "pay": "$18",
+      "duration": "22 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Market Study - Value proposition from IT Services firms (MSPs, Dev-Shops, Consulting)",
+      "link": "https://www.userinterviews.com/projects/RkxeFE-8Vw/apply",
+      "pay": "$80",
       "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Professional Experience (10 min)",
-      "link": "https://www.userinterviews.com/projects/ODtka-ENPA/apply",
-      "pay": "$20",
-      "duration": "10 min",
       "source": "UserInterviews",
       "alert": false
     }
@@ -397,7 +432,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 2
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
