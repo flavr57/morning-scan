@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-19T15:58:25.248732+00:00",
+  "generated": "2026-06-20T15:02:12.687251+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Luna Magic Beauty Model Call",
+      "link": "https://projectcasting.com/job/luna-magic-beauty-model-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "June 19, 2026",
+      "source": "LUNA MAGIC",
+      "short_description": "A beauty brand is seeking models for an upcoming beauty-focused photoshoot. Casting directors are looking for confident, camera-ready individuals with a passion for beauty, skincare, makeup, or lif...",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Videographer",
+      "link": "https://projectcasting.com/job/videographer-13",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "June 19, 2026",
+      "source": "Hollister Brazilian Jiu-Jitsu",
+      "short_description": "A growing martial arts academy is seeking a passionate videographer or content creator to help capture classes, competitions, athlete highlights, and promotional content.",
+      "production_type": "Social Media Content"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Curly Hair Model Casting Call",
+      "link": "https://projectcasting.com/job/curly-hair-model-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "June 19, 2026",
+      "source": "THE CURL LOUNGE SACRAMENTO",
+      "short_description": "A salon is seeking curly-haired models to receive a professional curly haircut while helping junior stylists gain hands-on experience under expert supervision.",
+      "production_type": "Modeling"
+    },
     {
       "platform": "Project Casting",
       "title": "Livestream Crew Casting Call for Student Fashion Show",
@@ -51,118 +87,94 @@
       "production_type": "Modeling"
     },
     {
-      "platform": "Project Casting",
-      "title": "Basketball Fans Casting Call for Video Content Creation",
-      "link": "https://projectcasting.com/job/basketball-fans-casting-call-for-video-content-creation",
-      "alert": true,
-      "pay": "$$",
+      "platform": "LinkedIn",
+      "title": "Creative Director-Health & Wellness - Hi-Altitude Brands",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-health-wellness-at-hi-altitude-brands-4431148617",
+      "alert": false,
       "location": "Los Angeles, CA",
-      "date": "June 18, 2026",
-      "source": "Lauren Waters Casting",
-      "short_description": "A new paid casting opportunity is seeking passionate basketball fans and content creators in Los Angeles to participate in a video production for House of Highlights.",
-      "production_type": "Documentary"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Brand Ambassador Casting Call for Promotional Events",
-      "link": "https://projectcasting.com/job/brand-ambassador-casting-call-for-promotional-events-4",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "June 17, 2026",
-      "source": "The Allure Agency",
-      "short_description": "The Allure Agency is seeking experienced Brand Ambassadors for promotional and event marketing opportunities throughout Northern California.",
-      "production_type": "Live Event"
+      "date": "16 hours ago",
+      "source": "Hi-Altitude Brands"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Agency - times10",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-agency-at-times10-4430752388",
+      "title": "Director, Global Creative Advertising - Sony Pictures Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/director-global-creative-advertising-at-sony-pictures-entertainment-4431117700",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "17 hours ago",
-      "source": "times10"
+      "location": "Culver City, CA",
+      "date": "19 hours ago",
+      "source": "Sony Pictures Entertainment"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Creative Technology / Experiential - Tomorrow Recruitment Ltd | B Corp\u2122",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-creative-technology-experiential-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4427857367",
+      "title": "Senior Art Director - LegalZoom",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-legalzoom-4380711860",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+      "date": "21 hours ago",
+      "source": "LegalZoom"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Design - United Talent Agency",
-      "link": "https://www.linkedin.com/jobs/view/director-design-at-united-talent-agency-4417902339",
+      "title": "TikTok Creative Manager - Dr. Squatch",
+      "link": "https://www.linkedin.com/jobs/view/tiktok-creative-manager-at-dr-squatch-4411766927",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Marina del Rey, CA",
+      "date": "8 minutes ago",
+      "source": "Dr. Squatch"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Account Director - Movement Strategy",
+      "link": "https://www.linkedin.com/jobs/view/account-director-at-movement-strategy-4246120757",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
       "date": "1 hour ago",
-      "source": "United Talent Agency"
+      "source": "Movement Strategy"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director (onsite in Sherman Oaks) - Seed Beauty/ColourPop",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-onsite-in-sherman-oaks-at-seed-beauty-colourpop-4429684292",
+      "title": "Principal Creative, Copy - Circle",
+      "link": "https://www.linkedin.com/jobs/view/principal-creative-copy-at-circle-4400476264",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Los Angeles Metropolitan Area",
       "date": "1 hour ago",
-      "source": "Seed Beauty/ColourPop"
+      "source": "Circle"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Social Media & AI Marketing | $75K-$150K + Bonus - ChatGPT Jobs",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-social-media-ai-marketing-%2475k-%24150k-%2B-bonus-at-chatgpt-jobs-4427863832",
+      "title": "Director, Digital Strategy, North America - Universal Music Group",
+      "link": "https://www.linkedin.com/jobs/view/director-digital-strategy-north-america-at-universal-music-group-4420989962",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "ChatGPT Jobs"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director, Digital Marketing - Activision Blizzard",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-activision-blizzard-4428213188",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "11 hours ago",
-      "source": "Activision Blizzard"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director, Digital Marketing - Activision",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-activision-4430794291",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "14 hours ago",
-      "source": "Activision"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Product Design - Warner Bros. Discovery",
-      "link": "https://www.linkedin.com/jobs/view/director-product-design-at-warner-bros-discovery-4411421542",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "22 hours ago",
-      "source": "Warner Bros. Discovery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Catalog Marketing (Pop/Rock) - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-catalog-marketing-pop-rock-at-universal-music-group-4345891054",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "6 hours ago",
+      "location": "Beverly Hills, CA",
+      "date": "5 hours ago",
       "source": "Universal Music Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Freelance Influencer Campaign Director - Pixly - Influencer Marketing",
-      "link": "https://www.linkedin.com/jobs/view/freelance-influencer-campaign-director-at-pixly-influencer-marketing-4429382392",
+      "title": "Art Director, PV Sports Marketing - Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/jobs/view/art-director-pv-sports-marketing-at-prime-video-amazon-mgm-studios-4421351152",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "1 hour ago",
+      "source": "Prime Video & Amazon MGM Studios"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Manager, Creative Content Kids & Preschool (Fashion Doll Brands) - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/manager-creative-content-kids-preschool-fashion-doll-brands-at-mattel-inc-4421333806",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "2 hours ago",
+      "source": "Mattel, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Directeur principal de l'engagement / Senior Engagement Director - Motive Studio",
+      "link": "https://www.linkedin.com/jobs/view/directeur-principal-de-l-engagement-senior-engagement-director-at-motive-studio-4378995804",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "Pixly - Influencer Marketing"
+      "date": "23 hours ago",
+      "source": "Motive Studio"
     },
     {
       "platform": "Central Casting",
@@ -260,142 +272,160 @@
     },
     {
       "platform": "Respondent",
-      "title": "Seeking IT professionals experienced in parallel file systems",
-      "link": "https://app.respondent.io/next/participants/projects/6a271d17e3ff70b1f39711b3",
+      "title": "Do you work in Construction/shop at Home Depot?",
+      "link": "https://app.respondent.io/next/participants/projects/6a3684880b9dc5879567e6ea",
       "alert": false,
-      "pay": "$75",
+      "pay": "$80",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Logistics Professionals: Share Your Freight Agreement Workflow",
-      "link": "https://app.respondent.io/next/participants/projects/6a3527ac84a654315d78e9ed",
+      "title": "Study on Consumer Cleaning and Shopping Habits: Blogging & Interview Participation",
+      "link": "https://app.respondent.io/next/participants/projects/6a347b1ac03268402f49b29f",
       "alert": true,
-      "pay": "$125",
-      "duration": "75 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Professional Truck Dealers: Sharing Your Experiences",
-      "link": "https://app.respondent.io/next/participants/projects/6a353cf8880452b7f419549a",
-      "alert": true,
-      "pay": "$85",
+      "pay": "$100",
       "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Share your thoughts on sodas and get rewarded!",
-      "link": "https://app.respondent.io/next/participants/projects/6a351274880452b7f4be248c",
-      "alert": false,
-      "pay": "$35",
-      "duration": "25 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share your thoughts on sodas and get rewarded!",
-      "link": "https://app.respondent.io/next/participants/projects/6a35118fa39f5bb6217a33bc",
-      "alert": false,
-      "pay": "$35",
-      "duration": "25 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share Your Food Flavour Opinions",
-      "link": "https://app.respondent.io/next/participants/projects/6a3501bbd1d86797bc8f6d48",
+      "title": "Talk about your life goals [non-english]",
+      "link": "https://app.respondent.io/next/participants/projects/6a35d39c1da2024441be8b1b",
       "alert": false,
       "pay": "$10",
-      "duration": "15 min"
+      "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Exploring Your Music Experience and Digital Tools",
-      "link": "https://app.respondent.io/next/participants/projects/6a34d628e4570bccad971148",
-      "alert": false,
-      "pay": "$50",
-      "duration": "50 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share how you run your research",
-      "link": "https://app.respondent.io/next/participants/projects/6a34a11420da42fd09bc2afa",
+      "title": "Microsoft Security Professionals: Feedback Sessions on Identity & Security Workflows",
+      "link": "https://app.respondent.io/next/participants/projects/6a35c803f234ec87a7e5dad4",
       "alert": true,
-      "pay": "$130",
-      "duration": "30 min"
+      "pay": "$125",
+      "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "\ud83d\uded2\u2728 Quick Shopping Study \u2013 Earn $20 \ud83d\udcb3",
-      "link": "https://app.respondent.io/next/participants/projects/6a348f5a8fe863725a9a47ec",
-      "alert": false,
-      "pay": "$20",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Professional Fleet Managers: Sharing Your Experiences",
-      "link": "https://app.respondent.io/next/participants/projects/6a3485406bb494f560acf7bb",
+      "title": "IT Professionals: Share Your Azure Deployment Experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a342b503a96fd90b963e8a8",
       "alert": true,
+      "pay": "$150",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "You Treat COPD and Asthma Every Day. Help Us Build Something That Actually Helps (Paid)",
+      "link": "https://app.respondent.io/next/participants/projects/6a355b603da686f1d78adb42",
+      "alert": true,
+      "pay": "$300",
+      "duration": "60 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Home Networking Users: 60 minute Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a3567905b277cda09c0d3b7",
+      "alert": false,
       "pay": "$75",
-      "duration": "30 min"
+      "duration": "60 minute"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Research Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a3584a8a5b662c9d75947a2",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Research Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a358459f234ec87a7243768",
+      "alert": false,
+      "pay": "$10",
+      "duration": "10 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Buscamos compradores de nueces para reposter\u00eda",
+      "link": "https://app.respondent.io/next/participants/projects/6a3582a13da686f1d7ed1eb1",
+      "alert": false,
+      "pay": "$15",
+      "duration": "45 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Your eating & food purchasing habits",
-      "link": "https://www.userinterviews.com/projects/kI98l4U4aA/apply",
-      "pay": "$60",
-      "duration": "90 MIN",
+      "title": "Twoje codzienne nawyki zakupowe [P-30567-8]/430652",
+      "link": "https://www.userinterviews.com/projects/pEnQIWBHng/apply",
+      "pay": "$40",
+      "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Test Your Xumo TV Functionality! [United States]",
-      "link": "https://www.userinterviews.com/projects/TbBrh3nRMQ/apply",
+      "title": "Tus h\u00e1bitos de compra diarios [P-30567-6]/430651",
+      "link": "https://www.userinterviews.com/projects/iDAvZM4yLA/apply",
+      "pay": "$40",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Studio di ricerca qualitativa, serve il tuo contributo - 430650",
+      "link": "https://www.userinterviews.com/projects/Phj6h8gRlA/apply",
       "pay": "$25",
-      "duration": "60 MIN",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Study for Retail Professionals",
-      "link": "https://www.userinterviews.com/projects/nDlVIEjwMw/apply",
-      "pay": "$85",
+      "title": "Shopping Research Study",
+      "link": "https://www.userinterviews.com/projects/d9Vq_pE4aQ/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Opinions on Personal Care",
+      "link": "https://www.userinterviews.com/projects/hWWItUseIA/apply",
+      "pay": "$14",
+      "duration": "34 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Insights Research Study",
+      "link": "https://www.userinterviews.com/projects/i2hsIz-EPw/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Study About Databases",
+      "link": "https://www.userinterviews.com/projects/85GDjQlkXg/apply",
+      "pay": "$49",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Dog Dental Treat Focus Group - Philadelphia",
-      "link": "https://www.userinterviews.com/projects/Eb2HsQFA6w/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your experience on skin care with us and get rewarded! [P-30570-5] 38-45 No7 , 430482",
-      "link": "https://www.userinterviews.com/projects/h7G6hVUQ_Q/apply",
-      "pay": "$25",
+      "title": "Explore data with an AI tool for Excel",
+      "link": "https://www.userinterviews.com/projects/foIcyLN-wg/apply",
+      "pay": "$20",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your experience on skin care with us and get rewarded! [P-30570-2/430481]",
-      "link": "https://www.userinterviews.com/projects/SEd7bYYuHQ/apply",
-      "pay": "$25",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Try a new app for 3 days and share your feedback",
-      "link": "https://www.userinterviews.com/projects/5O3Sh6g-QA/apply",
+      "title": "User Study \u2014 Brazilians Sending Money from the U.S.",
+      "link": "https://www.userinterviews.com/projects/jlRrTmmufQ/apply",
       "pay": "$30",
       "duration": "30 MIN",
       "source": "UserInterviews",
@@ -403,28 +433,10 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Twoje codzienne nawyki zakupowe [P-30567-4/430469]",
-      "link": "https://www.userinterviews.com/projects/Ygu4vCUYvQ/apply",
+      "title": "Product Selection & Supply Insights Study",
+      "link": "https://www.userinterviews.com/projects/aAMRHLeLyQ/apply",
       "pay": "$40",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Tus h\u00e1bitos de compra diarios [P-30567-3/430467]",
-      "link": "https://www.userinterviews.com/projects/oYp29sosdw/apply",
-      "pay": "$40",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Le tue abitudini di acquisto quotidiane [P-30567-2/430466]",
-      "link": "https://www.userinterviews.com/projects/UrNc46qJFA/apply",
-      "pay": "$40",
-      "duration": "35 MIN",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -437,7 +449,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
