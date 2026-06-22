@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T15:10:12.751846+00:00",
+  "generated": "2026-06-22T17:28:53.106113+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -88,48 +88,93 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - Pivot Marketing Group",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-pivot-marketing-group-4430096432",
+      "title": "Creative Director - Pressed Juicery",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-pressed-juicery-4404470287",
       "alert": false,
-      "location": "Long Beach, CA",
-      "date": "16 hours ago",
-      "source": "Pivot Marketing Group"
+      "location": "Culver City, CA",
+      "date": "2 hours ago",
+      "source": "Pressed Juicery"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Affiliate & Creator Marketing - SKINN",
-      "link": "https://www.linkedin.com/jobs/view/director-of-affiliate-creator-marketing-at-skinn-4428083993",
-      "alert": false,
-      "location": "Compton, CA",
-      "date": "21 hours ago",
-      "source": "SKINN"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Franchise Marketing Analytics - Electronic Arts (EA)",
-      "link": "https://www.linkedin.com/jobs/view/director-franchise-marketing-analytics-at-electronic-arts-ea-4409623982",
+      "title": "Associate Creative Director - SOCIAL HOUSE, INC.\u00ae",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-social-house-inc-%C2%AE-4430332699",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Electronic Arts (EA)"
+      "date": "1 day ago",
+      "source": "SOCIAL HOUSE, INC.\u00ae"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Software Engineer - Foundations (Apex Legends) - Respawn Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-foundations-apex-legends-at-respawn-entertainment-4380208703",
+      "title": "Director A&R - AWAL - Sony Music Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/director-a-r-awal-at-sony-music-entertainment-4405347947",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "53 minutes ago",
+      "source": "Sony Music Entertainment"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Art Director - Movement Strategy",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-movement-strategy-4431727774",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "20 hours ago",
-      "source": "Respawn Entertainment"
+      "date": "1 hour ago",
+      "source": "Movement Strategy"
     },
     {
       "platform": "LinkedIn",
-      "title": "Insomniac - Digital Advertiser, Paid Social - Live Nation Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/insomniac-digital-advertiser-paid-social-at-live-nation-entertainment-4311188312",
+      "title": "Director, B2B Communications - Ladders",
+      "link": "https://www.linkedin.com/jobs/view/director-b2b-communications-at-ladders-4428944101",
       "alert": false,
-      "location": "Calabasas, CA",
-      "date": "1 hour ago",
-      "source": "Live Nation Entertainment"
+      "location": "Los Angeles, CA",
+      "date": "7 hours ago",
+      "source": "Ladders"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sales/Marketing Director (International Trading) (CA/YM) - Activ8 Recruitment & Solutions",
+      "link": "https://www.linkedin.com/jobs/view/sales-marketing-director-international-trading-ca-ym-at-activ8-recruitment-solutions-4431659106",
+      "alert": false,
+      "location": "Cerritos, CA",
+      "date": "10 hours ago",
+      "source": "Activ8 Recruitment & Solutions"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Manager, Creative Services - Warner Music Group",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-creative-services-at-warner-music-group-4416295295",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "Warner Music Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Producer - Ethos",
+      "link": "https://www.linkedin.com/jobs/view/senior-producer-at-ethos-4404441814",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "5 hours ago",
+      "source": "Ethos"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Content Producer (Freelance) - Melbourne Social Co",
+      "link": "https://www.linkedin.com/jobs/view/content-producer-freelance-at-melbourne-social-co-4430370722",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "13 hours ago",
+      "source": "Melbourne Social Co"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Designer, Device Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/sr-designer-device-brand-studio-at-amazon-4382384300",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "2 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "Central Casting",
@@ -151,6 +196,20 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-mfbx4",
       "alert": false,
       "date": "May 26, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Stand-In #17 Finch",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Luxury Vehicles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -207,18 +266,6 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "NU Bus Stop Passengers",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Background w. Pre-2008 Car",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "Aquent",
       "title": "Hands-on Art Director",
       "link": "https://aquent.com/find-work/210985",
@@ -227,171 +274,171 @@
     },
     {
       "platform": "Respondent",
-      "title": "We want to talk to people that deal with those pesky insects in their home/apartment!",
-      "link": "https://app.respondent.io/next/participants/projects/6a36e9502704e270a854f253",
-      "alert": true,
-      "pay": "$200",
-      "duration": "90 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "iPhone Users: Get Paid to Test the Earn App by Making Your First Trade on eToro",
-      "link": "https://app.respondent.io/next/participants/projects/6a36e27f0b9dc587953ed703",
-      "alert": true,
-      "pay": "$60",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Ladder Current Customers: Share Your Workout App Experience",
-      "link": "https://app.respondent.io/next/participants/projects/6a3556c42434b0fb3ebdd2a2",
+      "title": "Explore managing your online payments",
+      "link": "https://app.respondent.io/next/participants/projects/6a395e5100de4a7c2f587b14",
       "alert": false,
-      "pay": "$30",
-      "duration": "30 min"
+      "pay": "$14",
+      "duration": "14 min"
     },
     {
       "platform": "Respondent",
-      "title": "Do you work in Construction/shop at Home Depot?",
-      "link": "https://app.respondent.io/next/participants/projects/6a3685eb398861c4f636f46f",
-      "alert": false,
-      "pay": "$80",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Do you work in Construction/shop at Home Depot?",
-      "link": "https://app.respondent.io/next/participants/projects/6a3684880b9dc5879567e6ea",
-      "alert": false,
-      "pay": "$80",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Study on Consumer Cleaning and Shopping Habits: Blogging & Interview Participation",
-      "link": "https://app.respondent.io/next/participants/projects/6a347b1ac03268402f49b29f",
+      "title": "Help shape the future of your software",
+      "link": "https://app.respondent.io/next/participants/projects/6a358c213ff86919e3fae388",
       "alert": true,
       "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeklng Internet Users",
+      "link": "https://app.respondent.io/next/participants/projects/6a393c12df216f09671b1b8f",
+      "alert": true,
+      "pay": "$50",
       "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Talk about your life goals [non-english]",
-      "link": "https://app.respondent.io/next/participants/projects/6a35d39c1da2024441be8b1b",
+      "title": "We'd like your feedback on an online shopping experience!",
+      "link": "https://app.respondent.io/next/participants/projects/6a393caf9d6baeda86e866ec",
       "alert": false,
       "pay": "$10",
-      "duration": "20 min"
+      "duration": "10 min"
     },
     {
       "platform": "Respondent",
-      "title": "Microsoft Security Professionals: Feedback Sessions on Identity & Security Workflows",
-      "link": "https://app.respondent.io/next/participants/projects/6a35c803f234ec87a7e5dad4",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://app.respondent.io/next/participants/projects/6a391b0f9e0286d5959a3c73",
+      "alert": false,
+      "pay": "$35",
+      "duration": "35 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://app.respondent.io/next/participants/projects/6a391a96e5f574edfc1bcf2d",
+      "alert": false,
+      "pay": "$35",
+      "duration": "35 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://app.respondent.io/next/participants/projects/6a3918988c827f2107bd24a2",
+      "alert": false,
+      "pay": "$35",
+      "duration": "35 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://app.respondent.io/next/participants/projects/6a3917d6009b691cc5163419",
+      "alert": false,
+      "pay": "$35",
+      "duration": "35 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Fuel Your Workday",
+      "link": "https://app.respondent.io/next/participants/projects/6a38feb99c4f336b17eecbfe",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Experienced Organizers Needed: Help Shape Audience-Building Tools for Advocacy",
+      "link": "https://app.respondent.io/next/participants/projects/6a345e03cef429728bef8177",
       "alert": true,
-      "pay": "$125",
+      "pay": "$100",
       "duration": "60 min"
     },
     {
-      "platform": "Respondent",
-      "title": "IT Professionals: Share Your Azure Deployment Experience",
-      "link": "https://app.respondent.io/next/participants/projects/6a342b503a96fd90b963e8a8",
-      "alert": true,
-      "pay": "$150",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "You Treat COPD and Asthma Every Day. Help Us Build Something That Actually Helps (Paid)",
-      "link": "https://app.respondent.io/next/participants/projects/6a355b603da686f1d78adb42",
-      "alert": true,
-      "pay": "$300",
-      "duration": "60 minutes"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed [P-30508-4]/430692",
-      "link": "https://www.userinterviews.com/projects/rVWqr5XPDw/apply",
-      "pay": "$40",
-      "duration": "40 MIN",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/Q9XGhEMp-A/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your opinion on your daily work tools",
-      "link": "https://www.userinterviews.com/projects/4D2hqLnaHA/apply",
-      "pay": "$25",
-      "duration": "19 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Shopping & Lifestyle Opinions",
-      "link": "https://www.userinterviews.com/projects/OlKkLXXoTg/apply",
-      "pay": "$12",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Shopping & Lifestyle Opinions",
-      "link": "https://www.userinterviews.com/projects/118vBTQjgg/apply",
+      "title": "Sportsbook App Testing Opportunity in CO",
+      "link": "https://www.userinterviews.com/projects/cNuGAuptig/apply",
       "pay": "$30",
-      "duration": "24 MIN",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "AI Users",
-      "link": "https://www.userinterviews.com/projects/TG-Kk_l4yQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your experience with tools you use at work",
-      "link": "https://www.userinterviews.com/projects/_W3AimrmDg/apply",
-      "pay": "$21",
-      "duration": "16 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Work in Marketing or strategy?",
-      "link": "https://www.userinterviews.com/projects/fRguwW_ZqQ/apply",
-      "pay": "$75",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Experience in Your Industry",
-      "link": "https://www.userinterviews.com/projects/n0PLxQKYxA/apply",
-      "pay": "$10",
-      "duration": "17 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Twoje codzienne nawyki zakupowe [P-30567-8]/430652",
-      "link": "https://www.userinterviews.com/projects/pEnQIWBHng/apply",
-      "pay": "$40",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/vCykIZ2dDQ/apply",
+      "pay": "$35",
       "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Tus h\u00e1bitos de compra diarios [P-30567-6]/430651",
-      "link": "https://www.userinterviews.com/projects/iDAvZM4yLA/apply",
-      "pay": "$40",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/iTc1tswPYA/apply",
+      "pay": "$35",
       "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/MUKlKT6zdA/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/OemM3rvjKA/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/UORovjpthQ/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/XqkwwOAydQ/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Tell Us Your Thoughts On Quickly Accessing Company Information",
+      "link": "https://www.userinterviews.com/projects/4L3zoGYugg/apply",
+      "pay": "$41",
+      "duration": "26 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Frequent Flyer? We want to hear from you!",
+      "link": "https://www.userinterviews.com/projects/gLvckFz6AQ/apply",
+      "pay": "$25",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -408,7 +455,7 @@
     },
     "LinkedIn": {
       "status": "ok",
-      "count": 5
+      "count": 10
     },
     "Central Casting": {
       "status": "ok",
