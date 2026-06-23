@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-22T17:28:53.106113+00:00",
+  "generated": "2026-06-23T15:45:07.673447+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "BET Week \u2013 Internship",
+      "link": "https://projectcasting.com/job/bet-week-internship",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "June 23, 2026",
+      "source": "Level Entertainment Group",
+      "short_description": "An exciting entertainment internship opportunity is available for aspiring industry professionals looking to gain hands-on experience during one of the most influential weeks in entertainment.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Communications & Social Media Internships",
+      "link": "https://projectcasting.com/job/communications-social-media-internships",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "June 22, 2026",
+      "source": "NALIP",
+      "short_description": "NALIP is seeking a motivated intern through the Los Angeles County Department of Arts and Culture Internship Program to support the organization\u2019s signature event, the NALIP Media Summit.",
+      "production_type": "Entertainment jobs & Crew"
+    },
     {
       "platform": "Project Casting",
       "title": "Luna Magic Beauty Model Call",
@@ -39,142 +63,94 @@
       "production_type": "Modeling"
     },
     {
-      "platform": "Project Casting",
-      "title": "Livestream Crew Casting Call for Student Fashion Show",
-      "link": "https://projectcasting.com/job/livestream-crew-casting-call-for-student-fashion-show",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "June 18, 2026",
-      "source": "Pasadena City College",
-      "short_description": "Pasadena City College is seeking an experienced livestream professional or production team to manage and broadcast a student fashion show.",
-      "production_type": "Fashion Show"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Now Casting: Naturally Hot",
-      "link": "https://projectcasting.com/job/now-casting-naturally-hot",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "June 18, 2026",
-      "source": "Paul Head Casting",
-      "short_description": "A paid social experiment competition is seeking naturally attractive individuals who are often complimented on their appearance and frequently turn heads wherever they go.",
-      "production_type": "Reality Show"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Film Crew Casting Call for Indie Music Video Production",
-      "link": "https://projectcasting.com/job/film-crew-casting-call-for-indie-music-video-production",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "June 18, 2026",
-      "source": "Jordyn Tareaz Productions",
-      "short_description": "An independent pop artist is seeking creative crew members for a paid music video production in Los Angeles. The project features a hyperpop-meets-nostalgic-nightlife aesthetic, incorporating flash...",
-      "production_type": "Music Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Models Casting Call for Creative Photoshoot",
-      "link": "https://projectcasting.com/job/models-casting-call-for-creative-photoshoot",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "June 18, 2026",
-      "source": "Betina Herrera",
-      "short_description": "A creative photoshoot in Los Angeles is seeking models interested in lifestyle, luxury, events, and social media content.",
-      "production_type": "Modeling"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director - Pressed Juicery",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-pressed-juicery-4404470287",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "2 hours ago",
-      "source": "Pressed Juicery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - SOCIAL HOUSE, INC.\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-social-house-inc-%C2%AE-4430332699",
+      "title": "Creative Lead - Americas - TikTok",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-americas-at-tiktok-4430578596",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 day ago",
-      "source": "SOCIAL HOUSE, INC.\u00ae"
+      "date": "20 hours ago",
+      "source": "TikTok"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director A&R - AWAL - Sony Music Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/director-a-r-awal-at-sony-music-entertainment-4405347947",
+      "title": "Creative Director (onsite in Sherman Oaks) - Seed Beauty/ColourPop",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-onsite-in-sherman-oaks-at-seed-beauty-colourpop-4431795613",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "53 minutes ago",
-      "source": "Sony Music Entertainment"
+      "date": "20 hours ago",
+      "source": "Seed Beauty/ColourPop"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Art Director - Movement Strategy",
-      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-movement-strategy-4431727774",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
-      "source": "Movement Strategy"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, B2B Communications - Ladders",
-      "link": "https://www.linkedin.com/jobs/view/director-b2b-communications-at-ladders-4428944101",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Ladders"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sales/Marketing Director (International Trading) (CA/YM) - Activ8 Recruitment & Solutions",
-      "link": "https://www.linkedin.com/jobs/view/sales-marketing-director-international-trading-ca-ym-at-activ8-recruitment-solutions-4431659106",
-      "alert": false,
-      "location": "Cerritos, CA",
-      "date": "10 hours ago",
-      "source": "Activ8 Recruitment & Solutions"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Manager, Creative Services - Warner Music Group",
-      "link": "https://www.linkedin.com/jobs/view/senior-manager-creative-services-at-warner-music-group-4416295295",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Warner Music Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Producer - Ethos",
-      "link": "https://www.linkedin.com/jobs/view/senior-producer-at-ethos-4404441814",
+      "title": "Group Social Creative Lead, Brand Studio - Google",
+      "link": "https://www.linkedin.com/jobs/view/group-social-creative-lead-brand-studio-at-google-4432240087",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "5 hours ago",
-      "source": "Ethos"
+      "source": "Google"
     },
     {
       "platform": "LinkedIn",
-      "title": "Content Producer (Freelance) - Melbourne Social Co",
-      "link": "https://www.linkedin.com/jobs/view/content-producer-freelance-at-melbourne-social-co-4430370722",
+      "title": "Associate Creative Director, Design (Remote) - Weedmaps",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-remote-at-weedmaps-4429417762",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "16 hours ago",
+      "source": "Weedmaps"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Brand - Confidential",
+      "link": "https://www.linkedin.com/jobs/view/director-of-brand-at-confidential-4432042160",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Melbourne Social Co"
+      "date": "17 hours ago",
+      "source": "Confidential"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr. Designer, Device Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/sr-designer-device-brand-studio-at-amazon-4382384300",
+      "title": "Associate Creative Director, Design (Hybrid) - Weedmaps",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-hybrid-at-weedmaps-4429409893",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "2 hours ago",
-      "source": "Amazon"
+      "location": "Irvine, CA",
+      "date": "16 hours ago",
+      "source": "Weedmaps"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Content - Jubilee Media",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-at-jubilee-media-4431786593",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "Jubilee Media"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Digital Studio - Rivian",
+      "link": "https://www.linkedin.com/jobs/view/director-of-digital-studio-at-rivian-4430855900",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "10 hours ago",
+      "source": "Rivian"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr Art Director - MACH27",
+      "link": "https://www.linkedin.com/jobs/view/sr-art-director-at-mach27-4432011208",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "19 hours ago",
+      "source": "MACH27"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Global Social Brand and Marketing Leader - EY",
+      "link": "https://www.linkedin.com/jobs/view/global-social-brand-and-marketing-leader-at-ey-4423913939",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "EY"
     },
     {
       "platform": "Central Casting",
@@ -199,6 +175,20 @@
     },
     {
       "platform": "Everyset",
+      "title": "Catering/Wait Staff",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Unhoused",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
       "title": "Stand-In #17 Finch",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
@@ -207,13 +197,6 @@
     {
       "platform": "Everyset",
       "title": "Luxury Vehicles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "People with newer luxury cars",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
@@ -260,12 +243,6 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Stand-In #5",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "Aquent",
       "title": "Hands-on Art Director",
       "link": "https://aquent.com/find-work/210985",
@@ -274,171 +251,171 @@
     },
     {
       "platform": "Respondent",
-      "title": "Explore managing your online payments",
-      "link": "https://app.respondent.io/next/participants/projects/6a395e5100de4a7c2f587b14",
+      "title": "Seeking Pipeline Welding Equipment Decision-Makers",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a9cdc568bbfeaa88c3c73",
       "alert": false,
-      "pay": "$14",
-      "duration": "14 min"
+      "pay": "$25",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Help shape the future of your software",
-      "link": "https://app.respondent.io/next/participants/projects/6a358c213ff86919e3fae388",
+      "title": "Seeking Construction Equipment Decision-Makers",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a9b2b231469c88768fcf4",
+      "alert": false,
+      "pay": "$25",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "SOC Professionals Needed: Share Feedback on New Agentic Security Solution Designs",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a93e5b40d5ccf9a581adf",
       "alert": true,
-      "pay": "$100",
+      "pay": "$200",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeklng Internet Users",
-      "link": "https://app.respondent.io/next/participants/projects/6a393c12df216f09671b1b8f",
+      "title": "Seeking Rental Fleet Equipment Managers",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a9990e71751ea45806ccf",
+      "alert": false,
+      "pay": "$25",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Welding Pros: Share Your Insights on Buying & Partnering with Equipment",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a97f9568bbfeaa87fe370",
+      "alert": false,
+      "pay": "$25",
+      "duration": "25 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Software Engineers & Managers: Share Your Insights on Skills",
+      "link": "https://app.respondent.io/next/participants/projects/6a3543e8ae9284acba8428ae",
       "alert": true,
-      "pay": "$50",
-      "duration": "30 min"
+      "pay": "$150",
+      "duration": "90 min"
     },
     {
       "platform": "Respondent",
-      "title": "We'd like your feedback on an online shopping experience!",
-      "link": "https://app.respondent.io/next/participants/projects/6a393caf9d6baeda86e866ec",
-      "alert": false,
-      "pay": "$10",
-      "duration": "10 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a391b0f9e0286d5959a3c73",
-      "alert": false,
-      "pay": "$35",
-      "duration": "35 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a391a96e5f574edfc1bcf2d",
-      "alert": false,
-      "pay": "$35",
-      "duration": "35 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a3918988c827f2107bd24a2",
-      "alert": false,
-      "pay": "$35",
-      "duration": "35 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a3917d6009b691cc5163419",
-      "alert": false,
-      "pay": "$35",
-      "duration": "35 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Fuel Your Workday",
-      "link": "https://app.respondent.io/next/participants/projects/6a38feb99c4f336b17eecbfe",
-      "alert": false,
-      "pay": "$5",
-      "duration": "5 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Experienced Organizers Needed: Help Shape Audience-Building Tools for Advocacy",
-      "link": "https://app.respondent.io/next/participants/projects/6a345e03cef429728bef8177",
+      "title": "Test a new SOC tool with us \u2014 45-min usability session for security analysts",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a8db4794cff3ef77e9d52",
       "alert": true,
       "pay": "$100",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Claims Adjuster and Manager: Help Shape a New Dashboard Design",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a85cea86ee0dca95273c6",
+      "alert": true,
+      "pay": "$120",
       "duration": "60 min"
     },
     {
+      "platform": "Respondent",
+      "title": "Help Shape the Future of Software Development",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a5c2d609ebc7c301a54aa",
+      "alert": true,
+      "pay": "$120",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share your experience about sodas and get rewarded!",
+      "link": "https://app.respondent.io/next/participants/projects/6a3a5476731d02576d9ff35b",
+      "alert": false,
+      "pay": "$45",
+      "duration": "25 minutes"
+    },
+    {
       "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/Q9XGhEMp-A/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
+      "title": "Entertainment Discovery and Streaming Habits",
+      "link": "https://www.userinterviews.com/projects/ilR-heuv3A/apply",
+      "pay": "$25",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Sportsbook App Testing Opportunity in CO",
-      "link": "https://www.userinterviews.com/projects/cNuGAuptig/apply",
-      "pay": "$30",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/vCykIZ2dDQ/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/iTc1tswPYA/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/MUKlKT6zdA/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/OemM3rvjKA/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/UORovjpthQ/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/XqkwwOAydQ/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Tell Us Your Thoughts On Quickly Accessing Company Information",
-      "link": "https://www.userinterviews.com/projects/4L3zoGYugg/apply",
-      "pay": "$41",
-      "duration": "26 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Frequent Flyer? We want to hear from you!",
-      "link": "https://www.userinterviews.com/projects/gLvckFz6AQ/apply",
+      "title": "Take park in this study with a health-tech provider! (30580-2/431219)",
+      "link": "https://www.userinterviews.com/projects/GWiph4n2QA/apply",
       "pay": "$25",
       "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Take park in this study with a health-tech provider!",
+      "link": "https://www.userinterviews.com/projects/v0yxQVdPgw/apply",
+      "pay": "$25",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Optimizing Team Collaboration: Exploring Workflow Tools",
+      "link": "https://www.userinterviews.com/projects/NfqgOqGB3Q/apply",
+      "pay": "$300",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Opinions - 20 Minute Video Interview",
+      "link": "https://www.userinterviews.com/projects/sx0Azt5vUQ/apply",
+      "pay": "$10",
+      "duration": "20 Min",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We want to speak with you! Benchmarking - Research Study",
+      "link": "https://www.userinterviews.com/projects/24yxfbNfvA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "K-12 Graduation Requirements",
+      "link": "https://www.userinterviews.com/projects/SgOIYofNbQ/apply",
+      "pay": "$100",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Bread at Altitude: Passenger Insights on Business Class Bread Service",
+      "link": "https://www.userinterviews.com/projects/O0YGR3OZ9g/apply",
+      "pay": "$66",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research on the Experience of Users of Electric Assistive Devices",
+      "link": "https://www.userinterviews.com/projects/v0HpOjAOTQ/apply",
+      "pay": "$50",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Rental Stores Survey",
+      "link": "https://www.userinterviews.com/projects/1c9fDlytzg/apply",
+      "pay": "$20",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -451,7 +428,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 7
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
