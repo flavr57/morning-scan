@@ -1,7 +1,19 @@
 {
-  "generated": "2026-06-24T15:32:08.081735+00:00",
+  "generated": "2026-06-25T15:38:26.740905+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Edikted Open Casting Call",
+      "link": "https://projectcasting.com/job/edikted-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "June 24, 2026",
+      "source": "Edikted",
+      "short_description": "A fashion brand is searching for fresh faces to star in its upcoming Fall 2026 campaign. Casting directors are looking for authentic individuals from the community who are ready to step in front of...",
+      "production_type": "Commercials"
+    },
     {
       "platform": "Project Casting",
       "title": "Goldthread Tonics \u2013 Content Creator",
@@ -68,7 +80,7 @@
       "link": "https://projectcasting.com/job/curly-hair-model-casting-call",
       "alert": true,
       "pay": "$$",
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "June 19, 2026",
       "source": "THE CURL LOUNGE SACRAMENTO",
       "short_description": "A salon is seeking curly-haired models to receive a professional curly haircut while helping junior stylists gain hands-on experience under expert supervision.",
@@ -76,93 +88,93 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Retail Merchandise - Warner Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-retail-merchandise-at-warner-music-group-4432426102",
+      "title": "TikTok Creative Lead - MrBeast",
+      "link": "https://www.linkedin.com/jobs/view/tiktok-creative-lead-at-mrbeast-4433325878",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Warner Music Group"
+      "date": "55 minutes ago",
+      "source": "MrBeast"
     },
     {
       "platform": "LinkedIn",
-      "title": "GCD - Performance, CRM and Scale - Monks",
-      "link": "https://www.linkedin.com/jobs/view/gcd-performance-crm-and-scale-at-monks-4432483969",
+      "title": "Director, Global Creative Content, Film - Paramount Pictures",
+      "link": "https://www.linkedin.com/jobs/view/director-global-creative-content-film-at-paramount-pictures-4423088903",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Monks"
+      "date": "6 hours ago",
+      "source": "Paramount Pictures"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Space Vehicle Design - PSC by Rocket Lab",
-      "link": "https://www.linkedin.com/jobs/view/director-space-vehicle-design-at-psc-by-rocket-lab-4432415005",
+      "title": "Creative Director - LIQUID MEDIA",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-liquid-media-4426879719",
       "alert": false,
-      "location": "Long Beach, CA",
-      "date": "23 hours ago",
-      "source": "PSC by Rocket Lab"
+      "location": "Los Angeles, CA",
+      "date": "17 hours ago",
+      "source": "LIQUID MEDIA"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Operations - MACH27",
-      "link": "https://www.linkedin.com/jobs/view/director-of-operations-at-mach27-4432494483",
+      "title": "Art Director [210047] - Aquent",
+      "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4413182143",
       "alert": false,
-      "location": "Culver City, CA",
-      "date": "13 hours ago",
-      "source": "MACH27"
+      "location": "Glendale, CA",
+      "date": "21 hours ago",
+      "source": "Aquent"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, CRM - IPSY",
-      "link": "https://www.linkedin.com/jobs/view/director-crm-at-ipsy-4429467903",
+      "title": "Senior Manager - Global Brand Creative Direction Operations - lululemon",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-global-brand-creative-direction-operations-at-lululemon-4420186585",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "19 hours ago",
-      "source": "IPSY"
+      "date": "6 hours ago",
+      "source": "lululemon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Strategic Marketing and Product Development Director - Intercos America",
-      "link": "https://www.linkedin.com/jobs/view/strategic-marketing-and-product-development-director-at-intercos-america-4408028416",
+      "title": "Lead Creative Strategist - New Engen",
+      "link": "https://www.linkedin.com/jobs/view/lead-creative-strategist-at-new-engen-4432109161",
       "alert": false,
-      "location": "Culver City, CA",
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "New Engen"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director - Cogent World",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-cogent-world-4431710065",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "23 minutes ago",
+      "source": "Cogent World"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Digital - Munchkin",
+      "link": "https://www.linkedin.com/jobs/view/art-director-digital-at-munchkin-4419661943",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "2 hours ago",
+      "source": "Munchkin"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Marketing & Communications - Baby2Baby",
+      "link": "https://www.linkedin.com/jobs/view/director-marketing-communications-at-baby2baby-4425332228",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "22 hours ago",
-      "source": "Intercos America"
+      "source": "Baby2Baby"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Enterprise Orchestration - FOX Tech",
-      "link": "https://www.linkedin.com/jobs/view/director-enterprise-orchestration-at-fox-tech-4413706764",
+      "title": "Social Media Director - ONE/SIZE",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-one-size-4432881949",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "FOX Tech"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Acting & Animation Performance Consultant - Weekday AI (YC W21)",
-      "link": "https://www.linkedin.com/jobs/view/acting-animation-performance-consultant-at-weekday-ai-yc-w21-4432556794",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Weekday AI (YC W21)"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Executive - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/creative-executive-at-the-walt-disney-company-4431821999",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "3 hours ago",
-      "source": "The Walt Disney Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Packaging Designer- 2D & 3D - Adecco",
-      "link": "https://www.linkedin.com/jobs/view/packaging-designer-2d-3d-at-adecco-4431267847",
-      "alert": false,
-      "location": "Greater Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Adecco"
+      "date": "16 hours ago",
+      "source": "ONE/SIZE"
     },
     {
       "platform": "Central Casting",
@@ -184,6 +196,39 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-mfbx4",
       "alert": false,
       "date": "May 26, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "REAL National Guard with UNIFORM",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Bar BG (with and without cars)",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Tricked Out Pickup Truck",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Classic Pick up Truck - Mint or Beater Condition - Does not matter",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "REAL National Guard with UNIFORM",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -220,213 +265,179 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Valets",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Mom at Park",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Unhoused BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Prison Tactical Team",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "AA Attendees",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "Aquent",
-      "title": "Hands-on Art Director",
-      "link": "https://aquent.com/find-work/210985",
+      "title": "Production Artist/Graphic Designer",
+      "link": "https://aquent.com/find-work/211119",
       "alert": false,
-      "date": "Posted Jun 18, 2026"
+      "date": "Posted Jun 24, 2026"
     },
     {
       "platform": "Respondent",
-      "title": "CDK Users: Share Your Feedback!",
-      "link": "https://app.respondent.io/next/participants/projects/6a3bedcb8ceabf9330ce560e",
-      "alert": false,
-      "pay": "$25",
-      "duration": "5 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Product Design & Engineering Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a3b53818a3c3652f07ac432",
+      "title": "Looking for Marketers who manage nurture emails",
+      "link": "https://app.respondent.io/next/participants/projects/6a3986e1b0d0be14c7ee9a5b",
       "alert": true,
-      "pay": "$125",
-      "duration": "60 min"
+      "pay": "$100",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Dentally Users: Share Your Feedback!",
-      "link": "https://app.respondent.io/next/participants/projects/6a3be0981a083808b3574e08",
-      "alert": false,
-      "pay": "$25",
-      "duration": "5 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "HVAC Business Leaders: Share Your Experience with ServiceTitan (15-Min Interview, Paid)",
-      "link": "https://app.respondent.io/next/participants/projects/6a3b26811eb6fef6d818401d",
+      "title": "Professional Truck Dealers: Sharing Your Experiences",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d42395c15018f3a84fa7f",
       "alert": true,
-      "pay": "$50",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "US Founders & CTOs: Share Your Experience Hiring External Software Development Teams",
-      "link": "https://app.respondent.io/next/participants/projects/6a3b96257d6cdcc576536191",
-      "alert": true,
-      "pay": "$125",
+      "pay": "$85",
       "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Research Study - Event Planning & Management Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a3bccad8ceabf933069a2fe",
-      "alert": true,
-      "pay": "$150",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Sports Experience Research",
-      "link": "https://app.respondent.io/next/participants/projects/6a3bdcf0c0364ba375fdc5ff",
+      "title": "Help Shape the Future of Developer Workflows",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d3d1378c7525156cc813e",
       "alert": false,
-      "pay": "$35",
-      "duration": "28 min"
+      "pay": "$15",
+      "duration": "6 minutes"
     },
     {
       "platform": "Respondent",
-      "title": "Paid Research Study \u2014 Your Experience Wanted",
-      "link": "https://app.respondent.io/next/participants/projects/6a3bd7876edce1ec6d04972b",
+      "title": "Bank Account Holders: Website Feedback Opportunity",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d39e052bf14d04835e8c5",
       "alert": false,
-      "pay": "$60",
-      "duration": "45 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Samsung Galaxy Tab Active 5 Owners Needed",
-      "link": "https://app.respondent.io/next/participants/projects/6a3bc05d563b1354679aad2e",
-      "alert": false,
-      "pay": "$60",
-      "duration": "120 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Business Process Professionals Needed for Product Usability Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a3ba7456edce1ec6d97bb1b",
-      "alert": true,
-      "pay": "$60",
-      "duration": "30 min"
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Software Research Study",
-      "link": "https://www.userinterviews.com/projects/kwLZWJ13LQ/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Sportsbook/Casino App Testing Opportunity in NJ",
-      "link": "https://www.userinterviews.com/projects/IDT4GZgKoA/apply",
       "pay": "$30",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
+      "duration": "60 min"
     },
     {
-      "platform": "UserInterviews",
-      "title": "Research Study on the Evolving Role of the Software CTO",
-      "link": "https://www.userinterviews.com/projects/lY_QmNkBbA/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
+      "platform": "Respondent",
+      "title": "Financial Reporting & Review Professionals Wanted",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d2cece5b519176778e1ab",
+      "alert": true,
+      "pay": "$125",
+      "duration": "90 min"
     },
     {
-      "platform": "UserInterviews",
-      "title": "Research Study on the Evolving Role of the Software CTO",
-      "link": "https://www.userinterviews.com/projects/PnTl_ZRm-Q/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study on the Evolving Role of the Software CTO",
-      "link": "https://www.userinterviews.com/projects/wvhyDCzByA/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Understanding agentic AI cybersecurity",
-      "link": "https://www.userinterviews.com/projects/tGxJUeH6GA/apply",
+      "platform": "Respondent",
+      "title": "Senior U.S. Tech, Retail & Media Execs: Let\u2019s Talk AI Strategy",
+      "link": "https://app.respondent.io/next/participants/projects/6a2f695d1c496e1b000b5948",
+      "alert": true,
       "pay": "$150",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": true
+      "duration": "60 minute"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Product Managers, Product Designers, UX leads, and similar",
+      "link": "https://app.respondent.io/next/participants/projects/6a3c27481a083808b3167731",
+      "alert": false,
+      "pay": "$50",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Business Professionals: Join Our 10-Min. Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d17270cbdefa4197b18a3",
+      "alert": false,
+      "pay": "$15",
+      "duration": "10 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Mac Developers: Command Line Tool Feedback Opportunity",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d240ec623735bf9224bcf",
+      "alert": false,
+      "pay": "$50",
+      "duration": "40 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Leaders in Subscription Services: Recurring Payment Insights",
+      "link": "https://app.respondent.io/next/participants/projects/6a3d1ea416f71c6c9fa1ddf6",
+      "alert": true,
+      "pay": "$175",
+      "duration": "60 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Invitation: paid research study on everyday habits #431573",
-      "link": "https://www.userinterviews.com/projects/zOpC5A5zjg/apply",
-      "pay": "$35",
+      "title": "Shopping Research Study",
+      "link": "https://www.userinterviews.com/projects/8Yxkwazd6w/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Shop Online Research Study",
+      "link": "https://www.userinterviews.com/projects/mL73s5RJ4w/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Online Shopping Research Study",
+      "link": "https://www.userinterviews.com/projects/gTJPGGplbQ/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "$25 for 60 mins work making 1+ videos of your shopping experience",
+      "link": "https://www.userinterviews.com/projects/h7DqK6xQsA/apply",
+      "pay": "$25",
+      "duration": "60 min",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Opinion on Entertainment and Games",
+      "link": "https://www.userinterviews.com/projects/vIckFVUypw/apply",
+      "pay": "$46",
       "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your opinions on everyday topics and advertising concepts",
-      "link": "https://www.userinterviews.com/projects/h8Jdm6gZaQ/apply",
-      "pay": "$17",
-      "duration": "42 MIN",
+      "title": "Have you recently designed and printed new custom materials (with some help from AI)?",
+      "link": "https://www.userinterviews.com/projects/ZHddq_OKOg/apply",
+      "pay": "$120",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "\u00a1Participa en este estudio con un proveedor de tecnolog\u00eda sanitaria! (30580-9/431922)",
+      "link": "https://www.userinterviews.com/projects/wJe2c3G9wQ/apply",
+      "pay": "$25",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Mental Health Research Study",
-      "link": "https://www.userinterviews.com/projects/zfGObYS3Yg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Participez \u00e0 cette \u00e9tude en collaboration avec un prestataire de technologies de la sant\u00e9 ! (30580-7/431921)",
+      "link": "https://www.userinterviews.com/projects/UqbjbwGyGw/apply",
+      "pay": "$25",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "We want to speak with you soon! Experimental Design - Research Study",
-      "link": "https://www.userinterviews.com/projects/g3jJXOpPNQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Qualitative Studie zum Thema Online-Shopping (30569-5/431913)",
+      "link": "https://www.userinterviews.com/projects/jNquMTbEEA/apply",
+      "pay": "$25",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative Forschungsstudie zum Thema Online-Verkauf (30569-6/431912)",
+      "link": "https://www.userinterviews.com/projects/OOqP3BVMjQ/apply",
+      "pay": "$25",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -439,7 +450,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
