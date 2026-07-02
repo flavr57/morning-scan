@@ -1,7 +1,19 @@
 {
-  "generated": "2026-07-01T15:38:57.804485+00:00",
+  "generated": "2026-07-02T15:12:19.742018+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Date or Dip Casting Call for Los Angeles Singles",
+      "link": "https://projectcasting.com/job/date-or-dip-casting-call-for-los-angeles-singles",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 1, 2026",
+      "source": "Esprit Casting",
+      "short_description": "A major streaming network is seeking outgoing singles with unforgettable personalities for a new dating series. This unique reality TV opportunity is looking for people who are honest, self-aware,...",
+      "production_type": "Reality Show"
+    },
     {
       "platform": "Project Casting",
       "title": "Now Casting: Bring My Pinterest To Life\u201d Open Casting Call",
@@ -50,106 +62,101 @@
       "production_type": "Vertical Series"
     },
     {
-      "platform": "Project Casting",
-      "title": "$170/Day Vertical Series Los Angeles Casting Call for Police Officer",
-      "link": "https://projectcasting.com/job/170-day-vertical-series-los-angeles-casting-call-for-police-officer",
-      "alert": true,
-      "pay": "$170",
-      "location": "Los Angeles, CA",
-      "date": "June 30, 2026",
-      "source": "Miami Talent Casting",
-      "short_description": "A scripted vertical series is casting a male actor to portray a police officer in Los Angeles.",
-      "production_type": "Vertical Series"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Art Director - RE/DONE",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-re-done-4435348563",
+      "title": "US Creative Director - Dermalogica",
+      "link": "https://www.linkedin.com/jobs/view/us-creative-director-at-dermalogica-4426588162",
       "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "15 hours ago",
-      "source": "RE/DONE"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Slate Director - Pocket FM",
-      "link": "https://www.linkedin.com/jobs/view/slate-director-at-pocket-fm-4431966692",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Pocket FM"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Art Director, Marketing, 2877-1 - Cypress HCM",
-      "link": "https://www.linkedin.com/jobs/view/sr-art-director-marketing-2877-1-at-cypress-hcm-4404799426",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Cypress HCM"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Slate Director - Content Innovation - Pocket FM",
-      "link": "https://www.linkedin.com/jobs/view/slate-director-content-innovation-at-pocket-fm-4431961987",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Pocket FM"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Art Director - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/senior-art-director-at-gsw-powered-by-syneos-health-4394247352",
-      "alert": false,
-      "location": "Santa Monica, CA",
+      "location": "Carson, CA",
       "date": "21 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "source": "Dermalogica"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-24-seven-talent-4434600539",
+      "title": "Art Director [210047] - Aquent",
+      "link": "https://www.linkedin.com/jobs/view/art-director-210047-at-aquent-4436115837",
       "alert": false,
       "location": "Glendale, CA",
-      "date": "13 hours ago",
-      "source": "24 Seven Talent"
+      "date": "15 hours ago",
+      "source": "Aquent"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Operations Manager - Pharmavite",
-      "link": "https://www.linkedin.com/jobs/view/creative-operations-manager-at-pharmavite-4415699243",
+      "title": "Ecom Photography Art Director - PACSUN",
+      "link": "https://www.linkedin.com/jobs/view/ecom-photography-art-director-at-pacsun-4435844462",
+      "alert": false,
+      "location": "Anaheim, CA",
+      "date": "21 hours ago",
+      "source": "PACSUN"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Design - BEACH HOUSE GROUP",
+      "link": "https://www.linkedin.com/jobs/view/director-of-design-at-beach-house-group-4436121838",
       "alert": false,
       "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "BEACH HOUSE GROUP"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Creative & Content Studio - AmaWaterways River Cruises",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-content-studio-at-amawaterways-river-cruises-4425893998",
+      "alert": false,
+      "location": "Calabasas, CA",
       "date": "22 hours ago",
-      "source": "Pharmavite"
+      "source": "AmaWaterways River Cruises"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of E-Commerce - Health & Wellness - Hi-Altitude Brands",
-      "link": "https://www.linkedin.com/jobs/view/director-of-e-commerce-health-wellness-at-hi-altitude-brands-4435302861",
+      "title": "Art Director - Skydance Animation",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-skydance-animation-4435037258",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Hi-Altitude Brands"
+      "location": "Santa Monica, CA",
+      "date": "10 hours ago",
+      "source": "Skydance Animation"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Director, Video & Programmatic Acquisition - Thrive Market",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-video-programmatic-acquisition-at-thrive-market-4435359977",
+      "title": "Art Director - Collier.Simon",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-collier-simon-4435224404",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "14 hours ago",
-      "source": "Thrive Market"
+      "date": "24 minutes ago",
+      "source": "Collier.Simon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Marketing - California Science Center",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-at-california-science-center-4434626452",
+      "title": "Senior Director, Integrated Marketing (Hybrid) - Beauty Industry Group",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-integrated-marketing-hybrid-at-beauty-industry-group-4436316527",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "9 minutes ago",
-      "source": "California Science Center"
+      "date": "3 hours ago",
+      "source": "Beauty Industry Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Streaming - Rock/Alternative & Country - Warner Music Group",
+      "link": "https://www.linkedin.com/jobs/view/director-streaming-rock-alternative-country-at-warner-music-group-4423092119",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Warner Music Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Freelance Creative Designer - TRAZZOR",
+      "link": "https://www.linkedin.com/jobs/view/freelance-creative-designer-at-trazzor-4434670141",
+      "alert": false,
+      "location": "Beverly Hills, CA",
+      "date": "21 hours ago",
+      "source": "TRAZZOR"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "18TLY Basketball Players",
+      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-j6ja8",
+      "alert": false,
+      "date": "July 01, 2026"
     },
     {
       "platform": "Central Casting",
@@ -166,11 +173,16 @@
       "date": "June 01, 2026"
     },
     {
-      "platform": "Central Casting",
-      "title": "BG WITH FISHING POLE",
-      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-64fw4-jag5k-mfbx4",
-      "alert": false,
-      "date": "May 26, 2026"
+      "platform": "Everyset",
+      "title": "Foster Brother",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "High School Student",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -224,127 +236,134 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Holler Folks w/Beat Up Cars & Trucks",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Stand-In #34",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Aquent",
-      "title": "Production Artist/ Graphic Designer",
-      "link": "https://aquent.com/find-work/211236",
-      "alert": false,
-      "date": "Posted Jun 30, 2026"
-    },
-    {
       "platform": "Respondent",
-      "title": "Seeking Bank Users: Quick Perception Test",
-      "link": "https://app.respondent.io/next/participants/projects/6a4528dc6af16e994d7ae378",
+      "title": "Your Opinions Matter!",
+      "link": "https://app.respondent.io/next/participants/projects/6a467bf2201bb87e824be8f9",
       "alert": false,
       "pay": "$25",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Let's Talk About AI at Work!",
-      "link": "https://app.respondent.io/next/participants/projects/6a452cf570c7f906bb45defe",
-      "alert": false,
-      "pay": "$15",
       "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Research Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a451c407481cf690ebb8c80",
-      "alert": false,
-      "pay": "$10",
-      "duration": "10 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Electric Shaver Users",
-      "link": "https://app.respondent.io/next/participants/projects/6a451235f4e476c354c11c3f",
+      "title": "Convenience Store Managers Wanted: Share Your Beverage Equipment Insights",
+      "link": "https://app.respondent.io/next/participants/projects/6a42c1e3425002f85fd8efde",
       "alert": false,
       "pay": "$20",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Male Moviegoers Aged 25-45: Action & Thriller Films Online Focus Group",
-      "link": "https://app.respondent.io/next/participants/projects/6a44904b4b2abc8541413149",
-      "alert": true,
-      "pay": "$125",
-      "duration": "1 hour"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share Your Thoughts on Life\u2019s Big Moments",
-      "link": "https://app.respondent.io/next/participants/projects/6a447e70a67a73c25edfdaa8",
-      "alert": false,
-      "pay": "$15",
-      "duration": "25 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Buscamos consumidores de productos de bienestar",
-      "link": "https://app.respondent.io/next/participants/projects/6a4457af39e1592e59305792",
-      "alert": false,
-      "pay": "$15",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Freelancers & Agency Web Designers: Test New Website Tools & Share Your Thoughts!",
-      "link": "https://app.respondent.io/next/participants/projects/6a41f73dc5bb3b0a009b9982",
-      "alert": true,
-      "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking HR and Compensation Specialists",
-      "link": "https://app.respondent.io/next/participants/projects/6a049d8fc93e2e7aa9d9602e",
-      "alert": true,
-      "pay": "$50",
-      "duration": "25 min"
+      "title": "Seeking Regional Managers of Stores with CO2 beverages",
+      "link": "https://app.respondent.io/next/participants/projects/6a42c6233973e6be9a2a3e62",
+      "alert": false,
+      "pay": "$25",
+      "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Software Engineers & Managers: Share How You Talk Skills!",
-      "link": "https://app.respondent.io/next/participants/projects/6a443e9a8095919962cfc1ab",
+      "title": "Online Prototype Test",
+      "link": "https://app.respondent.io/next/participants/projects/6a44a8e8684c6d0d4ee45a7e",
+      "alert": false,
+      "pay": "$10",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share Your Opinions on Everyday Products",
+      "link": "https://app.respondent.io/next/participants/projects/6a4627ac4162878e9d44c02c",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Higher Ed IT and Digital Leaders (CIO / CTO / VP level)",
+      "link": "https://app.respondent.io/next/participants/projects/6a43844cff0025de88cfaa5f",
       "alert": true,
-      "pay": "$150",
-      "duration": "90 min"
+      "pay": "$100",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "\ud83c\udfe1 Help Us Learn About Home Maintenance",
+      "link": "https://app.respondent.io/next/participants/projects/6a459f91eb97fd7767f5cf60",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Your thoughts on personal finance",
+      "link": "https://app.respondent.io/next/participants/projects/6a459af863efcb55e2f9e3e7",
+      "alert": true,
+      "pay": "$100",
+      "duration": "57 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Parent & Baby for Testing of a infant Tub (Children 3-10 months ONLY)",
+      "link": "https://app.respondent.io/next/participants/projects/6a4552762b543fa2236eea2a",
+      "alert": true,
+      "pay": "$100",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "PCP Insights: Chronic Care Thresholds & Dashboard Design",
+      "link": "https://app.respondent.io/next/participants/projects/6a455762eb97fd7767785d71",
+      "alert": true,
+      "pay": "$125",
+      "duration": "45 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/IVrJgrZupw/apply",
+      "title": "Share Your Shopping Opinions",
+      "link": "https://www.userinterviews.com/projects/8XiUk3rrRg/apply",
       "pay": "$30",
-      "duration": "27 MIN",
+      "duration": "29 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/Yml2WYNCjA/apply",
-      "pay": "$30",
-      "duration": "27 MIN",
+      "title": "Evaluation of Radiotherapy Scheduling Solution with Radiation Therapy Director",
+      "link": "https://www.userinterviews.com/projects/pEZpM9d2YQ/apply",
+      "pay": "$1200",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Mobile App Account Setup & Registration Study",
+      "link": "https://www.userinterviews.com/projects/f4ka16em1Q/apply",
+      "pay": "$40",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/gDIbLVLIXw/apply",
+      "title": "Teilen Sie Ihre Meinung mit und lassen Sie sich daf\u00fcr belohnen! #433502",
+      "link": "https://www.userinterviews.com/projects/m_2EEomOKQ/apply",
+      "pay": "$40",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Evaluation of Radiotherapy Scheduling Solution with Radiation Therapist",
+      "link": "https://www.userinterviews.com/projects/ACywjith6A/apply",
+      "pay": "$600",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Learning & Understanding",
+      "link": "https://www.userinterviews.com/projects/bMWOJN4qSQ/apply",
       "pay": "$60",
       "duration": "60 MIN",
       "source": "UserInterviews",
@@ -352,64 +371,37 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking Dry Dog Food Buyers",
-      "link": "https://www.userinterviews.com/projects/32Ystgz2Eg/apply",
-      "pay": "$20",
-      "duration": "23 MIN",
+      "title": "Teilen Sie Ihre Meinung zu eBay und erhalten Sie eine Belohnung!",
+      "link": "https://www.userinterviews.com/projects/vEf5mnNCCw/apply",
+      "pay": "$25",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking individuals 18-45 YO for their opinions on Chocolates! / Procuramos pessoas de 18 a 45 anos para compartilhar suas opini\u00f5es sobre chocolates!",
-      "link": "https://www.userinterviews.com/projects/ugirTISo_w/apply",
-      "pay": "$145",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Candy Shopping & Snacking Habits Study",
-      "link": "https://www.userinterviews.com/projects/C6P06AkjNg/apply",
-      "pay": "$8",
-      "duration": "10 MIN",
+      "title": "Talk about your habits on eBay and get rewarded! #433476",
+      "link": "https://www.userinterviews.com/projects/dbyLoY-iFg/apply",
+      "pay": "$25",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Resume Study",
-      "link": "https://www.userinterviews.com/projects/JkH6keO5lw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Learning & Understanding",
+      "link": "https://www.userinterviews.com/projects/AjwN8ju5rQ/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "New Hampshire men Voters",
-      "link": "https://www.userinterviews.com/projects/DP2DiPocgg/apply",
-      "pay": "$150",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "New Hampshire Women Voters",
-      "link": "https://www.userinterviews.com/projects/3MF0Hz_plg/apply",
-      "pay": "$150",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Kitchen Tools Study",
-      "link": "https://www.userinterviews.com/projects/uSQUfx4ANg/apply",
-      "pay": "$37",
-      "duration": "38 MIN",
+      "title": "Seeking opinions on ready-made meals from individuals aged 25\u201340! / \u00c0 la recherche d\u2019avis sur les plats pr\u00e9par\u00e9s aupr\u00e8s de personnes \u00e2g\u00e9es de 25 \u00e0 40 ans !",
+      "link": "https://www.userinterviews.com/projects/UsWtisspmw/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -438,7 +430,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
