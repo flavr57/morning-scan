@@ -1,7 +1,65 @@
 {
-  "generated": "2026-07-21T15:01:13.808504+00:00",
+  "generated": "2026-07-22T15:01:30.429765+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Paid & Unpaid Acting Casting Call for HAPA Short Film in...",
+      "link": "https://projectcasting.com/job/paid-unpaid-acting-casting-call-for-hapa-short-film-in-the-bay-area",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "July 21, 2026",
+      "source": "Sixth String Pictures",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Brand Ambassador Jobs for Wireless Brand Retail Events in Southern California",
+      "link": "https://projectcasting.com/job/brand-ambassador-jobs-for-wireless-brand-retail-events-in-southern-california",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "July 21, 2026",
+      "source": "FLY Talent",
+      "production_type": "Events"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "SFX Makeup Artist Needed for Independent Short Film in Los Angeles",
+      "link": "https://projectcasting.com/job/sfx-makeup-artist-needed-for-independent-short-film-in-los-angeles",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "July 21, 2026",
+      "source": "Tyler Wiseman",
+      "short_description": "An independent short film is seeking an experienced Special Effects (SFX) Makeup Artist to create realistic burn scar effects for a production filming in the Los Angeles/El Segundo area.",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Background Casting Call for Independent Short Film",
+      "link": "https://projectcasting.com/job/los-angeles-background-casting-call-for-independent-short-film",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "July 21, 2026",
+      "source": "CYUS Casting",
+      "short_description": "An independent short film is seeking non-union background actors for a three-day shoot in Los Angeles, California . Casting directors are looking for young performers to portray spelling bee contes...",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "K Factor Films Open Casting Call",
+      "link": "https://projectcasting.com/job/k-factor-films-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 21, 2026",
+      "source": "K Factor Films",
+      "short_description": "A paid acting opportunity is available for the lead role in an upcoming television series. Casting directors are seeking a talented female actor who can convincingly portray a high school-aged char...",
+      "production_type": "TV & Video"
+    },
     {
       "platform": "Project Casting",
       "title": "Background Extras Casting Call for Indie Short Film in San Francisco",
@@ -28,105 +86,105 @@
     },
     {
       "platform": "Project Casting",
-      "title": "FLOVA \u2013 Promotional Model",
-      "link": "https://projectcasting.com/job/flova-promotional-model",
+      "title": "Los Angeles Extras Casting Call for Actors with Combat Experience",
+      "link": "https://projectcasting.com/job/los-angeles-extras-casting-call-for-actors-with-combat-experience",
       "alert": true,
-      "pay": "$",
+      "pay": "$$",
       "location": "Los Angeles, CA",
       "date": "July 17, 2026",
-      "source": "The Push Agency",
-      "short_description": "The Push Agency is hiring Brand Ambassadors to represent FLOVA at upcoming retail sampling events at Mar-Val stores in California.",
-      "production_type": "Events"
+      "source": "Central Casting Los Angeles",
+      "short_description": "A television production is casting Hispanic male background actors for paid military-themed scenes filming in Santa Clarita, California.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Brand and Creative Services - Rockbot",
-      "link": "https://www.linkedin.com/jobs/view/director-of-brand-and-creative-services-at-rockbot-4443023034",
+      "title": "Associate Creative Director, Social - Saylor",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-social-at-saylor-4443509341",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "16 hours ago",
-      "source": "Rockbot"
+      "date": "23 hours ago",
+      "source": "Saylor"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Brand - Audible",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-at-audible-4443015867",
+      "title": "Art Director - Buddha Jones",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-buddha-jones-4442679499",
       "alert": false,
-      "location": "Culver City, CA",
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "Buddha Jones"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Growth - Ecommerce Guide",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-growth-at-ecommerce-guide-4443700729",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "14 hours ago",
-      "source": "Audible"
+      "source": "Ecommerce Guide"
     },
     {
       "platform": "LinkedIn",
-      "title": "Future Position: Creative Director - Monks",
-      "link": "https://www.linkedin.com/jobs/view/future-position-creative-director-at-monks-4440168321",
+      "title": "Art Director, Experiential - Cogent World",
+      "link": "https://www.linkedin.com/jobs/view/art-director-experiential-at-cogent-world-4443912524",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "1 hour ago",
+      "source": "Cogent World"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Art Director, Marketing, 2877-1 - Cypress HCM",
+      "link": "https://www.linkedin.com/jobs/view/sr-art-director-marketing-2877-1-at-cypress-hcm-4404799426",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Monks"
+      "date": "4 hours ago",
+      "source": "Cypress HCM"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4413720240",
+      "title": "Senior Art Director, Creative Technology Design (Motion Designer) - Fox Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-creative-technology-design-motion-designer-at-fox-entertainment-4406105761",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Monks"
+      "date": "1 hour ago",
+      "source": "Fox Entertainment"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Principal and Art Director - HDR",
-      "link": "https://www.linkedin.com/jobs/view/creative-principal-and-art-director-at-hdr-4434140612",
+      "title": "Head of Ecommerce w/ Copywriting experience- Full Time, Hybrid-LA - Orca Brands",
+      "link": "https://www.linkedin.com/jobs/view/head-of-ecommerce-w-copywriting-experience-full-time-hybrid-la-at-orca-brands-4442964489",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "HDR"
+      "location": "El Segundo, CA",
+      "date": "10 hours ago",
+      "source": "Orca Brands"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Growth - Ruggable",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-growth-at-ruggable-4442791670",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "Ruggable"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Creative Technology / Experiential - Tomorrow Recruitment Ltd | B Corp\u2122",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-creative-technology-experiential-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4440159962",
+      "title": "Marketing Director - Unibail-Rodamco-Westfield",
+      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-unibail-rodamco-westfield-4442677231",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "21 hours ago",
-      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+      "source": "Unibail-Rodamco-Westfield"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director (Design) - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-day-one-agency-4425426133",
+      "title": "Senior Director of Marketing - Restaurant Company - Superior Talent Source",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-of-marketing-restaurant-company-at-superior-talent-source-4443567306",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Day One Agency"
+      "date": "18 hours ago",
+      "source": "Superior Talent Source"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - Fender Musical Instruments Corporation",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-fender-musical-instruments-corporation-4443073691",
+      "title": "Director, Corporate Marketing - Unibail-Rodamco-Westfield",
+      "link": "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-unibail-rodamco-westfield-4442689360",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
-      "source": "Fender Musical Instruments Corporation"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Custom Brand Partnerships & Amazon Ads Brand Strategy, Brand Innovation Lab - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/director-of-custom-brand-partnerships-amazon-ads-brand-strategy-brand-innovation-lab-at-amazon-4443045506",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "15 hours ago",
-      "source": "Amazon"
+      "date": "19 hours ago",
+      "source": "Unibail-Rodamco-Westfield"
     },
     {
       "platform": "Central Casting",
@@ -148,6 +206,24 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/first-responder-uniforms",
       "alert": false,
       "date": "July 07, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Townfolk (with or without CAR)",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Rowdy Crowd / Party Goers",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Bystander",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -198,140 +274,143 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Elderly Pharmacy Patrons",
-      "link": "https://jobs.everyset.com/job-board",
+      "platform": "Respondent",
+      "title": "Master Data Management Professionals (45 min / $120)",
+      "link": "https://app.respondent.io/next/participants/projects/6a58f8c03076c0fb61e20b23",
       "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "High School Parent / Teacher",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Stand-In",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Aquent",
-      "title": "Graphic Designer",
-      "link": "https://aquent.com/find-work/211618",
-      "alert": false,
-      "date": "Posted Jul 16, 2026"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Sr. Graphic Designer- CPG lifestyle brand",
-      "link": "https://aquent.com/find-work/211578",
-      "alert": false,
-      "date": "Posted Jul 15, 2026"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Let\u2019s talk style, fashion, and what makes a brand worth wanting",
-      "link": "https://app.respondent.io/next/participants/projects/6a5f39f231826b174aea9ff0",
-      "alert": false,
-      "pay": "$40",
-      "duration": "30 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Do you use US Bank?",
-      "link": "https://app.respondent.io/next/participants/projects/6a5f293b3146ba9926c84da3",
-      "alert": false,
-      "pay": "$10",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Quick Feedback Session",
-      "link": "https://app.respondent.io/next/participants/projects/6a5ed8c0d4179a8932561d66",
-      "alert": true,
-      "pay": "$150",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "B2B/B2C/SMB Founders, Marketers & Agencies: Explore AI-Powered Website Builder Early Access",
-      "link": "https://app.respondent.io/next/participants/projects/6a5ec5ed521875b810fc3fff",
-      "alert": false,
-      "pay": "$50",
-      "duration": "60 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Community Voices: Share Your Insights",
-      "link": "https://app.respondent.io/next/participants/projects/6a5ed5828cf08ffd3f714301",
-      "alert": false,
-      "pay": "$15",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "\ud83c\udfa7 Trusted Community Voices: We Want to Hear From You",
-      "link": "https://app.respondent.io/next/participants/projects/6a5ed407761b4c358c960083",
-      "alert": false,
-      "pay": "$15",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking feedback from Paid Media marketing professionals and leaders!",
-      "link": "https://app.respondent.io/next/participants/projects/6a5eb26d91b525e177568092",
-      "alert": false,
-      "pay": "$60",
+      "pay": "$120",
       "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Founders and CEOs of Luxury Travel Advisory Firms",
-      "link": "https://app.respondent.io/next/participants/projects/6a5e747d6ccc29bbe4b19eba",
+      "title": "Household Budget and Spending Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a6077973e29bb74daaced79",
+      "alert": false,
+      "pay": "$25",
+      "duration": "20 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://app.respondent.io/next/participants/projects/6a6076fac99a9ac5c5a8c940",
+      "alert": false,
+      "pay": "$30",
+      "duration": "30 minute"
+    },
+    {
+      "platform": "Respondent",
+      "title": "How Does AI Shape Your Shopping Choices?",
+      "link": "https://app.respondent.io/next/participants/projects/6a60763e89edf69f2e0eb030",
+      "alert": false,
+      "pay": "$25",
+      "duration": "20 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "How do travelers compare prices",
+      "link": "https://app.respondent.io/next/participants/projects/6a60748aa5d3a64d72d50a75",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Website Professionals: Share Your Insights",
+      "link": "https://app.respondent.io/next/participants/projects/6a6054af6e5ba674c8696e44",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Research interviews: CEOs & COOs on scaling their company through growth",
+      "link": "https://app.respondent.io/next/participants/projects/6a5f1e9002a4fb7804db80ff",
+      "alert": true,
+      "pay": "$1000",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Calling Heads of Talent & People: How Does Your Team Recruit Candidates?",
+      "link": "https://app.respondent.io/next/participants/projects/6a5efc6e1b303eb58cf467d6",
+      "alert": true,
+      "pay": "$150",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Owners of Outdoor Cooling Fans",
+      "link": "https://app.respondent.io/next/participants/projects/6a5e55710d8f841c388b291b",
+      "alert": false,
+      "pay": "$75",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Construction COOs US market",
+      "link": "https://app.respondent.io/next/participants/projects/6a57ba93e6f24391c3b61932",
       "alert": true,
       "pay": "$125",
       "duration": "30 min"
     },
     {
-      "platform": "Respondent",
-      "title": "\ud83c\udfa7 Trusted Community Voices: We Want to Hear From You",
-      "link": "https://app.respondent.io/next/participants/projects/6a5ed1d4eb3e09ab15132693",
-      "alert": false,
-      "pay": "$15",
-      "duration": "15 minute"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Tool Experience Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a5eb3da91b525e1775a8591",
-      "alert": true,
-      "pay": "$75",
-      "duration": "20 min"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Who Do Parents Trust? A Celebrity & Influence Study",
-      "link": "https://www.userinterviews.com/projects/8f3o8xOj_w/apply",
-      "pay": "$5",
-      "duration": "6 MIN",
+      "title": "A Conversation About Your Everyday Experiences",
+      "link": "https://www.userinterviews.com/projects/r8nwCxuAmQ/apply",
+      "pay": "$18",
+      "duration": "36 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/wI9I6C435g/apply",
-      "pay": "$60",
+      "title": "Seeking Easter Celebrators Who Skip Chocolate",
+      "link": "https://www.userinterviews.com/projects/_25v9RcSxA/apply",
+      "pay": "$16",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Your user management experiences to improve Autodesk Admin portal",
+      "link": "https://www.userinterviews.com/projects/b1dAEJ99KA/apply",
+      "pay": "$300",
       "duration": "60 MIN",
       "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "What is your opinion about movie theatre-merchandise? (30536-18/437956)",
+      "link": "https://www.userinterviews.com/projects/0Wh6GNX_Pw/apply",
+      "pay": "$45",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Traveling Research Study",
-      "link": "https://www.userinterviews.com/projects/zhW5MtnkbQ/apply",
+      "title": "Seeking Easter Celebrators Who Skip Chocolate",
+      "link": "https://www.userinterviews.com/projects/XCE7HDmA2w/apply",
+      "pay": "$16",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking Easter Celebrators Who Skip Chocolate",
+      "link": "https://www.userinterviews.com/projects/a9emcY42AA/apply",
+      "pay": "$16",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Brand Study",
+      "link": "https://www.userinterviews.com/projects/tJQJQPSunQ/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -339,64 +418,28 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Travel Research Study",
-      "link": "https://www.userinterviews.com/projects/HbzInifAIQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/6T1EzsAlpQ/apply",
-      "pay": "$60",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Registered Voter Study",
-      "link": "https://www.userinterviews.com/projects/JHuLTqJhhA/apply",
-      "pay": "$30",
-      "duration": "19 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking to chat with you about your professional experience!",
-      "link": "https://www.userinterviews.com/projects/M-pLGi6xlQ/apply",
-      "pay": "$100",
+      "title": "Household Budget and Spending Study",
+      "link": "https://www.userinterviews.com/projects/TW2pRpTiag/apply",
+      "pay": "$20",
       "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Use a credit card? Literature Review - Research Study",
-      "link": "https://www.userinterviews.com/projects/7PKN1rwK6g/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Household Budget and Spending Study",
+      "link": "https://www.userinterviews.com/projects/nnXAwg4q8Q/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "BDM Research Study",
-      "link": "https://www.userinterviews.com/projects/bmto9tOVeQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Business Research Study",
-      "link": "https://www.userinterviews.com/projects/33g7sK3B6w/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Household Budget and Spending Study",
+      "link": "https://www.userinterviews.com/projects/xu8f6NBpUg/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -409,7 +452,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 3
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
@@ -425,7 +468,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 2
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
