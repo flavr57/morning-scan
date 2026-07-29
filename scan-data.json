@@ -1,7 +1,30 @@
 {
-  "generated": "2026-07-28T15:16:47.083021+00:00",
+  "generated": "2026-07-29T15:07:13.520383+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Casting Call for American Jews",
+      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-american-jews",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 28, 2026",
+      "source": "Mel and Liz Casting",
+      "short_description": "A paid documentary-style campaign is seeking American Jewish participants from all walks of life to share their personal stories on camera.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Solix Sculpt Casting Call for Models",
+      "link": "https://projectcasting.com/job/solix-sculpt-casting-call-for-models",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "July 28, 2026",
+      "source": "Solix Sculpt",
+      "production_type": "Modeling"
+    },
     {
       "platform": "Project Casting",
       "title": "Ty Dolla Sign Music Video Open Casting Call",
@@ -73,128 +96,94 @@
       "production_type": "TV & Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "State Management LA Casting Call",
-      "link": "https://projectcasting.com/job/state-management-la-casting-call",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "July 24, 2026",
-      "source": "State Manegement",
-      "short_description": "A modeling agency is scouting new and established fashion models for representation in Los Angeles. This is an excellent opportunity for aspiring and experienced talent looking to expand their care...",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Actors Wanted for SAG Feature Film in Los Angeles",
-      "link": "https://projectcasting.com/job/actors-wanted-for-sag-feature-film-in-los-angeles",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "July 24, 2026",
-      "source": "M.C. Chicago Casting",
-      "production_type": "Feature Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Music Video Extras Needed in Sherman Oaks",
-      "link": "https://projectcasting.com/job/music-video-extras-needed-in-sherman-oaks",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "July 24, 2026",
-      "source": "Apecastings",
-      "production_type": "Music Video"
-    },
-    {
       "platform": "LinkedIn",
       "title": "Creative Director - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4413720240",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4446520687",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "7 hours ago",
+      "date": "13 hours ago",
       "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Sweet Spot Media",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-sweet-spot-media-4445452317",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "10 hours ago",
-      "source": "Sweet Spot Media"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Marketing Design Lead - AutoTune",
-      "link": "https://www.linkedin.com/jobs/view/marketing-design-lead-at-autotune-4445196679",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "AutoTune"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Brand Marketing - Cantina Labs",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-at-cantina-labs-4438371355",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "Cantina Labs"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Billboard: Director, Branded Content - Penske Media Corporation",
-      "link": "https://www.linkedin.com/jobs/view/billboard-director-branded-content-at-penske-media-corporation-4445416051",
+      "title": "Art Director - RE/DONE",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-re-done-4446526168",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "16 hours ago",
-      "source": "Penske Media Corporation"
+      "date": "14 hours ago",
+      "source": "RE/DONE"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director - Global Styling - lululemon",
-      "link": "https://www.linkedin.com/jobs/view/director-global-styling-at-lululemon-4433976057",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "5 hours ago",
-      "source": "lululemon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director- Global Retail Design & Visual Merchandising (IT Cosmetics) - L'Or\u00e9al",
-      "link": "https://www.linkedin.com/jobs/view/director-global-retail-design-visual-merchandising-it-cosmetics-at-l-or%C3%A9al-4439805469",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "23 hours ago",
-      "source": "L'Or\u00e9al"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Digital Media, Football - University of Southern California",
-      "link": "https://www.linkedin.com/jobs/view/director-of-digital-media-football-at-university-of-southern-california-4433344939",
+      "title": "Creative Director, Interactive Digital Experiences - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "University of Southern California"
+      "date": "13 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director, Brand Activation, OPI - Wella Company",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-brand-activation-opi-at-wella-company-4443202442",
+      "title": "Creator Partnerships Design Director, Creator Ad Partnerships - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creator-partnerships-design-director-creator-ad-partnerships-at-amazon-4446515253",
       "alert": false,
-      "location": "Calabasas, CA",
+      "location": "Culver City, CA",
       "date": "12 hours ago",
-      "source": "Wella Company"
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Insomniac - Senior Graphic Designer, Apparel - Live Nation Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/insomniac-senior-graphic-designer-apparel-at-live-nation-entertainment-4335871167",
+      "title": "Art Director - Ink - Netflix",
+      "link": "https://www.linkedin.com/jobs/view/art-director-ink-at-netflix-4426881600",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Live Nation Entertainment"
+      "date": "4 hours ago",
+      "source": "Netflix"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Brand - Creator Marketing Platform - Three Pillars Recruiting",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creator-marketing-platform-at-three-pillars-recruiting-4437015449",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "5 hours ago",
+      "source": "Three Pillars Recruiting"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director CX - Meta",
+      "link": "https://www.linkedin.com/jobs/view/art-director-cx-at-meta-4443666911",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "11 hours ago",
+      "source": "Meta"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director, Copy - We Are Social",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-we-are-social-4437842451",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "53 minutes ago",
+      "source": "We Are Social"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Account Director - Jellyfish",
+      "link": "https://www.linkedin.com/jobs/view/account-director-at-jellyfish-4437858303",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "21 minutes ago",
+      "source": "Jellyfish"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Environmental Design - LA28 Olympic & Paralympic Games - On Location",
+      "link": "https://www.linkedin.com/jobs/view/art-director-environmental-design-la28-olympic-paralympic-games-at-on-location-4438113950",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "5 hours ago",
+      "source": "On Location"
     },
     {
       "platform": "Central Casting",
@@ -238,7 +227,7 @@
     },
     {
       "platform": "Everyset",
-      "title": "Bodybuilder Inmates",
+      "title": "White Front Grounds Crew",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
@@ -284,179 +273,172 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Aquent",
-      "title": "Graphic Designer 2",
-      "link": "https://aquent.com/find-work/211805",
+      "platform": "Respondent",
+      "title": "Do you work in the auto industry?",
+      "link": "https://app.respondent.io/next/participants/projects/6a69fa77cb10e2754e80383d",
       "alert": false,
-      "date": "Posted Jul 23, 2026"
+      "pay": "$25",
+      "duration": "10 min"
     },
     {
       "platform": "Respondent",
-      "title": "Tell us how you feel about a streaming service",
-      "link": "https://app.respondent.io/next/participants/projects/6a68a1bca2157576dff8a2fc",
+      "title": "In-Home Caregivers, Skilled Staff, Nurse, CNA",
+      "link": "https://app.respondent.io/next/participants/projects/6a6948a9b6022e1f1f1102e5",
       "alert": false,
       "pay": "$10",
-      "duration": "7 minute"
+      "duration": "10 minute"
     },
     {
       "platform": "Respondent",
-      "title": "Join our study about your business sales!",
-      "link": "https://app.respondent.io/next/participants/projects/6a686d8018ef642f18b51a78",
+      "title": "Homeowners 50+: a paid conversation about how your home supports you",
+      "link": "https://app.respondent.io/next/participants/projects/6a5fa81d42eafd087b3ffdd7",
+      "alert": false,
+      "pay": "$75",
+      "duration": "60 minute"
+    },
+    {
+      "platform": "Respondent",
+      "title": "How Do You Watch? 2026 Sports Broadcasting Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a69454a871ad9e9b0b7e54a",
       "alert": false,
       "pay": "$35",
-      "duration": "20 minutes"
+      "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking export-compliance professionals (semiconductors and electronics)",
-      "link": "https://app.respondent.io/next/participants/projects/6a681545580df7cdca476dd8",
+      "title": "Restaurant Equipment and Operations Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a6781cbac2a3a3ca022e16c",
+      "alert": true,
+      "pay": "$75",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "USA eBay Sellers Needed: User Interface Testing",
+      "link": "https://app.respondent.io/next/participants/projects/6a68981912871cd09ff8bf80",
       "alert": true,
       "pay": "$125",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "How do you screen candidates for high-volume roles?",
-      "link": "https://app.respondent.io/next/participants/projects/6a680efa95e2698ce148bf00",
+      "title": "Redesigning Customer Service Experiences",
+      "link": "https://app.respondent.io/next/participants/projects/6a6918d2ec97bd6cebb44cd1",
       "alert": true,
       "pay": "$100",
-      "duration": "60 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Loan originators",
-      "link": "https://app.respondent.io/next/participants/projects/6a68058a51d48cc9b8b70b0c",
-      "alert": false,
-      "pay": "$15",
-      "duration": "5 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Contribute to Digital Design Research",
-      "link": "https://app.respondent.io/next/participants/projects/6a67fd96f143b50f9e8cb74e",
-      "alert": true,
-      "pay": "$200",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share Your Daily Skincare Routine!",
-      "link": "https://app.respondent.io/next/participants/projects/6a67f183ab91a3c0f61d07b5",
-      "alert": false,
-      "pay": "$25",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Working with AI Agents in Security Workflows",
-      "link": "https://app.respondent.io/next/participants/projects/6a67da9397a2dc8dafe90827",
-      "alert": true,
-      "pay": "$125",
-      "duration": "5 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "\ud83d\uded2\u2728 Get Rewarded for a Fun Shopping Activity! \ud83c\udf89",
-      "link": "https://app.respondent.io/next/participants/projects/6a67ccae8dade57c4f9719ba",
-      "alert": false,
-      "pay": "$40",
-      "duration": "20 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Leaders using Viva Engage",
-      "link": "https://app.respondent.io/next/participants/projects/6a67bb220238a4164221d1eb",
-      "alert": false,
-      "pay": "$90",
       "duration": "60 min"
     },
     {
-      "platform": "UserInterviews",
-      "title": "Influence the future of shopping!",
-      "link": "https://www.userinterviews.com/projects/YrdzK8OcUA/apply",
-      "pay": "$5",
-      "duration": "7 MIN",
-      "source": "UserInterviews",
-      "alert": false
+      "platform": "Respondent",
+      "title": "We want to talk to people who deal with pesky insects in your home",
+      "link": "https://app.respondent.io/next/participants/projects/6a6911be19083adc1dc24e83",
+      "alert": true,
+      "pay": "$225",
+      "duration": "90min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Scent Enthusiasts in Cincinnati",
+      "link": "https://app.respondent.io/next/participants/projects/6a690e143bea298cc520618c",
+      "alert": true,
+      "pay": "$125",
+      "duration": "120 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share how your startup/SMB handles legal & contracts=",
+      "link": "https://app.respondent.io/next/participants/projects/6a63006f1a48066f04b88499",
+      "alert": true,
+      "pay": "$125",
+      "duration": "30 minute"
     },
     {
       "platform": "UserInterviews",
-      "title": "Research interview on how professionals work with business systems and data",
-      "link": "https://www.userinterviews.com/projects/POg994zkcQ/apply",
-      "pay": "$52",
-      "duration": "39 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Paid Market Research Study: $175 USD Share Your Experience with Shopping Information",
-      "link": "https://www.userinterviews.com/projects/sOaFPvG7bw/apply",
-      "pay": "$175",
-      "duration": "5 hour",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Gesucht: Fachkr\u00e4fte aus der Gastronomie und K\u00fcchenchefs",
-      "link": "https://www.userinterviews.com/projects/JICP4Qloqg/apply",
-      "pay": "$15",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Poszukujemy profesjonalist\u00f3w z bran\u017cy gastronomicznej oraz szef\u00f3w kuchni",
-      "link": "https://www.userinterviews.com/projects/Js9BvsbltA/apply",
-      "pay": "$15",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Op zoek naar foodserviceprofessionals en chefs",
-      "link": "https://www.userinterviews.com/projects/-4UeW_ldSA/apply",
-      "pay": "$25",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "S\u00f6ker restaurangoperat\u00f6rer och kockar",
-      "link": "https://www.userinterviews.com/projects/6HtnUgXxsw/apply",
-      "pay": "$15",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Have your say - we want to hear your perspective on current events!",
-      "link": "https://www.userinterviews.com/projects/fheYzlua5g/apply",
-      "pay": "$30",
-      "duration": "18 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking Foodservice Operators and Chefs",
-      "link": "https://www.userinterviews.com/projects/xE2TyswNnQ/apply",
-      "pay": "$15",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Erz\u00e4hlen Sie uns von Ihren Online-Gewohnheiten und erhalten Sie eine Belohnung! [P-30673-5, 439155]",
-      "link": "https://www.userinterviews.com/projects/GeQcECbIPw/apply",
-      "pay": "$25",
+      "title": "Join our study about your purchases online!",
+      "link": "https://www.userinterviews.com/projects/NVRdpmMY_A/apply",
+      "pay": "$35",
       "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Join our study about your purchases online!",
+      "link": "https://www.userinterviews.com/projects/9Fggdj1JOQ/apply",
+      "pay": "$35",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Finance Research Study",
+      "link": "https://www.userinterviews.com/projects/blpv0BZ3qQ/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Work in Home Improvement/Construction? We need your opinions!",
+      "link": "https://www.userinterviews.com/projects/Dn7IA4Dtqg/apply",
+      "pay": "$25",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking Adults Aged 18+ Who Purchased Yogurt in the Past 3 Months",
+      "link": "https://www.userinterviews.com/projects/P1mMPtVKUg/apply",
+      "pay": "$70",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Futures Video Survey - Earn US$45 in 20 mins",
+      "link": "https://www.userinterviews.com/projects/rqDkLGIcYg/apply",
+      "pay": "$45",
+      "duration": "20 min",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "\u00danete a nuestro estudio sobre la salud de tu piel. [P-30661-2/439417]",
+      "link": "https://www.userinterviews.com/projects/NZmr3eWnbQ/apply",
+      "pay": "$35",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Compare three websites",
+      "link": "https://www.userinterviews.com/projects/JOP3Dzgnfw/apply",
+      "pay": "$30",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Parents of Rising 4th\u20135th Graders | $30 Reward | Online Interview, July 30(Thu)",
+      "link": "https://www.userinterviews.com/projects/kvZCM3qRnA/apply",
+      "pay": "$30",
+      "duration": "40 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Education Technology Leaders Study",
+      "link": "https://www.userinterviews.com/projects/2Sc58MVN9Q/apply",
+      "pay": "$80",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -469,7 +451,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
@@ -485,7 +467,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
