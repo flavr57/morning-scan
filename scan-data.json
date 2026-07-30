@@ -1,189 +1,192 @@
 {
-  "generated": "2026-07-29T15:07:13.520383+00:00",
+  "generated": "2026-07-30T15:08:01.082864+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "Los Angeles Casting Call for American Jews",
-      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-american-jews",
+      "title": "$2,000 Carhartt Commercial Casting Call",
+      "link": "https://projectcasting.com/job/2000-carhartt-commercial-casting-call",
       "alert": true,
-      "pay": "$$",
+      "pay": "$2,000",
       "location": "Los Angeles, CA",
-      "date": "July 28, 2026",
-      "source": "Mel and Liz Casting",
-      "short_description": "A paid documentary-style campaign is seeking American Jewish participants from all walks of life to share their personal stories on camera.",
+      "date": "July 29, 2026",
+      "source": "Crucial Casting",
+      "short_description": "A paid Carhartt social campaign is casting authentic women in skilled trades from the greater Los Angeles area. The production is looking for real blue-collar professionals with hands-on experience...",
       "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
-      "title": "Solix Sculpt Casting Call for Models",
-      "link": "https://projectcasting.com/job/solix-sculpt-casting-call-for-models",
+      "title": "Amboras \u2013 Video editors",
+      "link": "https://projectcasting.com/job/amboras-video-editors",
       "alert": true,
       "pay": "$",
       "location": "California",
-      "date": "July 28, 2026",
-      "source": "Solix Sculpt",
+      "date": "July 29, 2026",
+      "source": "Amboras",
+      "short_description": "Amboras is hiring Video Editors to create compelling marketing and social media content for its AI-powered e-commerce platform.",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Amboras \u2013 UGC Creator",
+      "link": "https://projectcasting.com/job/amboras-ugc-creator",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "July 29, 2026",
+      "source": "Amboras",
+      "short_description": "Amboras is hiring UGC Creators to produce engaging content for a fast-growing AI-powered e-commerce startup. The company is developing next-generation technology designed to compete with leading e-...",
+      "production_type": "User Generated Content (UGC)"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Everybody World \u2013 Content Creator",
+      "link": "https://projectcasting.com/job/everybody-world-content-creator",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 29, 2026",
+      "source": "Everybody.World",
+      "short_description": "Everybody.World is hiring a Social Media Coordinator / Content Creator to join its growing team in Los Angeles. This creative opportunity is ideal for someone with a strong eye for visual storytell...",
+      "production_type": "Social Media Content"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Paid Production Assistant",
+      "link": "https://projectcasting.com/job/paid-production-assistant",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 29, 2026",
+      "source": "JenKa Productions",
+      "short_description": "A paid production assistant opportunity is available for a live conference activation in Los Angeles. The production team is seeking reliable and professional production assistants to support an ev...",
+      "production_type": "Entertainment Careers"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Brow Models Wanted",
+      "link": "https://projectcasting.com/job/brow-models-wanted",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "July 29, 2026",
+      "source": "STRIIIKE",
+      "short_description": "A beauty brand is seeking brow models to participate in a professional eyebrow treatment experience. This opportunity is ideal for individuals interested in beauty, skincare, and cosmetic services...",
       "production_type": "Modeling"
     },
     {
       "platform": "Project Casting",
-      "title": "Ty Dolla Sign Music Video Open Casting Call",
-      "link": "https://projectcasting.com/job/ty-dolla-sign-music-video-open-casting-call",
+      "title": "$1,000/Day Major Commercial Casting Call for Elite Basketball Players",
+      "link": "https://projectcasting.com/job/1000-day-major-commercial-casting-call-for-elite-basketball-players",
       "alert": true,
-      "pay": "$$",
+      "pay": "$1,000",
       "location": "Los Angeles, CA",
-      "date": "July 27, 2026",
-      "source": "Dulce Dollz Casting",
-      "short_description": "A paid music video casting is seeking models to appear in a major artist\u2019s upcoming production in Los Angeles. This is a great opportunity for models looking to gain on-camera experience, expand th...",
-      "production_type": "Music Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Nuri Lounge \u2013 Content Creator",
-      "link": "https://projectcasting.com/job/nuri-lounge-content-creator",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "July 27, 2026",
-      "source": "Create & Cultivate",
-      "short_description": "Content creators in Los Angeles have the chance to join one of the world\u2019s largest festivals for women in business. This paid creator opportunity is seeking passionate social media creators to capt...",
-      "production_type": "Live Event"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$850/Day Models Wanted for a Photo Shoot",
-      "link": "https://projectcasting.com/job/850-day-models-wanted-for-a-photo-shoot-2",
-      "alert": true,
-      "pay": "$850",
-      "location": "California",
-      "date": "July 27, 2026",
-      "source": "Aura Casting",
-      "short_description": "A paid corporate photoshoot is seeking models and non-models for a one-day production in the South Bay and San Jose area.",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Actors/Servers Wanted for Filmed Dinner Event in Simi Valley",
-      "link": "https://projectcasting.com/job/actors-servers-wanted-for-filmed-dinner-event-in-simi-valley",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "July 27, 2026",
-      "source": "Helena Budnik",
-      "production_type": "Events"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Production Assistant Needed for Kickstarter Commercial Shoot in Los Angeles",
-      "link": "https://projectcasting.com/job/production-assistant-needed-for-kickstarter-commercial-shoot-in-los-angeles",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "July 27, 2026",
-      "source": "Joseph Goldsmith",
+      "date": "July 29, 2026",
+      "source": "Game Changing Films",
+      "short_description": "A major commercial project is casting elite-level male basketball players for a paid production filming in Los Angeles. Producers are seeking experienced athletes with strong on-court skills who ma...",
       "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
-      "title": "$120 Justice Central Court Room Drama Casting Call for Middle Aged...",
-      "link": "https://projectcasting.com/job/120-justice-central-court-room-drama-casting-call-for-middle-aged-talents",
+      "title": "\u201cMud Bogging\u201d Los Angeles Open Casting Call",
+      "link": "https://projectcasting.com/job/mud-bogging-los-angeles-open-casting-call",
       "alert": true,
-      "pay": "$120",
-      "location": "California",
-      "date": "July 27, 2026",
-      "source": "Standing Room Only",
-      "short_description": "A television legal drama is casting middle-aged background actors for courtroom scenes filming in Culver City, California.",
-      "production_type": "TV & Video"
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "July 29, 2026",
+      "source": "Tanya Giang",
+      "short_description": "A paid SAG short film is seeking a lead actor to portray Jonah, a young man recently paralyzed who is navigating life with resilience, wit, and determination.",
+      "production_type": "Short Film"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4446520687",
+      "title": "Creative Director - LIQUID MEDIA",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-liquid-media-4426879719",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Monks"
+      "date": "17 hours ago",
+      "source": "LIQUID MEDIA"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - RE/DONE",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-re-done-4446526168",
+      "title": "Creative Director - Advertising - PlanetArt",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-advertising-at-planetart-4436433580",
       "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "14 hours ago",
-      "source": "RE/DONE"
+      "location": "Calabasas, CA",
+      "date": "7 minutes ago",
+      "source": "PlanetArt"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Interactive Digital Experiences - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
+      "title": "Head of Creative - Faire",
+      "link": "https://www.linkedin.com/jobs/view/head-of-creative-at-faire-4437320246",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Monks"
+      "date": "3 hours ago",
+      "source": "Faire"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creator Partnerships Design Director, Creator Ad Partnerships - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creator-partnerships-design-director-creator-ad-partnerships-at-amazon-4446515253",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "12 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director - Ink - Netflix",
-      "link": "https://www.linkedin.com/jobs/view/art-director-ink-at-netflix-4426881600",
+      "title": "Head of Creative - Ladders",
+      "link": "https://www.linkedin.com/jobs/view/head-of-creative-at-ladders-4446739749",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "4 hours ago",
-      "source": "Netflix"
+      "source": "Ladders"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Brand - Creator Marketing Platform - Three Pillars Recruiting",
-      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creator-marketing-platform-at-three-pillars-recruiting-4437015449",
+      "title": "Executive Brand Director - Conscious Minds",
+      "link": "https://www.linkedin.com/jobs/view/executive-brand-director-at-conscious-minds-4446843884",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "Three Pillars Recruiting"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "19 hours ago",
+      "source": "Conscious Minds"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director CX - Meta",
-      "link": "https://www.linkedin.com/jobs/view/art-director-cx-at-meta-4443666911",
+      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "11 hours ago",
-      "source": "Meta"
+      "location": "El Segundo, CA",
+      "date": "1 hour ago",
+      "source": "Mattel, Inc."
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director, Copy - We Are Social",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-we-are-social-4437842451",
+      "title": "Creative Strategy Lead (Director) - TubeScience",
+      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-director-at-tubescience-4227007028",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "53 minutes ago",
-      "source": "We Are Social"
+      "date": "45 minutes ago",
+      "source": "TubeScience"
     },
     {
       "platform": "LinkedIn",
-      "title": "Account Director - Jellyfish",
-      "link": "https://www.linkedin.com/jobs/view/account-director-at-jellyfish-4437858303",
+      "title": "Art Director - Ink - Ladders",
+      "link": "https://www.linkedin.com/jobs/view/art-director-ink-at-ladders-4446746717",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 minutes ago",
-      "source": "Jellyfish"
+      "date": "4 hours ago",
+      "source": "Ladders"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director, Environmental Design - LA28 Olympic & Paralympic Games - On Location",
-      "link": "https://www.linkedin.com/jobs/view/art-director-environmental-design-la28-olympic-paralympic-games-at-on-location-4438113950",
+      "title": "Senior Designer - INABA FOODS (USA), INC.",
+      "link": "https://www.linkedin.com/jobs/view/senior-designer-at-inaba-foods-usa-inc-4435918155",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "23 hours ago",
+      "source": "INABA FOODS (USA), INC."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Editorial Content - Suno",
+      "link": "https://www.linkedin.com/jobs/view/director-of-editorial-content-at-suno-4426881355",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "On Location"
+      "date": "37 minutes ago",
+      "source": "Suno"
     },
     {
       "platform": "Central Casting",
@@ -208,6 +211,55 @@
     },
     {
       "platform": "Everyset",
+      "title": "Receptionist / Waiting Room Patients",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "City Crowd",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Diner w/ Motorcycle",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Park Goer Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Park Goer Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Business Type w. SKATEBOARD or ROLLERBLADES",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "High School Student Making Out",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Country Singer",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
       "title": "Various Pedestrian Roles (w/ and w/out cars)",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true
@@ -220,205 +272,125 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Street Pedestrian",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "White Front Grounds Crew",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "American Made Cars & Trucks",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Stand-In #8",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Bank Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "18 TLY Bonfire Party BG (w/Fitting)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Black or Gray Honda Civic - Years 2018 to 2025",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Newborn Babies - Twins or Singles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Respondent",
-      "title": "Do you work in the auto industry?",
-      "link": "https://app.respondent.io/next/participants/projects/6a69fa77cb10e2754e80383d",
+      "title": "AI tools",
+      "link": "https://app.respondent.io/next/participants/projects/6a6b63325163651bfec0761b",
       "alert": false,
-      "pay": "$25",
-      "duration": "10 min"
+      "pay": "$5",
+      "duration": "5 min"
     },
     {
       "platform": "Respondent",
-      "title": "In-Home Caregivers, Skilled Staff, Nurse, CNA",
-      "link": "https://app.respondent.io/next/participants/projects/6a6948a9b6022e1f1f1102e5",
+      "title": "Explore a website for starting a business",
+      "link": "https://app.respondent.io/next/participants/projects/6a6b62b5561e74ed64bda4aa",
       "alert": false,
-      "pay": "$10",
-      "duration": "10 minute"
+      "pay": "$9",
+      "duration": "9 min"
     },
     {
       "platform": "Respondent",
-      "title": "Homeowners 50+: a paid conversation about how your home supports you",
-      "link": "https://app.respondent.io/next/participants/projects/6a5fa81d42eafd087b3ffdd7",
+      "title": "Explore a website for starting a business",
+      "link": "https://app.respondent.io/next/participants/projects/6a6b5a7d8a1faed21548dd8c",
       "alert": false,
-      "pay": "$75",
-      "duration": "60 minute"
+      "pay": "$9",
+      "duration": "9 min"
     },
     {
       "platform": "Respondent",
-      "title": "How Do You Watch? 2026 Sports Broadcasting Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a69454a871ad9e9b0b7e54a",
+      "title": "Seeking travellers for opinion",
+      "link": "https://app.respondent.io/next/participants/projects/6a6b14e323d12c795640a233",
       "alert": false,
-      "pay": "$35",
-      "duration": "30 min"
+      "pay": "$20",
+      "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Restaurant Equipment and Operations Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a6781cbac2a3a3ca022e16c",
+      "title": "Share Your Beverage Habits",
+      "link": "https://app.respondent.io/next/participants/projects/6a6aebe4430c10584e541be0",
+      "alert": false,
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Online Learning and Education Choices Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a68d82338b802f166aba99e",
+      "alert": false,
+      "pay": "$50",
+      "duration": "60 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Cincinnati and Indianapolis area residents for an In-Home conversation about weed control on August 28th",
+      "link": "https://app.respondent.io/next/participants/projects/6a6aca803a6d144b5f34eab3",
       "alert": true,
-      "pay": "$75",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "USA eBay Sellers Needed: User Interface Testing",
-      "link": "https://app.respondent.io/next/participants/projects/6a68981912871cd09ff8bf80",
-      "alert": true,
-      "pay": "$125",
+      "pay": "$250",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Redesigning Customer Service Experiences",
-      "link": "https://app.respondent.io/next/participants/projects/6a6918d2ec97bd6cebb44cd1",
+      "title": "Seeking Dog Owners Between Cincinnati and Indianapolis for an In-Home Conversation About Dog Care on Friday, Aug 28th",
+      "link": "https://app.respondent.io/next/participants/projects/6a6a51d970fee8f356caf737",
+      "alert": true,
+      "pay": "$250",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Cincinnati and Indianapolis area residents for an In-Home conversation about insects on August 28th",
+      "link": "https://app.respondent.io/next/participants/projects/6a6ac2a6a498d17140439159",
+      "alert": true,
+      "pay": "$250",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking feedback from business users and system administrators on SAP Document AI",
+      "link": "https://app.respondent.io/next/participants/projects/6a630cfb511453432f2e47cd",
       "alert": true,
       "pay": "$100",
       "duration": "60 min"
     },
     {
-      "platform": "Respondent",
-      "title": "We want to talk to people who deal with pesky insects in your home",
-      "link": "https://app.respondent.io/next/participants/projects/6a6911be19083adc1dc24e83",
-      "alert": true,
-      "pay": "$225",
-      "duration": "90min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Scent Enthusiasts in Cincinnati",
-      "link": "https://app.respondent.io/next/participants/projects/6a690e143bea298cc520618c",
-      "alert": true,
-      "pay": "$125",
-      "duration": "120 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share how your startup/SMB handles legal & contracts=",
-      "link": "https://app.respondent.io/next/participants/projects/6a63006f1a48066f04b88499",
-      "alert": true,
-      "pay": "$125",
-      "duration": "30 minute"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Join our study about your purchases online!",
-      "link": "https://www.userinterviews.com/projects/NVRdpmMY_A/apply",
-      "pay": "$35",
+      "title": "Personal Technology & Lifestyle Study",
+      "link": "https://www.userinterviews.com/projects/dnfb7fTYMg/apply",
+      "pay": "$30",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Join our study about your purchases online!",
-      "link": "https://www.userinterviews.com/projects/9Fggdj1JOQ/apply",
-      "pay": "$35",
+      "title": "Personal Technology & Lifestyle Study",
+      "link": "https://www.userinterviews.com/projects/0ZL6SRCYNQ/apply",
+      "pay": "$15",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Finance Research Study",
-      "link": "https://www.userinterviews.com/projects/blpv0BZ3qQ/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Work in Home Improvement/Construction? We need your opinions!",
-      "link": "https://www.userinterviews.com/projects/Dn7IA4Dtqg/apply",
-      "pay": "$25",
+      "title": "Health Research Study",
+      "link": "https://www.userinterviews.com/projects/1-FKisWNBw/apply",
+      "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking Adults Aged 18+ Who Purchased Yogurt in the Past 3 Months",
-      "link": "https://www.userinterviews.com/projects/P1mMPtVKUg/apply",
-      "pay": "$70",
-      "duration": "45 MIN",
+      "title": "Daily Life Study",
+      "link": "https://www.userinterviews.com/projects/m-JlDi1tCw/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Futures Video Survey - Earn US$45 in 20 mins",
-      "link": "https://www.userinterviews.com/projects/rqDkLGIcYg/apply",
-      "pay": "$45",
-      "duration": "20 min",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "\u00danete a nuestro estudio sobre la salud de tu piel. [P-30661-2/439417]",
-      "link": "https://www.userinterviews.com/projects/NZmr3eWnbQ/apply",
-      "pay": "$35",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Compare three websites",
-      "link": "https://www.userinterviews.com/projects/JOP3Dzgnfw/apply",
+      "title": "Join our study about your trust in online purchases! #439759",
+      "link": "https://www.userinterviews.com/projects/T8hS2EyFuw/apply",
       "pay": "$30",
       "duration": "30 MIN",
       "source": "UserInterviews",
@@ -426,18 +398,45 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Parents of Rising 4th\u20135th Graders | $30 Reward | Online Interview, July 30(Thu)",
-      "link": "https://www.userinterviews.com/projects/kvZCM3qRnA/apply",
+      "title": "Qualitative research study, your input is needed [P-30674-5/439758]",
+      "link": "https://www.userinterviews.com/projects/opiwviJN2A/apply",
       "pay": "$30",
-      "duration": "40 MIN",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Education Technology Leaders Study",
-      "link": "https://www.userinterviews.com/projects/2Sc58MVN9Q/apply",
-      "pay": "$80",
+      "title": "Nehmen Sie an unserer Reiseerinnerungsumfrage teil",
+      "link": "https://www.userinterviews.com/projects/myxPIBTd9Q/apply",
+      "pay": "$30",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Join our study about your software choices at work [P-30657-4, 439721]",
+      "link": "https://www.userinterviews.com/projects/g516ELPkew/apply",
+      "pay": "$55",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Employee-Benefits Programs",
+      "link": "https://www.userinterviews.com/projects/1tM2os2XMA/apply",
+      "pay": "$15",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Employee-Benefits Programs",
+      "link": "https://www.userinterviews.com/projects/Unjsn58kjg/apply",
+      "pay": "$15",
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
