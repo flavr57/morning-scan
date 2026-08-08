@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-07T14:10:36.194932+00:00",
+  "generated": "2026-08-08T13:41:55.885632+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Look Model Agency Fall Internship",
+      "link": "https://projectcasting.com/job/look-model-agency-fall-internship",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "August 7, 2026",
+      "source": "Look Model Agency",
+      "short_description": "A model agency is seeking a motivated Fall Intern to gain hands-on experience in the modeling and fashion industry. This internship opportunity is ideal for aspiring professionals interested in mod...",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "CASTING CALL FOR LOS ANGELES COLLECTORS",
+      "link": "https://projectcasting.com/job/casting-call-for-los-angeles-collectors",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 7, 2026",
+      "source": "Will Ontiveros",
+      "short_description": "A home renovation reality TV series is seeking passionate collectors in the Los Angeles area whose collections have outgrown their living spaces.",
+      "production_type": "Reality Show"
+    },
     {
       "platform": "Project Casting",
       "title": "Child Actor Casting Call for 5-Year-Old Girl in Los Angeles Music...",
@@ -27,130 +51,94 @@
       "production_type": "Music Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "Assistant Camera (1st AC) Jobs for Action Short Film in Los...",
-      "link": "https://projectcasting.com/job/assistant-camera-1st-ac-jobs-for-action-short-film-in-los-angeles",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 6, 2026",
-      "source": "Joint Venture Studios",
-      "short_description": "A paid action short film is casting two Assistant Camera (1st AC) professionals to support Camera A and Camera B during production in the Los Angeles area.",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Digital Imaging Technician (DIT) Job for Action Short Film in Los...",
-      "link": "https://projectcasting.com/job/digital-imaging-technician-dit-job-for-action-short-film-in-los-angeles",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 6, 2026",
-      "source": "Joint Venture Studios",
-      "short_description": "A paid action short film is hiring a Digital Imaging Technician (DIT) to support its upcoming production in the Los Angeles area.",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Gaffer Jobs for Action Short Film in Los Angeles",
-      "link": "https://projectcasting.com/job/gaffer-jobs-for-action-short-film-in-los-angeles",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 6, 2026",
-      "source": "Joint Venture Studios",
-      "short_description": "A paid action short film is seeking two Gaffers for an upcoming production in the Los Angeles area. The production is looking for experienced and detail-oriented crew members who can help create dy...",
-      "production_type": "Short Film"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Director, Creative Development & Strategy - Fanatics",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-development-strategy-at-fanatics-4448711508",
+      "title": "Creative Director - Starz",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-starz-4450739044",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Santa Monica, CA",
       "date": "9 hours ago",
-      "source": "Fanatics"
+      "source": "Starz"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director (Experiential) - Redrock Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-experiential-at-redrock-entertainment-4449784011",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "20 hours ago",
-      "source": "Redrock Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - SOCIAL HOUSE, INC.\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-social-house-inc-%C2%AE-4449784565",
+      "title": "International Creative Studio Lead - Waymo",
+      "link": "https://www.linkedin.com/jobs/view/international-creative-studio-lead-at-waymo-4450335763",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "SOCIAL HOUSE, INC.\u00ae"
+      "date": "21 hours ago",
+      "source": "Waymo"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - Loungefly - Loungefly",
-      "link": "https://www.linkedin.com/jobs/view/art-director-loungefly-at-loungefly-4450029192",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "12 hours ago",
-      "source": "Loungefly"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Brand Marketing - Cantina Labs",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-at-cantina-labs-4438371355",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "10 hours ago",
-      "source": "Cantina Labs"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director (Design) - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-day-one-agency-4425426133",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "Day One Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - Tubi",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-tubi-4441698390",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Tubi"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Creative Strategist - Sans",
-      "link": "https://www.linkedin.com/jobs/view/sr-creative-strategist-at-sans-4450682224",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "13 hours ago",
-      "source": "Sans"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "AVP, Associate Creative Strategy Director - Synchrony",
-      "link": "https://www.linkedin.com/jobs/view/avp-associate-creative-strategy-director-at-synchrony-4450270078",
-      "alert": false,
-      "location": "Costa Mesa, CA",
-      "date": "23 hours ago",
-      "source": "Synchrony"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - WongDoody",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-wongdoody-4438499203",
+      "title": "Senior Art Director - SKIMS Beauty - SKIMS",
+      "link": "https://www.linkedin.com/jobs/view/senior-art-director-skims-beauty-at-skims-4450516651",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
+      "date": "12 hours ago",
+      "source": "SKIMS"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Branding - Bredin",
+      "link": "https://www.linkedin.com/jobs/view/head-of-branding-at-bredin-4451073092",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "4 hours ago",
-      "source": "WongDoody"
+      "source": "Bredin"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director (Organic Social) - We Are Social",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-organic-social-at-we-are-social-4450795046",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "We Are Social"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director (Paid Social) - We Are Social",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-paid-social-at-we-are-social-4450797089",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "We Are Social"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Social Media Director - D\u00f4en",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4450769729",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "16 hours ago",
+      "source": "D\u00f4en"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Originals Marketing Director - Starz",
+      "link": "https://www.linkedin.com/jobs/view/originals-marketing-director-at-starz-4441348206",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "21 hours ago",
+      "source": "Starz"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director, Copy - GSW, powered by Syneos Health",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-gsw-powered-by-syneos-health-4424467795",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "19 hours ago",
+      "source": "GSW, powered by Syneos Health"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Group Art Supervisor - GSW, powered by Syneos Health",
+      "link": "https://www.linkedin.com/jobs/view/group-art-supervisor-at-gsw-powered-by-syneos-health-4441144750",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "19 hours ago",
+      "source": "GSW, powered by Syneos Health"
     },
     {
       "platform": "Central Casting",
@@ -172,6 +160,13 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/funky-cars",
       "alert": false,
       "date": "July 13, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "REPLACEMENT BOWLERS",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -231,112 +226,105 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Real Diner Waitress",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Aquent",
-      "title": "Graphic Designer 2",
-      "link": "https://aquent.com/find-work/212130",
+      "title": "Sr Graphic Designer",
+      "link": "https://aquent.com/find-work/212188",
       "alert": false,
-      "date": "Posted Aug 6, 2026"
+      "date": "Posted Aug 8, 2026"
     },
     {
       "platform": "Respondent",
-      "title": "Home-Based Care / Home Health Staff, Owners, Operators",
-      "link": "https://app.respondent.io/next/participants/projects/6a749ee487c91079d46bc3ba",
-      "alert": false,
-      "pay": "$20",
-      "duration": "15 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Newsletter Publishing and Platform Feedback Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a74f0dbe0bd4997baafb519",
+      "title": "Local In-person Technology Study in El Segundo",
+      "link": "https://app.respondent.io/next/participants/projects/6a76850cb5c1f23d1620ce03",
       "alert": true,
-      "pay": "$50",
-      "duration": "20 minute"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Mobile Apps Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a757c51bd64076736da9eb3",
-      "alert": true,
-      "pay": "$125",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "How AI Is Changing Office Work",
-      "link": "https://app.respondent.io/next/participants/projects/6a75c179b97eb8155f96a0fb",
-      "alert": false,
-      "pay": "$25",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Home Growing and Harvesting Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a7556304a9b9495e0528dc9",
-      "alert": false,
-      "pay": "$60",
-      "duration": "60 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Lifestyle study",
-      "link": "https://app.respondent.io/next/participants/projects/6a755f044a9b9495e05f577d",
-      "alert": false,
-      "pay": "$40",
+      "pay": "$150",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Home improvement brand seeks DIY-curious respondents",
-      "link": "https://app.respondent.io/next/participants/projects/6a7531ebbd8ee4c444c0df21",
+      "title": "Share Your Digital Workflow Experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a767a78b97eb8155f156add",
       "alert": true,
-      "pay": "$100",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Share Your Experience with AI Health Assist",
-      "link": "https://app.respondent.io/next/participants/projects/6a753e5a4a7bfc98fa7e1850",
-      "alert": false,
-      "pay": "$30",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Your Opinion on Advertisements",
-      "link": "https://app.respondent.io/next/participants/projects/6a752885c739de53734871b8",
-      "alert": false,
-      "pay": "$40",
+      "pay": "$70",
       "duration": "15 min"
     },
     {
       "platform": "Respondent",
-      "title": "60-min Remote Interview, See if You Qualify!",
-      "link": "https://app.respondent.io/next/participants/projects/6a752090631c4a828470d466",
+      "title": "\ud83c\udf74\u2728 Love Food Content on Social Media?",
+      "link": "https://app.respondent.io/next/participants/projects/6a7663ca0e0ea5c35cf7e5af",
+      "alert": false,
+      "pay": "$35",
+      "duration": "30 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Your Work Experiences",
+      "link": "https://app.respondent.io/next/participants/projects/6a7660bc8bc4d3695f4d0816",
       "alert": true,
-      "pay": "$80",
-      "duration": "6 minutes"
+      "pay": "$200",
+      "duration": "20 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Insights on Digital Protection",
+      "link": "https://app.respondent.io/next/participants/projects/6a765adf46fb1aaca0939de4",
+      "alert": false,
+      "pay": "$15",
+      "duration": "15 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Sports Viewing & Food Occasions Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a7647aeb347349f9629e8b5",
+      "alert": false,
+      "pay": "$20",
+      "duration": "27 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking Relevant Participants",
+      "link": "https://app.respondent.io/next/participants/projects/6a76455fb97eb8155fb889bb",
+      "alert": false,
+      "pay": "$15",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking General Participants for an Upcoming Interview",
+      "link": "https://app.respondent.io/next/participants/projects/6a7645521302ade53056c385",
+      "alert": false,
+      "pay": "$15",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking General Participants",
+      "link": "https://app.respondent.io/next/participants/projects/6a7645454a754552165a45da",
+      "alert": false,
+      "pay": "$15",
+      "duration": "45 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Seeking General Participants",
+      "link": "https://app.respondent.io/next/participants/projects/6a7645404417c9a172ee5363",
+      "alert": false,
+      "pay": "$15",
+      "duration": "45 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Convenient Meals and Everyday Life",
-      "link": "https://www.userinterviews.com/projects/4uGM17xvrQ/apply",
-      "pay": "$10",
-      "duration": "9 MIN",
+      "title": "Test an app and tell us what you think!",
+      "link": "https://www.userinterviews.com/projects/AzvD7peIsA/apply",
+      "pay": "$15",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Are you a contractor with deck installation experience? We'd like to get your feedback on a new power technology!",
-      "link": "https://www.userinterviews.com/projects/c437asBzzg/apply",
+      "title": "Explore data with a new AI tool in a productivity program you use",
+      "link": "https://www.userinterviews.com/projects/wr5MhQ3T2Q/apply",
       "pay": "$30",
       "duration": "30 MIN",
       "source": "UserInterviews",
@@ -344,71 +332,71 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed [P-30674-10, 441494]",
-      "link": "https://www.userinterviews.com/projects/D8guay7JjQ/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
+      "title": "$75 - Get paid for your feedback about filing taxes!",
+      "link": "https://www.userinterviews.com/projects/mDSAPQxs8g/apply",
+      "pay": "$75",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Singapore Affluent Residents - we need your help!",
-      "link": "https://www.userinterviews.com/projects/xupod6O85Q/apply",
-      "pay": "$40",
-      "duration": "10 MIN",
+      "title": "Help Us Build an ID Verification System That Works for Everyone! [Mexico]",
+      "link": "https://www.userinterviews.com/projects/PsQimeZVBg/apply",
+      "pay": "$31",
+      "duration": "40 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Do you like reality TV? Then this study might be for you! [P-30681-4, 441489]",
-      "link": "https://www.userinterviews.com/projects/5ZXVt6Ug2Q/apply",
-      "pay": "$25",
-      "duration": "35 MIN",
+      "title": "Research Interview for Content & Creator Professionals",
+      "link": "https://www.userinterviews.com/projects/v5Ir_rBWbg/apply",
+      "pay": "$20",
+      "duration": "27 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Kwalitatief onderzoek, jouw input is nodig [P-30662-2, 441486]",
-      "link": "https://www.userinterviews.com/projects/rIQziSlfQQ/apply",
-      "pay": "$35",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Opinion on Everyday Products (approx. 30 min)",
-      "link": "https://www.userinterviews.com/projects/ZgHSkAYHxA/apply",
-      "pay": "$24",
-      "duration": "30 min",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Canadian Retail Investors - Test Your Investment App",
-      "link": "https://www.userinterviews.com/projects/Z4_ZkEaYRg/apply",
-      "pay": "$25",
+      "title": "How do marketing teams build audiences for campaigns?",
+      "link": "https://www.userinterviews.com/projects/u65YLhtWxw/apply",
+      "pay": "$150",
       "duration": "60 MIN",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Business and First Class Passengers: Premium Dining Focus Group",
-      "link": "https://www.userinterviews.com/projects/6Wsi2QK_2Q/apply",
-      "pay": "$88",
-      "duration": "90 MIN",
+      "title": "Technology Study",
+      "link": "https://www.userinterviews.com/projects/CN-93RpO0g/apply",
+      "pay": "$48",
+      "duration": "39 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Inviting ServiceNow IT Administrator for research session",
-      "link": "https://www.userinterviews.com/projects/4MamoudhsQ/apply",
+      "title": "Share your opinions about beverage choices",
+      "link": "https://www.userinterviews.com/projects/Eq3bhICFww/apply",
+      "pay": "$30",
+      "duration": "31 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Searching for global telecom operators in EMEA",
+      "link": "https://www.userinterviews.com/projects/ipBTv16UtA/apply",
+      "pay": "$80",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Perspective on ATS and Recruiting Workflows",
+      "link": "https://www.userinterviews.com/projects/fNfkBR9M4Q/apply",
       "pay": "$100",
       "duration": "60 MIN",
       "source": "UserInterviews",
@@ -423,7 +411,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "LinkedIn": {
       "status": "ok",
