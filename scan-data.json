@@ -1,7 +1,19 @@
 {
-  "generated": "2026-08-18T13:38:38.116359+00:00",
+  "generated": "2026-08-19T13:40:19.363893+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Casting Call for Los Angeles Dancers",
+      "link": "https://projectcasting.com/job/casting-call-for-los-angeles-dancers",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 18, 2026",
+      "source": "Kreations Studio",
+      "short_description": "Kreations Studio is casting male and female dancers in Los Angeles and Sacramento for an upcoming paid project with a local artist.The production is looking for talented performers with a strong st...",
+      "production_type": "Entertainment jobs & Crew"
+    },
     {
       "platform": "Project Casting",
       "title": "Punk Majesty \u2013 Content Creator",
@@ -87,118 +99,94 @@
       "production_type": "Entertainment jobs & Crew"
     },
     {
-      "platform": "Project Casting",
-      "title": "Commercial Casting Call for Gen Z Cashier",
-      "link": "https://projectcasting.com/job/commercial-casting-call-for-gen-z-cashier",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "August 17, 2026",
-      "source": "Apecastings",
-      "short_description": "APE Castings is seeking a gender-fluid Gen Z performer to portray a cashier in an upcoming paid commercial filming in the Los Angeles area.",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Commercial Casting Call for BBQ King",
-      "link": "https://projectcasting.com/job/commercial-casting-call-for-bbq-king",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "August 17, 2026",
-      "source": "Apecastings",
-      "short_description": "APE Castings is casting a male actor age 35 or older to portray the \u201cBBQ King\u201d in an upcoming paid commercial filming in Burbank.",
-      "production_type": "Commercials"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director (Activewear) - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-activewear-at-24-seven-talent-4454296684",
+      "title": "Creative Director, Devices Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-devices-brand-studio-at-amazon-4455904697",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Billboard: Director, Branded Content - Penske Media Corporation",
-      "link": "https://www.linkedin.com/jobs/view/billboard-director-branded-content-at-penske-media-corporation-4445416051",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "20 hours ago",
-      "source": "Penske Media Corporation"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Graphic Design - Samyang America, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-graphic-design-at-samyang-america-inc-4454472152",
-      "alert": false,
-      "location": "Brea, CA",
-      "date": "11 hours ago",
-      "source": "Samyang America, Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director- Fast Growing Advertising Agency - Monday Talent",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-fast-growing-advertising-agency-at-monday-talent-4448571540",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Monday Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Talent Outreach - Moonbug Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/creative-talent-outreach-at-moonbug-entertainment-4455531705",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Moonbug Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Creative Advertising Manager, Amazon MGM Studios - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/sr-creative-advertising-manager-amazon-mgm-studios-at-amazon-4445944169",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "18 hours ago",
+      "location": "Santa Monica, CA",
+      "date": "6 hours ago",
       "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Design Director - Gensler",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-gensler-4455529660",
+      "title": "Creative Director - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4446520687",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Gensler"
+      "date": "3 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Strategist - Dimond Connect",
-      "link": "https://www.linkedin.com/jobs/view/creative-strategist-at-dimond-connect-4454433749",
+      "title": "Associate Creative Director - Clearly Filtered",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-clearly-filtered-4454914507",
+      "alert": false,
+      "location": "Rancho Santa Margarita, CA",
+      "date": "14 hours ago",
+      "source": "Clearly Filtered"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Interactive Digital Experiences - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Monks"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Retail and Brand Experience, Devices Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/head-of-retail-and-brand-experience-devices-brand-studio-at-amazon-4455797731",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "6 hours ago",
+      "source": "Amazon"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, CX - Meta",
+      "link": "https://www.linkedin.com/jobs/view/art-director-cx-at-meta-4443666911",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Meta"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Services Director - Monster Energy",
+      "link": "https://www.linkedin.com/jobs/view/creative-services-director-at-monster-energy-4455959842",
+      "alert": false,
+      "location": "Corona, CA",
       "date": "16 hours ago",
-      "source": "Dimond Connect"
+      "source": "Monster Energy"
     },
     {
       "platform": "LinkedIn",
-      "title": "Persona Manager - Musicow",
-      "link": "https://www.linkedin.com/jobs/view/persona-manager-at-musicow-4454437588",
+      "title": "Director / Head of Game Capture - Mocean",
+      "link": "https://www.linkedin.com/jobs/view/director-head-of-game-capture-at-mocean-4454794042",
       "alert": false,
-      "location": "Beverly Hills, CA",
-      "date": "13 hours ago",
-      "source": "Musicow"
+      "location": "Los Angeles, CA",
+      "date": "19 hours ago",
+      "source": "Mocean"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Strategist - Ejam Inc",
-      "link": "https://www.linkedin.com/jobs/view/creative-strategist-at-ejam-inc-4455362698",
+      "title": "Brand Designer, Creative X - Meta",
+      "link": "https://www.linkedin.com/jobs/view/brand-designer-creative-x-at-meta-4444109073",
       "alert": false,
-      "location": "Santa Ana, CA",
-      "date": "17 hours ago",
-      "source": "Ejam Inc"
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Meta"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Environmental Design - LA28 Olympic & Paralympic Games - TKO",
+      "link": "https://www.linkedin.com/jobs/view/art-director-environmental-design-la28-olympic-paralympic-games-at-tko-4434801152",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "TKO"
     },
     {
       "platform": "Central Casting",
@@ -223,6 +211,52 @@
     },
     {
       "platform": "Everyset",
+      "title": "Docents",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "College Student w/Laptop",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "LAPD & DETECTIVES",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Goth Bar Patrons",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "NU Fundraiser Waitstaff",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Cool Kid / Audience Member",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "NU Business Type w. WHEELCHAIR",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
       "title": "BG w/ 1970-1992 Cars (PLEASE READ THE APPLICATION)",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
@@ -242,51 +276,6 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Press Photographers",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Wealthy Gala Attendee",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "ND Agents",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Isla PD",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Kar PD",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "BG w. SUV",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Ped Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "Aquent",
       "title": "Lead Graphic Designer",
       "link": "https://aquent.com/find-work/212359",
@@ -295,106 +284,88 @@
     },
     {
       "platform": "Respondent",
-      "title": "Seeking Technical and Primary Strategic Professionals",
-      "link": "https://app.respondent.io/next/participants/projects/6a83286f7c54e90b7637a3bd",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://app.respondent.io/next/participants/projects/6a858c0c991c7714cdd0f83e",
       "alert": false,
-      "pay": "$40",
-      "duration": "20 min"
+      "pay": "$30",
+      "duration": "30 minute"
     },
     {
       "platform": "Respondent",
-      "title": "Share Your Experience With Online Healthcare",
-      "link": "https://app.respondent.io/next/participants/projects/6a83b3a7b08fd2a57ce50a80",
-      "alert": false,
-      "pay": "$45",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "How You Think About Money & the Future",
-      "link": "https://app.respondent.io/next/participants/projects/6a83951dc0efe0adda5525ab",
+      "title": "Household Budget and Spending Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a858b46bdd7b58989747087",
       "alert": false,
       "pay": "$25",
-      "duration": "20 min"
+      "duration": "20 minutes"
     },
     {
       "platform": "Respondent",
-      "title": "Share Your Experience with AI Health Assist",
-      "link": "https://app.respondent.io/next/participants/projects/6a83af60ea4c499fbb588426",
+      "title": "How Does AI Shape Your Shopping Choices?",
+      "link": "https://app.respondent.io/next/participants/projects/6a858a6718ad64ebbc63f6d1",
       "alert": false,
-      "pay": "$45",
-      "duration": "20 min"
+      "pay": "$25",
+      "duration": "20 minutes"
     },
     {
       "platform": "Respondent",
-      "title": "Your Digital World: A Quick Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a839d5eea4c499fbb4189e5",
+      "title": "Everyday Routines and Planning Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a811f242a6c66a58748985c",
       "alert": false,
-      "pay": "$10",
-      "duration": "15 min"
+      "pay": "$25",
+      "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Seeking PC and Console Party Gamers",
-      "link": "https://app.respondent.io/next/participants/projects/6a839804b08fd2a57cb5e8ca",
-      "alert": false,
-      "pay": "$15",
+      "title": "AI Agent Experience Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a84e30c2a472978b4098755",
+      "alert": true,
+      "pay": "$175",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Retail Product Sourcing and Purchasing Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a84979ba40c3654f49dd1c0",
+      "alert": true,
+      "pay": "$125",
       "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Buscamos due\u00f1os de mascotas con suplementos articulares",
-      "link": "https://app.respondent.io/next/participants/projects/6a8396647c54e90b76179d5f",
+      "title": "Filtering B2B data on Seller Central",
+      "link": "https://app.respondent.io/next/participants/projects/6a8504dd048ccc5f59cb05a2",
       "alert": false,
-      "pay": "$15",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Seeking Pet Owners Managing Joint or Mobility Issues",
-      "link": "https://app.respondent.io/next/participants/projects/6a839663837ee349e5efd491",
-      "alert": false,
-      "pay": "$15",
-      "duration": "45 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Hello and thank you very much for agreeing to participate in this interview!",
-      "link": "https://app.respondent.io/next/participants/projects/6a836d7c12df83cc2c2bfe82",
-      "alert": false,
-      "pay": "$40",
+      "pay": "$21.46",
       "duration": "27 min"
     },
     {
       "platform": "Respondent",
-      "title": "Hello and thank you for agreeing to participate in this interview!",
-      "link": "https://app.respondent.io/next/participants/projects/6a8368caba117c47e5f47aee",
+      "title": "Building Better Learning Platforms for Engineering, Data & Systems Specialists \u2013 UX Study [USA]",
+      "link": "https://app.respondent.io/next/participants/projects/6a84d53d4f0de89b82f511fb",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share Your Product Experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a84e9617b04c11b06d74d03",
       "alert": false,
-      "pay": "$40",
-      "duration": "31 min"
+      "pay": "$5",
+      "duration": "5 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Share Your Beverage Opinions!",
+      "link": "https://app.respondent.io/next/participants/projects/6a84e18cf2c62ce536b6cf62",
+      "alert": false,
+      "pay": "$20.83",
+      "duration": "27 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Studiu de cercetare calitativ\u0103, este nevoie de p\u0103rerea ta",
-      "link": "https://www.userinterviews.com/projects/C_2CFwF4YA/apply",
-      "pay": "$20",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking individuals 18-65yo who are pet owners! / Poszukujemy os\u00f3b w wieku 18\u201365 lat, kt\u00f3re s\u0105 w\u0142a\u015bcicielami zwierz\u0105t domowych!",
-      "link": "https://www.userinterviews.com/projects/NCyWl2GD8w/apply",
-      "pay": "$25",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Professional Research Study",
-      "link": "https://www.userinterviews.com/projects/hwQPXdXW9g/apply",
+      "title": "Apps Study",
+      "link": "https://www.userinterviews.com/projects/gPzkma7AgQ/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -402,66 +373,84 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Mobile Banking Account Opening Paid Usability Study",
-      "link": "https://www.userinterviews.com/projects/4dJJE3X5XA/apply",
-      "pay": "$60",
-      "duration": "45 MIN",
+      "title": "College instructors: Tell us how we're doing with course set up support!",
+      "link": "https://www.userinterviews.com/projects/l8eqaV62wg/apply",
+      "pay": "$50",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Education Leaders: Share Your Perspective on Digital Learning",
-      "link": "https://www.userinterviews.com/projects/7m-Bw4ldUw/apply",
-      "pay": "$60",
-      "duration": "45 MIN",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/Uz35KyEVfA/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Help us improve Booksy for Barbers - $150 for 1 hour",
-      "link": "https://www.userinterviews.com/projects/T1cxsGMZLQ/apply",
-      "pay": "$150",
-      "duration": "1 hour",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Recruiting beta testers for a new product",
-      "link": "https://www.userinterviews.com/projects/nMhmwoAN3Q/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/S6amjt9HPQ/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share Your Perspective on the Future of Your Workplace",
-      "link": "https://www.userinterviews.com/projects/6zmyjgcBtQ/apply",
-      "pay": "$11",
-      "duration": "23 MIN",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/xgpysOJFVQ/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "eVaulting market share in auto lending",
-      "link": "https://www.userinterviews.com/projects/nPHNapmNuQ/apply",
-      "pay": "$65",
-      "duration": "45 MIN",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/SE07JYHcwA/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Finance Policy Owners",
-      "link": "https://www.userinterviews.com/projects/gnOyhW9Flw/apply",
-      "pay": "$150",
-      "duration": "80 MIN",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/OF74pMnLTA/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/casMnAOccw/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Welcome to our health and wellness study!",
+      "link": "https://www.userinterviews.com/projects/-0cHwrtoUg/apply",
+      "pay": "$29",
+      "duration": "29 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "$8 for a 5-minute survey on how online (Ecommerce) sellers manage money",
+      "link": "https://www.userinterviews.com/projects/VxmufQXPTA/apply",
+      "pay": "$8",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
     }
   ],
   "errors": {},
@@ -472,7 +461,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
