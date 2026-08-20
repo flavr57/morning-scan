@@ -1,129 +1,87 @@
 {
-  "generated": "2026-08-19T13:40:19.363893+00:00",
+  "generated": "2026-08-20T13:42:13.839563+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "Casting Call for Los Angeles Dancers",
-      "link": "https://projectcasting.com/job/casting-call-for-los-angeles-dancers",
+      "title": "The Mom Walk Company Casting Call",
+      "link": "https://projectcasting.com/job/the-mom-walk-company-casting-call",
       "alert": true,
       "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 18, 2026",
-      "source": "Kreations Studio",
-      "short_description": "Kreations Studio is casting male and female dancers in Los Angeles and Sacramento for an upcoming paid project with a local artist.The production is looking for talented performers with a strong st...",
+      "location": "California",
+      "date": "August 19, 2026",
+      "source": "The Mom Walk Collective",
+      "short_description": "The Mom Walk Collective is casting eight local moms in Orange County, California , for an upcoming shoot featuring the organization\u2019s newest merchandise collection.",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "ESPN \u2013 UCLA @ California \u2013 Runner",
+      "link": "https://projectcasting.com/job/espn-ucla-california-runner",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "August 19, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "Join the production team behind a live college football broadcast at California Memorial Stadium in Berkeley, California.",
       "production_type": "Entertainment jobs & Crew"
     },
     {
       "platform": "Project Casting",
-      "title": "Punk Majesty \u2013 Content Creator",
-      "link": "https://projectcasting.com/job/punk-majesty-content-creator",
+      "title": "ESPN \u2013 Mississippi Valley State @ Sacramento State \u2013 Runner",
+      "link": "https://projectcasting.com/job/espn-mississippi-valley-state-sacramento-state-runner",
       "alert": true,
       "pay": "$",
       "location": "California",
-      "date": "August 17, 2026",
-      "source": "Punk Majesty",
-      "short_description": "Punk Majesty is hiring a part-time Content Creator & Social Media Coordinator in San Francisco to capture the energy, creativity, and culture surrounding the brand.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Devotion The Motion \u2013 Content Creators Wanted",
-      "link": "https://projectcasting.com/job/devotion-the-motion-content-creators-wanted",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "August 17, 2026",
-      "source": "Devotion The Movement",
-      "short_description": "Devotion The Movement is seeking dancers and content creators to participate in a promotional shoot for its Drop-In Masterclasses.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Commercial Casting Call for Athletes and Families",
-      "link": "https://projectcasting.com/job/commercial-casting-call-for-athletes-and-families",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 17, 2026",
-      "source": "Mollie Maguire Casting",
-      "short_description": "Mollie Maguire Casting is seeking athletes and their families\u2014either blood-related or chosen family\u2014for an upcoming campaign shooting in Los Angeles .",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Taylor Sheridan\u2019s New Sports Documentary Casting Call for Youth Athletes",
-      "link": "https://projectcasting.com/job/taylor-sheridans-new-sports-documentary-casting-call-for-youth-athletes",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "August 17, 2026",
-      "source": "101 Studios",
-      "short_description": "A feature documentary exploring the world of youth sports is seeking families with competitive young athletes to share their real-life experiences.",
-      "production_type": "Documentary"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Casting Models \u2014 LOS ANGELES FASHION WEEK!!",
-      "link": "https://projectcasting.com/job/casting-models-los-angeles-fashion-week",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 17, 2026",
-      "source": "Mila Hoffman",
-      "short_description": "Mila Hoffman Couture is casting girls and boys ages 5 and up to model in runway fashion shows during Los Angeles Fashion Week.",
-      "production_type": "Fashion Show"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$900/Day Video Shoot Los Angeles Casting Call",
-      "link": "https://projectcasting.com/job/900-day-video-shoot-los-angeles-casting-call",
-      "alert": true,
-      "pay": "$900",
-      "location": "Los Angeles, CA",
-      "date": "August 17, 2026",
-      "source": "Zaeim",
-      "short_description": "A videographer is needed in Los Angeles to capture behind-the-scenes (BTS) video content for an upcoming event taking place on August 27, 2026 .",
+      "date": "August 19, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "A college sports broadcast at Hornet Stadium in Sacramento, California, is seeking a dependable Runner to provide hands-on support for the production and operations crew.",
       "production_type": "Entertainment jobs & Crew"
     },
     {
       "platform": "Project Casting",
-      "title": "Content Videographer ($20/Hour)",
-      "link": "https://projectcasting.com/job/content-videographer-20-hour",
+      "title": "ESPN \u2013 Miami @ Stanford \u2013 Runner",
+      "link": "https://projectcasting.com/job/espn-miami-stanford-runner",
       "alert": true,
-      "pay": "$20",
-      "location": "Los Angeles, CA",
-      "date": "August 17, 2026",
-      "source": "Red Velvet Studios",
-      "short_description": "Red Velvet Studios is hiring a part-time Content Videographer based in Los Angeles to capture engaging visual content for its artists and productions.",
+      "pay": "$",
+      "location": "California",
+      "date": "August 19, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "Help bring a live college sports broadcast to life from Stanford Stadium in Stanford, California. The production team is seeking a resourceful Runner to serve as a key link between crew members, br...",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "ESPN \u2013 Hawai\u2019i @ Stanford \u2013 Runner",
+      "link": "https://projectcasting.com/job/espn-hawaii-stanford-runner",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "August 19, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "A live college sports production is seeking a dependable Runner to assist the broadcast team at Stanford Stadium in Stanford, California.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "ESPN \u2013 Idaho @ Cal Poly \u2013 Runner",
+      "link": "https://projectcasting.com/job/espn-idaho-cal-poly-runner",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "August 19, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "A live sports broadcast is seeking a dependable Runner to assist the production and operations crew at Mustang Memorial Field in San Luis Obispo, California.",
       "production_type": "Entertainment jobs & Crew"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Devices Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-devices-brand-studio-at-amazon-4455904697",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "6 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-monks-4446520687",
+      "title": "Regional Creative Lead, NA, EMEA & LATAM - thatgamecompany",
+      "link": "https://www.linkedin.com/jobs/view/regional-creative-lead-na-emea-latam-at-thatgamecompany-4456380662",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "Monks"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - Clearly Filtered",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-clearly-filtered-4454914507",
-      "alert": false,
-      "location": "Rancho Santa Margarita, CA",
-      "date": "14 hours ago",
-      "source": "Clearly Filtered"
+      "date": "17 hours ago",
+      "source": "thatgamecompany"
     },
     {
       "platform": "LinkedIn",
@@ -131,62 +89,80 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
+      "date": "6 hours ago",
       "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Retail and Brand Experience, Devices Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/head-of-retail-and-brand-experience-devices-brand-studio-at-amazon-4455797731",
+      "title": "Creative Director - Artwork, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-artwork-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456716101",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "6 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director, CX - Meta",
-      "link": "https://www.linkedin.com/jobs/view/art-director-cx-at-meta-4443666911",
-      "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Culver City, CA",
       "date": "1 hour ago",
-      "source": "Meta"
+      "source": "Prime Video & Amazon MGM Studios"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Services Director - Monster Energy",
-      "link": "https://www.linkedin.com/jobs/view/creative-services-director-at-monster-energy-4455959842",
-      "alert": false,
-      "location": "Corona, CA",
-      "date": "16 hours ago",
-      "source": "Monster Energy"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director / Head of Game Capture - Mocean",
-      "link": "https://www.linkedin.com/jobs/view/director-head-of-game-capture-at-mocean-4454794042",
+      "title": "Head of Creative - Faire",
+      "link": "https://www.linkedin.com/jobs/view/head-of-creative-at-faire-4437320246",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "Mocean"
+      "date": "59 minutes ago",
+      "source": "Faire"
     },
     {
       "platform": "LinkedIn",
-      "title": "Brand Designer, Creative X - Meta",
-      "link": "https://www.linkedin.com/jobs/view/brand-designer-creative-x-at-meta-4444109073",
+      "title": "Creative Director - Video, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-video-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456720093",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "Culver City, CA",
       "date": "1 hour ago",
-      "source": "Meta"
+      "source": "Prime Video & Amazon MGM Studios"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director, Environmental Design - LA28 Olympic & Paralympic Games - TKO",
-      "link": "https://www.linkedin.com/jobs/view/art-director-environmental-design-la28-olympic-paralympic-games-at-tko-4434801152",
+      "title": "Design Director \u2013 Dresses - Contemporary Fashion Brand - Mode Executive",
+      "link": "https://www.linkedin.com/jobs/view/design-director-%E2%80%93-dresses-contemporary-fashion-brand-at-mode-executive-4422820825",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "TKO"
+      "date": "5 hours ago",
+      "source": "Mode Executive"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vice President of Brand & Creative - Proper Hospitality",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-of-brand-creative-at-proper-hospitality-4455448043",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "Proper Hospitality"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Brand Marketing - Cantina Labs",
+      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-at-cantina-labs-4438371355",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "Cantina Labs"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Brand - Creator Marketing Platform - Three Pillars Recruiting",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creator-marketing-platform-at-three-pillars-recruiting-4437015449",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Three Pillars Recruiting"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr Director, Product Design - Hot Wheels - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-product-design-hot-wheels-at-mattel-inc-4446502008",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "22 hours ago",
+      "source": "Mattel, Inc."
     },
     {
       "platform": "Central Casting",
@@ -208,6 +184,38 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/military",
       "alert": false,
       "date": "July 16, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Swimming Photo Double",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Hikers",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Tiki Bar BG Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Audeince Member",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Background w. VEHICLE",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -244,36 +252,11 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Cool Kid / Audience Member",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "NU Business Type w. WHEELCHAIR",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "BG w/ 1970-1992 Cars (PLEASE READ THE APPLICATION)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "High School Couple Making Out",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Bugatti Mechanic",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
+      "platform": "Aquent",
+      "title": "Brand Designer",
+      "link": "https://aquent.com/find-work/212409",
+      "alert": false,
+      "date": "Posted Aug 19, 2026"
     },
     {
       "platform": "Aquent",
@@ -284,171 +267,171 @@
     },
     {
       "platform": "Respondent",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://app.respondent.io/next/participants/projects/6a858c0c991c7714cdd0f83e",
-      "alert": false,
-      "pay": "$30",
-      "duration": "30 minute"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Household Budget and Spending Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a858b46bdd7b58989747087",
-      "alert": false,
-      "pay": "$25",
-      "duration": "20 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "How Does AI Shape Your Shopping Choices?",
-      "link": "https://app.respondent.io/next/participants/projects/6a858a6718ad64ebbc63f6d1",
-      "alert": false,
-      "pay": "$25",
-      "duration": "20 minutes"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Everyday Routines and Planning Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a811f242a6c66a58748985c",
-      "alert": false,
-      "pay": "$25",
+      "title": "Health Management and Daily Wellness Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a864b7dc2b529a2d3bdba24",
+      "alert": true,
+      "pay": "$50",
       "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "AI Agent Experience Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a84e30c2a472978b4098755",
+      "title": "Seeking input on a business advisor tool",
+      "link": "https://app.respondent.io/next/participants/projects/6a86293c3d7b0fc61aad9eb5",
       "alert": true,
-      "pay": "$175",
+      "pay": "$50",
       "duration": "30 min"
     },
     {
       "platform": "Respondent",
-      "title": "Retail Product Sourcing and Purchasing Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a84979ba40c3654f49dd1c0",
-      "alert": true,
-      "pay": "$125",
+      "title": "Seeking Arcade and Party Gamers Who Love SpongeBob",
+      "link": "https://app.respondent.io/next/participants/projects/6a862b7818ad64ebbcf29638",
+      "alert": false,
+      "pay": "$15",
       "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Filtering B2B data on Seller Central",
-      "link": "https://app.respondent.io/next/participants/projects/6a8504dd048ccc5f59cb05a2",
+      "title": "Motorcycle app feedback",
+      "link": "https://app.respondent.io/next/participants/projects/6a86120a8c8898364e8ca42d",
       "alert": false,
-      "pay": "$21.46",
-      "duration": "27 min"
+      "pay": "$30",
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "Building Better Learning Platforms for Engineering, Data & Systems Specialists \u2013 UX Study [USA]",
-      "link": "https://app.respondent.io/next/participants/projects/6a84d53d4f0de89b82f511fb",
+      "title": "Haircare Product Shopping Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a85fb6c3d414d7f2bae2e91",
+      "alert": false,
+      "pay": "$30",
+      "duration": "30 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Health Plan Digital Experience Study",
+      "link": "https://app.respondent.io/next/participants/projects/6a85f6503768e9de03135e94",
       "alert": true,
       "pay": "$100",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
-      "title": "Share Your Product Experience",
-      "link": "https://app.respondent.io/next/participants/projects/6a84e9617b04c11b06d74d03",
+      "title": "How you use AI Agents at Work",
+      "link": "https://app.respondent.io/next/participants/projects/6a85f46290a9667a53cec6aa",
       "alert": false,
-      "pay": "$5",
-      "duration": "5 min"
+      "pay": "$25",
+      "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "Share Your Beverage Opinions!",
-      "link": "https://app.respondent.io/next/participants/projects/6a84e18cf2c62ce536b6cf62",
+      "title": "People Manager Job Research",
+      "link": "https://app.respondent.io/next/participants/projects/6a85e62b18ad64ebbc38c176",
+      "alert": true,
+      "pay": "$100",
+      "duration": "60 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Are you looking to sign up to Capital one?",
+      "link": "https://app.respondent.io/next/participants/projects/6a85dfc422f985f13dc14da1",
       "alert": false,
-      "pay": "$20.83",
-      "duration": "27 min"
+      "pay": "$15",
+      "duration": "10 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "We want to chat!",
+      "link": "https://app.respondent.io/next/participants/projects/6a85dd3c8c8898364e0888b4",
+      "alert": true,
+      "pay": "$75",
+      "duration": "20 min"
     },
     {
       "platform": "UserInterviews",
-      "title": "Apps Study",
-      "link": "https://www.userinterviews.com/projects/gPzkma7AgQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "College instructors: Tell us how we're doing with course set up support!",
-      "link": "https://www.userinterviews.com/projects/l8eqaV62wg/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/Uz35KyEVfA/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/S6amjt9HPQ/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/xgpysOJFVQ/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/SE07JYHcwA/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/OF74pMnLTA/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/casMnAOccw/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Welcome to our health and wellness study!",
-      "link": "https://www.userinterviews.com/projects/-0cHwrtoUg/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "$8 for a 5-minute survey on how online (Ecommerce) sellers manage money",
-      "link": "https://www.userinterviews.com/projects/VxmufQXPTA/apply",
-      "pay": "$8",
+      "title": "Banking Research Study",
+      "link": "https://www.userinterviews.com/projects/52eSvuZDKA/apply",
+      "pay": "$2",
       "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Financial Research Study",
+      "link": "https://www.userinterviews.com/projects/1BkZjl1Ffw/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Tell us what you think about a type of soda!",
+      "link": "https://www.userinterviews.com/projects/zwfq4IzW2A/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "US employers: Share your experience with the H-2B visa program",
+      "link": "https://www.userinterviews.com/projects/d-XHfqtWbw/apply",
+      "pay": "$75",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We would love to hear your opinion about beauty products! [P-30714-23/444279]",
+      "link": "https://www.userinterviews.com/projects/5s8l6cfwWA/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Take part in this study about beauty products! [P-30714-21/444277]",
+      "link": "https://www.userinterviews.com/projects/k2vY9hB6FA/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "What do you think of nail products? [P-30714-20/444276]",
+      "link": "https://www.userinterviews.com/projects/8k5IvIDsTA/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Tell us which beauty products are in your routine! [P-30714-17/444273]",
+      "link": "https://www.userinterviews.com/projects/UyCGd4yPww/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Kwalitatief onderzoek naar gezondheid en welzijn [P-30707-31/444266]",
+      "link": "https://www.userinterviews.com/projects/wNzSVarKmA/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Nehmen Sie an unserer Studie zu unseren E-Commerce-Erfahrungen teil [P-30701-4/444248]",
+      "link": "https://www.userinterviews.com/projects/hVqzZ_7MUA/apply",
+      "pay": "$15",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -461,7 +444,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 8
+      "count": 6
     },
     "LinkedIn": {
       "status": "ok",
@@ -477,7 +460,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "Indeed": {
       "status": "ok",
