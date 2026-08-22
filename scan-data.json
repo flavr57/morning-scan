@@ -1,155 +1,176 @@
 {
-  "generated": "2026-08-21T13:41:22.319465+00:00",
+  "generated": "2026-08-22T13:28:15.237908+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "Production Assistants Needed for NYU Experimental Thesis Short Film",
-      "link": "https://projectcasting.com/job/production-assistants-needed-for-nyu-experimental-thesis-short-film",
+      "title": "Guess Who\u2019s Employed \u2013 YouTube Comedy Game Show",
+      "link": "https://projectcasting.com/job/guess-whos-employed-youtube-comedy-game-show",
       "alert": true,
-      "pay": "$",
       "location": "Los Angeles, CA",
-      "date": "August 20, 2026",
-      "source": "Ari Ogden",
-      "short_description": "An NYU student production is urgently seeking 1\u20132 Driving Production Assistants and 1\u20132 General Production Assistants for an experimental thesis short film filming between Los Angeles and Joshua Tr...",
+      "date": "August 21, 2026",
+      "source": "Trending inc",
+      "production_type": "Reality Show"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Actors Needed for Short Film \u201cThe Death of America\u201d",
+      "link": "https://projectcasting.com/job/actors-needed-for-short-film-the-death-of-america",
+      "alert": true,
+      "location": "California",
+      "date": "August 21, 2026",
+      "source": "Kyler Blair",
+      "short_description": "An independent short film titled \u201cThe Death of America\u201d is casting three performers for a character-driven story filming in Sacramento, California.",
       "production_type": "Short Film"
     },
     {
       "platform": "Project Casting",
-      "title": "Experienced Production Assistant \u2013 Non-Union Commercial",
-      "link": "https://projectcasting.com/job/experienced-production-assistant-non-union-commercial",
+      "title": "Casting Male Fitness Models",
+      "link": "https://projectcasting.com/job/casting-male-fitness-models",
       "alert": true,
       "pay": "$$",
       "location": "Los Angeles, CA",
-      "date": "August 20, 2026",
-      "source": "Metropolis MG",
-      "short_description": "A Los Angeles production is seeking an experienced Production Assistant to join the crew for a fast-turnaround, non-union commercial connected to a ballot initiative.",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "ComplexCon Booth Staff Casting Call",
-      "link": "https://projectcasting.com/job/complexcon-booth-staff-casting-call",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 20, 2026",
-      "source": "Biltz Castings",
-      "short_description": "Blitz Castings is seeking one female and one male to work a booth at ComplexCon. Selected talent will represent the booth during the event and must be available for both scheduled event days .",
-      "production_type": "Events"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$120 Justice Central Court Room Drama Casting Call",
-      "link": "https://projectcasting.com/job/120-justice-central-court-room-drama-casting-call-6",
-      "alert": true,
-      "pay": "$120",
-      "location": "California",
-      "date": "August 20, 2026",
-      "source": "Standing Room Only",
-      "short_description": "A television legal drama is casting background actors of all ages and ethnicities for courtroom scenes filming in Culver City, California.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "The Mom Walk Company Casting Call",
-      "link": "https://projectcasting.com/job/the-mom-walk-company-casting-call",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "August 19, 2026",
-      "source": "The Mom Walk Collective",
-      "short_description": "The Mom Walk Collective is casting eight local moms in Orange County, California , for an upcoming shoot featuring the organization\u2019s newest merchandise collection.",
+      "date": "August 21, 2026",
+      "source": "Narrative Ads - Casting",
+      "short_description": "A UGC production is seeking muscular male talent for an upcoming Los Angeles shoot. The project is looking for men with a bulky, athletic physique who can bring a confident and natural presence to...",
       "production_type": "Modeling"
     },
     {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Advertising - PlanetArt",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-advertising-at-planetart-4436433580",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "1 hour ago",
-      "source": "PlanetArt"
+      "platform": "Project Casting",
+      "title": "YouTube \u201cHow Hard Can It Be?\u201d Open Casting Call",
+      "link": "https://projectcasting.com/job/youtube-how-hard-can-it-be-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "August 21, 2026",
+      "source": "Marissa Jean Schafer",
+      "short_description": "A YouTube entertainment project is casting everyday people for a fun, competitive series that puts confidence to the test.",
+      "production_type": "Social Media Content"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Skycam \u2013 San Jose St @ USC \u2013 Skycam Utility",
+      "link": "https://projectcasting.com/job/skycam-san-jose-st-usc-skycam-utility",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 21, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "Skycam is looking for a production Utility professional to assist with technical operations for the San Jose St @ USC live sports broadcast.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Skycam \u2013 New Orleans @ Los Angeles Rams \u2013 Skycam Utility",
+      "link": "https://projectcasting.com/job/skycam-new-orleans-los-angeles-rams-skycam-utility",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 21, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "Skycam is looking for a hands-on Utility professional to support technical operations for the New Orleans @ Los Angeles Rams broadcast.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Skycam \u2013 San Francisco @ Los Angeles Chargers \u2013 Skycam Utility",
+      "link": "https://projectcasting.com/job/skycam-san-francisco-los-angeles-chargers-skycam-utility",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 21, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "Skycam is seeking a hands-on Utility professional to support technical operations for the San Francisco @ Los Angeles Chargers broadcast.",
+      "production_type": "Entertainment jobs & Crew"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Artwork, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-artwork-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456716101",
+      "title": "Head of Brand & Creative - The Bowerman Group",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creative-at-the-bowerman-group-4457354656",
       "alert": false,
-      "location": "Culver City, CA",
+      "location": "Los Angeles Metropolitan Area",
       "date": "20 hours ago",
-      "source": "Prime Video & Amazon MGM Studios"
+      "source": "The Bowerman Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Brand Strategy (Art Director) ($150,200.00 - $197,200.00) - Irvine Company Chicago",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-strategy-art-director-%24150-200-00-%24197-200-00-at-irvine-company-chicago-4456053612",
+      "title": "Manager, Creative (Netflix House) - Brand Creative Studio - Netflix",
+      "link": "https://www.linkedin.com/jobs/view/manager-creative-netflix-house-brand-creative-studio-at-netflix-4445541569",
       "alert": false,
-      "location": "Irvine, CA",
-      "date": "13 hours ago",
-      "source": "Irvine Company Chicago"
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Netflix"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Brand Strategy (Art Director) ($150,200.00 - $197,200.00) - Irvine Company",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-strategy-art-director-%24150-200-00-%24197-200-00-at-irvine-company-4456017964",
+      "title": "Creative Strategy Lead (Director) - TubeScience",
+      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-director-at-tubescience-4227007028",
       "alert": false,
-      "location": "Irvine, CA",
-      "date": "19 hours ago",
-      "source": "Irvine Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Video, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-video-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456720093",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "20 hours ago",
-      "source": "Prime Video & Amazon MGM Studios"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Brand Strategy (Art Director) ($150,200.00 - $197,200.00) - Irvine Company Retail Properties",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-strategy-art-director-%24150-200-00-%24197-200-00-at-irvine-company-retail-properties-4454120095",
-      "alert": false,
-      "location": "Irvine, CA",
-      "date": "22 hours ago",
-      "source": "Irvine Company Retail Properties"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Marketing Director - Republican Jobs",
-      "link": "https://www.linkedin.com/jobs/view/creative-marketing-director-at-republican-jobs-4456717990",
-      "alert": false,
-      "location": "Orange County, CA",
+      "location": "Los Angeles, CA",
       "date": "23 hours ago",
-      "source": "Republican Jobs"
+      "source": "TubeScience"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
+      "title": "Vice President, Brand, Marketing & Content - Virgin Galactic",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-brand-marketing-content-at-virgin-galactic-4457532431",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "1 hour ago",
-      "source": "Mattel, Inc."
+      "location": "Tustin, CA",
+      "date": "13 hours ago",
+      "source": "Virgin Galactic"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Growth Creative - Dr. Squatch",
-      "link": "https://www.linkedin.com/jobs/view/director-of-growth-creative-at-dr-squatch-4456041925",
+      "title": "Director, Editorial & Curation - Suno",
+      "link": "https://www.linkedin.com/jobs/view/director-editorial-curation-at-suno-4454667964",
       "alert": false,
-      "location": "Marina del Rey, CA",
+      "location": "Los Angeles, CA",
       "date": "15 hours ago",
-      "source": "Dr. Squatch"
+      "source": "Suno"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director - Loungefly - Funko",
-      "link": "https://www.linkedin.com/jobs/view/art-director-loungefly-at-funko-4446933600",
+      "title": "Director, Editorial & Curation - Forerunner",
+      "link": "https://www.linkedin.com/jobs/view/director-editorial-curation-at-forerunner-4457553225",
+      "alert": false,
+      "location": "Los Angeles County, CA",
+      "date": "11 hours ago",
+      "source": "Forerunner"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Design Studio Lead - JGM",
+      "link": "https://www.linkedin.com/jobs/view/design-studio-lead-at-jgm-4456267577",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "19 hours ago",
+      "source": "JGM"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Lead, SMC Marketing - Snap Inc.",
+      "link": "https://www.linkedin.com/jobs/view/lead-smc-marketing-at-snap-inc-4428892799",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "21 hours ago",
+      "source": "Snap Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Principal Design Manager - Linktree",
+      "link": "https://www.linkedin.com/jobs/view/principal-design-manager-at-linktree-4446792966",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "23 hours ago",
+      "source": "Linktree"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Manager, Concept Design - Funko",
+      "link": "https://www.linkedin.com/jobs/view/manager-concept-design-at-funko-4438816624",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "2 hours ago",
+      "date": "1 hour ago",
       "source": "Funko"
     },
     {
@@ -172,6 +193,12 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/military",
       "alert": false,
       "date": "July 16, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Student Audience Members",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -232,13 +259,6 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Docents",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Aquent",
       "title": "Senior Designer",
       "link": "https://aquent.com/find-work/212447",
@@ -254,115 +274,97 @@
     },
     {
       "platform": "Respondent",
-      "title": "How You Think About Money & Advice",
-      "link": "https://app.respondent.io/next/participants/projects/6a87fcc157e582b628e7e7fc",
-      "alert": false,
-      "pay": "$20",
-      "duration": "25 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Do you use a Copilot Money (financial app)?",
-      "link": "https://app.respondent.io/next/participants/projects/6a87fcf485cffd4d999b085e",
+      "title": "Seeking Insights Leaders Using AI",
+      "link": "https://app.respondent.io/next/participants/projects/6a88dab5aa3ea571db0dab25",
       "alert": false,
       "pay": "$15",
-      "duration": "15 min"
+      "duration": "45 min"
     },
     {
       "platform": "Respondent",
-      "title": "How You Think About Retirement & What's Ahead",
-      "link": "https://app.respondent.io/next/participants/projects/6a87fa941f5843c8c760bcdd",
+      "title": "Shopping Preferences Survey",
+      "link": "https://app.respondent.io/next/participants/projects/6a88d4a01f5843c8c70d7008",
       "alert": false,
-      "pay": "$20",
+      "pay": "$10",
+      "duration": "18 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Life in Practice",
+      "link": "https://app.respondent.io/next/participants/projects/6a88ce3d1fe0f2116d4ad2a9",
+      "alert": true,
+      "pay": "$75",
       "duration": "20 min"
     },
     {
       "platform": "Respondent",
-      "title": "How You Think About Money & Advice",
-      "link": "https://app.respondent.io/next/participants/projects/6a87f61cbd540b47a77a862e",
+      "title": "Realtors: help us build a better homebuying experience",
+      "link": "https://app.respondent.io/next/participants/projects/6a88cc91495191f7830559c0",
       "alert": false,
-      "pay": "$20",
-      "duration": "25 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "How You Think About Retirement & What's Ahead",
-      "link": "https://app.respondent.io/next/participants/projects/6a87f0ad3014ed25a5833fdb",
-      "alert": false,
-      "pay": "$20",
-      "duration": "20 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "How You Think About Money & the Messages Around It",
-      "link": "https://app.respondent.io/next/participants/projects/6a87dbd448f12241088c7d21",
-      "alert": false,
-      "pay": "$25",
-      "duration": "30 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Backyard Nature and Feeding Habits Study",
-      "link": "https://app.respondent.io/next/participants/projects/6a87be39bd540b47a7f30bb7",
-      "alert": false,
-      "pay": "$80",
+      "pay": "$40",
       "duration": "60 min"
     },
     {
       "platform": "Respondent",
+      "title": "Wishing on a star",
+      "link": "https://app.respondent.io/next/participants/projects/6a88ad8fa54266ac0cf0e6ce",
+      "alert": true,
+      "pay": "$150",
+      "duration": "20 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Calling all avid chatters!",
+      "link": "https://app.respondent.io/next/participants/projects/6a8898fa495191f7836752dd",
+      "alert": true,
+      "pay": "$150",
+      "duration": "20 min"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Brand Guessing Study!",
+      "link": "https://app.respondent.io/next/participants/projects/6a8895561de93ce453e464be",
+      "alert": false,
+      "pay": "$15",
+      "duration": "30 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Brand Guessing Study!",
+      "link": "https://app.respondent.io/next/participants/projects/6a88952de248f071cb958ffb",
+      "alert": false,
+      "pay": "$15",
+      "duration": "30 minutes"
+    },
+    {
+      "platform": "Respondent",
+      "title": "Welcome to the Laundry Conversation",
+      "link": "https://app.respondent.io/next/participants/projects/6a889368aa3ea571db18df18",
+      "alert": false,
+      "pay": "$35",
+      "duration": "31 min"
+    },
+    {
+      "platform": "Respondent",
       "title": "We want your thoughts on a new prototype!",
-      "link": "https://app.respondent.io/next/participants/projects/6a87923c5330ea7e3a52a05a",
+      "link": "https://app.respondent.io/next/participants/projects/6a888cbfe248f071cb853b3e",
       "alert": true,
       "pay": "$50",
       "duration": "29 min"
     },
     {
-      "platform": "Respondent",
-      "title": "A short study to share your opinions",
-      "link": "https://app.respondent.io/next/participants/projects/6a8784bb3014ed25a568a0e3",
-      "alert": false,
-      "pay": "$10",
-      "duration": "36 min"
-    },
-    {
-      "platform": "Respondent",
-      "title": "Kid\u2019s Personal Care Products",
-      "link": "https://app.respondent.io/next/participants/projects/6a8784b89c245575c442aebc",
-      "alert": false,
-      "pay": "$35",
-      "duration": "40 min"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/DH2YTskxbQ/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Shopping Research Study",
-      "link": "https://www.userinterviews.com/projects/CVCWSujtDg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "Dental Treatment Options Study",
+      "link": "https://www.userinterviews.com/projects/RAUmKoRBag/apply",
+      "pay": "$25",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
       "title": "What do you think of shopping through social media?",
-      "link": "https://www.userinterviews.com/projects/VIXMil39mg/apply",
-      "pay": "$20",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Tell us about you experience with online shopping! [P-30722-2, 444610]",
-      "link": "https://www.userinterviews.com/projects/8d6-pjnF-w/apply",
+      "link": "https://www.userinterviews.com/projects/pPzbJuQY3g/apply",
       "pay": "$15",
       "duration": "30 MIN",
       "source": "UserInterviews",
@@ -370,55 +372,73 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Assessment Creator Pilot Feedback",
-      "link": "https://www.userinterviews.com/projects/hBxAx4VMkA/apply",
-      "pay": "$30",
+      "title": "What do you think of shopping through social media?",
+      "link": "https://www.userinterviews.com/projects/uKq4OGYaNg/apply",
+      "pay": "$15",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "$50 to Share Your Thoughts: Tell us how you get the software access you need to work",
+      "link": "https://www.userinterviews.com/projects/FzvHvnR1-w/apply",
+      "pay": "$50",
       "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "ClassBento Study",
-      "link": "https://www.userinterviews.com/projects/PZYpiD5Upw/apply",
+      "title": "Share your opinion in a short 10-minute study",
+      "link": "https://www.userinterviews.com/projects/f0PEp4myrw/apply",
+      "pay": "$15",
+      "duration": "7 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share your opinion in a short 10-minute study",
+      "link": "https://www.userinterviews.com/projects/s9lcE0Kz8Q/apply",
+      "pay": "$15",
+      "duration": "7 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share your opinion in a short 10-minute study",
+      "link": "https://www.userinterviews.com/projects/G1AEKK4gxw/apply",
+      "pay": "$15",
+      "duration": "7 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Take our 10-minute survey",
+      "link": "https://www.userinterviews.com/projects/oB4Q8gOtHg/apply",
       "pay": "$10",
-      "duration": "10 MIN",
+      "duration": "18 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study on Secure Remote Access for Industrial Equipment",
-      "link": "https://www.userinterviews.com/projects/C-dELBNAhQ/apply",
-      "pay": "$32",
-      "duration": "15 MIN",
+      "title": "On-line Survey",
+      "link": "https://www.userinterviews.com/projects/Rst6zm-L4Q/apply",
+      "pay": "$50",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Benefits Study",
-      "link": "https://www.userinterviews.com/projects/XBXvvUDX3g/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Interview | US Surfers",
-      "link": "https://www.userinterviews.com/projects/C8J-goTM2A/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Online grocery shopping study (screen-share, ~20 min)",
-      "link": "https://www.userinterviews.com/projects/5Z-ar9mg2A/apply",
-      "pay": "$16",
-      "duration": "20 min",
+      "title": "Business owners: Show us how you run your business!",
+      "link": "https://www.userinterviews.com/projects/JQuUPqVbQA/apply",
+      "pay": "$75",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -431,7 +451,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
