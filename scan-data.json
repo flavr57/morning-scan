@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T22:44:53.548476+00:00",
+  "generated": "2026-08-28T22:51:48.519150+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -12,6 +12,66 @@
       "date": "August 24, 2026",
       "source": "United Casting Agency",
       "short_description": "A major artist music video filming in Los Angeles, California, is seeking a female lead actress for a featured on-camera role.",
+      "production_type": "Music Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Content Creator Casting Call for Models",
+      "link": "https://projectcasting.com/job/content-creator-casting-call-for-models",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "August 27, 2026",
+      "source": "GameTime Modelz",
+      "short_description": "A major content creator is seeking 20 models for a paid content shoot in the Los Angeles Arts District. Selected models will participate in a fast-paced 1.5-hour session designed to create engaging...",
+      "production_type": "Social Media Content"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cThe Vanguard\u201d Casting Call",
+      "link": "https://projectcasting.com/job/the-vanguard-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "August 27, 2026",
+      "source": "Yha Mourhia Wright",
+      "short_description": "\u201cThe Vanguard\u201d is casting lead, supporting, day player, and background roles for a psychological thriller short film shooting in Oakland, California.",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cStarcrossed\u201d Feature Film Open Casting Call",
+      "link": "https://projectcasting.com/job/starcrossed-feature-film-open-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 27, 2026",
+      "source": "Matthew Lessall Casting",
+      "short_description": "A SAG-AFTRA indie feature film is casting two lead actors to portray brothers Darren and Connor in a bold, emotionally demanding drama filming in Los Angeles.",
+      "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Beautycon Ambassadors",
+      "link": "https://projectcasting.com/job/beautycon-ambassadors",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 27, 2026",
+      "source": "Beautycon",
+      "short_description": "A major beauty event in Los Angeles is hiring energetic Brand Ambassadors to help create a welcoming, high-energy experience for attendees.",
+      "production_type": "Events"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$3,830 Music Video Los Angeles Casting Call",
+      "link": "https://projectcasting.com/job/3830-music-video-los-angeles-casting-call",
+      "alert": true,
+      "pay": "$3,830",
+      "location": "Los Angeles, CA",
+      "date": "August 27, 2026",
+      "source": "The Cast Station",
+      "short_description": "A music video production is seeking talented dancers, circus performers, and individuals with unique or visually interesting skills for an upcoming shoot in Los Angeles, California.",
       "production_type": "Music Video"
     },
     {
@@ -31,59 +91,11 @@
       "link": "https://projectcasting.com/job/feature-film-open-casting-call-5",
       "alert": true,
       "pay": "$$",
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "August 26, 2026",
       "source": "My Casting File",
       "short_description": "A new feature film shooting in Oakland, California, is seeking adult talent for background acting, stand-in, and photo double opportunities.",
       "production_type": "Feature Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "KAAT Model Agency Los Angeles Model Call",
-      "link": "https://projectcasting.com/job/kaat-model-agency-los-angeles-model-call",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 26, 2026",
-      "source": "Kaat Models",
-      "short_description": "A paid makeup and clothing line campaign is seeking models in Los Angeles for an upcoming commercial shoot. This opportunity is designed for talent interested in beauty, fashion, and lifestyle mode...",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Los Angeles Extras Casting Call for Pregnant Women",
-      "link": "https://projectcasting.com/job/los-angeles-extras-casting-call-for-pregnant-women-2",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "August 26, 2026",
-      "source": "Central Casting Los Angeles",
-      "short_description": "A television production is seeking women who can portray pregnant participants attending a birthing class in the Los Angeles area.",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Casting Call for Los Angeles Content Creators",
-      "link": "https://projectcasting.com/job/casting-call-for-los-angeles-content-creators",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "August 26, 2026",
-      "source": "Ambiente y Cafe",
-      "short_description": "A Los Angeles-based event brand is seeking content creators to capture the energy, atmosphere, and memorable moments of an upcoming anniversary block party.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Freelance Social Media Content Creator",
-      "link": "https://projectcasting.com/job/freelance-social-media-content-creator",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "August 25, 2026",
-      "source": "Sweet Bites N Ice",
-      "short_description": "A Bakersfield-based brand is seeking a freelance Social Media Content Creator to produce engaging photo and video content for its Instagram, TikTok, and Facebook channels.",
-      "production_type": "Social Media Content"
     },
     {
       "platform": "LinkedIn",
@@ -91,89 +103,89 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-at-loandepot-4457795947",
       "alert": false,
       "location": "Irvine, CA",
-      "date": "5 hours ago",
+      "date": "17 hours ago",
       "source": "loanDepot"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Interactive Digital Experiences - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Monks"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - VeSync",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-vesync-4449936080",
-      "alert": false,
-      "location": "Tustin, CA",
-      "date": "11 hours ago",
-      "source": "VeSync"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Illustration and Entertainment Design - Dr. Robert K. Jabs School of Business",
-      "link": "https://www.linkedin.com/jobs/view/illustration-and-entertainment-design-at-dr-robert-k-jabs-school-of-business-4458336154",
-      "alert": false,
-      "location": "Riverside, CA",
-      "date": "21 hours ago",
-      "source": "Dr. Robert K. Jabs School of Business"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director Social Media Strategy - Moose Toys",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-social-media-strategy-at-moose-toys-4326796745",
+      "title": "Director, Creative Development & Strategy - Fanatics",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-development-strategy-at-fanatics-4448711508",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "12 hours ago",
-      "source": "Moose Toys"
+      "source": "Fanatics"
     },
     {
       "platform": "LinkedIn",
-      "title": "Design Director - Gensler",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-gensler-4455529660",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Gensler"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Dean for Educational Effectiveness - Dr. Robert K. Jabs School of Business",
-      "link": "https://www.linkedin.com/jobs/view/associate-dean-for-educational-effectiveness-at-dr-robert-k-jabs-school-of-business-4458318915",
-      "alert": false,
-      "location": "Riverside, CA",
-      "date": "21 hours ago",
-      "source": "Dr. Robert K. Jabs School of Business"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Freelance Associate Creative Director Art - We Are Social",
-      "link": "https://www.linkedin.com/jobs/view/freelance-associate-creative-director-art-at-we-are-social-4459612019",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "We Are Social"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Marketing - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-marketing-at-universal-music-group-4429828460",
+      "title": "Senior Creative Director, Athletic - lululemon",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4413163038",
       "alert": false,
       "location": "Santa Monica, CA",
       "date": "13 hours ago",
-      "source": "Universal Music Group"
+      "source": "lululemon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director, Experience Planning - Hearts & Science",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-experience-planning-at-hearts-science-4439932221",
+      "title": "Head of Content - Jubilee Media",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-at-jubilee-media-4458991021",
       "alert": false,
-      "location": "Burbank, CA",
+      "location": "Los Angeles, CA",
+      "date": "8 hours ago",
+      "source": "Jubilee Media"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand Director, Paramount Television Marketing - Paramount",
+      "link": "https://www.linkedin.com/jobs/view/brand-director-paramount-television-marketing-at-paramount-4441696856",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "13 hours ago",
-      "source": "Hearts & Science"
+      "source": "Paramount"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vans: Director, Retail Marketing, Global Brand - Vans",
+      "link": "https://www.linkedin.com/jobs/view/vans-director-retail-marketing-global-brand-at-vans-4413172905",
+      "alert": false,
+      "location": "Costa Mesa, CA",
+      "date": "10 hours ago",
+      "source": "Vans"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Social Media - Jazwares, LLC",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-social-media-at-jazwares-llc-4460382774",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "4 hours ago",
+      "source": "Jazwares, LLC"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director of Marketing - DMF Lighting",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-dmf-lighting-4458413399",
+      "alert": false,
+      "location": "Carson, CA",
+      "date": "5 hours ago",
+      "source": "DMF Lighting"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Director, Consumer Marketing - ZO Skin Health, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-consumer-marketing-at-zo-skin-health-inc-4453025133",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "23 hours ago",
+      "source": "ZO Skin Health, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director (Contemporary Fashion) - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/art-director-contemporary-fashion-at-24-seven-talent-4460305076",
+      "alert": false,
+      "location": "Alhambra, CA",
+      "date": "15 hours ago",
+      "source": "24 Seven Talent"
     },
     {
       "platform": "Central Casting",
@@ -195,6 +207,41 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-gas3g",
       "alert": false,
       "date": "August 12, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Old Church Couple",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "18 TLY -Boxing Class",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Boxing Judges",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Other Boxing Coaches/Referees & Judges",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Alex's Opponent's Boxing Coach",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -231,124 +278,92 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Pedestrians",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Mall BG w/ Pre 2015 Cars",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Tiki Bar Customers",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Store BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "HS Student",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Do you have Medicare? Let's chat!",
-      "link": "https://www.userinterviews.com/projects/_Lbo6Kkm8g/apply",
-      "pay": "$80",
-      "duration": "60 MIN",
+      "title": "Share your personal experience in a 30-minute interview",
+      "link": "https://www.userinterviews.com/projects/YHR8yg9_Jw/apply",
+      "pay": "$25",
+      "duration": "50 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Short professional interview about your work experience",
-      "link": "https://www.userinterviews.com/projects/sYrbSmLcKw/apply",
-      "pay": "$45",
-      "duration": "34 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Orlando, FL Residents: Paid Research Study -Topic: Tech devices ($225 incentive + Bonus)",
-      "link": "https://www.userinterviews.com/projects/ASrgvh-KDA/apply",
-      "pay": "$225",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your opinion in a short interview about your day-to-day work",
-      "link": "https://www.userinterviews.com/projects/eo_dRYsPog/apply",
-      "pay": "$29",
-      "duration": "22 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Career Journey Insights Study",
-      "link": "https://www.userinterviews.com/projects/scS0xv0eng/apply",
+      "title": "Dashboard feedback",
+      "link": "https://www.userinterviews.com/projects/7ePyjSUp2g/apply",
       "pay": "$30",
-      "duration": "30 MIN",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Opportunity for Marketing Managers, Directors, or CMOs",
-      "link": "https://www.userinterviews.com/projects/5QpiRAlMyQ/apply",
+      "title": "Seeking opinions on meals from individuals aged 35\u201354!",
+      "link": "https://www.userinterviews.com/projects/b_sVocvcfQ/apply",
       "pay": "$50",
-      "duration": "60 MIN",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Business Purchasing Study",
-      "link": "https://www.userinterviews.com/projects/Xbhp52SUaQ/apply",
-      "pay": "$75",
-      "duration": "28 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Business Purchasing Study",
-      "link": "https://www.userinterviews.com/projects/9Vx21DW2qw/apply",
-      "pay": "$75",
-      "duration": "28 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "In-Person Research Study Session in NYC for $125 from June 17th- 18th!",
-      "link": "https://www.userinterviews.com/projects/Jwdcn3-KGA/apply",
-      "pay": "$125",
-      "duration": "60 MIN",
+      "title": "Share your experience with equipment and technology at work",
+      "link": "https://www.userinterviews.com/projects/pAi5VhL5pA/apply",
+      "pay": "$250",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Generative Engine Optimization: Getting from Insight to Deployed Change Faster",
-      "link": "https://www.userinterviews.com/projects/CFJcOADh0Q/apply",
+      "title": "Seeking Data Engineers Who Build Data Pipelines",
+      "link": "https://www.userinterviews.com/projects/udVkxNPprQ/apply",
       "pay": "$75",
-      "duration": "60 MIN",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "\ud83d\udc1d What is the buzz in your California community? Seeking participants for a self paced online study: $175-$200 for about 2.5 hours",
+      "link": "https://www.userinterviews.com/projects/WTIRNIRyuQ/apply",
+      "pay": "$175",
+      "duration": "5 hour",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Mobile app for corporate card",
+      "link": "https://www.userinterviews.com/projects/UlOIx8tLbA/apply",
+      "pay": "$45",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking opinions on meals from individuals aged 35\u201354!",
+      "link": "https://www.userinterviews.com/projects/Sx8jQKf-eg/apply",
+      "pay": "$50",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "In-Home Product Test",
+      "link": "https://www.userinterviews.com/projects/9PfKVhJEAw/apply",
+      "pay": "$100",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Help us test a new B2B website structure for fraud and compliance professionals",
+      "link": "https://www.userinterviews.com/projects/SlQAZRJq1A/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -361,7 +376,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
