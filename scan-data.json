@@ -1,106 +1,113 @@
 {
-  "generated": "2026-08-31T19:22:10.702248+00:00",
+  "generated": "2026-09-01T17:07:45.070301+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Market Research Campaign Casting Call for College Students",
+      "link": "https://projectcasting.com/job/market-research-campaign-casting-call-for-college-students",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 1, 2026",
+      "source": "Stuart Stone Casting",
+      "short_description": "A market research campaign in Los Angeles is seeking college students to participate in a paid 30-minute focus group. This opportunity is designed for students interested in sharing their opinions...",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Casting Call for Souped Up Cars",
+      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-souped-up-cars",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "August 31, 2026",
+      "source": "Central casting",
+      "short_description": "A production in Downtown Los Angeles is seeking talent with customized or \u201csouped-up\u201d vehicles for featured background work.",
+      "production_type": "Entertainment jobs & Crew"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Paid Hand Model Casting Call",
+      "link": "https://projectcasting.com/job/paid-hand-model-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 31, 2026",
+      "source": "Cano Castings",
+      "short_description": "A production is seeking a hand model for an upcoming paid project in Los Angeles. The selected talent will participate in professional on-camera or photography work focused specifically on hand mod...",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cScrewing My Undercover Billionaire Boss\u201d Vertical Series Casting Call",
+      "link": "https://projectcasting.com/job/screwing-my-undercover-billionaire-boss-vertical-series-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "August 31, 2026",
+      "source": "Agencia Barbarella Casting",
+      "short_description": "The upcoming vertical romance production \u201cScrewing My Undercover Billionaire Boss\u201d is seeking professional actors for a variety of roles filming in Los Angeles, California.",
+      "production_type": "Vertical Series"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "LA Based Male Dancers Casting Call",
+      "link": "https://projectcasting.com/job/la-based-male-dancers-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "August 31, 2026",
+      "source": "DCP Creative House",
+      "short_description": "A paid live show in Orange County is casting strong LA-based male commercial dancers with professional stage experience.",
+      "production_type": "Entertainment jobs & Crew"
+    },
     {
       "platform": "Project Casting",
       "title": "Male Actor for Lackey #2 in \u201cBloodline\u201d Short Film",
       "link": "https://projectcasting.com/job/male-actor-for-lackey-2-in-bloodline-short-film",
       "alert": true,
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "August 28, 2026",
       "source": "Alex Epstein Freelance Productions",
       "short_description": "A supernatural student short film titled \u201cBloodline\u201d is casting a male actor for the role of Lackey #2. The story follows two estranged vampire brothers returning to their dying desert hometown for...",
       "production_type": "Short Film"
     },
     {
-      "platform": "Project Casting",
-      "title": "1st AC for \u201cBloodline\u201d Student Short Film",
-      "link": "https://projectcasting.com/job/1st-ac-for-bloodline-student-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "\u201cBloodline,\u201d an independent student short film with supernatural horror elements, is seeking a 1st Assistant Camera for production in Inglewood, California.",
-      "production_type": "Short Film"
+      "platform": "LinkedIn",
+      "title": "Director, Creative & Content Studio - AmaWaterways River Cruises",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-content-studio-at-amawaterways-river-cruises-4460219557",
+      "alert": false,
+      "location": "Calabasas, CA",
+      "date": "12 hours ago",
+      "source": "AmaWaterways River Cruises"
     },
     {
-      "platform": "Project Casting",
-      "title": "2nd AC for \u201cBloodline\u201d Student Short Film",
-      "link": "https://projectcasting.com/job/2nd-ac-for-bloodline-student-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "A student supernatural short film titled \u201cBloodline\u201d is seeking a 2nd Assistant Camera in Inglewood, California. Selected crew will join a production exploring a tense family reunion between estran...",
-      "production_type": "Short Film"
+      "platform": "LinkedIn",
+      "title": "Creative Director, XCM Design Department - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-xcm-design-department-at-amazon-4461528121",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "15 hours ago",
+      "source": "Amazon"
     },
     {
-      "platform": "Project Casting",
-      "title": "Key Grip for \u201cBloodline\u201d Student Short Film",
-      "link": "https://projectcasting.com/job/key-grip-for-bloodline-student-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "A supernatural student short film is seeking a Key Grip for production in Inglewood, California. \u201cBloodline\u201d follows two estranged vampire brothers whose return home forces them to confront unresol...",
-      "production_type": "Short Film"
+      "platform": "LinkedIn",
+      "title": "Senior Creative Director, Brand & Marketing - Funko",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-brand-marketing-at-funko-4461289703",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "18 hours ago",
+      "source": "Funko"
     },
     {
-      "platform": "Project Casting",
-      "title": "Beauty Model Search",
-      "link": "https://projectcasting.com/job/beauty-model-search",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "August 28, 2026",
-      "source": "Dae Howerton",
-      "short_description": "A beauty project is seeking models in Los Angeles for an upcoming professional production. This beauty modeling opportunity is ideal for talent who feel confident in front of the camera and can sho...",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Makeup & SFX Artist / Extra for \u201cBloodline\u201d Short Film",
-      "link": "https://projectcasting.com/job/makeup-sfx-artist-extra-for-bloodline-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "\u201cBloodline,\u201d a supernatural student short film, is seeking a Makeup and SFX Artist who can also appear as background talent.",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Art Production Assistant for \u201cBloodline\u201d Short Film",
-      "link": "https://projectcasting.com/job/art-production-assistant-for-bloodline-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "A student short film titled \u201cBloodline\u201d is seeking an Art Production Assistant who can also appear as an extra. The project is a supernatural family story following estranged vampire brothers who r...",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Production Designer for \u201cBloodline\u201d Student Short Film",
-      "link": "https://projectcasting.com/job/production-designer-for-bloodline-student-short-film",
-      "alert": true,
-      "location": "California",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "\u201cBloodline,\u201d a supernatural student short film, is seeking a Production Designer in Inglewood, California. The film centers on estranged vampire brothers returning home for their father\u2019s funeral a...",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "BTS Photographer for \u201cBloodline\u201d Student Short Film",
-      "link": "https://projectcasting.com/job/bts-photographer-for-bloodline-student-short-film",
-      "alert": true,
-      "location": "Los Angeles, CA",
-      "date": "August 28, 2026",
-      "source": "Alex Epstein Freelance Productions",
-      "short_description": "A short student film titled \u201cBloodline\u201d is seeking a Behind-the-Scenes Photographer for production in Inglewood, California.",
-      "production_type": "Short Film"
+      "platform": "LinkedIn",
+      "title": "Creative Director - loanDepot",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-loandepot-4457795947",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "17 hours ago",
+      "source": "loanDepot"
     },
     {
       "platform": "LinkedIn",
@@ -108,89 +115,53 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "11 hours ago",
+      "date": "15 hours ago",
       "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Brand & Content Strategy ($163,500.00 - $210,500.00) - Irvine Company Chicago",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-content-strategy-%24163-500-00-%24210-500-00-at-irvine-company-chicago-4460006362",
+      "title": "Design Director - McAfee",
+      "link": "https://www.linkedin.com/jobs/view/design-director-at-mcafee-4451445133",
       "alert": false,
-      "location": "Irvine, CA",
-      "date": "7 hours ago",
-      "source": "Irvine Company Chicago"
+      "location": "Newport Beach, CA",
+      "date": "6 hours ago",
+      "source": "McAfee"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Live Programs - The Broad",
-      "link": "https://www.linkedin.com/jobs/view/director-of-live-programs-at-the-broad-4450669335",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "The Broad"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing & Audience Development - The Broad",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-audience-development-at-the-broad-4448132075",
+      "title": "Sr. Director, Creative Direction - TFT - Riot Games",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-creative-direction-tft-at-riot-games-4459295144",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "The Broad"
+      "date": "9 hours ago",
+      "source": "Riot Games"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director- Fast Growing Advertising Agency - Monday Talent",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-fast-growing-advertising-agency-at-monday-talent-4448571540",
+      "title": "Executive Brand Director - Conscious Minds",
+      "link": "https://www.linkedin.com/jobs/view/executive-brand-director-at-conscious-minds-4460058923",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 minutes ago",
-      "source": "Monday Talent"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "20 hours ago",
+      "source": "Conscious Minds"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director, Brand Design - The Axis Agency",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-brand-design-at-the-axis-agency-4461250663",
+      "title": "Art Director - VeSync",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-vesync-4452095964",
+      "alert": false,
+      "location": "Tustin, CA",
+      "date": "6 hours ago",
+      "source": "VeSync"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Social Media Director - D\u00f4en",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4450769729",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "1 hour ago",
-      "source": "The Axis Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Digital & Brand Manager - The Lewis Group of Companies",
-      "link": "https://www.linkedin.com/jobs/view/digital-brand-manager-at-the-lewis-group-of-companies-4458867313",
-      "alert": false,
-      "location": "Upland, CA",
-      "date": "22 hours ago",
-      "source": "The Lewis Group of Companies"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Motion Creative Lead, AI, Subscription and Growth Marketing - Google",
-      "link": "https://www.linkedin.com/jobs/view/senior-motion-creative-lead-ai-subscription-and-growth-marketing-at-google-4460038227",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Google"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Social & Influencer - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/director-social-influencer-at-day-one-agency-4450615925",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "Day One Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director, Creator Strategy & Viral Marketing - AWAL - Sony Music Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-creator-strategy-viral-marketing-awal-at-sony-music-entertainment-4436211924",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "Sony Music Entertainment"
+      "source": "D\u00f4en"
     },
     {
       "platform": "Central Casting",
@@ -212,6 +183,19 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/1munfsvy0f58ckkij7m692ovm39yq5",
       "alert": false,
       "date": "August 24, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Police w/ Unis",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Gambling BG",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -269,20 +253,6 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Lakers Fans",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "High End Guest",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "Aquent",
       "title": "Graphic Designer - Experiential",
       "link": "https://aquent.com/find-work/212665",
@@ -291,91 +261,91 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Hello and thanks for joining!",
-      "link": "https://www.userinterviews.com/projects/hMA3R9dRtA/apply",
-      "pay": "$29",
-      "duration": "29 MIN",
+      "title": "A short conversation about your everyday experiences",
+      "link": "https://www.userinterviews.com/projects/qVo6igxeOA/apply",
+      "pay": "$25",
+      "duration": "26 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Home Research Study",
-      "link": "https://www.userinterviews.com/projects/0Rt79wi0Gw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Sign up today! Dependent Variable - Research Study",
+      "link": "https://www.userinterviews.com/projects/7lolTHP6ug/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Comparing web page variations",
-      "link": "https://www.userinterviews.com/projects/0Ep-ydsmRg/apply",
-      "pay": "$10",
-      "duration": "15 MIN",
+      "title": "Share Your Expertise With Us!",
+      "link": "https://www.userinterviews.com/projects/16pfYy06DQ/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Do you own/manage rental properties?",
-      "link": "https://www.userinterviews.com/projects/V1h7Dy6vEg/apply",
-      "pay": "$50",
-      "duration": "21 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/Evopg6uLig/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share Your Thoughts On The Needs & Future of Grantmaking Software",
-      "link": "https://www.userinterviews.com/projects/3P7aPeTOHQ/apply",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/GLTL9eopEg/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "males Texas Public issues",
+      "link": "https://www.userinterviews.com/projects/8ZyACYDsOQ/apply",
       "pay": "$150",
-      "duration": "20 MIN",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Exploring Savings and Finances",
-      "link": "https://www.userinterviews.com/projects/dI59Euux9Q/apply",
-      "pay": "$25",
-      "duration": "25 MIN",
+      "title": "Website prototype test \u2014 share your thoughts while browsing",
+      "link": "https://www.userinterviews.com/projects/-1csi3xZoQ/apply",
+      "pay": "$21",
+      "duration": "16 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Shopping Research Study",
-      "link": "https://www.userinterviews.com/projects/pzjxeH-uqA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Females Texas Public issues",
+      "link": "https://www.userinterviews.com/projects/BEi45rjpog/apply",
+      "pay": "$150",
+      "duration": "90 MIN",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Are you a K12 classroom teacher who uses Eureka Math, Wit and Wisdom, or Arts and Letters? We'd love to talk to you!",
-      "link": "https://www.userinterviews.com/projects/SEuxAvhPNQ/apply",
-      "pay": "$30",
+      "title": "We want to hear your opinions about brands you use in your daily routine!",
+      "link": "https://www.userinterviews.com/projects/6LsOtjLwRA/apply",
+      "pay": "$100",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Exploring AI Agents",
-      "link": "https://www.userinterviews.com/projects/cId3nqQ5Hg/apply",
-      "pay": "$30",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Usability session: first-time use of a work tool (40 min, screen share)",
-      "link": "https://www.userinterviews.com/projects/DdiWwO8VbQ/apply",
-      "pay": "$44",
-      "duration": "40 min",
+      "title": "A short conversation about your everyday experiences",
+      "link": "https://www.userinterviews.com/projects/TG5ab0IVAg/apply",
+      "pay": "$20",
+      "duration": "6 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -388,7 +358,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 9
+      "count": 6
     },
     "LinkedIn": {
       "status": "ok",
