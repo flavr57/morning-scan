@@ -1,7 +1,19 @@
 {
-  "generated": "2026-09-02T16:58:24.118742+00:00",
+  "generated": "2026-09-03T16:53:39.848633+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "\u201cWicked\u201d Open Casting Call for Singers",
+      "link": "https://projectcasting.com/job/wicked-open-casting-call-for-singers-3",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 2, 2026",
+      "source": "The Telsey Office",
+      "short_description": "The Broadway and National Touring Company of the hit musical \u201cWicked\u201d is seeking talented singers for principal and ensemble roles.",
+      "production_type": "Theater"
+    },
     {
       "platform": "Project Casting",
       "title": "$300/Day Hair and Makeup Artist for SAG Short Film",
@@ -20,124 +32,101 @@
       "link": "https://projectcasting.com/job/paid-grip-needed-for-independent-pilot",
       "alert": true,
       "pay": "$",
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "September 1, 2026",
       "source": "The Color Wheel Casting",
       "short_description": "An independent pilot presentation is seeking a Grip to join its production crew in Stockton and Lodi, California. The production is looking for someone who can support the camera and lighting depar...",
       "production_type": "Entertainment jobs & Crew"
     },
     {
-      "platform": "Project Casting",
-      "title": "Kids Casting Call for Documentary About Movies",
-      "link": "https://projectcasting.com/job/kids-casting-call-for-documentary-about-movies",
-      "alert": true,
-      "location": "Los Angeles, CA",
-      "date": "September 1, 2026",
-      "source": "Wings Studio",
-      "short_description": "An untitled documentary about kids and cinema is casting two young boys for a short filmed segment in West Hollywood, Los Angeles.",
-      "production_type": "Documentary"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Freelance Casting Assistant Jobs",
-      "link": "https://projectcasting.com/job/freelance-casting-assistant-jobs",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "September 1, 2026",
-      "source": "Tallulah Bernard Casting",
-      "short_description": "A casting team is expanding its pool of freelance casting assistants in Los Angeles and New York. This opportunity is seeking experienced casting or production professionals who are highly organize...",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director - loanDepot",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-loandepot-4457795947",
+      "title": "Creative Director, Interactive Digital Experiences - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
-      "location": "Irvine, CA",
-      "date": "23 hours ago",
-      "source": "loanDepot"
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Cider",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-cider-4460692973",
+      "title": "Senior Creative Director, Athletic - lululemon",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4460456060",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "13 hours ago",
+      "source": "lululemon"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Instagram - Ketone-IQ",
+      "link": "https://www.linkedin.com/jobs/view/head-of-instagram-at-ketone-iq-4462714766",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "15 hours ago",
-      "source": "Cider"
+      "source": "Ketone-IQ"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Business Marketing - Meta",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-business-marketing-at-meta-4459958911",
+      "title": "Director of Marketing & Creative - AG Jeans",
+      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-creative-at-ag-jeans-4461652907",
       "alert": false,
-      "location": "Los Angeles, CA",
+      "location": "South Gate, CA",
       "date": "1 hour ago",
-      "source": "Meta"
+      "source": "AG Jeans"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Copy - Invisible Dynamics",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-copy-at-invisible-dynamics-4460684261",
+      "title": "Head of Social Media Marketing - FLIGHTSTORY",
+      "link": "https://www.linkedin.com/jobs/view/head-of-social-media-marketing-at-flightstory-4460703506",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "5 hours ago",
+      "source": "FLIGHTSTORY"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "VP, Performance Creative - Monks",
+      "link": "https://www.linkedin.com/jobs/view/vp-performance-creative-at-monks-4462714659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "Invisible Dynamics"
+      "date": "15 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Multiplatform Content (Disney Kids & Family) - The Walt Disney Company",
-      "link": "https://www.linkedin.com/jobs/view/director-multiplatform-content-disney-kids-family-at-the-walt-disney-company-4460954006",
-      "alert": false,
-      "location": "Glendale, CA",
-      "date": "11 hours ago",
-      "source": "The Walt Disney Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Content Director, Paid Social Advertising - PlanetArt",
-      "link": "https://www.linkedin.com/jobs/view/content-director-paid-social-advertising-at-planetart-4462056566",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "10 hours ago",
-      "source": "PlanetArt"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand Marketing, Director - Atoms",
-      "link": "https://www.linkedin.com/jobs/view/brand-marketing-director-at-atoms-4442911524",
+      "title": "Junior Creative Director - Social First - Clutch",
+      "link": "https://www.linkedin.com/jobs/view/junior-creative-director-social-first-at-clutch-4461357338",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Atoms"
+      "date": "16 hours ago",
+      "source": "Clutch"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Programming - MrBeast",
-      "link": "https://www.linkedin.com/jobs/view/head-of-programming-at-mrbeast-4443060309",
+      "title": "Director, Packaging Design - FAM Brands",
+      "link": "https://www.linkedin.com/jobs/view/director-packaging-design-at-fam-brands-4459994911",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "48 minutes ago",
-      "source": "MrBeast"
+      "location": "Beverly Hills, CA",
+      "date": "18 hours ago",
+      "source": "FAM Brands"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Marketing and Artist Development - Universal Music Group",
-      "link": "https://www.linkedin.com/jobs/view/director-marketing-and-artist-development-at-universal-music-group-4443319362",
+      "title": "Director of Communications & Digital Media - Roman Catholic Diocese of Orange",
+      "link": "https://www.linkedin.com/jobs/view/director-of-communications-digital-media-at-roman-catholic-diocese-of-orange-4462474939",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "7 hours ago",
-      "source": "Universal Music Group"
+      "location": "Garden Grove, CA",
+      "date": "19 hours ago",
+      "source": "Roman Catholic Diocese of Orange"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Marketing and Brand Strategy (48657) - JRK Property Holdings",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-and-brand-strategy-48657-at-jrk-property-holdings-4460959116",
+      "title": "Roark Global Marketing Director - Roark",
+      "link": "https://www.linkedin.com/jobs/view/roark-global-marketing-director-at-roark-4453602905",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "10 hours ago",
-      "source": "JRK Property Holdings"
+      "location": "Irvine, CA",
+      "date": "5 hours ago",
+      "source": "Roark"
     },
     {
       "platform": "Central Casting",
@@ -159,6 +148,19 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/1munfsvy0f58ckkij7m692ovm39yq5",
       "alert": false,
       "date": "August 24, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Peds w/ and w/out cars",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Peds/Moving Employees",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -216,105 +218,92 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Real EMT w. Uniform",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "RUSH High End Guests",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Share your professional opinion in a short interview",
-      "link": "https://www.userinterviews.com/projects/nPAXZsJeMQ/apply",
-      "pay": "$18",
-      "duration": "37 MIN",
+      "title": "Mentorship in Veterinary Medicine",
+      "link": "https://www.userinterviews.com/projects/1Iu9oveBeA/apply",
+      "pay": "$30",
+      "duration": "33 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "J105113 Alcoholic Beverage Study",
-      "link": "https://www.userinterviews.com/projects/IBq8raLvww/apply",
+      "title": "We may have a study for you! Data Collection - Research Study",
+      "link": "https://www.userinterviews.com/projects/UGakqOOaJg/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/AU5r0dz_GQ/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share your professional opinion in a short video interview",
+      "link": "https://www.userinterviews.com/projects/xco34O6Jeg/apply",
+      "pay": "$30",
+      "duration": "23 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Invest? Sign up today! Data Coding - Research Study",
+      "link": "https://www.userinterviews.com/projects/r-9Tx-PYSA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Senior IT Infrastructure decision makers - Share your experience",
+      "link": "https://www.userinterviews.com/projects/qUnhg5tiLw/apply",
       "pay": "$350",
-      "duration": "180 MIN",
+      "duration": "30 min",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your opinions in a short video conversation",
-      "link": "https://www.userinterviews.com/projects/rFouub3A8Q/apply",
-      "pay": "$10",
-      "duration": "21 MIN",
+      "title": "Senior IT Infrastructure decision makers - Share your experience",
+      "link": "https://www.userinterviews.com/projects/Rh8Anlluzw/apply",
+      "pay": "$350",
+      "duration": "30 min",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Vacation Research Study",
-      "link": "https://www.userinterviews.com/projects/1DnqQXuZkQ/apply",
-      "pay": "$10",
+      "title": "In-Home Product Test",
+      "link": "https://www.userinterviews.com/projects/2w70SsbCmQ/apply",
+      "pay": "$150",
       "duration": "10 MIN",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/NBfe6dgGRw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/cfCXsy3cVw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Interview | DJI or Insta 360 Owners",
-      "link": "https://www.userinterviews.com/projects/U5cp8nF6ZQ/apply",
-      "pay": "$120",
+      "title": "New diagnostic algorithm | Healthcare professionals needed",
+      "link": "https://www.userinterviews.com/projects/MwiSRE3TvQ/apply",
+      "pay": "$200",
       "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking adults aged 25\u201345 to share their opinions on alcoholic beverages!",
-      "link": "https://www.userinterviews.com/projects/3y3psyj8kQ/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Are you an advertiser who uses Amazon Ads?",
-      "link": "https://www.userinterviews.com/projects/5wNn7P0oBA/apply",
-      "pay": "$100",
-      "duration": "25 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Sales and revenue leaders, share your opinions on AI",
-      "link": "https://www.userinterviews.com/projects/H5V70kLxug/apply",
-      "pay": "$75",
-      "duration": "45 MIN",
+      "title": "Professional Research Study",
+      "link": "https://www.userinterviews.com/projects/1a95ptmMyA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -329,7 +318,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "LinkedIn": {
       "status": "ok",
