@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T16:53:39.848633+00:00",
+  "generated": "2026-09-04T16:42:36.155977+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -16,27 +16,105 @@
     },
     {
       "platform": "Project Casting",
-      "title": "$300/Day Hair and Makeup Artist for SAG Short Film",
-      "link": "https://projectcasting.com/job/300-day-hair-and-makeup-artist-for-sag-short-film",
+      "title": "\u201cThe Grocer\u201d Short Film Casting Call for Businessman",
+      "link": "https://projectcasting.com/job/the-grocer-short-film-casting-call-for-businessman",
       "alert": true,
-      "pay": "$300",
+      "pay": "$",
       "location": "California",
-      "date": "September 1, 2026",
-      "source": "Minda Harts",
-      "short_description": "A SAG Micro Project short film is seeking one Hair and Makeup Artist (HMUA) for a paid one-day production in West Hollywood.",
+      "date": "September 3, 2026",
+      "source": "Amelie Boose",
+      "short_description": "A quirky 15-minute comedy short film titled The Grocer is casting a male actor for the role of a wealthy businessman. The story follows a kind-hearted grocery store cashier who becomes increasingly...",
       "production_type": "Short Film"
     },
     {
       "platform": "Project Casting",
-      "title": "Paid Grip Needed for Independent Pilot",
-      "link": "https://projectcasting.com/job/paid-grip-needed-for-independent-pilot",
+      "title": "\u201cThe Grocer\u201d Short Film Casting Call for The Boss",
+      "link": "https://projectcasting.com/job/the-grocer-short-film-casting-call-for-the-boss",
       "alert": true,
       "pay": "$",
+      "location": "California",
+      "date": "September 3, 2026",
+      "source": "Amelie Boose",
+      "short_description": "A quirky 15-minute comedy short film titled The Grocer is casting a male actor to portray The Boss, the manager of a grocery store.",
+      "production_type": "Short Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Production Assistant for Resort Lifestyle Commercial",
+      "link": "https://projectcasting.com/job/production-assistant-for-resort-lifestyle-commercial",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "September 3, 2026",
+      "source": "Spencer Jordan",
+      "short_description": "A potential multi-day resort lifestyle commercial is seeking a Production Assistant to support filming near Mendocino and an additional shoot near Highlands.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Gaffer for Resort Lifestyle Commercial Production",
+      "link": "https://projectcasting.com/job/gaffer-for-resort-lifestyle-commercial-production",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "September 3, 2026",
+      "source": "Spencer Jordan",
+      "short_description": "A resort lifestyle commercial currently in development is seeking an experienced Gaffer for potential multi-day production near Mendocino and an additional shoot near Highlands.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Production Sound Crew for Resort Lifestyle Commercial",
+      "link": "https://projectcasting.com/job/production-sound-crew-for-resort-lifestyle-commercial",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "September 3, 2026",
+      "source": "Spencer Jordan",
+      "short_description": "A potential multi-day resort lifestyle commercial is seeking experienced production sound crew for filming near Mendocino and an additional shoot near Highlands.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "1st Assistant Camera for Resort Commercial Production",
+      "link": "https://projectcasting.com/job/1st-assistant-camera-for-resort-commercial-production",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "September 3, 2026",
+      "source": "Spencer Jordan",
+      "short_description": "A commercial production currently being developed for a resort lifestyle campaign is seeking an experienced 1st Assistant Camera for potential multi-day filming near Mendocino, with an additional s...",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$120 Courtroom Background Actors for TV Legal Series",
+      "link": "https://projectcasting.com/job/120-courtroom-background-actors-for-tv-legal-series-actively-recurring-roles",
+      "alert": true,
+      "pay": "$120",
       "location": "Los Angeles, CA",
-      "date": "September 1, 2026",
-      "source": "The Color Wheel Casting",
-      "short_description": "An independent pilot presentation is seeking a Grip to join its production crew in Stockton and Lodi, California. The production is looking for someone who can support the camera and lighting depar...",
-      "production_type": "Entertainment jobs & Crew"
+      "date": "September 3, 2026",
+      "source": "Standing Room Only",
+      "short_description": "A television legal drama is actively seeking recurring background actors of all ages and ethnicities for ongoing courtroom scenes filming in Culver City, California.",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Proda",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-proda-4461936011",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "Proda"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Cooler Master Co., Ltd.",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-cooler-master-co-ltd-4463322695",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "7 hours ago",
+      "source": "Cooler Master Co., Ltd."
     },
     {
       "platform": "LinkedIn",
@@ -44,89 +122,71 @@
       "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "3 hours ago",
+      "date": "9 hours ago",
       "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director, Athletic - lululemon",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4460456060",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "13 hours ago",
-      "source": "lululemon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Instagram - Ketone-IQ",
-      "link": "https://www.linkedin.com/jobs/view/head-of-instagram-at-ketone-iq-4462714766",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "Ketone-IQ"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing & Creative - AG Jeans",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-creative-at-ag-jeans-4461652907",
-      "alert": false,
-      "location": "South Gate, CA",
-      "date": "1 hour ago",
-      "source": "AG Jeans"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Social Media Marketing - FLIGHTSTORY",
-      "link": "https://www.linkedin.com/jobs/view/head-of-social-media-marketing-at-flightstory-4460703506",
+      "title": "Senior Creative Director (Copywriting) - Material",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-copywriting-at-material-4461693790",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "5 hours ago",
-      "source": "FLIGHTSTORY"
+      "date": "21 hours ago",
+      "source": "Material"
     },
     {
       "platform": "LinkedIn",
-      "title": "VP, Performance Creative - Monks",
-      "link": "https://www.linkedin.com/jobs/view/vp-performance-creative-at-monks-4462714659",
+      "title": "Creative Director, Retail Experience, Device Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-retail-experience-device-brand-studio-at-amazon-4463332792",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "Monks"
+      "location": "Santa Monica, CA",
+      "date": "4 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Junior Creative Director - Social First - Clutch",
-      "link": "https://www.linkedin.com/jobs/view/junior-creative-director-social-first-at-clutch-4461357338",
+      "title": "Director of Design And Development - First Derivative",
+      "link": "https://www.linkedin.com/jobs/view/director-of-design-and-development-at-first-derivative-4461697137",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "16 hours ago",
-      "source": "Clutch"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Packaging Design - FAM Brands",
-      "link": "https://www.linkedin.com/jobs/view/director-packaging-design-at-fam-brands-4459994911",
-      "alert": false,
-      "location": "Beverly Hills, CA",
-      "date": "18 hours ago",
-      "source": "FAM Brands"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Communications & Digital Media - Roman Catholic Diocese of Orange",
-      "link": "https://www.linkedin.com/jobs/view/director-of-communications-digital-media-at-roman-catholic-diocese-of-orange-4462474939",
-      "alert": false,
-      "location": "Garden Grove, CA",
+      "location": "Los Angeles Metropolitan Area",
       "date": "19 hours ago",
-      "source": "Roman Catholic Diocese of Orange"
+      "source": "First Derivative"
     },
     {
       "platform": "LinkedIn",
-      "title": "Roark Global Marketing Director - Roark",
-      "link": "https://www.linkedin.com/jobs/view/roark-global-marketing-director-at-roark-4453602905",
+      "title": "Director, Design & Development - NBCUniversal",
+      "link": "https://www.linkedin.com/jobs/view/director-design-development-at-nbcuniversal-4463131028",
+      "alert": false,
+      "location": "Universal City, CA",
+      "date": "19 hours ago",
+      "source": "NBCUniversal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Design and Innovation - Everbright Atlas",
+      "link": "https://www.linkedin.com/jobs/view/director-of-design-and-innovation-at-everbright-atlas-4461688261",
       "alert": false,
       "location": "Irvine, CA",
-      "date": "5 hours ago",
-      "source": "Roark"
+      "date": "23 hours ago",
+      "source": "Everbright Atlas"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Content Studio Lead - Linktree",
+      "link": "https://www.linkedin.com/jobs/view/content-studio-lead-at-linktree-4453269515",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Linktree"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Vice President of Brand & Creative - Proper Hospitality",
+      "link": "https://www.linkedin.com/jobs/view/senior-vice-president-of-brand-creative-at-proper-hospitality-4461996621",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Proper Hospitality"
     },
     {
       "platform": "Central Casting",
@@ -218,18 +278,25 @@
       "location": "Los Angeles, CA"
     },
     {
+      "platform": "Aquent",
+      "title": "Senior Designer_USD",
+      "link": "https://aquent.com/find-work/212736",
+      "alert": false,
+      "date": "Posted Sep 2, 2026"
+    },
+    {
       "platform": "UserInterviews",
-      "title": "Mentorship in Veterinary Medicine",
-      "link": "https://www.userinterviews.com/projects/1Iu9oveBeA/apply",
-      "pay": "$30",
-      "duration": "33 MIN",
+      "title": "BC Digital Banking Concept Validation R2 \u2014 Diverse Families",
+      "link": "https://www.userinterviews.com/projects/RhV0_uZ2kw/apply",
+      "pay": "$70",
+      "duration": "71 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "We may have a study for you! Data Collection - Research Study",
-      "link": "https://www.userinterviews.com/projects/UGakqOOaJg/apply",
+      "title": "We want to speak with you! Deductive Reasoning - Research Study",
+      "link": "https://www.userinterviews.com/projects/pcCsK2rZyA/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -237,8 +304,8 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/AU5r0dz_GQ/apply",
+      "title": "We want to speak with you, sign up today! Document Analysis - Research Study",
+      "link": "https://www.userinterviews.com/projects/8G_ZdVpwBQ/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -246,71 +313,69 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your professional opinion in a short video interview",
-      "link": "https://www.userinterviews.com/projects/xco34O6Jeg/apply",
-      "pay": "$30",
-      "duration": "23 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Invest? Sign up today! Data Coding - Research Study",
-      "link": "https://www.userinterviews.com/projects/r-9Tx-PYSA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Senior IT Infrastructure decision makers - Share your experience",
-      "link": "https://www.userinterviews.com/projects/qUnhg5tiLw/apply",
-      "pay": "$350",
-      "duration": "30 min",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Senior IT Infrastructure decision makers - Share your experience",
-      "link": "https://www.userinterviews.com/projects/Rh8Anlluzw/apply",
-      "pay": "$350",
-      "duration": "30 min",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "In-Home Product Test",
-      "link": "https://www.userinterviews.com/projects/2w70SsbCmQ/apply",
+      "title": "Public Issues district 1& 2",
+      "link": "https://www.userinterviews.com/projects/uEzuG7mm5w/apply",
       "pay": "$150",
-      "duration": "10 MIN",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "New diagnostic algorithm | Healthcare professionals needed",
-      "link": "https://www.userinterviews.com/projects/MwiSRE3TvQ/apply",
-      "pay": "$200",
-      "duration": "60 MIN",
+      "title": "Public Issues district 1& 2",
+      "link": "https://www.userinterviews.com/projects/xq-qH6usfQ/apply",
+      "pay": "$150",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Professional Research Study",
-      "link": "https://www.userinterviews.com/projects/1a95ptmMyA/apply",
+      "title": "Join our study about your sleep",
+      "link": "https://www.userinterviews.com/projects/uEFff-OcjA/apply",
+      "pay": "$15",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Content Creation User Study",
+      "link": "https://www.userinterviews.com/projects/vugCDruZ6Q/apply",
+      "pay": "$60",
+      "duration": "40 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Software Research Study",
+      "link": "https://www.userinterviews.com/projects/67mBF2imOg/apply",
       "pay": "$10",
       "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Benefits Research Study",
+      "link": "https://www.userinterviews.com/projects/3WX9H0MHYw/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Work with people? Validity - Research Study",
+      "link": "https://www.userinterviews.com/projects/mCMg5zX3EQ/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     }
   ],
-  "errors": {
-    "Aquent": "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://aquent.com/find-work?size=n_12_n&filters%5B0%5D%5Bfield%5D=offsite_preference.keyword&filters%5B0%5D%5Bvalues%5D%5B0%5D=Remote&filters%5B0%5D%5Btype%5D=any&sort%5B0%5D%5Bfield%5D=posted_date&sort%5B0%5D%5Bdirection%5D=desc\", waiting until \"networkidle\"\n"
-  },
+  "errors": {},
   "platforms": {
     "eBay": {
       "status": "ok",
@@ -318,7 +383,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 3
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
@@ -333,8 +398,8 @@
       "count": 10
     },
     "Aquent": {
-      "status": "error",
-      "count": 0
+      "status": "ok",
+      "count": 1
     },
     "Indeed": {
       "status": "ok",
