@@ -1,19 +1,7 @@
 {
-  "generated": "2026-09-06T15:57:35.905033+00:00",
+  "generated": "2026-09-07T18:04:18.916995+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
-    {
-      "platform": "Project Casting",
-      "title": "\u201cWicked\u201d Open Casting Call for Singers",
-      "link": "https://projectcasting.com/job/wicked-open-casting-call-for-singers-3",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "September 2, 2026",
-      "source": "The Telsey Office",
-      "short_description": "The Broadway and National Touring Company of the hit musical \u201cWicked\u201d is seeking talented singers for principal and ensemble roles.",
-      "production_type": "Theater"
-    },
     {
       "platform": "Project Casting",
       "title": "\u201cThe Grocer\u201d Short Film Casting Call for Businessman",
@@ -101,11 +89,38 @@
     {
       "platform": "LinkedIn",
       "title": "Senior Creative Director, Athletic - lululemon",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4461829852",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4461877669",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "6 hours ago",
+      "date": "14 hours ago",
       "source": "lululemon"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Large Scale Events - Tomorrow Recruitment Ltd | B Corp\u2122",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-large-scale-events-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4462232035",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Creative Technology / Experiential - Tomorrow Recruitment Ltd | B Corp\u2122",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-creative-technology-experiential-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4462233028",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Lead - EA SPORTS - Electronic Arts (EA)",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-ea-sports-at-electronic-arts-ea-4441850108",
+      "alert": false,
+      "location": "Marina del Rey, CA",
+      "date": "23 hours ago",
+      "source": "Electronic Arts (EA)"
     },
     {
       "platform": "LinkedIn",
@@ -113,7 +128,7 @@
       "link": "https://www.linkedin.com/jobs/view/associate-creative-director-design-at-day-one-agency-4425426133",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "20 hours ago",
+      "date": "22 hours ago",
       "source": "Day One Agency"
     },
     {
@@ -122,71 +137,44 @@
       "link": "https://www.linkedin.com/jobs/view/director-social-influencer-at-day-one-agency-4450615925",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "20 hours ago",
+      "date": "22 hours ago",
       "source": "Day One Agency"
     },
     {
       "platform": "LinkedIn",
-      "title": "Multimedia Art Director - IW Group Inc.",
-      "link": "https://www.linkedin.com/jobs/view/multimedia-art-director-at-iw-group-inc-4453594770",
+      "title": "Associate Creative Director (Motion Graphic Design) - Mocean",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-motion-graphic-design-at-mocean-4422304338",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "IW Group Inc."
+      "date": "18 hours ago",
+      "source": "Mocean"
     },
     {
       "platform": "LinkedIn",
-      "title": "Vice President, Visual Merchandising & Store Design - Hourglass Cosmetics",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-visual-merchandising-store-design-at-hourglass-cosmetics-4445244793",
-      "alert": false,
-      "location": "West Hollywood, CA",
-      "date": "22 hours ago",
-      "source": "Hourglass Cosmetics"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Corporate & Brand Communications - Snap Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-corporate-brand-communications-at-snap-inc-4444757525",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Snap Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Director, Brand Communications - Markwins Beauty Brands",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-brand-communications-at-markwins-beauty-brands-4444616112",
-      "alert": false,
-      "location": "City of Industry, CA",
-      "date": "2 hours ago",
-      "source": "Markwins Beauty Brands"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Manager, Retail Communications - Remote - Harbor Freight Tools",
-      "link": "https://www.linkedin.com/jobs/view/manager-retail-communications-remote-at-harbor-freight-tools-4429880187",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "22 hours ago",
-      "source": "Harbor Freight Tools"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Marketing Director - Haraka Headhunters LLC",
-      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-haraka-headhunters-llc-4462713653",
+      "title": "Director, VIP - KARLA OTTO",
+      "link": "https://www.linkedin.com/jobs/view/director-vip-at-karla-otto-4455275521",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
-      "source": "Haraka Headhunters LLC"
+      "date": "4 hours ago",
+      "source": "KARLA OTTO"
     },
     {
       "platform": "LinkedIn",
-      "title": "Producer - Meta",
-      "link": "https://www.linkedin.com/jobs/view/producer-at-meta-4442341361",
+      "title": "Sr. Director, Consumer Marketing - ZO Skin Health, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-consumer-marketing-at-zo-skin-health-inc-4453025133",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "Meta"
+      "location": "Irvine, CA",
+      "date": "22 hours ago",
+      "source": "ZO Skin Health, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Communications Director - McKinley",
+      "link": "https://www.linkedin.com/jobs/view/communications-director-at-mckinley-4445542615",
+      "alert": false,
+      "location": "San Dimas, CA",
+      "date": "19 hours ago",
+      "source": "McKinley"
     },
     {
       "platform": "Central Casting",
@@ -278,111 +266,99 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Aquent",
-      "title": "Sr. Graphic Designer",
-      "link": "https://aquent.com/find-work/212801",
-      "alert": false,
-      "date": "Posted Sep 4, 2026"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Senior Designer_USD",
-      "link": "https://aquent.com/find-work/212736",
-      "alert": false,
-      "date": "Posted Sep 2, 2026"
+      "platform": "UserInterviews",
+      "title": "Dental technician Insights Wanted: Interview on Digital Restoration Design",
+      "link": "https://www.userinterviews.com/projects/Io5XHfHXVA/apply",
+      "pay": "$65",
+      "duration": "50 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Azure Re-design Usability Study",
-      "link": "https://www.userinterviews.com/projects/Wvtu8xSmWw/apply",
-      "pay": "$100",
+      "title": "Seeking opinions on meals from individuals aged 35 and above!",
+      "link": "https://www.userinterviews.com/projects/1qzJM7U_Pw/apply",
+      "pay": "$50",
       "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "$25 Test a New Business Software Menu: Quick Click-Through Study",
-      "link": "https://www.userinterviews.com/projects/71294as8FQ/apply",
-      "pay": "$25",
-      "duration": "15 MIN",
+      "title": "Activity Study",
+      "link": "https://www.userinterviews.com/projects/zkVzuTDYww/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "USD 35\uff1a\u751f\u306e\u679c\u7269\u306b\u95a2\u3059\u308b\u30aa\u30f3\u30e9\u30a4\u30f3\u8abf\u67fb\uff08\u65e5\u672c\uff09",
-      "link": "https://www.userinterviews.com/projects/0Br5fyWdqg/apply",
-      "pay": "$35",
-      "duration": "30 MIN",
+      "title": "Seeking opinions on meals from individuals aged 40 and above!",
+      "link": "https://www.userinterviews.com/projects/SbQ8n-qxvA/apply",
+      "pay": "$50",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Help us build our new AI financial product",
-      "link": "https://www.userinterviews.com/projects/0RbrF9YeXQ/apply",
-      "pay": "$400",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "USD 35 por un estudio de fruta fresca (Espa\u00f1a)",
-      "link": "https://www.userinterviews.com/projects/7lSSvP89EQ/apply",
-      "pay": "$35",
-      "duration": "30 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/UeAG2HPD7Q/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "How Project Leads Build Enterprise AI Agents Today",
-      "link": "https://www.userinterviews.com/projects/N32gaLCZTQ/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
+      "title": "Presentations Study",
+      "link": "https://www.userinterviews.com/projects/426zGc78OA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "How Technical Professionals Build Enterprise AI Agents Today",
-      "link": "https://www.userinterviews.com/projects/Wxj_wKhb5g/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
+      "title": "Booking Travel Study",
+      "link": "https://www.userinterviews.com/projects/CWdxLPWFpA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Short video study: share your opinion (about 15 minutes)",
-      "link": "https://www.userinterviews.com/projects/64fjLSUWQw/apply",
-      "pay": "$28",
-      "duration": "15 min",
+      "title": "Travel Planning Study",
+      "link": "https://www.userinterviews.com/projects/OF8fiUpS6Q/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Short video study: share your opinion (about 15 minutes)",
-      "link": "https://www.userinterviews.com/projects/LOR63Gsung/apply",
-      "pay": "$28",
-      "duration": "15 min",
+      "title": "Travel Study",
+      "link": "https://www.userinterviews.com/projects/obm47ycn2Q/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Short video study: share your opinion (about 15 minutes)",
-      "link": "https://www.userinterviews.com/projects/-4qxuvEbFw/apply",
-      "pay": "$28",
-      "duration": "15 min",
+      "title": "AI Tools Study",
+      "link": "https://www.userinterviews.com/projects/pKNcw2JYzQ/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     }
   ],
-  "errors": {},
+  "errors": {
+    "Aquent": "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://aquent.com/find-work?size=n_12_n&filters%5B0%5D%5Bfield%5D=offsite_preference.keyword&filters%5B0%5D%5Bvalues%5D%5B0%5D=Remote&filters%5B0%5D%5Btype%5D=any&sort%5B0%5D%5Bfield%5D=posted_date&sort%5B0%5D%5Bdirection%5D=desc\", waiting until \"networkidle\"\n"
+  },
   "platforms": {
     "eBay": {
       "status": "ok",
@@ -390,7 +366,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
@@ -405,8 +381,8 @@
       "count": 10
     },
     "Aquent": {
-      "status": "ok",
-      "count": 2
+      "status": "error",
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
