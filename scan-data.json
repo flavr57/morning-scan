@@ -1,7 +1,19 @@
 {
-  "generated": "2026-09-10T16:52:30.643619+00:00",
+  "generated": "2026-09-11T16:52:36.677291+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "\u201cBirds of A Feather\u201d Short Film Casting Call",
+      "link": "https://projectcasting.com/job/birds-of-a-feather-short-film-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 10, 2026",
+      "source": "Tanya Giang",
+      "short_description": "A non-union dark comedy horror short film, \u201cBirds of a Feather,\u201d is seeking performers for the roles of Kayla and Cindy in Los Angeles.",
+      "production_type": "Short Film"
+    },
     {
       "platform": "Project Casting",
       "title": "CASTING NOW: ANNUAL HALLOWEEN SCARE ACTOR CASTING",
@@ -87,88 +99,67 @@
       "production_type": "Entertainment jobs & Crew"
     },
     {
-      "platform": "Project Casting",
-      "title": "$250/Day Major Eyewear Brand Commercial Casting Call for Male Model Willing...",
-      "link": "https://projectcasting.com/job/250-day-major-eyewear-brand-commercial-casting-call-for-male-model-willing-to-cut-hair",
-      "alert": true,
-      "pay": "$250",
-      "location": "Los Angeles, CA",
-      "date": "September 8, 2026",
-      "source": "Exo's Casting",
-      "short_description": "EXO\u2019s Casting is looking for a male model for a major eyewear brand commercial in Los Angeles. The selected model must be willing to receive a professional haircut on set that incorporates the eyew...",
-      "production_type": "Commercials"
+      "platform": "LinkedIn",
+      "title": "Creative Director, Art and Design - PASSPORT BRAND DESIGN",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-art-and-design-at-passport-brand-design-4465884447",
+      "alert": false,
+      "location": "Costa Mesa, CA",
+      "date": "18 hours ago",
+      "source": "PASSPORT BRAND DESIGN"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Prime Video Shopping - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-prime-video-shopping-at-prime-video-amazon-mgm-studios-4465356418",
+      "title": "Creative Director - Video, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-video-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456720093",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "16 hours ago",
+      "date": "21 hours ago",
       "source": "Prime Video & Amazon MGM Studios"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Head of Creative - Twitch",
-      "link": "https://www.linkedin.com/jobs/view/director-head-of-creative-at-twitch-4464164232",
+      "title": "Group Creative Director, 3D Experiential - Mondo",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-3d-experiential-at-mondo-4465859676",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "14 hours ago",
-      "source": "Twitch"
+      "date": "20 hours ago",
+      "source": "Mondo"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director - DE-YAN",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-at-de-yan-4463046749",
+      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "3 hours ago",
+      "source": "Mattel, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Growth Creative - Dr. Squatch",
+      "link": "https://www.linkedin.com/jobs/view/director-of-growth-creative-at-dr-squatch-4456041925",
+      "alert": false,
+      "location": "Marina del Rey, CA",
+      "date": "2 hours ago",
+      "source": "Dr. Squatch"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Design Director - REVOLVE",
+      "link": "https://www.linkedin.com/jobs/view/design-director-at-revolve-4465100413",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "DE-YAN"
+      "date": "1 hour ago",
+      "source": "REVOLVE"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of GTM Creative, Devices Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/head-of-gtm-creative-devices-brand-studio-at-amazon-4455797731",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "22 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Lead - Antares",
-      "link": "https://www.linkedin.com/jobs/view/creative-lead-at-antares-4444056547",
+      "title": "Head of Brand - Creator Marketing Platform - Three Pillars Recruiting",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creator-marketing-platform-at-three-pillars-recruiting-4437015449",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Antares"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "AI Creative Producer, Vertical Drama - ZING",
-      "link": "https://www.linkedin.com/jobs/view/ai-creative-producer-vertical-drama-at-zing-4464177712",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "ZING"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Creative Strategy - High Scale",
-      "link": "https://www.linkedin.com/jobs/view/director-of-creative-strategy-at-high-scale-4463087319",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "18 hours ago",
-      "source": "High Scale"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Interior Design - AmaWaterways River Cruises",
-      "link": "https://www.linkedin.com/jobs/view/director-of-interior-design-at-amawaterways-river-cruises-4426017040",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "53 minutes ago",
-      "source": "AmaWaterways River Cruises"
+      "date": "7 hours ago",
+      "source": "Three Pillars Recruiting"
     },
     {
       "platform": "LinkedIn",
@@ -176,17 +167,26 @@
       "link": "https://www.linkedin.com/jobs/view/creative-lead-ea-sports-at-electronic-arts-ea-4463484712",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
+      "date": "23 hours ago",
       "source": "Electronic Arts (EA)"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr Director, Product Design - Hot Wheels - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-product-design-hot-wheels-at-mattel-inc-4446502008",
+      "title": "Marketing Director - 80Twenty",
+      "link": "https://www.linkedin.com/jobs/view/marketing-director-at-80twenty-4464810925",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "2 hours ago",
-      "source": "Mattel, Inc."
+      "location": "Los Angeles Metropolitan Area",
+      "date": "15 hours ago",
+      "source": "80Twenty"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Digital Creative Manager - AG Jeans",
+      "link": "https://www.linkedin.com/jobs/view/senior-digital-creative-manager-at-ag-jeans-4464567617",
+      "alert": false,
+      "location": "South Gate, CA",
+      "date": "23 hours ago",
+      "source": "AG Jeans"
     },
     {
       "platform": "Central Casting",
@@ -280,35 +280,26 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Qualification for a follow up study",
-      "link": "https://www.userinterviews.com/projects/-cEG224kWQ/apply",
-      "pay": "$8",
-      "duration": "25 MIN",
+      "title": "Commercial Fleet Tolling Management Research",
+      "link": "https://www.userinterviews.com/projects/L1T_y8mR2g/apply",
+      "pay": "$25",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your professional experience in a short interview",
-      "link": "https://www.userinterviews.com/projects/knOjWJUYfQ/apply",
-      "pay": "$11",
-      "duration": "22 MIN",
+      "title": "We're seeking feedback from elementary educators who teach or support foundational reading skills on how they learn and apply instructional routines and activities.",
+      "link": "https://www.userinterviews.com/projects/A73VEgJB1A/apply",
+      "pay": "$50",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/YkiPUrVoSA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Consumer Experience Research",
-      "link": "https://www.userinterviews.com/projects/nyHXfOmn9w/apply",
+      "title": "Family Care Research Study",
+      "link": "https://www.userinterviews.com/projects/l4FUn0sA1g/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -316,55 +307,64 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Fintech Leaders: Your Insights on Card Issuing Integrations",
-      "link": "https://www.userinterviews.com/projects/wB4_pvwPOQ/apply",
-      "pay": "$70",
-      "duration": "60 MIN",
+      "title": "Investing Study",
+      "link": "https://www.userinterviews.com/projects/7zqZXFjrmw/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "3 Hour 15 minute - Multiplayer PC Playtest [Ref: GTRAISEP26R2UI]",
-      "link": "https://www.userinterviews.com/projects/p1wAI_-1-Q/apply",
-      "pay": "$110",
-      "duration": "3 Hour",
+      "title": "C26-U092: Laser vs Serum Study | Paying up to $600.00",
+      "link": "https://www.userinterviews.com/projects/HR1Qj5wOGw/apply",
+      "pay": "$600.00",
+      "duration": "240 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Knuspriges H\u00e4hnchen aus dem Air Fryer",
-      "link": "https://www.userinterviews.com/projects/YhYApA23rA/apply",
-      "pay": "$20",
-      "duration": "29 MIN",
+      "title": "$300 Hispanic SUV Onwers in Dallas, TX",
+      "link": "https://www.userinterviews.com/projects/fkcau4-BPg/apply",
+      "pay": "$300",
+      "duration": "120 MIN",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "We are interested in hearing how you manage your finances! [P-30768-4/448878]",
-      "link": "https://www.userinterviews.com/projects/UqNlfATxlg/apply",
-      "pay": "$35",
-      "duration": "40 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "We are interested in hearing how you manage your finances! [P-30768-3/448877]",
-      "link": "https://www.userinterviews.com/projects/Rzim6CYzfA/apply",
-      "pay": "$35",
-      "duration": "40 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Finance and HR professionals: Share your insights on cross-border hiring in Asia",
-      "link": "https://www.userinterviews.com/projects/kxuyExKEOQ/apply",
-      "pay": "$40",
+      "title": "Laadullinen tutkimus, sinun panoksesi on tarpeen (30767-4/449218)",
+      "link": "https://www.userinterviews.com/projects/Ltg4WTnDyA/apply",
+      "pay": "$30",
       "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Qualitative research study, your input is needed",
+      "link": "https://www.userinterviews.com/projects/GjffUMh-nA/apply",
+      "pay": "$15",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Join Our Usability Study for Fleet Management Professionals",
+      "link": "https://www.userinterviews.com/projects/qdVLSGiVfw/apply",
+      "pay": "$75",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking adults aged 18-25 to share their opinions on alcoholic beverages!",
+      "link": "https://www.userinterviews.com/projects/McGA8jQWjg/apply",
+      "pay": "$50",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     }
