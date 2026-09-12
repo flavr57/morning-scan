@@ -1,7 +1,55 @@
 {
-  "generated": "2026-09-11T16:52:36.677291+00:00",
+  "generated": "2026-09-12T15:58:59.841435+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Beauty Campaign Casting Call for Unsigned Talent",
+      "link": "https://projectcasting.com/job/beauty-campaign-casting-call-for-unsigned-talent",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "September 11, 2026",
+      "source": "C.M. Casting",
+      "short_description": "C.M. Casting is seeking unsigned talent for a paid beauty project filming in Los Angeles, California.",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "LOS ANGELES OPEN MODEL CASTING",
+      "link": "https://projectcasting.com/job/los-angeles-open-model-casting",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "September 11, 2026",
+      "source": "Slowhrs Events",
+      "short_description": "SLOWHRS Fashion is holding an open model casting in Los Angeles for new faces to be considered for its upcoming Fall Collection.",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cWine Country Crush\u201d Open Casting Call",
+      "link": "https://projectcasting.com/job/wine-country-crush-open-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "September 11, 2026",
+      "source": "Prime Casting",
+      "short_description": "The upcoming film \u201cWine Country Crush\u201d is seeking local men and women for paid extra roles in Glen Ellen, Sonoma County, California.",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Casting Call for Character and Mascots",
+      "link": "https://projectcasting.com/job/casting-call-for-character-and-mascots",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 11, 2026",
+      "source": "Full Stop Productions and Costume Studio",
+      "short_description": "A paid entertainment opportunity in Los Angeles is seeking experienced character and mascot performers to bring energy, personality, and professionalism to a live guest experience.",
+      "production_type": "Live Event"
+    },
     {
       "platform": "Project Casting",
       "title": "\u201cBirds of A Feather\u201d Short Film Casting Call",
@@ -39,78 +87,9 @@
       "production_type": "Commercials"
     },
     {
-      "platform": "Project Casting",
-      "title": "JAVANFAR Casting Call for Models",
-      "link": "https://projectcasting.com/job/javanfar-casting-call-for-models",
-      "alert": true,
-      "pay": "$$",
-      "location": "Los Angeles, CA",
-      "date": "September 9, 2026",
-      "source": "JAVANFAR",
-      "short_description": "A fashion casting in Los Angeles is seeking male and female models for an upcoming luxury-focused shoot. The production is looking for talent with a strong presence, distinctive look, and dark mini...",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "\u201cHIGH PRIESTESS OF SOULS\u201d Casting Call for Lead Relocation Agent",
-      "link": "https://projectcasting.com/job/high-priestess-of-souls-casting-call-for-lead-relocation-agent",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "September 9, 2026",
-      "source": "Nina Henninger Casting",
-      "short_description": "\u201cHigh Priestess of Souls\u201d is seeking a Chinese or Chinese-appearing male actor for a speaking role as the Lead Relocation Agent.",
-      "production_type": "Feature Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "\u201cHIGH PRIESTESS OF SOULS\u201d Casting Call for Lion Dancer #1",
-      "link": "https://projectcasting.com/job/high-priestess-of-souls-casting-call-for-lion-dancer-1",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "September 9, 2026",
-      "source": "Nina Henninger Casting",
-      "short_description": "The upcoming feature film \u201cHigh Priestess of Souls\u201d is seeking a Chinese or Chinese-appearing male actor for a lion dancer role filming in San Francisco and the Bay Area.",
-      "production_type": "Feature Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$250/Day Major Eyewear Brand Commercial Casting Call for Real Mosh Pit...",
-      "link": "https://projectcasting.com/job/250-day-major-eyewear-brand-commercial-casting-call-for-real-mosh-pit-goers",
-      "alert": true,
-      "pay": "$250",
-      "location": "Los Angeles, CA",
-      "date": "September 8, 2026",
-      "source": "Exo's Casting",
-      "short_description": "EXO\u2019s Casting is seeking real mosh pit goers for a major eyewear brand commercial in Los Angeles. The production is looking for people with genuine experience in mosh pit environments who can bring...",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$250/Day Major Eyewear Brand Commercial Casting Call for Real Dancers",
-      "link": "https://projectcasting.com/job/250-day-major-eyewear-brand-commercial-casting-call-for-real-dancers",
-      "alert": true,
-      "pay": "$250",
-      "location": "Los Angeles, CA",
-      "date": "September 8, 2026",
-      "source": "Exo's Casting",
-      "short_description": "EXO\u2019s Casting is seeking real dancers for a major eyewear brand commercial filming in Los Angeles. The production is looking for intermediate to advanced dancers who can bring authentic movement, c...",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director, Art and Design - PASSPORT BRAND DESIGN",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-art-and-design-at-passport-brand-design-4465884447",
-      "alert": false,
-      "location": "Costa Mesa, CA",
-      "date": "18 hours ago",
-      "source": "PASSPORT BRAND DESIGN"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - Video, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-video-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456720093",
+      "title": "Creative Director - Artwork, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-artwork-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456716101",
       "alert": false,
       "location": "Culver City, CA",
       "date": "21 hours ago",
@@ -118,57 +97,21 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Group Creative Director, 3D Experiential - Mondo",
-      "link": "https://www.linkedin.com/jobs/view/group-creative-director-3d-experiential-at-mondo-4465859676",
+      "title": "Art Director - Loungefly - Funko",
+      "link": "https://www.linkedin.com/jobs/view/art-director-loungefly-at-funko-4446933600",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Mondo"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
-      "alert": false,
-      "location": "El Segundo, CA",
+      "location": "Burbank, CA",
       "date": "3 hours ago",
-      "source": "Mattel, Inc."
+      "source": "Funko"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Growth Creative - Dr. Squatch",
-      "link": "https://www.linkedin.com/jobs/view/director-of-growth-creative-at-dr-squatch-4456041925",
+      "title": "Creative Strategy Lead (Director) - TubeScience",
+      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-director-at-tubescience-4227007028",
       "alert": false,
-      "location": "Marina del Rey, CA",
+      "location": "Los Angeles, CA",
       "date": "2 hours ago",
-      "source": "Dr. Squatch"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Design Director - REVOLVE",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-revolve-4465100413",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "REVOLVE"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Brand - Creator Marketing Platform - Three Pillars Recruiting",
-      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creator-marketing-platform-at-three-pillars-recruiting-4437015449",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Three Pillars Recruiting"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Lead - EA SPORTS - Electronic Arts (EA)",
-      "link": "https://www.linkedin.com/jobs/view/creative-lead-ea-sports-at-electronic-arts-ea-4463484712",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Electronic Arts (EA)"
+      "source": "TubeScience"
     },
     {
       "platform": "LinkedIn",
@@ -176,17 +119,76 @@
       "link": "https://www.linkedin.com/jobs/view/marketing-director-at-80twenty-4464810925",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "15 hours ago",
+      "date": "20 hours ago",
       "source": "80Twenty"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Digital Creative Manager - AG Jeans",
-      "link": "https://www.linkedin.com/jobs/view/senior-digital-creative-manager-at-ag-jeans-4464567617",
+      "title": "Director - Entertainment & Content Strategy - WME",
+      "link": "https://www.linkedin.com/jobs/view/director-entertainment-content-strategy-at-wme-4465167674",
       "alert": false,
-      "location": "South Gate, CA",
-      "date": "23 hours ago",
-      "source": "AG Jeans"
+      "location": "Beverly Hills, CA",
+      "date": "12 hours ago",
+      "source": "WME"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director - Entertainment & Content Strategy - WME Group",
+      "link": "https://www.linkedin.com/jobs/view/director-entertainment-content-strategy-at-wme-group-4465141017",
+      "alert": false,
+      "location": "Beverly Hills, CA",
+      "date": "18 hours ago",
+      "source": "WME Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director - Wella Company",
+      "link": "https://www.linkedin.com/jobs/view/art-director-at-wella-company-4464224896",
+      "alert": false,
+      "location": "Calabasas, CA",
+      "date": "20 hours ago",
+      "source": "Wella Company"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director Marketing - Total Vision",
+      "link": "https://www.linkedin.com/jobs/view/director-marketing-at-total-vision-4464276396",
+      "alert": false,
+      "location": "Mission Viejo, CA",
+      "date": "10 hours ago",
+      "source": "Total Vision"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director, Brand & Design - Vast",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-brand-design-at-vast-4458551128",
+      "alert": false,
+      "location": "Long Beach, CA",
+      "date": "22 hours ago",
+      "source": "Vast"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Creative Director - COPY - Digital People",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-digital-people-4465188545",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "11 hours ago",
+      "source": "Digital People"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "Saxophone/Bass Players",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/saxophonebass-players",
+      "alert": false,
+      "date": "September 11, 2026"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "NON-UNION LAS VEGAS LOCAL HIRE STAND INS",
+      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr-s26t2",
+      "alert": false,
+      "date": "September 11, 2026"
     },
     {
       "platform": "Central Casting",
@@ -194,20 +196,6 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/unu-souped-up-cars",
       "alert": false,
       "date": "August 31, 2026"
-    },
-    {
-      "platform": "Central Casting",
-      "title": "UNION AND NON-UNION - PREGNANT WOMEN AT BIRTHING CLASS",
-      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr-358kh",
-      "alert": false,
-      "date": "August 25, 2026"
-    },
-    {
-      "platform": "Central Casting",
-      "title": "Massage Therapist",
-      "link": "https://blog.centralcasting.com/jobs-la/2026/1munfsvy0f58ckkij7m692ovm39yq5",
-      "alert": false,
-      "date": "August 24, 2026"
     },
     {
       "platform": "Everyset",
@@ -279,27 +267,78 @@
       "location": "Los Angeles, CA"
     },
     {
+      "platform": "Aquent",
+      "title": "Sr. Graphic Designer",
+      "link": "https://aquent.com/find-work/212966",
+      "alert": false,
+      "date": "Posted Sep 11, 2026"
+    },
+    {
       "platform": "UserInterviews",
-      "title": "Commercial Fleet Tolling Management Research",
-      "link": "https://www.userinterviews.com/projects/L1T_y8mR2g/apply",
-      "pay": "$25",
-      "duration": "30 MIN",
+      "title": "Personal Care",
+      "link": "https://www.userinterviews.com/projects/wnu8W012uQ/apply",
+      "pay": "$40",
+      "duration": "40 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "We're seeking feedback from elementary educators who teach or support foundational reading skills on how they learn and apply instructional routines and activities.",
-      "link": "https://www.userinterviews.com/projects/A73VEgJB1A/apply",
-      "pay": "$50",
-      "duration": "30 MIN",
+      "title": "Apps & games research study - Android owners",
+      "link": "https://www.userinterviews.com/projects/8B5QSQT2Uw/apply",
+      "pay": "$100",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Family Care Research Study",
-      "link": "https://www.userinterviews.com/projects/l4FUn0sA1g/apply",
+      "title": "USD 70 for a digital pregnancy test study",
+      "link": "https://www.userinterviews.com/projects/gwjnCEE6Dw/apply",
+      "pay": "$70",
+      "duration": "50 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Help Evaluate a new AI-Powered Search Experience",
+      "link": "https://www.userinterviews.com/projects/sjNADvoHNQ/apply",
+      "pay": "$28",
+      "duration": "21 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Money Management Experiences",
+      "link": "https://www.userinterviews.com/projects/7HvrA4k4Fg/apply",
+      "pay": "$10",
+      "duration": "53 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "A conversation about your work \u2014 about 25 minutes",
+      "link": "https://www.userinterviews.com/projects/We3fP6khGg/apply",
+      "pay": "$33",
+      "duration": "25 min",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "COO's needed!",
+      "link": "https://www.userinterviews.com/projects/yC7urNn6zQ/apply",
+      "pay": "$200",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Banking Research Study",
+      "link": "https://www.userinterviews.com/projects/7xNW7ojMzg/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -307,64 +346,19 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Investing Study",
-      "link": "https://www.userinterviews.com/projects/7zqZXFjrmw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "C26-U092: Laser vs Serum Study | Paying up to $600.00",
-      "link": "https://www.userinterviews.com/projects/HR1Qj5wOGw/apply",
-      "pay": "$600.00",
-      "duration": "240 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "$300 Hispanic SUV Onwers in Dallas, TX",
-      "link": "https://www.userinterviews.com/projects/fkcau4-BPg/apply",
-      "pay": "$300",
+      "title": "Calling all women with black hair!",
+      "link": "https://www.userinterviews.com/projects/P1Y90IsBJw/apply",
+      "pay": "$165",
       "duration": "120 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Laadullinen tutkimus, sinun panoksesi on tarpeen (30767-4/449218)",
-      "link": "https://www.userinterviews.com/projects/Ltg4WTnDyA/apply",
-      "pay": "$30",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed",
-      "link": "https://www.userinterviews.com/projects/GjffUMh-nA/apply",
-      "pay": "$15",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Join Our Usability Study for Fleet Management Professionals",
-      "link": "https://www.userinterviews.com/projects/qdVLSGiVfw/apply",
-      "pay": "$75",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking adults aged 18-25 to share their opinions on alcoholic beverages!",
-      "link": "https://www.userinterviews.com/projects/McGA8jQWjg/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
+      "title": "Digital Preferences",
+      "link": "https://www.userinterviews.com/projects/8WY2B1-skA/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -377,7 +371,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
@@ -393,7 +387,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "Indeed": {
       "status": "ok",
