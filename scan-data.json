@@ -1,7 +1,41 @@
 {
-  "generated": "2026-09-16T17:26:37.637057+00:00",
+  "generated": "2026-09-17T17:26:36.764087+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "The Lighting Designer Series \u2013 Shooting on 09-24-26",
+      "link": "https://projectcasting.com/job/the-lighting-designer-series",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 17, 2026",
+      "source": "LUSA Lighting",
+      "production_type": "Marketing"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cComing Home\u201d \u2014 Cinematic Brand Film for LUSA Lighting Shooting on...",
+      "link": "https://projectcasting.com/job/coming-home-cinematic-brand-film-for-lusa-lighting",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 17, 2026",
+      "source": "LUSA Lighting",
+      "production_type": "Marketing"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Extras Casting Call for Basketball Referees",
+      "link": "https://projectcasting.com/job/los-angeles-extras-casting-call-for-basketball-referees",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "September 16, 2026",
+      "source": "Central casting",
+      "short_description": "Central Casting is seeking experienced basketball referees for an upcoming production in the Los Angeles area. Talent should have a strong understanding of basketball rules, referee hand signals, a...",
+      "production_type": "Entertainment jobs & Crew"
+    },
     {
       "platform": "Project Casting",
       "title": "Production Assistant for Independent Film",
@@ -40,124 +74,101 @@
       "title": "Grip for Independent Film Production",
       "link": "https://projectcasting.com/job/grip-for-independent-film-production",
       "alert": true,
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "September 15, 2026",
       "source": "Shawn Bailey",
       "short_description": "An independent film production is seeking a Grip to join its crew for an upcoming shoot in Folsom, California. The selected crew member will support the production with grip-related responsibilitie...",
       "production_type": "Entertainment jobs & Crew"
     },
     {
-      "platform": "Project Casting",
-      "title": "Independent Film Production Casting Call for Tyler",
-      "link": "https://projectcasting.com/job/independent-film-production-casting-call-for-tyler",
-      "alert": true,
-      "location": "California",
-      "date": "September 15, 2026",
-      "source": "Shawn Bailey",
-      "short_description": "An independent film production is casting a male actor to portray Tyler for an upcoming shoot in Folsom, California. The role requires a taller, slender performer in his mid-20s who is comfortable...",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Couples Casting Call for New Relationship Reality TV Show",
-      "link": "https://projectcasting.com/job/couples-casting-call-for-new-relationship-reality-tv-show",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "September 15, 2026",
-      "source": "Scott Nelson Casting",
-      "short_description": "A new reality TV show hosted by a relationship expert is casting charismatic couples who feel their relationship has become stuck, predictable, or in need of some fresh energy.",
-      "production_type": "Reality Show"
+      "platform": "LinkedIn",
+      "title": "Creative Director (Large-Scale Events) - Acronym",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-large-scale-events-at-acronym-4466891216",
+      "alert": false,
+      "location": "East Los Angeles, CA",
+      "date": "23 hours ago",
+      "source": "Acronym"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Certificates - MasterClass",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-certificates-at-masterclass-4448325607",
+      "title": "Creative Director, Interactive Digital Experiences - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-interactive-digital-experiences-at-monks-4446522484",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "MasterClass"
+      "date": "3 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Brand Director, Social Strategy - SoFi",
-      "link": "https://www.linkedin.com/jobs/view/brand-director-social-strategy-at-sofi-4459028920",
+      "title": "Creative Director - VeSync",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-vesync-4449936080",
       "alert": false,
-      "location": "Orange County, CA",
-      "date": "18 minutes ago",
-      "source": "SoFi"
+      "location": "Tustin, CA",
+      "date": "5 hours ago",
+      "source": "VeSync"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Social Media Marketing - FLIGHTSTORY",
-      "link": "https://www.linkedin.com/jobs/view/head-of-social-media-marketing-at-flightstory-4460703506",
+      "title": "Director - Studio - Kilroy Realty Corporation",
+      "link": "https://www.linkedin.com/jobs/view/director-studio-at-kilroy-realty-corporation-4468374256",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Kilroy Realty Corporation"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Marketing Director - FMCG ( Mandarin Speaking) - RemotePeople",
+      "link": "https://www.linkedin.com/jobs/view/marketing-director-fmcg-mandarin-speaking-at-remotepeople-4468674173",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
+      "date": "33 minutes ago",
+      "source": "RemotePeople"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Experience Planning - Hearts & Science",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-experience-planning-at-hearts-science-4439932221",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "7 hours ago",
+      "source": "Hearts & Science"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director, Viral Marketing - MrBeast",
+      "link": "https://www.linkedin.com/jobs/view/art-director-viral-marketing-at-mrbeast-4468288452",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "MrBeast"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Email Content Strategy - Future",
+      "link": "https://www.linkedin.com/jobs/view/director-of-email-content-strategy-at-future-4466281514",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "1 hour ago",
-      "source": "FLIGHTSTORY"
+      "source": "Future"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Social Media Marketing - Steven.com",
-      "link": "https://www.linkedin.com/jobs/view/head-of-social-media-marketing-at-steven-com-4431212503",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
-      "source": "Steven.com"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Media Director - Tequila - Bandero Tequila",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-tequila-at-bandero-tequila-4467770431",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "21 hours ago",
-      "source": "Bandero Tequila"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Production Director - Social - Clutch",
-      "link": "https://www.linkedin.com/jobs/view/production-director-social-at-clutch-4466595511",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "17 hours ago",
-      "source": "Clutch"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director (Social) - Known",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-social-at-known-4462479219",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Known"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director Social Media - Edikted",
-      "link": "https://www.linkedin.com/jobs/view/director-social-media-at-edikted-4456384750",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Edikted"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Production or Director of Marketing - Japanese Bilingual (Gaming Company) - Pasona N A, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-of-production-or-director-of-marketing-japanese-bilingual-gaming-company-at-pasona-n-a-inc-4459041970",
-      "alert": false,
-      "location": "Redondo Beach, CA",
-      "date": "2 hours ago",
-      "source": "Pasona N A, Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Design Studio Lead - JGM",
-      "link": "https://www.linkedin.com/jobs/view/design-studio-lead-at-jgm-4456267577",
+      "title": "Creative Manager, SPECS Social + Content - Snap Inc.",
+      "link": "https://www.linkedin.com/jobs/view/creative-manager-specs-social-%2B-content-at-snap-inc-4459625212",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "21 minutes ago",
-      "source": "JGM"
+      "source": "Snap Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand & Content Manager - GeoSearch",
+      "link": "https://www.linkedin.com/jobs/view/brand-content-manager-at-geosearch-4467105210",
+      "alert": false,
+      "location": "Orange County, CA",
+      "date": "22 hours ago",
+      "source": "GeoSearch"
     },
     {
       "platform": "Central Casting",
@@ -179,6 +190,27 @@
       "link": "https://blog.centralcasting.com/jobs-la/2026/saxophonebass-players",
       "alert": false,
       "date": "September 11, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "BG w/ 1970-1992 Cars (PLEASE READ THE APPLICATION)",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Latin 18 TLY",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Latin Couple",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -228,100 +260,18 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Marines WITH MILITARY HAIRCUTS",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Old Church Couple",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "18 TLY -Boxing Class",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Graphic Designer",
-      "link": "https://aquent.com/find-work/213039",
-      "alert": false,
-      "date": "Posted Sep 15, 2026"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Everyday Life and Entertainment",
-      "link": "https://www.userinterviews.com/projects/iNc8W1UzOg/apply",
-      "pay": "$25",
-      "duration": "39 MIN",
+      "title": "Buy Now Pay Later Checkout Study [USA]",
+      "link": "https://www.userinterviews.com/projects/KtBbPZdMOw/apply",
+      "pay": "$75",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study on Professional Software Used in Wealth Management",
-      "link": "https://www.userinterviews.com/projects/i0J8B9_xGw/apply",
-      "pay": "$49",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Business Procurement Analysis",
-      "link": "https://www.userinterviews.com/projects/rf7MrkEuUw/apply",
-      "pay": "$18",
-      "duration": "18 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking opinions on pain and medication from adults aged 18 and above!",
-      "link": "https://www.userinterviews.com/projects/eI3heClpgw/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking opinions on pain and medication from adults aged 18 and above!",
-      "link": "https://www.userinterviews.com/projects/qgznUg0v1A/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking opinions on pain and medication from adults aged 18 and above!",
-      "link": "https://www.userinterviews.com/projects/xJWneeYoIw/apply",
-      "pay": "$40",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Seeking opinions on pain and medication from adults aged 18 and above!",
-      "link": "https://www.userinterviews.com/projects/tAgY7HvlDA/apply",
-      "pay": "$50",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "We have a study for you! Data Collection - Research Study",
-      "link": "https://www.userinterviews.com/projects/AOyyHWyVsQ/apply",
+      "title": "How do you shop?",
+      "link": "https://www.userinterviews.com/projects/lOSyn2gf4A/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -329,8 +279,26 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Read the news? Literature Review - Research Study",
-      "link": "https://www.userinterviews.com/projects/9reTO3x6JA/apply",
+      "title": "Shopping Preferences Research Study",
+      "link": "https://www.userinterviews.com/projects/9oKE2rPT8w/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Shopping App Research Study",
+      "link": "https://www.userinterviews.com/projects/zu6wXmgm7w/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Made purchases online? Sampling - Research Study",
+      "link": "https://www.userinterviews.com/projects/8oDZNGoltQ/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -338,10 +306,44 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Managing Your Money Day-to-Day",
-      "link": "https://www.userinterviews.com/projects/Yv_KTE1B2w/apply",
-      "pay": "$7",
-      "duration": "12 MIN",
+      "title": "Art Professionals - Share your Expertise",
+      "link": "https://www.userinterviews.com/projects/CFr9bAT0Rg/apply",
+      "pay": "$200",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Work stories",
+      "link": "https://www.userinterviews.com/projects/SiUsZWJOKg/apply",
+      "pay": "$150",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Calling all tax compliance professionals!",
+      "link": "https://www.userinterviews.com/projects/EAnBwuxpIQ/apply",
+      "pay": "$150",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Calling all indirect tax compliance professionals!",
+      "link": "https://www.userinterviews.com/projects/oquPdDj8GQ/apply",
+      "pay": "$150",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Nebraska residents: Have opinions on current events? We want to hear from you!",
+      "link": "https://www.userinterviews.com/projects/No6dZvu6KA/apply",
+      "pay": "$90",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -354,7 +356,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
@@ -370,7 +372,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
