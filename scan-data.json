@@ -1,19 +1,7 @@
 {
-  "generated": "2026-10-04T17:15:58.263508+00:00",
+  "generated": "2026-10-05T21:01:32.378023+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
-    {
-      "platform": "Project Casting",
-      "title": "$2000 TikTok LIVE Talent Casting Call",
-      "link": "https://projectcasting.com/job/2000-month-tiktok-live-talent-casting-call",
-      "alert": true,
-      "pay": "$2000",
-      "location": "California",
-      "date": "September 30, 2026",
-      "source": "Ordient Entertainment",
-      "short_description": "Ordient Entertainment is seeking energetic and engaging TikTok LIVE talent for an on-site opportunity in Hollywood, California.",
-      "production_type": "Social Media Content"
-    },
     {
       "platform": "Project Casting",
       "title": "\u201cYou Ain\u2019t Gotta Lie To Kick It\u201d Open Casting Call",
@@ -56,101 +44,113 @@
       "link": "https://projectcasting.com/job/brand-ambassador-socal-carson-california",
       "alert": true,
       "pay": "$$$",
-      "location": "Los Angeles, CA",
+      "location": "California",
       "date": "October 1, 2026",
       "source": "Event Staffing LIve",
       "short_description": "Event Staffing Live is booking Brand Ambassadors to represent a financial client during a Family Day event in Carson, CA 90746.",
       "production_type": "Live Event"
     },
     {
-      "platform": "LinkedIn",
-      "title": "Manager, Concept Design - Funko",
-      "link": "https://www.linkedin.com/jobs/view/manager-concept-design-at-funko-4438816624",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "4 hours ago",
-      "source": "Funko"
+      "platform": "Project Casting",
+      "title": "The Symphony\u201d Commercial Casting Call",
+      "link": "https://projectcasting.com/job/the-symphony-commercial-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "California",
+      "date": "October 1, 2026",
+      "source": "Alethea Delmage",
+      "short_description": "A non-union commercial and brand launch spot titled \u201cThe Symphony\u201d is seeking featured speaking talent and background performers in West Hollywood, California.",
+      "production_type": "Commercials"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Social Media (San Francisco) - UGLYCASH",
-      "link": "https://www.linkedin.com/jobs/view/head-of-social-media-san-francisco-at-uglycash-4475349243",
+      "title": "Creative Director - IJW Whiskey Company",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ijw-whiskey-company-4473651870",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "UGLYCASH"
+      "location": "Beverly Hills, CA",
+      "date": "5 hours ago",
+      "source": "IJW Whiskey Company"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative & Brand Manager - Warner Bros. Discovery",
-      "link": "https://www.linkedin.com/jobs/view/creative-brand-manager-at-warner-bros-discovery-4475358157",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "18 hours ago",
-      "source": "Warner Bros. Discovery"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Multimedia Manager - Western University of Health Sciences",
-      "link": "https://www.linkedin.com/jobs/view/multimedia-manager-at-western-university-of-health-sciences-4473887058",
-      "alert": false,
-      "location": "Pomona, CA",
-      "date": "19 hours ago",
-      "source": "Western University of Health Sciences"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Manager, Marketing - Crooked Media",
-      "link": "https://www.linkedin.com/jobs/view/sr-manager-marketing-at-crooked-media-4475391420",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "17 hours ago",
-      "source": "Crooked Media"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Managing Director, Marketing & Communications - City Year",
-      "link": "https://www.linkedin.com/jobs/view/managing-director-marketing-communications-at-city-year-4446788883",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "City Year"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Manager, Consumer PR & Brand Communications - Virgin Galactic",
-      "link": "https://www.linkedin.com/jobs/view/sr-manager-consumer-pr-brand-communications-at-virgin-galactic-4439371851",
-      "alert": false,
-      "location": "Tustin, CA",
-      "date": "4 hours ago",
-      "source": "Virgin Galactic"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Manager, Global Creative Advertising - Sony Pictures Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/manager-global-creative-advertising-at-sony-pictures-entertainment-4475355065",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "21 hours ago",
-      "source": "Sony Pictures Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Principal Visual Designer - LegalZoom",
-      "link": "https://www.linkedin.com/jobs/view/principal-visual-designer-at-legalzoom-4438866650",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "Just now",
-      "source": "LegalZoom"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Visual Designer - Thirdlove",
-      "link": "https://www.linkedin.com/jobs/view/sr-visual-designer-at-thirdlove-4438357612",
+      "title": "Director of Creative Strategy - Pique",
+      "link": "https://www.linkedin.com/jobs/view/director-of-creative-strategy-at-pique-4475524939",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
+      "date": "16 hours ago",
+      "source": "Pique"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Social Media, X - MrBeast",
+      "link": "https://www.linkedin.com/jobs/view/director-of-social-media-x-at-mrbeast-4475530374",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "MrBeast"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Executive Director of Advancement Communications - Caltech",
+      "link": "https://www.linkedin.com/jobs/view/executive-director-of-advancement-communications-at-caltech-4449599990",
+      "alert": false,
+      "location": "Pasadena, CA",
+      "date": "19 hours ago",
+      "source": "Caltech"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand & Creative Manager - Talent Systems, LLC",
+      "link": "https://www.linkedin.com/jobs/view/brand-creative-manager-at-talent-systems-llc-4471390513",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "7 hours ago",
+      "source": "Talent Systems, LLC"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Digital Planner - Golin Ketchum",
+      "link": "https://www.linkedin.com/jobs/view/director-digital-planner-at-golin-ketchum-4474601409",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "4 hours ago",
-      "source": "Thirdlove"
+      "source": "Golin Ketchum"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand Marketing Manager - Staff Boom",
+      "link": "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-staff-boom-4474616808",
+      "alert": false,
+      "location": "Anaheim, CA",
+      "date": "20 minutes ago",
+      "source": "Staff Boom"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Strategy Director - Conscious Minds",
+      "link": "https://www.linkedin.com/jobs/view/associate-strategy-director-at-conscious-minds-4474621382",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "1 hour ago",
+      "source": "Conscious Minds"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Strategy - PHD",
+      "link": "https://www.linkedin.com/jobs/view/director-strategy-at-phd-4474299446",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "PHD"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vice President Marketing - Cedar Financial",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-marketing-at-cedar-financial-4473653814",
+      "alert": false,
+      "location": "Calabasas, CA",
+      "date": "5 hours ago",
+      "source": "Cedar Financial"
     },
     {
       "platform": "Central Casting",
@@ -172,6 +172,25 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr-awrfj",
       "alert": false,
       "date": "September 30, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Latin People w/Older Cars & Trucks",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Diner Patron Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -220,113 +239,94 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Commuter / Pedestrian",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Latin & Black - Fight Attendees",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Diner BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/wOpcRatGFA/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/fXDzoTy-lw/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/qOyztJOIkg/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/8hYWk2UYYg/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/nnnx3U2qbA/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/KWktCn-8rg/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage company-provided iPhones at work!",
-      "link": "https://www.userinterviews.com/projects/DJDxmn3TTA/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your opinions in a ~35-minute video interview",
-      "link": "https://www.userinterviews.com/projects/ukxblAqUWQ/apply",
-      "pay": "$25",
-      "duration": "23 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Professional Perspectives on Stiffness and Mobility",
-      "link": "https://www.userinterviews.com/projects/PnD4UIOEig/apply",
-      "pay": "$250",
+      "title": "Interview about operations and technology use cases",
+      "link": "https://www.userinterviews.com/projects/-TtFtYwAAg/apply",
+      "pay": "$120",
       "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Professional Perspectives on Stiffness and Mobility",
-      "link": "https://www.userinterviews.com/projects/gO0JHewLBQ/apply",
-      "pay": "$250",
+      "title": "Project Flashback | Fremont In-Person Testing [$90/HR]",
+      "link": "https://www.userinterviews.com/projects/J7dIEuzFVA/apply",
+      "pay": "$90",
       "duration": "60 MIN",
       "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Men's Health Research by Movember",
+      "link": "https://www.userinterviews.com/projects/kaVGr9opAw/apply",
+      "pay": "$70",
+      "duration": "75 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "News Research Study",
+      "link": "https://www.userinterviews.com/projects/Osq9C40N7w/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Come Test a Foundation with us!",
+      "link": "https://www.userinterviews.com/projects/kIriz_7vcQ/apply",
+      "pay": "$230",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
       "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share your professional opinion in a short interview",
+      "link": "https://www.userinterviews.com/projects/KsGSOsDdIQ/apply",
+      "pay": "$48",
+      "duration": "36 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Ideation software use by creatives",
+      "link": "https://www.userinterviews.com/projects/NobdFmhmtA/apply",
+      "pay": "$100",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Academic & Campus Student Engagement Software",
+      "link": "https://www.userinterviews.com/projects/PbmYgakQBg/apply",
+      "pay": "$200",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We want to speak with you! Data Collection - Research Study",
+      "link": "https://www.userinterviews.com/projects/ZrIivtJiJg/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Company Experiences",
+      "link": "https://www.userinterviews.com/projects/LsVN85v68g/apply",
+      "pay": "$100",
+      "duration": "26 MIN",
+      "source": "UserInterviews",
+      "alert": false
     }
   ],
   "errors": {},
