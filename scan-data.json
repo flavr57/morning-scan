@@ -1,7 +1,42 @@
 {
-  "generated": "2026-10-05T21:01:32.378023+00:00",
+  "generated": "2026-10-06T18:44:59.505658+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$100 for 1-2 hrs: tradesperson or actor with work van and...",
+      "link": "https://projectcasting.com/job/100-real-plumber-carpenter-with-work-van-for-video-shoot-1-2-hrs",
+      "alert": true,
+      "pay": "$100",
+      "location": "California",
+      "date": "October 5, 2026",
+      "source": "Native",
+      "production_type": "Corporate Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Aston Model Agency San Diego Open Casting Call",
+      "link": "https://projectcasting.com/job/aston-model-agency-san-diego-open-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "October 5, 2026",
+      "source": "Aston Models",
+      "short_description": "Aston Models is holding an open model casting call in San Diego, California, seeking fresh faces for upcoming modeling opportunities.",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Dream Agency \u2013 Content Creator Campaign",
+      "link": "https://projectcasting.com/job/dream-agency-content-creator-campaign",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "October 5, 2026",
+      "source": "Dream Agency",
+      "short_description": "Dream Agency USA is seeking content creators and influencers for upcoming brand campaigns, restaurant experiences, and VIP events throughout Southern California.",
+      "production_type": "Social Media Content"
+    },
     {
       "platform": "Project Casting",
       "title": "\u201cYou Ain\u2019t Gotta Lie To Kick It\u201d Open Casting Call",
@@ -15,142 +50,94 @@
       "production_type": "Short Film"
     },
     {
-      "platform": "Project Casting",
-      "title": "$250/Day Lead Actors for Scripted Psychological Thriller",
-      "link": "https://projectcasting.com/job/250-day-lead-actors-for-scripted-psychological-thriller",
-      "alert": true,
-      "pay": "$250",
+      "platform": "LinkedIn",
+      "title": "Director, Creative Marketing - NEON",
+      "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-at-neon-4476323585",
+      "alert": false,
       "location": "Los Angeles, CA",
-      "date": "October 1, 2026",
-      "source": "Mack Videos, LLC",
-      "short_description": "A scripted psychological thriller for the Mack Hopkins YouTube channel is seeking four lead actors in Los Angeles, California.",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$2,000 Project Waldo Photo Shoot Casting Call",
-      "link": "https://projectcasting.com/job/2000-project-waldo-photo-shoot-casting-call",
-      "alert": true,
-      "pay": "$2,000",
-      "location": "California",
-      "date": "October 1, 2026",
-      "source": "Anissa Williams Casting",
-      "short_description": "Project Waldo is seeking real people with unique personalities of all genders for a new non-union print project shooting in Southern California.",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Brand Ambassador \u2013 Socal/Carson, California",
-      "link": "https://projectcasting.com/job/brand-ambassador-socal-carson-california",
-      "alert": true,
-      "pay": "$$$",
-      "location": "California",
-      "date": "October 1, 2026",
-      "source": "Event Staffing LIve",
-      "short_description": "Event Staffing Live is booking Brand Ambassadors to represent a financial client during a Family Day event in Carson, CA 90746.",
-      "production_type": "Live Event"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "The Symphony\u201d Commercial Casting Call",
-      "link": "https://projectcasting.com/job/the-symphony-commercial-casting-call",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "October 1, 2026",
-      "source": "Alethea Delmage",
-      "short_description": "A non-union commercial and brand launch spot titled \u201cThe Symphony\u201d is seeking featured speaking talent and background performers in West Hollywood, California.",
-      "production_type": "Commercials"
+      "date": "2 hours ago",
+      "source": "NEON"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - IJW Whiskey Company",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ijw-whiskey-company-4473651870",
+      "title": "Director, Design \u2013 Concept, Color, Print & Graphics - Fabletics",
+      "link": "https://www.linkedin.com/jobs/view/director-design-%E2%80%93-concept-color-print-graphics-at-fabletics-4467486084",
       "alert": false,
-      "location": "Beverly Hills, CA",
+      "location": "El Segundo, CA",
+      "date": "6 hours ago",
+      "source": "Fabletics"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr Manager, Creative - Mattel Masterbrand - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/sr-manager-creative-mattel-masterbrand-at-mattel-inc-4467438831",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "6 hours ago",
+      "source": "Mattel, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Social - NOORI",
+      "link": "https://www.linkedin.com/jobs/view/head-of-social-at-noori-4476358027",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "36 minutes ago",
+      "source": "NOORI"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Artist Lead, Columbia Records - Sony Music Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-artist-lead-columbia-records-at-sony-music-entertainment-4474667294",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "Sony Music Entertainment"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Director, Design - Fabletics",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-design-at-fabletics-4458275756",
+      "alert": false,
+      "location": "El Segundo, CA",
       "date": "5 hours ago",
-      "source": "IJW Whiskey Company"
+      "source": "Fabletics"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Creative Strategy - Pique",
-      "link": "https://www.linkedin.com/jobs/view/director-of-creative-strategy-at-pique-4475524939",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "16 hours ago",
-      "source": "Pique"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Social Media, X - MrBeast",
-      "link": "https://www.linkedin.com/jobs/view/director-of-social-media-x-at-mrbeast-4475530374",
+      "title": "Senior Creative, Events and Experiences - Google",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-events-and-experiences-at-google-4474687946",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "MrBeast"
+      "date": "8 hours ago",
+      "source": "Google"
     },
     {
       "platform": "LinkedIn",
-      "title": "Executive Director of Advancement Communications - Caltech",
-      "link": "https://www.linkedin.com/jobs/view/executive-director-of-advancement-communications-at-caltech-4449599990",
-      "alert": false,
-      "location": "Pasadena, CA",
-      "date": "19 hours ago",
-      "source": "Caltech"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand & Creative Manager - Talent Systems, LLC",
-      "link": "https://www.linkedin.com/jobs/view/brand-creative-manager-at-talent-systems-llc-4471390513",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "7 hours ago",
-      "source": "Talent Systems, LLC"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Digital Planner - Golin Ketchum",
-      "link": "https://www.linkedin.com/jobs/view/director-digital-planner-at-golin-ketchum-4474601409",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Golin Ketchum"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand Marketing Manager - Staff Boom",
-      "link": "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-staff-boom-4474616808",
-      "alert": false,
-      "location": "Anaheim, CA",
-      "date": "20 minutes ago",
-      "source": "Staff Boom"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Strategy Director - Conscious Minds",
-      "link": "https://www.linkedin.com/jobs/view/associate-strategy-director-at-conscious-minds-4474621382",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "1 hour ago",
-      "source": "Conscious Minds"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Strategy - PHD",
-      "link": "https://www.linkedin.com/jobs/view/director-strategy-at-phd-4474299446",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "PHD"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Vice President Marketing - Cedar Financial",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-marketing-at-cedar-financial-4473653814",
+      "title": "Content Director, Paid Social Advertising - DSJ Global",
+      "link": "https://www.linkedin.com/jobs/view/content-director-paid-social-advertising-at-dsj-global-4476189376",
       "alert": false,
       "location": "Calabasas, CA",
-      "date": "5 hours ago",
-      "source": "Cedar Financial"
+      "date": "6 hours ago",
+      "source": "DSJ Global"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Social Content & Marketing - Overwatch - Blizzard Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-social-content-marketing-overwatch-at-blizzard-entertainment-4474948555",
+      "alert": false,
+      "location": "Irvine, CA",
+      "date": "4 hours ago",
+      "source": "Blizzard Entertainment"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Video Strategy & Content Ecosystem - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-video-strategy-content-ecosystem-at-mattel-inc-4467272917",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "4 hours ago",
+      "source": "Mattel, Inc."
     },
     {
       "platform": "Central Casting",
@@ -175,16 +162,16 @@
     },
     {
       "platform": "Everyset",
+      "title": "Various Diner Patron Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
       "title": "Latin People w/Older Cars & Trucks",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Diner Patron Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
     },
     {
       "platform": "Everyset",
@@ -240,35 +227,35 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Interview about operations and technology use cases",
-      "link": "https://www.userinterviews.com/projects/-TtFtYwAAg/apply",
-      "pay": "$120",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Project Flashback | Fremont In-Person Testing [$90/HR]",
-      "link": "https://www.userinterviews.com/projects/J7dIEuzFVA/apply",
-      "pay": "$90",
-      "duration": "60 MIN",
+      "title": "Looking for HR professionals!",
+      "link": "https://www.userinterviews.com/projects/f96_lS97bA/apply",
+      "pay": "$5",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Men's Health Research by Movember",
-      "link": "https://www.userinterviews.com/projects/kaVGr9opAw/apply",
-      "pay": "$70",
-      "duration": "75 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/OaddspaWvg/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "News Research Study",
-      "link": "https://www.userinterviews.com/projects/Osq9C40N7w/apply",
+      "title": "Calling Performance Drivers for Paid Research Study!",
+      "link": "https://www.userinterviews.com/projects/xJ-_fvoawA/apply",
+      "pay": "$100",
+      "duration": "40 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Financial Research Study",
+      "link": "https://www.userinterviews.com/projects/8krAPlmFAg/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -276,55 +263,53 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Come Test a Foundation with us!",
-      "link": "https://www.userinterviews.com/projects/kIriz_7vcQ/apply",
-      "pay": "$230",
-      "duration": "30 MIN",
+      "title": "Construction product testing",
+      "link": "https://www.userinterviews.com/projects/_Czse31Fnw/apply",
+      "pay": "$150",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your professional opinion in a short interview",
-      "link": "https://www.userinterviews.com/projects/KsGSOsDdIQ/apply",
-      "pay": "$48",
-      "duration": "36 MIN",
+      "title": "Be Part of Our Exclusive Product Test. Be Heard. Be Influential.",
+      "link": "https://www.userinterviews.com/projects/x5TPKN3YyA/apply",
+      "pay": "$75",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Ideation software use by creatives",
-      "link": "https://www.userinterviews.com/projects/NobdFmhmtA/apply",
-      "pay": "$100",
-      "duration": "45 MIN",
+      "title": "Be Heard. Make an Impact. Shape What Comes Next.",
+      "link": "https://www.userinterviews.com/projects/mtu8Vp4QBQ/apply",
+      "pay": "$75",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Academic & Campus Student Engagement Software",
-      "link": "https://www.userinterviews.com/projects/PbmYgakQBg/apply",
-      "pay": "$200",
-      "duration": "20 MIN",
+      "title": "Looking for product managers who use AI tools at work!",
+      "link": "https://www.userinterviews.com/projects/-h-nslCVNA/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "We want to speak with you! Data Collection - Research Study",
-      "link": "https://www.userinterviews.com/projects/ZrIivtJiJg/apply",
-      "pay": "$10",
+      "title": "Looking for people who are Verizon mobile customers!",
+      "link": "https://www.userinterviews.com/projects/7mdc7imZiQ/apply",
+      "pay": "$5",
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Company Experiences",
-      "link": "https://www.userinterviews.com/projects/LsVN85v68g/apply",
-      "pay": "$100",
-      "duration": "26 MIN",
+      "title": "Looking for people who manage their own money!",
+      "link": "https://www.userinterviews.com/projects/Hdgofc23fg/apply",
+      "pay": "$1",
+      "duration": "2 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -337,7 +322,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "LinkedIn": {
       "status": "ok",
