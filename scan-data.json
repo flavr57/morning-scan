@@ -1,7 +1,18 @@
 {
-  "generated": "2026-10-06T18:44:59.505658+00:00",
+  "generated": "2026-10-07T19:11:11.246450+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Aspiring Cinematographer for Short Film",
+      "link": "https://projectcasting.com/job/aspiring-cinematographer-for-short-film",
+      "alert": true,
+      "location": "Los Angeles, CA",
+      "date": "October 6, 2026",
+      "source": "Empowering Filmmakers",
+      "short_description": "An upcoming short film is seeking an aspiring cinematographer or film student interested in gaining hands-on experience with professional cinematography and lighting.",
+      "production_type": "Short Film"
+    },
     {
       "platform": "Project Casting",
       "title": "$100 for 1-2 hrs: tradesperson or actor with work van and...",
@@ -51,114 +62,127 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Creative Marketing - NEON",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-marketing-at-neon-4476323585",
+      "title": "Creative Director, Design - Meta",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-design-at-meta-4446622516",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "6 hours ago",
+      "source": "Meta"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Group Creative Director - MasterClass",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-at-masterclass-4476394213",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "21 hours ago",
+      "source": "MasterClass"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director of Design -Kids - SKIMS",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-of-design-kids-at-skims-4476513954",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "17 hours ago",
+      "source": "SKIMS"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Marketing (San Francisco) - UGLYCASH",
+      "link": "https://www.linkedin.com/jobs/view/head-of-marketing-san-francisco-at-uglycash-4476785579",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "2 hours ago",
-      "source": "NEON"
+      "source": "UGLYCASH"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Design \u2013 Concept, Color, Print & Graphics - Fabletics",
-      "link": "https://www.linkedin.com/jobs/view/director-design-%E2%80%93-concept-color-print-graphics-at-fabletics-4467486084",
+      "title": "Short Form Director / Creator - Jubilee Media",
+      "link": "https://www.linkedin.com/jobs/view/short-form-director-creator-at-jubilee-media-4476728505",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "6 hours ago",
-      "source": "Fabletics"
+      "location": "Los Angeles, CA",
+      "date": "19 hours ago",
+      "source": "Jubilee Media"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr Manager, Creative - Mattel Masterbrand - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/sr-manager-creative-mattel-masterbrand-at-mattel-inc-4467438831",
+      "title": "Design Director, Women's Wovens - Buck Mason",
+      "link": "https://www.linkedin.com/jobs/view/design-director-women-s-wovens-at-buck-mason-4476724909",
       "alert": false,
-      "location": "El Segundo, CA",
-      "date": "6 hours ago",
-      "source": "Mattel, Inc."
+      "location": "Los Angeles, CA",
+      "date": "19 hours ago",
+      "source": "Buck Mason"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Social - NOORI",
-      "link": "https://www.linkedin.com/jobs/view/head-of-social-at-noori-4476358027",
+      "title": "Head of Marketing - SuperCinema",
+      "link": "https://www.linkedin.com/jobs/view/head-of-marketing-at-supercinema-4475464413",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "SuperCinema"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Producer, Brand & Content - SHAY Jewelry",
+      "link": "https://www.linkedin.com/jobs/view/creative-producer-brand-content-at-shay-jewelry-4475454696",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "2 hours ago",
+      "source": "SHAY Jewelry"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Production Director - Social - Clutch",
+      "link": "https://www.linkedin.com/jobs/view/production-director-social-at-clutch-4466595511",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "36 minutes ago",
-      "source": "NOORI"
+      "date": "4 hours ago",
+      "source": "Clutch"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director, Artist Lead, Columbia Records - Sony Music Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-artist-lead-columbia-records-at-sony-music-entertainment-4474667294",
+      "title": "Designer (Contract) - Moonbug Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/designer-contract-at-moonbug-entertainment-4476388180",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "Sony Music Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Director, Design - Fabletics",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-design-at-fabletics-4458275756",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "5 hours ago",
-      "source": "Fabletics"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Creative, Events and Experiences - Google",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-events-and-experiences-at-google-4474687946",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Google"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Content Director, Paid Social Advertising - DSJ Global",
-      "link": "https://www.linkedin.com/jobs/view/content-director-paid-social-advertising-at-dsj-global-4476189376",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "6 hours ago",
-      "source": "DSJ Global"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Director, Social Content & Marketing - Overwatch - Blizzard Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-social-content-marketing-overwatch-at-blizzard-entertainment-4474948555",
-      "alert": false,
-      "location": "Irvine, CA",
-      "date": "4 hours ago",
-      "source": "Blizzard Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Video Strategy & Content Ecosystem - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-video-strategy-content-ecosystem-at-mattel-inc-4467272917",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "4 hours ago",
-      "source": "Mattel, Inc."
+      "date": "22 hours ago",
+      "source": "Moonbug Entertainment"
     },
     {
       "platform": "Central Casting",
-      "title": "UNION AND NON-UNION REAL DJS",
+      "title": "UNION AND NON-UNION REAL 18TLY KISSING COUPLES",
+      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-jr3pf",
+      "alert": false,
+      "date": "October 07, 2026"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "**CLOSED** UNION AND NON-UNION REAL DJS",
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr",
       "alert": false,
       "date": "October 01, 2026"
     },
     {
       "platform": "Central Casting",
-      "title": "UNION AND NON-UNION MARIACHI BANDS",
+      "title": "**CLOSED ** UNION AND NON-UNION MARIACHI BANDS",
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr-39gkp",
       "alert": false,
       "date": "October 01, 2026"
     },
     {
-      "platform": "Central Casting",
-      "title": "**CLOSED** UNION MASSEUSE SUBMISSIONS",
-      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr-awrfj",
-      "alert": false,
-      "date": "September 30, 2026"
+      "platform": "Everyset",
+      "title": "Fight Attendees",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various NU Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -212,32 +236,54 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Community Adults",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "ND Agents w/ 1970-1992 Cars (PLEASE READ THE APPLICATION)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Looking for HR professionals!",
-      "link": "https://www.userinterviews.com/projects/f96_lS97bA/apply",
-      "pay": "$5",
-      "duration": "15 MIN",
+      "title": "AI-moderated study about EOR positioning",
+      "link": "https://www.userinterviews.com/projects/R2xGLpmzow/apply",
+      "pay": "$1",
+      "duration": "7 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/OaddspaWvg/apply",
+      "title": "Share how you approach life\u2019s big moments!",
+      "link": "https://www.userinterviews.com/projects/GWQjzrFe0w/apply",
+      "pay": "$20",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Nutrition Drinks & Everyday Routines",
+      "link": "https://www.userinterviews.com/projects/ENKMd64I_w/apply",
+      "pay": "$45",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Come and give us feedback on our device and app signup flow!",
+      "link": "https://www.userinterviews.com/projects/YiFKcPcFPA/apply",
+      "pay": "$30",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "The Evolving Financial Advisor Experience",
+      "link": "https://www.userinterviews.com/projects/f3kAkEbryA/apply",
+      "pay": "$35",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Mobile Apps Study",
+      "link": "https://www.userinterviews.com/projects/2gf3phHTpA/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -245,73 +291,39 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Calling Performance Drivers for Paid Research Study!",
-      "link": "https://www.userinterviews.com/projects/xJ-_fvoawA/apply",
-      "pay": "$100",
-      "duration": "40 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Financial Research Study",
-      "link": "https://www.userinterviews.com/projects/8krAPlmFAg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Construction product testing",
-      "link": "https://www.userinterviews.com/projects/_Czse31Fnw/apply",
-      "pay": "$150",
+      "title": "Compare three websites",
+      "link": "https://www.userinterviews.com/projects/x33N2n2__w/apply",
+      "pay": "$40",
       "duration": "60 MIN",
       "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/nk1itRPVeg/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Sky-High Snacks: Paid Drone Delivery Study [Charlotte, NC]",
+      "link": "https://www.userinterviews.com/projects/4_jNAF_dZQ/apply",
+      "pay": "$100",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Study for Retail Professionals",
+      "link": "https://www.userinterviews.com/projects/AS1bGPc69Q/apply",
+      "pay": "$120",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
       "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Be Part of Our Exclusive Product Test. Be Heard. Be Influential.",
-      "link": "https://www.userinterviews.com/projects/x5TPKN3YyA/apply",
-      "pay": "$75",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Be Heard. Make an Impact. Shape What Comes Next.",
-      "link": "https://www.userinterviews.com/projects/mtu8Vp4QBQ/apply",
-      "pay": "$75",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for product managers who use AI tools at work!",
-      "link": "https://www.userinterviews.com/projects/-h-nslCVNA/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who are Verizon mobile customers!",
-      "link": "https://www.userinterviews.com/projects/7mdc7imZiQ/apply",
-      "pay": "$5",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who manage their own money!",
-      "link": "https://www.userinterviews.com/projects/Hdgofc23fg/apply",
-      "pay": "$1",
-      "duration": "2 MIN",
-      "source": "UserInterviews",
-      "alert": false
     }
   ],
   "errors": {},
@@ -322,7 +334,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
