@@ -1,7 +1,76 @@
 {
-  "generated": "2026-10-14T17:45:57.606676+00:00",
+  "generated": "2026-10-15T17:34:11.219796+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Casting Call in Los Angeles",
+      "link": "https://projectcasting.com/job/casting-call-in-los-angeles",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 14, 2026",
+      "source": "Shaka Wear",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Casting Female Dancers in Los Angeles",
+      "link": "https://projectcasting.com/job/casting-female-dancers-in-los-angeles",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 14, 2026",
+      "source": "EXO\u2019s Casting",
+      "short_description": "An upcoming major independent film is seeking skilled modern and contemporary dancers with strong technical backgrounds for a production in Los Angeles, California.",
+      "production_type": "Events"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Feature Film Casting Call for Ultramarathon Runners",
+      "link": "https://projectcasting.com/job/feature-film-casting-call-for-ultramarathon-runners",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 14, 2026",
+      "source": "Atomic Honey Casting",
+      "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Los Angeles Casting Call for Extras To Portray Pregnant Women",
+      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-extras-to-portray-pregnant-women",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "October 14, 2026",
+      "source": "Central casting",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Skycam Utility \u2013 Denver @ San Francisco \u2013 10/4/26",
+      "link": "https://projectcasting.com/job/skycam-utility-denver-san-francisco-10-4-26",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "October 14, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "MING Entertainment is hiring a Skycam Utility for Denver @ San Francisco at Levi\u2019s Stadium in Santa Clara, California (10/4/26),for the NFL football broadcast on ESPN.",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Skycam Utility \u2013 Washington @ USC \u2013 10/3/26",
+      "link": "https://projectcasting.com/job/skycam-utility-washington-usc-10-3-26",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 14, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "MING Entertainment is hiring a Skycam Utility for Washington @ USC at Los Angeles Memorial Coliseum in Los Angeles, California (10/3/26),for the college football broadcast on ESPN.",
+      "production_type": "TV & Video"
+    },
     {
       "platform": "Project Casting",
       "title": "$250/Day Video Game Casting Call for Tall, Alien-Looking Security Characters",
@@ -27,59 +96,54 @@
       "production_type": "Music Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "\u201cBottle Opener\u201d SAG Short Film Casting Call for Steph",
-      "link": "https://projectcasting.com/job/bottle-opener-sag-short-film-casting-call-for-steph",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 12, 2026",
-      "source": "Julianne Gabert",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Los Angeles Casting Callf or Models",
-      "link": "https://projectcasting.com/job/los-angeles-casting-callf-or-models",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 9, 2026",
-      "source": "Sara Rose",
-      "short_description": "A fashion and lifestyle photoshoot in Los Angeles, California, is seeking 3\u20134 models of all genders for an upcoming creative production.",
-      "production_type": "Modeling"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director - Warner Bros. Discovery",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-warner-bros-discovery-4479098857",
+      "title": "Creative Director, PV Brand Partnership Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-pv-brand-partnership-studio-at-amazon-4479813697",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "19 hours ago",
-      "source": "Warner Bros. Discovery"
+      "location": "Santa Monica, CA",
+      "date": "5 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr. Director, Creative Direction - TFT - Riot Games",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-creative-direction-tft-at-riot-games-4459295144",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Riot Games"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Group Design Director, Brand Experience - Team One",
-      "link": "https://www.linkedin.com/jobs/view/group-design-director-brand-experience-at-team-one-4469058638",
+      "title": "Design Director - Delta Galil Industries",
+      "link": "https://www.linkedin.com/jobs/view/design-director-at-delta-galil-industries-4479852318",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "2 hours ago",
-      "source": "Team One"
+      "source": "Delta Galil Industries"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Branded Content & Partnerships \u2013 Telecommunications - MrBeast",
-      "link": "https://www.linkedin.com/jobs/view/director-branded-content-partnerships-%E2%80%93-telecommunications-at-mrbeast-4461525310",
+      "title": "Senior Creative Director (Agency) - times10",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-agency-at-times10-4479719151",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "19 hours ago",
+      "source": "times10"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand Marketing Director - Atoms",
+      "link": "https://www.linkedin.com/jobs/view/brand-marketing-director-at-atoms-4442911524",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Atoms"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Design Director, Pattern & Print - STAUD",
+      "link": "https://www.linkedin.com/jobs/view/design-director-pattern-print-at-staud-4467811194",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "16 hours ago",
+      "source": "STAUD"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Programming - MrBeast",
+      "link": "https://www.linkedin.com/jobs/view/head-of-programming-at-mrbeast-4443060309",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "1 hour ago",
@@ -87,57 +151,39 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - D\u00f4en",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4450769729",
+      "title": "VP, Performance Creative - Monks",
+      "link": "https://www.linkedin.com/jobs/view/vp-performance-creative-at-monks-4462714659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "D\u00f4en"
+      "date": "6 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Growth Creative Lead, Art Director - Ruggable",
-      "link": "https://www.linkedin.com/jobs/view/growth-creative-lead-art-director-at-ruggable-4479082941",
+      "title": "Social Media Director, Y2K Fashion Trends - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-y2k-fashion-trends-at-24-seven-talent-4478807964",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Ruggable"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "16 hours ago",
+      "source": "24 Seven Talent"
     },
     {
       "platform": "LinkedIn",
-      "title": "Vice President of Design - REVOLVE",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-of-design-at-revolve-4478488125",
+      "title": "Senior Agency DP / Head of Video - times10",
+      "link": "https://www.linkedin.com/jobs/view/senior-agency-dp-head-of-video-at-times10-4479712419",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "35 minutes ago",
-      "source": "REVOLVE"
+      "location": "Burbank, CA",
+      "date": "19 hours ago",
+      "source": "times10"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director - Amplify",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-amplify-4479255389",
+      "title": "Communications Director - The Crowd",
+      "link": "https://www.linkedin.com/jobs/view/communications-director-at-the-crowd-4477675221",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "Amplify"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Experiential & Partnerships - ALO",
-      "link": "https://www.linkedin.com/jobs/view/director-experiential-partnerships-at-alo-4434753298",
-      "alert": false,
-      "location": "Beverly Hills, CA",
-      "date": "3 hours ago",
-      "source": "ALO"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Manager - FBT Gibbons",
-      "link": "https://www.linkedin.com/jobs/view/creative-manager-at-fbt-gibbons-4470656689",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "FBT Gibbons"
+      "date": "8 hours ago",
+      "source": "The Crowd"
     },
     {
       "platform": "Central Casting",
@@ -231,26 +277,26 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "You may be a great fit, sign up today! Data Mining - Research Study",
-      "link": "https://www.userinterviews.com/projects/jy7-hdkMPQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Workplace Collaboration & Productivity Research Study",
-      "link": "https://www.userinterviews.com/projects/8LqYwRN4dw/apply",
+      "title": "Tell us about your experience in retail stores!",
+      "link": "https://www.userinterviews.com/projects/Oz44s2KrOA/apply",
       "pay": "$200",
-      "duration": "105 MIN",
+      "duration": "120 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/S7DH-RP3Xg/apply",
+      "title": "Moms of a 4 to 12-month-old baby: study about baby snacks!",
+      "link": "https://www.userinterviews.com/projects/RdJ9Y-WDsA/apply",
+      "pay": "$50",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Methodology Study",
+      "link": "https://www.userinterviews.com/projects/3vFzxjqDVg/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -258,66 +304,65 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Tell us about your healthcare experiences!",
-      "link": "https://www.userinterviews.com/projects/1zVbaselCA/apply",
-      "pay": "$85",
+      "title": "Case Study",
+      "link": "https://www.userinterviews.com/projects/W0HaMYrymQ/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Business Owners: Share Your Experience with Custom Printing & Marketing",
+      "link": "https://www.userinterviews.com/projects/Q28_dwG_cQ/apply",
+      "pay": "$350",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "New Session Opportunity! October 22nd",
+      "link": "https://www.userinterviews.com/projects/pV2vB29AFQ/apply",
+      "pay": "$50",
       "duration": "75 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your thoughts in a short conversation about everyday products",
-      "link": "https://www.userinterviews.com/projects/LB93DGjoOQ/apply",
-      "pay": "$11",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Gesundheit & Nahrungserg\u00e4nzung",
-      "link": "https://www.userinterviews.com/projects/9YKbnSfqLQ/apply",
-      "pay": "$45",
-      "duration": "100 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Video Games Study",
-      "link": "https://www.userinterviews.com/projects/Q_tiO44hCA/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Somatic Interpretation Study - USA",
-      "link": "https://www.userinterviews.com/projects/MlYuPZfzXg/apply",
+      "title": "Paid Research Opportunity: High School Teachers Using Gale",
+      "link": "https://www.userinterviews.com/projects/SfmopoxnIQ/apply",
       "pay": "$50",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Oncology Research Study",
-      "link": "https://www.userinterviews.com/projects/3DP8uiPUZQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "IT Leaders: Share Your Experience with Print & Document Management",
-      "link": "https://www.userinterviews.com/projects/gL0xg1HA7w/apply",
-      "pay": "$125",
       "duration": "30 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "No kid households that are a Fan of Flavor: Share how you add flavor to your dinners",
+      "link": "https://www.userinterviews.com/projects/bYt-qwAF1w/apply",
+      "pay": "$75",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Automotive Repair Parts",
+      "link": "https://www.userinterviews.com/projects/jvfPwecQuQ/apply",
+      "pay": "$10",
+      "duration": "12 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Automotive Repair Parts",
+      "link": "https://www.userinterviews.com/projects/kWjjxbBbbQ/apply",
+      "pay": "$10",
+      "duration": "12 MIN",
+      "source": "UserInterviews",
+      "alert": false
     }
   ],
   "errors": {},
@@ -328,7 +373,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 4
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
