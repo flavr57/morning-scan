@@ -1,146 +1,172 @@
 {
-  "generated": "2026-10-20T17:44:39.823954+00:00",
+  "generated": "2026-10-21T17:52:41.302488+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "$35/Hour Carson, California Brand Ambassador",
-      "link": "https://projectcasting.com/job/35-hour-carson-california-brand-ambassador",
+      "title": "Pop Group Talent Search",
+      "link": "https://projectcasting.com/job/pop-group-talent-search",
       "alert": true,
-      "pay": "$35",
-      "location": "California",
-      "date": "October 19, 2026",
-      "source": "Event Staffing LIve",
-      "production_type": "Live Event"
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 20, 2026",
+      "source": "Project G&G",
+      "production_type": "Events"
     },
     {
       "platform": "Project Casting",
-      "title": "$270/Day San Francisco Casting Call for Photo Doubles",
-      "link": "https://projectcasting.com/job/270-day-san-francisco-casting-call-for-photo-doubles",
+      "title": "CASTING CALL | SINGERS & DANCERS | LOS ANGELES",
+      "link": "https://projectcasting.com/job/casting-call-singers-dancers-los-angeles",
       "alert": true,
-      "pay": "$270",
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 20, 2026",
+      "source": "Bethesda Repertory Theatre",
+      "production_type": "Theater"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Casting Call for Magicians",
+      "link": "https://projectcasting.com/job/casting-call-for-magicians",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 20, 2026",
+      "source": "Teresa Mason Casting",
+      "short_description": "An upcoming entertainment production is seeking talented magicians based in Los Angeles for a fun shoot in Venice Beach, California.",
+      "production_type": "Events"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$120 Courtroom Background Actors for New Talent",
+      "link": "https://projectcasting.com/job/120-courtroom-background-actors-for-new-talent",
+      "alert": true,
+      "pay": "$120",
       "location": "California",
-      "date": "October 19, 2026",
-      "source": "Nina Henninger Casting",
+      "date": "October 20, 2026",
+      "source": "Standing Room Only",
+      "short_description": "A television legal series filming in Culver City, California, is seeking background actors ages 30\u201350 for recurring courtroom scenes.",
       "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
-      "title": "$700/Day \u201cPlaying with Fire\u201d Vertical Series Open Casting Call",
-      "link": "https://projectcasting.com/job/700-day-playing-with-fire-vertical-series-open-casting-call",
-      "alert": true,
-      "pay": "$700",
-      "location": "Los Angeles, CA",
-      "date": "October 19, 2026",
-      "source": "Barbarella Casting",
-      "production_type": "Vertical Series"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "SAG-AFTRA Photo Double Casting Call",
-      "link": "https://projectcasting.com/job/sag-aftra-photo-double-casting-call",
+      "title": "Music Video Casting Call for Mature Male Models in Los Angeles",
+      "link": "https://projectcasting.com/job/music-video-casting-call-for-mature-male-models-in-los-angeles",
       "alert": true,
       "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "October 20, 2026",
+      "source": "Apecastings",
+      "short_description": "A music video production in Downtown Los Angeles, California, is seeking mature-looking men with stylish suits to appear in an upcoming music video shoot.",
+      "production_type": "Music Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Utility I (ABC) \u2013 Washington @ San Francisco \u2013 10/19/26",
+      "link": "https://projectcasting.com/job/utility-i-abc-washington-san-francisco-10-19-26",
+      "alert": true,
+      "pay": "$",
       "location": "California",
-      "date": "October 19, 2026",
-      "source": "Nina Henninger Casting",
+      "date": "October 20, 2026",
+      "source": "Ming Entertainment",
+      "short_description": "MING Entertainment is hiring a Utility I (ABC) for Washington @ San Francisco at Levi\u2019s Stadium in Santa Clara, California (10/19/26),for the Monday Night Football broadcast on ABC.",
       "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
-      "title": "Skycam Utility \u2013 Arizona @ Los Angeles Rams \u2013 10/18/26",
-      "link": "https://projectcasting.com/job/skycam-utility-arizona-los-angeles-rams-10-18-26",
+      "title": "Runner \u2013 Washington @ San Francisco \u2013 10/19/26",
+      "link": "https://projectcasting.com/job/runner-washington-san-francisco-10-19-26",
       "alert": true,
       "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 19, 2026",
+      "location": "California",
+      "date": "October 20, 2026",
       "source": "Ming Entertainment",
-      "short_description": "MING Entertainment is hiring a Skycam Utility for Arizona @ Los Angeles Rams at SoFi Stadium in Inglewood, California (10/18/26),for the NFL football broadcast on ESPN.",
+      "short_description": "MING Entertainment is hiring a Runner for Washington @ San Francisco at Levi\u2019s Stadium in Santa Clara, California (10/19/26),for the Monday Night Football broadcast on ABC.",
       "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
-      "title": "Parab (ABC) \u2013 Buffalo @ Los Angeles Rams \u2013 10/12/26",
-      "link": "https://projectcasting.com/job/parab-abc-buffalo-los-angeles-rams-10-12-26",
+      "title": "Skycam Utility \u2013 Washington @ San Francisco \u2013 10/19/26",
+      "link": "https://projectcasting.com/job/skycam-utility-washington-san-francisco-10-19-26",
       "alert": true,
       "pay": "$",
       "location": "Los Angeles, CA",
-      "date": "October 19, 2026",
+      "date": "October 20, 2026",
       "source": "Ming Entertainment",
-      "short_description": "MING Entertainment is hiring a Parab (ABC) for Buffalo @ Los Angeles Rams at SoFi Stadium in Inglewood, California (10/12/26),for the Monday Night Football broadcast on ABC.",
+      "short_description": "MING Entertainment is hiring a Skycam Utility for Washington @ San Francisco at Levi\u2019s Stadium in Santa Clara, California (10/19/26),for the Monday Night Football broadcast on ESPN.",
       "production_type": "TV & Video"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director, NikeSKIMS Footwear & Apparel Product Design - Nike",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-nikeskims-footwear-apparel-product-design-at-nike-4481705018",
+      "title": "Creative Director, Social, Brand & Culture - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-social-brand-culture-at-monks-4473515865",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Nike"
+      "date": "7 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Fashion Director - Contemporary Womenswear Brand - Los Angeles - Mode Executive",
-      "link": "https://www.linkedin.com/jobs/view/fashion-director-contemporary-womenswear-brand-los-angeles-at-mode-executive-4480456473",
+      "title": "Creative Director - Avatara Personal Care, LLC",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-avatara-personal-care-llc-4480783221",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "11 hours ago",
+      "source": "Avatara Personal Care, LLC"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Group Creative Director, Art and Design - PASSPORT BRAND DESIGN",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-art-and-design-at-passport-brand-design-4482002922",
+      "alert": false,
+      "location": "Costa Mesa, CA",
+      "date": "17 hours ago",
+      "source": "PASSPORT BRAND DESIGN"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Graphics & Embroidery - FIGS",
+      "link": "https://www.linkedin.com/jobs/view/director-graphics-embroidery-at-figs-4473700932",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "2 hours ago",
+      "source": "FIGS"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Communications - Grace Church of Glendora",
+      "link": "https://www.linkedin.com/jobs/view/director-of-communications-at-grace-church-of-glendora-4481141231",
+      "alert": false,
+      "location": "Glendora, CA",
+      "date": "1 hour ago",
+      "source": "Grace Church of Glendora"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Product Design - Whatnot",
+      "link": "https://www.linkedin.com/jobs/view/director-product-design-at-whatnot-4471982423",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "3 hours ago",
+      "source": "Whatnot"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Manager, Creative Strategy, Hims - hims & hers",
+      "link": "https://www.linkedin.com/jobs/view/sr-manager-creative-strategy-hims-at-hims-hers-4455997097",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "hims & hers"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Digital Design Manager - Morphe",
+      "link": "https://www.linkedin.com/jobs/view/digital-design-manager-at-morphe-4480724841",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "6 hours ago",
-      "source": "Mode Executive"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Regional Creative Director - IA Interior Architects",
-      "link": "https://www.linkedin.com/jobs/view/regional-creative-director-at-ia-interior-architects-4481746089",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "46 minutes ago",
-      "source": "IA Interior Architects"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing & Creative - AG Jeans",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-creative-at-ag-jeans-4480247994",
-      "alert": false,
-      "location": "South Gate, CA",
-      "date": "23 hours ago",
-      "source": "AG Jeans"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Brand Marketing, Body Category, Naturium - E.L.F. BEAUTY",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-body-category-naturium-at-e-l-f-beauty-4481711150",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "E.L.F. BEAUTY"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Brand Studio Live Action & Photo (Hybrid) - A+E Global Media",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-studio-live-action-photo-hybrid-at-a%2Be-global-media-4480496533",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "39 minutes ago",
-      "source": "A+E Global Media"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing & Media - Kelly Wearstler",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-media-at-kelly-wearstler-4478602968",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Kelly Wearstler"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Principal, Visual Design - DEPT\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/principal-visual-design-at-dept%C2%AE-4481720910",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "DEPT\u00ae"
+      "date": "19 hours ago",
+      "source": "Morphe"
     },
     {
       "platform": "LinkedIn",
@@ -148,17 +174,17 @@
       "link": "https://www.linkedin.com/jobs/view/senior-manager-social-media-at-morphe-4463566603",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "6 hours ago",
+      "date": "19 hours ago",
       "source": "Morphe"
     },
     {
       "platform": "LinkedIn",
-      "title": "Studio Director / Project Executive - I-Grace",
-      "link": "https://www.linkedin.com/jobs/view/studio-director-project-executive-at-i-grace-4472750029",
+      "title": "Production Designer - Talent Table",
+      "link": "https://www.linkedin.com/jobs/view/production-designer-at-talent-table-4478940555",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "I-Grace"
+      "date": "20 hours ago",
+      "source": "Talent Table"
     },
     {
       "platform": "Central Casting",
@@ -180,6 +206,19 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cksgr",
       "alert": false,
       "date": "October 01, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "BG w/ 1975-1993 Cars (PLEASE READ THE APPLICATION)",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Elderly Couple - PP",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -234,29 +273,23 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Various Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Photo Double - Mario Lopez",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
+      "platform": "Aquent",
+      "title": "Art Director",
+      "link": "https://aquent.com/find-work/213889",
+      "alert": false,
+      "date": "Posted Oct 21, 2026"
     },
     {
       "platform": "Aquent",
-      "title": "Creative Director, Copy (Global Brand Voice)",
-      "link": "https://aquent.com/find-work/213778",
+      "title": "Social Graphic Designer",
+      "link": "https://aquent.com/find-work/213865",
       "alert": false,
-      "date": "Posted Oct 16, 2026"
+      "date": "Posted Oct 20, 2026"
     },
     {
       "platform": "UserInterviews",
-      "title": "LMS Research Study",
-      "link": "https://www.userinterviews.com/projects/cNljsKypSA/apply",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/esSFttoN6A/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -264,8 +297,8 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/2c5emEyv5g/apply",
+      "title": "Fashion Study",
+      "link": "https://www.userinterviews.com/projects/JHqSyFOSqg/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -273,8 +306,26 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/eoEaOSMcHg/apply",
+      "title": "Seeking Management Consultants for Paid Survey on AI-Assisted Consulting Work",
+      "link": "https://www.userinterviews.com/projects/KutMpFkZEg/apply",
+      "pay": "$60",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Professional Perspective!",
+      "link": "https://www.userinterviews.com/projects/dCmAQgs_uw/apply",
+      "pay": "$50",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Care Study",
+      "link": "https://www.userinterviews.com/projects/8BS0PAQG-g/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -282,44 +333,26 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Housing Research Study",
-      "link": "https://www.userinterviews.com/projects/tNy_Pu-zyQ/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Moms of a 4 to 12-month-old baby: study about baby snacks!",
+      "link": "https://www.userinterviews.com/projects/UuqaSyW78w/apply",
+      "pay": "$50",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Tell Us What You Think About Dining at Din Tai Fung!",
-      "link": "https://www.userinterviews.com/projects/zP22Sps00A/apply",
-      "pay": "$135",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who use AI tools to code!",
-      "link": "https://www.userinterviews.com/projects/X0dGnOyQSw/apply",
-      "pay": "$5",
-      "duration": "5 MIN",
+      "title": "Business Bank Account Holders Needed for a Quick Test - $80 for 30 Minutes",
+      "link": "https://www.userinterviews.com/projects/zhlcpZgWRw/apply",
+      "pay": "$80",
+      "duration": "30 Min",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Data & Analytics Platform Evaluations",
-      "link": "https://www.userinterviews.com/projects/VPPHSQWYZA/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/22dwZdzJKg/apply",
+      "title": "Excel Research Study",
+      "link": "https://www.userinterviews.com/projects/a14rw4Y1dw/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -327,8 +360,8 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/uAt-0mmu1A/apply",
+      "title": "Productivity App Research Study",
+      "link": "https://www.userinterviews.com/projects/UvTPyBn85A/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -336,10 +369,10 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "How Does AI Shape Your Shopping Choices?",
-      "link": "https://www.userinterviews.com/projects/859FjWnCgQ/apply",
-      "pay": "$22",
-      "duration": "22 MIN",
+      "title": "Applications Research Study",
+      "link": "https://www.userinterviews.com/projects/KS8jKtz-sw/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -352,7 +385,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
@@ -368,7 +401,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "Indeed": {
       "status": "ok",
