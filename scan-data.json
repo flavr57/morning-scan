@@ -1,7 +1,51 @@
 {
-  "generated": "2026-10-22T17:50:18.781138+00:00",
+  "generated": "2026-10-23T17:40:27.235044+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$2,000/Day JORDAN Commercial Casting Call",
+      "link": "https://projectcasting.com/job/2000-day-jordan-commercial-casting-call",
+      "alert": true,
+      "pay": "$2,000",
+      "location": "Los Angeles, CA",
+      "date": "October 23, 2026",
+      "source": "Mollie Maguire Casting",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Six Flags Magic Mountain\u2019s Holiday Show 2026 Casting Call for Dancers",
+      "link": "https://projectcasting.com/job/six-flags-magic-mountains-holiday-show-2026-casting-call-for-dancers",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 23, 2026",
+      "source": "Kat Erangey Casting",
+      "production_type": "Live Event"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "NOW HIRING \u2013 Tech + Software Conference Event Staff \u2013 San...",
+      "link": "https://projectcasting.com/job/now-hiring-tech-software-conference-event-staff-san-francisco-ca",
+      "alert": true,
+      "pay": "$$$",
+      "location": "California",
+      "date": "October 23, 2026",
+      "source": "ATN Event Staffing",
+      "production_type": "Events"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Fashion Nova Open Casting Call for Models",
+      "link": "https://projectcasting.com/job/fashion-nova-open-casting-call-for-models",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "October 22, 2026",
+      "source": "Fashion Nova",
+      "production_type": "Modeling"
+    },
     {
       "platform": "Project Casting",
       "title": "Skycam Utility \u2013 Los Angeles Chargers @ Los Angeles Rams \u2013...",
@@ -15,149 +59,94 @@
       "production_type": "TV & Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "$500/Day Short Film San Francisco Casting Call for Lead Role",
-      "link": "https://projectcasting.com/job/500-day-short-film-san-francisco-casting-call-for-lead-role",
-      "alert": true,
-      "pay": "$500",
-      "location": "California",
-      "date": "October 21, 2026",
-      "source": "Aura Casting",
-      "production_type": "Short Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "LA Based Male & Female Dancers",
-      "link": "https://projectcasting.com/job/la-based-male-female-dancers",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 21, 2026",
-      "source": "DCP Creative House",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Snoop Dogg Biopic \u2018213\u2019 Casting Call for Teen Actors",
-      "link": "https://projectcasting.com/job/snoop-dogg-biopic-213-casting-call-for-teen-actors",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 21, 2026",
-      "source": "Rich King Casting",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Hotel Lifestyle Photo Shoot Casting Call for Models",
-      "link": "https://projectcasting.com/job/hotel-lifestyle-photo-shoot-casting-call-for-models",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "October 21, 2026",
-      "source": "Downtown Dolls",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Reality Show Casting Call for People Planning an Estate Sale",
-      "link": "https://projectcasting.com/job/reality-show-casting-call-for-people-planning-an-estate-sale",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 21, 2026",
-      "source": "Big Fish Casting",
-      "production_type": "Reality Show"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Director, Head of Creative - Twitch",
-      "link": "https://www.linkedin.com/jobs/view/director-head-of-creative-at-twitch-4464164232",
+      "title": "Creative Director - MGA Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-mga-entertainment-4481629317",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Twitch"
+      "date": "17 hours ago",
+      "source": "MGA Entertainment"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Ladders",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ladders-4480036265",
+      "title": "Fashion Director - Contemporary Womenswear Brand - Los Angeles - Mode Executive",
+      "link": "https://www.linkedin.com/jobs/view/fashion-director-contemporary-womenswear-brand-los-angeles-at-mode-executive-4481909193",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "3 hours ago",
+      "source": "Mode Executive"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Content Director, Paid Social Advertising - PlanetArt",
+      "link": "https://www.linkedin.com/jobs/view/content-director-paid-social-advertising-at-planetart-4474334682",
+      "alert": false,
+      "location": "Calabasas, CA",
+      "date": "3 hours ago",
+      "source": "PlanetArt"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Digital Design - FOX Sports",
+      "link": "https://www.linkedin.com/jobs/view/director-digital-design-at-fox-sports-4482754327",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Ladders"
+      "date": "21 hours ago",
+      "source": "FOX Sports"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Creative Technology / Experiential - Tomorrow Recruitment Ltd | B Corp\u2122",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-creative-technology-experiential-at-tomorrow-recruitment-ltd-b-corp%E2%84%A2-4479429803",
+      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Tomorrow Recruitment Ltd | B Corp\u2122"
+      "location": "El Segundo, CA",
+      "date": "3 hours ago",
+      "source": "Mattel, Inc."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Devices Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-devices-brand-studio-at-amazon-4455904697",
+      "title": "Director of Custom Brand Partnerships & Amazon Ads Brand Strategy, Brand Innovation Lab - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/director-of-custom-brand-partnerships-amazon-ads-brand-strategy-brand-innovation-lab-at-amazon-4455926237",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "5 hours ago",
+      "date": "2 hours ago",
       "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Brand Creative (Design) - Sunbit",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-creative-design-at-sunbit-4481369889",
+      "title": "Head of Content - MACRO",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-at-macro-4480776556",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Sunbit"
+      "date": "18 hours ago",
+      "source": "MACRO"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Vice President, Brand and Creative Services - United Talent Agency",
-      "link": "https://www.linkedin.com/jobs/view/senior-vice-president-brand-and-creative-services-at-united-talent-agency-4480001697",
+      "title": "Creator Nation | Director, Communications - Creator Nation",
+      "link": "https://www.linkedin.com/jobs/view/creator-nation-director-communications-at-creator-nation-4474552811",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "9 hours ago",
-      "source": "United Talent Agency"
+      "location": "Beverly Hills, CA",
+      "date": "5 hours ago",
+      "source": "Creator Nation"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr. Art Director, Global Licensing Design - Skydance",
-      "link": "https://www.linkedin.com/jobs/view/sr-art-director-global-licensing-design-at-skydance-4482146875",
+      "title": "Co-Founder / Head of Content & Organic Growth - TikTok Shop - Stealth Mode Start-up",
+      "link": "https://www.linkedin.com/jobs/view/co-founder-head-of-content-organic-growth-tiktok-shop-at-stealth-mode-start-up-4481651468",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Skydance"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand Director - FMCG ( Mandarin Speaking) - RemotePeople",
-      "link": "https://www.linkedin.com/jobs/view/brand-director-fmcg-mandarin-speaking-at-remotepeople-4482061093",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
       "date": "12 hours ago",
-      "source": "RemotePeople"
+      "source": "Stealth Mode Start-up"
     },
     {
       "platform": "LinkedIn",
-      "title": "Vice President, Alternative Entertainment - Fox Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-alternative-entertainment-at-fox-entertainment-4465395019",
+      "title": "Director, Global Social Media - Quince",
+      "link": "https://www.linkedin.com/jobs/view/director-global-social-media-at-quince-4481622991",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "4 hours ago",
-      "source": "Fox Entertainment"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "CA: Director of Marketing & Communications - Green Dot Public Schools California",
-      "link": "https://www.linkedin.com/jobs/view/ca-director-of-marketing-communications-at-green-dot-public-schools-california-4482162890",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "19 hours ago",
-      "source": "Green Dot Public Schools California"
+      "date": "15 hours ago",
+      "source": "Quince"
     },
     {
       "platform": "Central Casting",
@@ -246,6 +235,13 @@
     },
     {
       "platform": "Aquent",
+      "title": "Associate Creative Director",
+      "link": "https://aquent.com/find-work/213968",
+      "alert": false,
+      "date": "Posted Oct 23, 2026"
+    },
+    {
+      "platform": "Aquent",
       "title": "Creative Director (social)",
       "link": "https://aquent.com/find-work/213905",
       "alert": false,
@@ -260,35 +256,35 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for children 6-8 years old to test a new creative app!",
-      "link": "https://www.userinterviews.com/projects/5tln8jOgNg/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
+      "title": "Share how you approach life\u2019s big moments!",
+      "link": "https://www.userinterviews.com/projects/PDwyOiTLVQ/apply",
+      "pay": "$20",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "The Evolving Financial Advisor Experience",
-      "link": "https://www.userinterviews.com/projects/cTjbaRUhuw/apply",
-      "pay": "$50",
-      "duration": "10 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/HYmelBgqKg/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Health system leaders: share your experience with Health Catalyst (current or former customers)",
-      "link": "https://www.userinterviews.com/projects/-AujCDnr0w/apply",
-      "pay": "$300",
-      "duration": "40 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/QujQo6Fh4w/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Order printed materials? Control Group - Research Study",
-      "link": "https://www.userinterviews.com/projects/k69ohRDi-w/apply",
+      "title": "Financial Research Study",
+      "link": "https://www.userinterviews.com/projects/vIQTzVgUPA/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -296,35 +292,17 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Tell Us What You Think: Kids Food Products - WEEKEND OF OCTOBER 23-25",
-      "link": "https://www.userinterviews.com/projects/ut7Q_ceg9g/apply",
-      "pay": "$75",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Join Us - Improve Everyday Technology in the Workplace",
-      "link": "https://www.userinterviews.com/projects/FhsyCqRXnQ/apply",
-      "pay": "$250",
+      "title": "Smartphone Camera Study",
+      "link": "https://www.userinterviews.com/projects/Z32HfPmvHw/apply",
+      "pay": "$140",
       "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Office Fit-Outs & Furniture: Share Your Project Experience",
-      "link": "https://www.userinterviews.com/projects/J2nbp9aeVA/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Help us with our website redesign!",
-      "link": "https://www.userinterviews.com/projects/vRyJJErS_w/apply",
+      "title": "We want to learn more about you role! Reliability - Research Study",
+      "link": "https://www.userinterviews.com/projects/9a6Q8I8Ssw/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -332,17 +310,35 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "How do e-commerce brands run marketing, growth and conversions?",
-      "link": "https://www.userinterviews.com/projects/1Hq7zV5_IQ/apply",
-      "pay": "$100",
-      "duration": "60 MIN",
+      "title": "Financial Products Study",
+      "link": "https://www.userinterviews.com/projects/zxCrEm-M_g/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Live Chat Research Study",
-      "link": "https://www.userinterviews.com/projects/epZmRuA6mQ/apply",
+      "title": "Purchased Products Study",
+      "link": "https://www.userinterviews.com/projects/ThMcG9f1tA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Online Purchases",
+      "link": "https://www.userinterviews.com/projects/P67LkN1hXA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Product Study",
+      "link": "https://www.userinterviews.com/projects/GGs4PFTm4w/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -357,7 +353,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
@@ -373,7 +369,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "Indeed": {
       "status": "ok",
