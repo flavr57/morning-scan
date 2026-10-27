@@ -1,17 +1,18 @@
 {
-  "generated": "2026-10-26T19:06:08.639372+00:00",
+  "generated": "2026-10-27T18:32:18.709113+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "$2,000/Day JORDAN Commercial Casting Call",
-      "link": "https://projectcasting.com/job/2000-day-jordan-commercial-casting-call",
+      "title": "\u201cTreasurer\u201d Scripted Comedy-Adventure Feature Film Casting Call \u2013 Los Angeles",
+      "link": "https://projectcasting.com/job/treasurer-scripted-comedy-adventure-feature-film-casting-call-los-angeles",
       "alert": true,
-      "pay": "$2,000",
+      "pay": "$",
       "location": "Los Angeles, CA",
-      "date": "October 23, 2026",
-      "source": "Mollie Maguire Casting",
-      "production_type": "Commercials"
+      "date": "October 26, 2026",
+      "source": "Mack Videos, LLC",
+      "short_description": "Mack Videos LLC is seeking actors for seven roles in \u201cTreasurer,\u201d an upcoming scripted comedy-adventure feature film produced for the Mack Hopkins YouTube channel.",
+      "production_type": "Feature Film"
     },
     {
       "platform": "Project Casting",
@@ -23,6 +24,17 @@
       "date": "October 23, 2026",
       "source": "Kat Erangey Casting",
       "production_type": "Live Event"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$2,000/Day JORDAN Commercial Casting Call",
+      "link": "https://projectcasting.com/job/2000-day-jordan-commercial-casting-call",
+      "alert": true,
+      "pay": "$2,000",
+      "location": "Los Angeles, CA",
+      "date": "October 23, 2026",
+      "source": "Mollie Maguire Casting",
+      "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
@@ -60,48 +72,84 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director, Marketing - Voyager Technologies",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-marketing-at-voyager-technologies-4483223552",
+      "title": "Head of Brand & Creative - EB Denim",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creative-at-eb-denim-4483690266",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "5 minutes ago",
+      "source": "EB Denim"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Strategy - Brand & Creative - Monks",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-strategy-brand-creative-at-monks-4484031329",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "8 hours ago",
+      "source": "Monks"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vice President, Creative Services - Imagine",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-creative-services-at-imagine-4484218678",
+      "alert": false,
+      "location": "Burbank, CA",
+      "date": "6 minutes ago",
+      "source": "Imagine"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Video Strategy & Content Ecosystem - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-video-strategy-content-ecosystem-at-mattel-inc-4467272917",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "4 hours ago",
+      "source": "Mattel, Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Social Media Director - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-24-seven-talent-4483278789",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "15 hours ago",
+      "source": "24 Seven Talent"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Strategy Lead, Performance Marketing - Suno",
+      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-performance-marketing-at-suno-4474071820",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "1 hour ago",
-      "source": "Voyager Technologies"
+      "source": "Suno"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - IJW Whiskey Company",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ijw-whiskey-company-4473651870",
+      "title": "Associate Creative Director (Beauty) - 24 Seven Talent",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-beauty-at-24-seven-talent-4482211559",
       "alert": false,
       "location": "Beverly Hills, CA",
-      "date": "2 hours ago",
-      "source": "IJW Whiskey Company"
+      "date": "1 hour ago",
+      "source": "24 Seven Talent"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Social Media, X - MrBeast",
-      "link": "https://www.linkedin.com/jobs/view/director-of-social-media-x-at-mrbeast-4475530374",
+      "title": "Senior UX Design Manager and Visual Design Lead, Google Ads - Google",
+      "link": "https://www.linkedin.com/jobs/view/senior-ux-design-manager-and-visual-design-lead-google-ads-at-google-4483637055",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "7 hours ago",
+      "source": "Google"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "(USA) Manager, Creative - Walmart",
+      "link": "https://www.linkedin.com/jobs/view/usa-manager-creative-at-walmart-4474029036",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "5 hours ago",
-      "source": "MrBeast"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing - Formula Fig",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-at-formula-fig-4481460618",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "Formula Fig"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Marketing Manager - Crescent Hotels & Resorts",
-      "link": "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-crescent-hotels-resorts-4481426995",
-      "alert": false,
-      "location": "Inglewood, CA",
-      "date": "8 hours ago",
-      "source": "Crescent Hotels & Resorts"
+      "source": "Walmart"
     },
     {
       "platform": "LinkedIn",
@@ -109,44 +157,8 @@
       "link": "https://www.linkedin.com/jobs/view/senior-brand-strategy-integrated-marketing-lead-c2h-at-delta-computer-consulting-4483164398",
       "alert": false,
       "location": "Torrance, CA",
-      "date": "4 hours ago",
+      "date": "17 hours ago",
       "source": "Delta Computer Consulting"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "VP Digital, Streaming & Social - CBS News and Stations",
-      "link": "https://www.linkedin.com/jobs/view/vp-digital-streaming-social-at-cbs-news-and-stations-4483593127",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "CBS News and Stations"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Digital Marketing and Social Media Manager - IJW Whiskey Company",
-      "link": "https://www.linkedin.com/jobs/view/digital-marketing-and-social-media-manager-at-ijw-whiskey-company-4473658594",
-      "alert": false,
-      "location": "Beverly Hills, CA",
-      "date": "3 hours ago",
-      "source": "IJW Whiskey Company"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Marketing Manager, Prime Video - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/social-marketing-manager-prime-video-at-amazon-4457819398",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "5 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Brand Manager - Pabst Brewing Company",
-      "link": "https://www.linkedin.com/jobs/view/brand-manager-at-pabst-brewing-company-4482991669",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "4 hours ago",
-      "source": "Pabst Brewing Company"
     },
     {
       "platform": "Central Casting",
@@ -171,16 +183,16 @@
     },
     {
       "platform": "Everyset",
-      "title": "Various Restaurant Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Caterers & Bartenders",
+      "title": "Luxury Vehicles",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Restaurant Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -228,9 +240,10 @@
     },
     {
       "platform": "Everyset",
-      "title": "Various Restaurant Patrons/Ped Roles",
+      "title": "Bel Air Wealthy & Upscale Patrons",
       "link": "https://jobs.everyset.com/job-board",
-      "alert": true
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Aquent",
@@ -240,52 +253,9 @@
       "date": "Posted Oct 23, 2026"
     },
     {
-      "platform": "Aquent",
-      "title": "Creative Director (social)",
-      "link": "https://aquent.com/find-work/213905",
-      "alert": false,
-      "date": "Posted Oct 21, 2026"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Business Owners: Help Shape Online Account Management & User Access",
-      "link": "https://www.userinterviews.com/projects/D9YSKtIXJQ/apply",
-      "pay": "$90",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Shopping for business software & services?",
-      "link": "https://www.userinterviews.com/projects/hvmMFQvK8Q/apply",
-      "pay": "$50",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Investment Study",
-      "link": "https://www.userinterviews.com/projects/9bRgYqehEA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "We may have a study for you! Validity - Research Study",
-      "link": "https://www.userinterviews.com/projects/dOwmQ6lGLw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Trips Study",
-      "link": "https://www.userinterviews.com/projects/oCe19S6x-A/apply",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/uVeIuLRDKw/apply",
       "pay": "$2",
       "duration": "5 MIN",
       "source": "UserInterviews",
@@ -293,46 +263,82 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "We'd like to hear about your financial practices!",
-      "link": "https://www.userinterviews.com/projects/wK8XpbSWCA/apply",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/zx4A593S4g/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/b0k5afe4lQ/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Travel Preferences Study",
+      "link": "https://www.userinterviews.com/projects/2Ru0UJ0YsA/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Tell Us Your Travel Plans!",
+      "link": "https://www.userinterviews.com/projects/2Uzs9p6w2g/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "GC/In-house Counsel input",
+      "link": "https://www.userinterviews.com/projects/BZNfTzy44g/apply",
       "pay": "$150",
-      "duration": "75 MIN",
+      "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "We want to hear about your upcoming plans! Sampling - Research Study",
-      "link": "https://www.userinterviews.com/projects/hX8r3SHrhw/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "How Does AI Shape Your Shopping Choices?",
+      "link": "https://www.userinterviews.com/projects/UDNP-3qYIg/apply",
+      "pay": "$22",
+      "duration": "22 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Tell Us About Your Travel Plans!",
-      "link": "https://www.userinterviews.com/projects/i9PLIXqayw/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "Household Budget and Spending Study",
+      "link": "https://www.userinterviews.com/projects/U06nPwVR2w/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Trip Research Study",
-      "link": "https://www.userinterviews.com/projects/MVJOr6aCRA/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "Young adults, what are your opinions on Social Media?",
+      "link": "https://www.userinterviews.com/projects/q4ePsKDcvA/apply",
+      "pay": "$115",
+      "duration": "70 MIN",
       "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Holiday Research Study",
-      "link": "https://www.userinterviews.com/projects/F3JjmBpjWg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/nZiU5M79Qw/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -345,7 +351,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "LinkedIn": {
       "status": "ok",
@@ -361,7 +367,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "Indeed": {
       "status": "ok",
