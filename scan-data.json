@@ -1,7 +1,29 @@
 {
-  "generated": "2026-10-27T18:32:18.709113+00:00",
+  "generated": "2026-10-28T18:38:07.812800+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Docu-Series Casting Call for People Who Want Plastic Surgery",
+      "link": "https://projectcasting.com/job/docu-series-casting-call-for-people-who-want-plastic-surgery",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "October 28, 2026",
+      "source": "Daniel J Gould",
+      "production_type": "Reality Show"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "San Francisco Event Staff Casting Call",
+      "link": "https://projectcasting.com/job/san-francisco-event-staff-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "October 28, 2026",
+      "source": "The Allure Agency",
+      "production_type": "Events"
+    },
     {
       "platform": "Project Casting",
       "title": "\u201cTreasurer\u201d Scripted Comedy-Adventure Feature Film Casting Call \u2013 Los Angeles",
@@ -26,139 +48,94 @@
       "production_type": "Live Event"
     },
     {
-      "platform": "Project Casting",
-      "title": "$2,000/Day JORDAN Commercial Casting Call",
-      "link": "https://projectcasting.com/job/2000-day-jordan-commercial-casting-call",
-      "alert": true,
-      "pay": "$2,000",
-      "location": "Los Angeles, CA",
-      "date": "October 23, 2026",
-      "source": "Mollie Maguire Casting",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "NOW HIRING \u2013 Tech + Software Conference Event Staff \u2013 San...",
-      "link": "https://projectcasting.com/job/now-hiring-tech-software-conference-event-staff-san-francisco-ca",
-      "alert": true,
-      "pay": "$$$",
-      "location": "California",
-      "date": "October 23, 2026",
-      "source": "ATN Event Staffing",
-      "production_type": "Events"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Fashion Nova Open Casting Call for Models",
-      "link": "https://projectcasting.com/job/fashion-nova-open-casting-call-for-models",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 22, 2026",
-      "source": "Fashion Nova",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Skycam Utility \u2013 Los Angeles Chargers @ Los Angeles Rams \u2013...",
-      "link": "https://projectcasting.com/job/skycam-utility-los-angeles-chargers-los-angeles-rams-11-1-26",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "October 22, 2026",
-      "source": "Ming Entertainment",
-      "short_description": "MING Entertainment is hiring a Skycam Utility for Los Angeles Chargers @ Los Angeles Rams at SoFi Stadium in Inglewood, California (11/1/26),for the NFL football broadcast on ESPN.",
-      "production_type": "TV & Video"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Head of Brand & Creative - EB Denim",
-      "link": "https://www.linkedin.com/jobs/view/head-of-brand-creative-at-eb-denim-4483690266",
+      "title": "Creative Director, Design - Meta",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-design-at-meta-4446622516",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "5 minutes ago",
-      "source": "EB Denim"
+      "date": "6 hours ago",
+      "source": "Meta"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Director, Strategy - Brand & Creative - Monks",
-      "link": "https://www.linkedin.com/jobs/view/senior-director-strategy-brand-creative-at-monks-4484031329",
+      "title": "Group Creative Director - MasterClass",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-at-masterclass-4476394213",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "8 hours ago",
-      "source": "Monks"
+      "source": "MasterClass"
     },
     {
       "platform": "LinkedIn",
-      "title": "Vice President, Creative Services - Imagine",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-creative-services-at-imagine-4484218678",
+      "title": "Creative Director, Retail Experience, Device Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-retail-experience-device-brand-studio-at-amazon-4484456571",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "6 minutes ago",
-      "source": "Imagine"
+      "location": "Santa Monica, CA",
+      "date": "6 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Video Strategy & Content Ecosystem - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-video-strategy-content-ecosystem-at-mattel-inc-4467272917",
+      "title": "Sr. Director, Creative Direction - TFT - Riot Games",
+      "link": "https://www.linkedin.com/jobs/view/sr-director-creative-direction-tft-at-riot-games-4459295144",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "22 hours ago",
+      "source": "Riot Games"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Design \u2013 Color & Concept - Fabletics",
+      "link": "https://www.linkedin.com/jobs/view/director-design-%E2%80%93-color-concept-at-fabletics-4467486084",
       "alert": false,
       "location": "El Segundo, CA",
-      "date": "4 hours ago",
-      "source": "Mattel, Inc."
+      "date": "6 hours ago",
+      "source": "Fabletics"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-24-seven-talent-4483278789",
+      "title": "Principal Creative Director, Growth Marketing & Lifecycle - Riot Games",
+      "link": "https://www.linkedin.com/jobs/view/principal-creative-director-growth-marketing-lifecycle-at-riot-games-4469793637",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "24 Seven Talent"
+      "date": "22 hours ago",
+      "source": "Riot Games"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Strategy Lead, Performance Marketing - Suno",
-      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-performance-marketing-at-suno-4474071820",
+      "title": "(USA) Director, Creative Strategy - Walmart",
+      "link": "https://www.linkedin.com/jobs/view/usa-director-creative-strategy-at-walmart-4482254313",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "Suno"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director (Beauty) - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-beauty-at-24-seven-talent-4482211559",
-      "alert": false,
-      "location": "Beverly Hills, CA",
-      "date": "1 hour ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior UX Design Manager and Visual Design Lead, Google Ads - Google",
-      "link": "https://www.linkedin.com/jobs/view/senior-ux-design-manager-and-visual-design-lead-google-ads-at-google-4483637055",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Google"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "(USA) Manager, Creative - Walmart",
-      "link": "https://www.linkedin.com/jobs/view/usa-manager-creative-at-walmart-4474029036",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
+      "date": "18 hours ago",
       "source": "Walmart"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Brand Strategy & Integrated Marketing Lead - C2H - Delta Computer Consulting",
-      "link": "https://www.linkedin.com/jobs/view/senior-brand-strategy-integrated-marketing-lead-c2h-at-delta-computer-consulting-4483164398",
+      "title": "Senior Director of Design -Kids - SKIMS",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-of-design-kids-at-skims-4476513954",
       "alert": false,
-      "location": "Torrance, CA",
-      "date": "17 hours ago",
-      "source": "Delta Computer Consulting"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "3 hours ago",
+      "source": "SKIMS"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "directeur.trice de la conception de l\u2019engagement des joueurs / Engagement Design Director - Motive Studio",
+      "link": "https://www.linkedin.com/jobs/view/directeur-trice-de-la-conception-de-l%E2%80%99engagement-des-joueurs-engagement-design-director-at-motive-studio-4482271637",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "13 hours ago",
+      "source": "Motive Studio"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Strategy Lead - Snap Inc.",
+      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-at-snap-inc-4484289419",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "18 hours ago",
+      "source": "Snap Inc."
     },
     {
       "platform": "Central Casting",
@@ -180,6 +157,20 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-cpdml",
       "alert": false,
       "date": "October 14, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Vlad PD",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Kite Flyers",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -222,19 +213,7 @@
     },
     {
       "platform": "Everyset",
-      "title": "Various Park Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
       "title": "Coffee Shop BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Real Joggers",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true
     },
@@ -246,101 +225,94 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Aquent",
-      "title": "Associate Creative Director",
-      "link": "https://aquent.com/find-work/213968",
-      "alert": false,
-      "date": "Posted Oct 23, 2026"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/uVeIuLRDKw/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/zx4A593S4g/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/b0k5afe4lQ/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Travel Preferences Study",
-      "link": "https://www.userinterviews.com/projects/2Ru0UJ0YsA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Tell Us Your Travel Plans!",
-      "link": "https://www.userinterviews.com/projects/2Uzs9p6w2g/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "GC/In-house Counsel input",
-      "link": "https://www.userinterviews.com/projects/BZNfTzy44g/apply",
-      "pay": "$150",
+      "title": "Let's Talk Business!",
+      "link": "https://www.userinterviews.com/projects/z5nHxvsbHg/apply",
+      "pay": "$75",
       "duration": "60 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "How Does AI Shape Your Shopping Choices?",
-      "link": "https://www.userinterviews.com/projects/UDNP-3qYIg/apply",
-      "pay": "$22",
-      "duration": "22 MIN",
+      "title": "Looking for people who are parents and use educational tools!",
+      "link": "https://www.userinterviews.com/projects/dHglddf2lA/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Household Budget and Spending Study",
-      "link": "https://www.userinterviews.com/projects/U06nPwVR2w/apply",
-      "pay": "$20",
-      "duration": "20 MIN",
+      "title": "Looking for people who work in education!",
+      "link": "https://www.userinterviews.com/projects/WX-uwz6mfQ/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Young adults, what are your opinions on Social Media?",
-      "link": "https://www.userinterviews.com/projects/q4ePsKDcvA/apply",
-      "pay": "$115",
-      "duration": "70 MIN",
+      "title": "Looking for people who are parents and use educational tools!",
+      "link": "https://www.userinterviews.com/projects/Xy_NTNAf9w/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who work in education!",
+      "link": "https://www.userinterviews.com/projects/l1jSQTv7nQ/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who are parents and use educational tools!",
+      "link": "https://www.userinterviews.com/projects/ZSgLgDkRlw/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who work in education!",
+      "link": "https://www.userinterviews.com/projects/8TKRR0eKTQ/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Financial Study",
+      "link": "https://www.userinterviews.com/projects/SlfUbwRZUA/apply",
+      "pay": "$300",
+      "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/nZiU5M79Qw/apply",
+      "title": "Shopping Research Study",
+      "link": "https://www.userinterviews.com/projects/zuxGETweNg/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Compliance leaders: How does your organization approach employee compliance training?",
+      "link": "https://www.userinterviews.com/projects/H05l6aZ1vA/apply",
+      "pay": "$125",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": true
     }
   ],
   "errors": {},
@@ -351,7 +323,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 4
     },
     "LinkedIn": {
       "status": "ok",
@@ -367,7 +339,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
