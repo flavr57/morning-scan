@@ -1,129 +1,185 @@
 {
-  "generated": "2026-11-02T22:05:40.418792+00:00",
+  "generated": "2026-11-03T19:56:39.639747+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "Model Manager",
-      "link": "https://projectcasting.com/job/model-manager",
+      "title": "$3,000 Casting Call for Mexican Male Actors",
+      "link": "https://projectcasting.com/job/3000-casting-call-for-mexican-male-actors",
       "alert": true,
-      "pay": "$",
+      "pay": "$3,000",
       "location": "Los Angeles, CA",
-      "date": "October 29, 2026",
-      "source": "Women Management Los Angeles",
-      "production_type": "Entertainment Careers"
+      "date": "November 3, 2026",
+      "source": "Agencia BarbarellaCasting",
+      "production_type": "TV & Video"
     },
     {
       "platform": "Project Casting",
-      "title": "Docu-Series Casting Call for People Who Want Plastic Surgery",
-      "link": "https://projectcasting.com/job/docu-series-casting-call-for-people-who-want-plastic-surgery",
+      "title": "$4,000 Commercial Casting Call for Mexican Actors",
+      "link": "https://projectcasting.com/job/4000-commercial-casting-call-for-mexican-actors",
       "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "October 28, 2026",
-      "source": "Daniel J Gould",
-      "production_type": "Reality Show"
+      "pay": "$4,000",
+      "location": "Los Angeles, CA",
+      "date": "November 3, 2026",
+      "source": "Miami Talent Casting",
+      "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
-      "title": "San Francisco Event Staff Casting Call",
-      "link": "https://projectcasting.com/job/san-francisco-event-staff-casting-call",
+      "title": "Twitchcon 2026: Check-In Staff for Corporate Brand Activation",
+      "link": "https://projectcasting.com/job/twitchcon-2026-check-in-staff-for-corporate-brand-activation",
       "alert": true,
-      "pay": "$",
+      "pay": "$$",
       "location": "California",
-      "date": "October 28, 2026",
-      "source": "The Allure Agency",
+      "date": "November 3, 2026",
+      "source": "Downtown Dolls",
       "production_type": "Events"
     },
     {
-      "platform": "LinkedIn",
-      "title": "Creative Director, Prime Video Shopping - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-prime-video-shopping-at-prime-video-amazon-mgm-studios-4485983935",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "20 hours ago",
-      "source": "Prime Video & Amazon MGM Studios"
+      "platform": "Project Casting",
+      "title": "$250/Day Major Fast Food Chain Movie Promo Casting Call",
+      "link": "https://projectcasting.com/job/250-day-major-fast-food-chain-movie-promo-casting-call",
+      "alert": true,
+      "pay": "$250",
+      "location": "Los Angeles, CA",
+      "date": "November 3, 2026",
+      "source": "Andrew Hunter Casting",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$200/Day Ferrari Casting Call for Young Man",
+      "link": "https://projectcasting.com/job/200-day-ferrari-casting-call-for-young-man",
+      "alert": true,
+      "pay": "$200",
+      "location": "California",
+      "date": "November 3, 2026",
+      "source": "Jon Porter Lee",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$200/Day Ferrari Casting Call for Older Man",
+      "link": "https://projectcasting.com/job/200-day-ferrari-casting-call-for-older-man",
+      "alert": true,
+      "pay": "$200",
+      "location": "California",
+      "date": "November 3, 2026",
+      "source": "Jon Porter Lee",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$4,000 Nationwide Open Casting Call for Mexican Actors",
+      "link": "https://projectcasting.com/job/4000-nationwide-open-casting-call-for-mexican-actors",
+      "alert": true,
+      "pay": "$4,000",
+      "location": "Los Angeles, CA",
+      "date": "November 2, 2026",
+      "source": "Miami Talent Casting",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "South or East Asian Dinner Party Attendees Casting Call",
+      "link": "https://projectcasting.com/job/south-or-east-asian-dinner-party-attendees-casting-call",
+      "alert": true,
+      "pay": "$$",
+      "location": "Los Angeles, CA",
+      "date": "October 29, 2026",
+      "source": "Central casting",
+      "short_description": "A television production is seeking South or East Asian background actors aged 60 and older to portray dinner party attendees in an upcoming scene filming in Burbank, California.",
+      "production_type": "TV & Video"
     },
     {
       "platform": "LinkedIn",
-      "title": "Group Creative Lead, Copy - Google",
-      "link": "https://www.linkedin.com/jobs/view/group-creative-lead-copy-at-google-4485715955",
+      "title": "Creative Director, Filmmaker for Brand Storytelling - Roku",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-filmmaker-for-brand-storytelling-at-roku-4478581233",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "10 hours ago",
+      "source": "Roku"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Starz",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-starz-4450739044",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "10 hours ago",
+      "source": "Starz"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Brand Innovation Lab, US - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-innovation-lab-us-at-amazon-4486487703",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "13 hours ago",
+      "source": "Amazon"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Amazon XCM - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-amazon-xcm-at-amazon-4487030478",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "47 minutes ago",
+      "source": "Amazon"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Brand Creative (Design) - Sunbit",
+      "link": "https://www.linkedin.com/jobs/view/director-brand-creative-design-at-sunbit-4481369889",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Google"
+      "date": "21 hours ago",
+      "source": "Sunbit"
     },
     {
       "platform": "LinkedIn",
-      "title": "Showrunner- YouTube - Dhar Mann Studios",
-      "link": "https://www.linkedin.com/jobs/view/showrunner-youtube-at-dhar-mann-studios-4486186724",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "6 hours ago",
-      "source": "Dhar Mann Studios"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Showrunner - YouTube - Dhar Mann Studios",
-      "link": "https://www.linkedin.com/jobs/view/showrunner-youtube-at-dhar-mann-studios-4485747392",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "5 hours ago",
-      "source": "Dhar Mann Studios"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director (Organic Social) - We Are Social",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-organic-social-at-we-are-social-4450795046",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "We Are Social"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Marketing & Brand Lead - Access Legal",
-      "link": "https://www.linkedin.com/jobs/view/senior-marketing-brand-lead-at-access-legal-4485771734",
+      "title": "Director, Copywriting and Editorial - Sunbit",
+      "link": "https://www.linkedin.com/jobs/view/director-copywriting-and-editorial-at-sunbit-4481962949",
       "alert": false,
       "location": "Los Angeles Metropolitan Area",
-      "date": "3 minutes ago",
-      "source": "Access Legal"
+      "date": "21 hours ago",
+      "source": "Sunbit"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Brand Strategy & Integrated Marketing Lead - C2H - Delta Computer Consulting",
-      "link": "https://www.linkedin.com/jobs/view/senior-brand-strategy-integrated-marketing-lead-c2h-at-delta-computer-consulting-4485623275",
+      "title": "Head of Brand Position - RTS",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-position-at-rts-4486866861",
       "alert": false,
-      "location": "Torrance, CA",
-      "date": "18 hours ago",
-      "source": "Delta Computer Consulting"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "6 hours ago",
+      "source": "RTS"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director of Brand Marketing - UNice, Inc",
-      "link": "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-unice-inc-4486114524",
+      "title": "Billboard: Head of Video Series and Livestreaming - Penske Media Corporation",
+      "link": "https://www.linkedin.com/jobs/view/billboard-head-of-video-series-and-livestreaming-at-penske-media-corporation-4486000125",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "UNice, Inc"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "19 hours ago",
+      "source": "Penske Media Corporation"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Communications - Karman Industries",
-      "link": "https://www.linkedin.com/jobs/view/head-of-communications-at-karman-industries-4484370542",
+      "title": "Senior Manager, Consumer Products Creative - Squishmallows - Jazwares, LLC",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-consumer-products-creative-squishmallows-at-jazwares-llc-4478584021",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "Karman Industries"
+      "location": "Culver City, CA",
+      "date": "6 hours ago",
+      "source": "Jazwares, LLC"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Manager, Content Strategy - Pharmavite",
-      "link": "https://www.linkedin.com/jobs/view/senior-manager-content-strategy-at-pharmavite-4414402260",
+      "title": "Director of Interior Design - Thomas James Homes",
+      "link": "https://www.linkedin.com/jobs/view/director-of-interior-design-at-thomas-james-homes-4475264215",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "Pharmavite"
+      "location": "Culver City, CA",
+      "date": "4 hours ago",
+      "source": "Thomas James Homes"
     },
     {
       "platform": "Central Casting",
@@ -148,6 +204,19 @@
     },
     {
       "platform": "Everyset",
+      "title": "Various Park Goer Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Hipster Diner Patrons & Japanese Diner Patrons",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
       "title": "Young Leo",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
@@ -155,7 +224,7 @@
     },
     {
       "platform": "Everyset",
-      "title": "Young Charles",
+      "title": "REVISED Young Charles",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
@@ -200,49 +269,27 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Luxury Vehicles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Restaurant Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
+      "platform": "UserInterviews",
+      "title": "Understanding your business",
+      "link": "https://www.userinterviews.com/projects/L7genaRHAg/apply",
+      "pay": "$60",
+      "duration": "38 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Comparing web page variations",
-      "link": "https://www.userinterviews.com/projects/S11PFrceGA/apply",
-      "pay": "$15",
+      "title": "Real estate agents: Share your perspective on property features and buyer appeal",
+      "link": "https://www.userinterviews.com/projects/xbKr6eLC8g/apply",
+      "pay": "$30",
       "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people who have car insurance!",
-      "link": "https://www.userinterviews.com/projects/HrV6RDxW6w/apply",
-      "pay": "$1",
-      "duration": "1 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Marketing & Creative Industry Professional Insights",
-      "link": "https://www.userinterviews.com/projects/-nYjqKgrYg/apply",
-      "pay": "$12",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "If you come across this study, sign up! Primary Source - Research Study",
-      "link": "https://www.userinterviews.com/projects/qtBLv1_TWw/apply",
+      "title": "Do You Work in Healthcare?",
+      "link": "https://www.userinterviews.com/projects/D7q8G1qOXw/apply",
       "pay": "$10",
       "duration": "10 MIN",
       "source": "UserInterviews",
@@ -250,55 +297,64 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Calling Individual Photographers",
-      "link": "https://www.userinterviews.com/projects/DfKtquM9Yw/apply",
-      "pay": "$75",
+      "title": "Research Study",
+      "link": "https://www.userinterviews.com/projects/uLv-oKU0pg/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Home Services Study",
+      "link": "https://www.userinterviews.com/projects/xxwZAUdtqg/apply",
+      "pay": "$100",
       "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Calling Photo & Video Enthusiasts",
-      "link": "https://www.userinterviews.com/projects/whStu_lYxA/apply",
-      "pay": "$70",
-      "duration": "60 MIN",
+      "title": "Travel Research Study",
+      "link": "https://www.userinterviews.com/projects/4GIfK5z6JA/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Project Golden \u2013 Salon Suites Tenant Interviews",
-      "link": "https://www.userinterviews.com/projects/77SJ1kAvhA/apply",
-      "pay": "$80",
-      "duration": "37 MIN",
+      "title": "Travel Research Study",
+      "link": "https://www.userinterviews.com/projects/XD5A8WCmNA/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Teste unsere Seite und sag uns, was du denkst",
-      "link": "https://www.userinterviews.com/projects/_qJ8Oh5JWQ/apply",
+      "title": "Travel Research Study",
+      "link": "https://www.userinterviews.com/projects/JbmIXhy-0w/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Travel Preferences Study",
+      "link": "https://www.userinterviews.com/projects/hQLVXT1vgQ/apply",
+      "pay": "$2",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Payment Platform Interest and Opinions",
+      "link": "https://www.userinterviews.com/projects/RdETTVThkw/apply",
       "pay": "$6",
-      "duration": "8 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Kitchen Update Study",
-      "link": "https://www.userinterviews.com/projects/Nc22Jn4WUg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Home Research Study",
-      "link": "https://www.userinterviews.com/projects/3b3cc8Xxwg/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "duration": "9 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -311,7 +367,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 3
+      "count": 8
     },
     "LinkedIn": {
       "status": "ok",
