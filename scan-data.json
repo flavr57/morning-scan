@@ -1,7 +1,42 @@
 {
-  "generated": "2026-11-04T20:14:36.397364+00:00",
+  "generated": "2026-11-05T20:27:32.654397+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$1,000 Electrolyte Commercial Casting Call for Body Double/Stand-In",
+      "link": "https://projectcasting.com/job/1000-electrolyte-commercial-casting-call-for-body-double-stand-in",
+      "alert": true,
+      "pay": "$1,000",
+      "location": "Los Angeles, CA",
+      "date": "November 4, 2026",
+      "source": "Apecastings",
+      "short_description": "An upcoming electrolyte commercial is seeking a physically fit body double or stand-in for a paid advertising production filming in Los Angeles, California.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$250 Music Video Casting Call for Latino and Afro-Descendant Actors",
+      "link": "https://projectcasting.com/job/250-music-video-casting-call-for-latino-and-afro-descendant-actors",
+      "alert": true,
+      "pay": "$250",
+      "location": "Los Angeles, CA",
+      "date": "November 4, 2026",
+      "source": "Apecastings",
+      "short_description": "An upcoming music video production is seeking Latino and Afro-descendant actors of various ages to portray family members in a series of heartfelt, family-centered scenes near El Segundo, Los Angel...",
+      "production_type": "Music Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Major Streetwear Brand Los Angeles Casting Call for Chinese Women",
+      "link": "https://projectcasting.com/job/major-streetwear-brand-los-angeles-casting-call-for-chinese-women",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 4, 2026",
+      "source": "Mollie Maguire Casting",
+      "production_type": "Modeling"
+    },
     {
       "platform": "Project Casting",
       "title": "New Year\u2019s Eve Event Staff Casting Call for Models, Servers, Greeters,...",
@@ -27,138 +62,94 @@
       "production_type": "Commercials"
     },
     {
-      "platform": "Project Casting",
-      "title": "$3,000 Casting Call for Mexican Male Actors",
-      "link": "https://projectcasting.com/job/3000-casting-call-for-mexican-male-actors",
-      "alert": true,
-      "pay": "$3,000",
-      "location": "Los Angeles, CA",
-      "date": "November 3, 2026",
-      "source": "Agencia BarbarellaCasting",
-      "production_type": "TV & Video"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$4,000 Commercial Casting Call for Mexican Actors",
-      "link": "https://projectcasting.com/job/4000-commercial-casting-call-for-mexican-actors",
-      "alert": true,
-      "pay": "$4,000",
-      "location": "Los Angeles, CA",
-      "date": "November 3, 2026",
-      "source": "Miami Talent Casting",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Twitchcon 2026: Check-In Staff for Corporate Brand Activation",
-      "link": "https://projectcasting.com/job/twitchcon-2026-check-in-staff-for-corporate-brand-activation",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "November 3, 2026",
-      "source": "Downtown Dolls",
-      "production_type": "Events"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$250/Day Major Fast Food Chain Movie Promo Casting Call",
-      "link": "https://projectcasting.com/job/250-day-major-fast-food-chain-movie-promo-casting-call",
-      "alert": true,
-      "pay": "$250",
-      "location": "Los Angeles, CA",
-      "date": "November 3, 2026",
-      "source": "Andrew Hunter Casting",
-      "production_type": "TV & Video"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Executive Creative Director - Exploding Kittens, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-at-exploding-kittens-inc-4487065582",
+      "title": "Creative Director, PV Brand Partnership Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-pv-brand-partnership-studio-at-amazon-4479813697",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Exploding Kittens, Inc."
+      "location": "Santa Monica, CA",
+      "date": "4 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - BBDO Worldwide",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-bbdo-worldwide-4478121773",
+      "title": "Creative Director - ForceBrands",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-forcebrands-4487582043",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "10 hours ago",
-      "source": "BBDO Worldwide"
+      "location": "Torrance, CA",
+      "date": "20 hours ago",
+      "source": "ForceBrands"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director, Brand & Marketing - Funko",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-brand-marketing-at-funko-4461289703",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "8 hours ago",
-      "source": "Funko"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Creative & Design - A-Frame Brands",
-      "link": "https://www.linkedin.com/jobs/view/director-of-creative-design-at-a-frame-brands-4486090705",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "A-Frame Brands"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Group Design Director, Brand Experience - Team One",
-      "link": "https://www.linkedin.com/jobs/view/group-design-director-brand-experience-at-team-one-4469058638",
+      "title": "Head of Brand - Furientis",
+      "link": "https://www.linkedin.com/jobs/view/head-of-brand-at-furientis-4488034133",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "2 hours ago",
-      "source": "Team One"
+      "source": "Furientis"
     },
     {
       "platform": "LinkedIn",
-      "title": "SVP, Experience Design & Innovation - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/svp-experience-design-innovation-at-gsw-powered-by-syneos-health-4486301830",
+      "title": "Fashion Director - Contemporary Womenswear Brand - Los Angeles - Mode Executive",
+      "link": "https://www.linkedin.com/jobs/view/fashion-director-contemporary-womenswear-brand-los-angeles-at-mode-executive-4486762585",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "20 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "location": "Los Angeles Metropolitan Area",
+      "date": "4 hours ago",
+      "source": "Mode Executive"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Experience Design Director - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/associate-experience-design-director-at-gsw-powered-by-syneos-health-4486098983",
+      "title": "Senior Director, Brand Strategy (Creative Director) ($181,700.00 - $233,900.00) - Irvine Company Chicago",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-brand-strategy-creative-director-%24181-700-00-%24233-900-00-at-irvine-company-chicago-4486726400",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "20 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "location": "Irvine, CA",
+      "date": "8 hours ago",
+      "source": "Irvine Company Chicago"
     },
     {
       "platform": "LinkedIn",
-      "title": "DIRECTOR OF RETAIL MARKETING & VISUAL MERCHANDISING - ONE/SIZE",
-      "link": "https://www.linkedin.com/jobs/view/director-of-retail-marketing-visual-merchandising-at-one-size-4487538153",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "1 hour ago",
-      "source": "ONE/SIZE"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Growth Creative Lead, Art Director - Ruggable",
-      "link": "https://www.linkedin.com/jobs/view/growth-creative-lead-art-director-at-ruggable-4479082941",
+      "title": "VP, Performance Creative - Monks",
+      "link": "https://www.linkedin.com/jobs/view/vp-performance-creative-at-monks-4462714659",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Ruggable"
+      "date": "9 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Social Media - Hourglass Cosmetics",
-      "link": "https://www.linkedin.com/jobs/view/director-social-media-at-hourglass-cosmetics-4443021259",
+      "title": "Social Media Director - D\u00f4en",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4450769729",
       "alert": false,
-      "location": "West Hollywood, CA",
-      "date": "3 hours ago",
-      "source": "Hourglass Cosmetics"
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "D\u00f4en"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Content - Liminal",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-at-liminal-4487700942",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "14 hours ago",
+      "source": "Liminal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Content Marketing and Growth at WonderLab - MeeBoss",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-and-growth-at-wonderlab-at-meeboss-4488009965",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "2 hours ago",
+      "source": "MeeBoss"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Experiential & Partnerships - ALO",
+      "link": "https://www.linkedin.com/jobs/view/director-experiential-partnerships-at-alo-4434753298",
+      "alert": false,
+      "location": "Beverly Hills, CA",
+      "date": "6 hours ago",
+      "source": "ALO"
     },
     {
       "platform": "Central Casting",
@@ -180,6 +171,19 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-rhfsx-z8gk6",
       "alert": false,
       "date": "October 23, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Design Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "Italian BG in Italy",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -235,31 +239,18 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Everyset",
-      "title": "Various News Crew Roles",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Hipster Diner Patrons & Japanese Diner Patrons",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Looking for people who recently needed temporary vehicle insurance!",
-      "link": "https://www.userinterviews.com/projects/fDxU1VKRfw/apply",
-      "pay": "$1",
-      "duration": "7 MIN",
+      "title": "Securing your AI infrastructure",
+      "link": "https://www.userinterviews.com/projects/oyBiJyp3dw/apply",
+      "pay": "$50",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people who are 22-29!",
-      "link": "https://www.userinterviews.com/projects/WA2EQ0DZdw/apply",
+      "title": "Looking for people who work in healthcare!",
+      "link": "https://www.userinterviews.com/projects/zKQO2KCH4g/apply",
       "pay": "$1",
       "duration": "3 MIN",
       "source": "UserInterviews",
@@ -267,17 +258,8 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Feedback usability study",
-      "link": "https://www.userinterviews.com/projects/P1CVsnZf7A/apply",
-      "pay": "$20",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "\u2728 EARN $100! Join an In-Person Fem Care Study in Cincinnati | Nov 11-12\u2728",
-      "link": "https://www.userinterviews.com/projects/eUVsV1RKgw/apply",
+      "title": "Help Shape Better Tools for Allied Health Clinics",
+      "link": "https://www.userinterviews.com/projects/e4-MvUxZAw/apply",
       "pay": "$100",
       "duration": "60 MIN",
       "source": "UserInterviews",
@@ -285,55 +267,64 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Food Creations Exploratory",
-      "link": "https://www.userinterviews.com/projects/GA6oRWgd6w/apply",
-      "pay": "$400",
-      "duration": "90 min",
+      "title": "Seeking Opinions of Benefits Professionals",
+      "link": "https://www.userinterviews.com/projects/HBL3RuVR0A/apply",
+      "pay": "$55",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who stream shows or films on their smartphone!",
+      "link": "https://www.userinterviews.com/projects/EhpBCtWCgA/apply",
+      "pay": "$5",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who stream shows or films on their smartphone!",
+      "link": "https://www.userinterviews.com/projects/z73bpmexuA/apply",
+      "pay": "$5",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who make purchasing decisions!",
+      "link": "https://www.userinterviews.com/projects/XGffAE3jAg/apply",
+      "pay": "$1",
+      "duration": "4 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Are you a creative who loves food? Take our survey!",
+      "link": "https://www.userinterviews.com/projects/4w2dtJc8jQ/apply",
+      "pay": "$250",
+      "duration": "180 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Digital Tools Study",
-      "link": "https://www.userinterviews.com/projects/wL_tNI_Vig/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Looking for people who have taken a cruise!",
+      "link": "https://www.userinterviews.com/projects/KcbyZelSnQ/apply",
+      "pay": "$1",
+      "duration": "3 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study",
-      "link": "https://www.userinterviews.com/projects/uxh6k4EuGA/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "UserTesting test: Live Conversation",
-      "link": "https://www.userinterviews.com/projects/XvzciIZIcg/apply",
-      "pay": "$45",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Feedback usability study",
-      "link": "https://www.userinterviews.com/projects/e69Lv7UrRw/apply",
-      "pay": "$20",
-      "duration": "30 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Finance Research Study",
-      "link": "https://www.userinterviews.com/projects/JjJPl-xtcg/apply",
-      "pay": "$2",
-      "duration": "5 MIN",
+      "title": "Join Our Usability Study for Fleet Management Professionals",
+      "link": "https://www.userinterviews.com/projects/IXhYvdvX2g/apply",
+      "pay": "$75",
+      "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -346,7 +337,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
