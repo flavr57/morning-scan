@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-10T20:11:10.792158+00:00",
+  "generated": "2026-11-11T19:59:13.789432+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$3,000 Commercial Casting Call for Male and Female Models",
+      "link": "https://projectcasting.com/job/3000-commercial-casting-call-for-male-and-female-models",
+      "alert": true,
+      "pay": "$3,000",
+      "location": "California",
+      "date": "November 11, 2026",
+      "source": "Miami Talent Casting",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Models and Character Extras Casting Call for Major Pop Star Album...",
+      "link": "https://projectcasting.com/job/models-and-character-extras-casting-call-for-major-pop-star-album-artwork",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 11, 2026",
+      "source": "Tallulah Bernard Casting",
+      "short_description": "An upcoming album artwork photoshoot for a major pop star in Los Angeles, California, is seeking models and character extras ages 25\u201365 with unique, unconventional, and expressive appearances.",
+      "production_type": "Modeling"
+    },
     {
       "platform": "Project Casting",
       "title": "Production Assistants for Film and Television Projects",
@@ -60,62 +83,8 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Executive Creative Director - The Vibrant Talent Group",
-      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-at-the-vibrant-talent-group-4488608480",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 minutes ago",
-      "source": "The Vibrant Talent Group"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Executive Creative Director - Exploding Kittens, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-at-exploding-kittens-inc-4487065582",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "Exploding Kittens, Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative & Product Design Director - TP-Link Systems Inc.",
-      "link": "https://www.linkedin.com/jobs/view/creative-product-design-director-at-tp-link-systems-inc-4487998928",
-      "alert": false,
-      "location": "Irvine, CA",
-      "date": "14 hours ago",
-      "source": "TP-Link Systems Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director Brand Strategy Insights and Creative - CJ Foodville USA",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-strategy-insights-and-creative-at-cj-foodville-usa-4487945991",
-      "alert": false,
-      "location": "Buena Park, CA",
-      "date": "23 hours ago",
-      "source": "CJ Foodville USA"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Design Director - Summer Fridays",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-summer-fridays-4487403835",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "Summer Fridays"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Apparel Graphic and Print Director - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/apparel-graphic-and-print-director-at-24-seven-talent-4487992207",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "18 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "GCD - Performance, CRM and Scale - Monks",
-      "link": "https://www.linkedin.com/jobs/view/gcd-performance-crm-and-scale-at-monks-4446528337",
+      "title": "Creative Director, Social, Brand & Culture - Monks",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-social-brand-culture-at-monks-4473515865",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "9 hours ago",
@@ -123,30 +92,84 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director Brand Marketing - MW Partners",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-at-mw-partners-4488388586",
+      "title": "Creative Director, Prime, NASC - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-prime-nasc-at-amazon-4489947451",
       "alert": false,
-      "location": "Burbank, CA",
-      "date": "3 hours ago",
-      "source": "MW Partners"
+      "location": "Santa Monica, CA",
+      "date": "6 hours ago",
+      "source": "Amazon"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Content Marketing & Growth at WonderLab - MeeBoss",
-      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-growth-at-wonderlab-at-meeboss-4489498805",
+      "title": "Director, Franchise Creative- Multimedia - NBCUniversal",
+      "link": "https://www.linkedin.com/jobs/view/director-franchise-creative-multimedia-at-nbcuniversal-4489960749",
+      "alert": false,
+      "location": "Universal City, CA",
+      "date": "3 hours ago",
+      "source": "NBCUniversal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Marketing & Creative - Multitude One",
+      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-creative-at-multitude-one-4489024891",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "3 hours ago",
-      "source": "MeeBoss"
+      "date": "57 minutes ago",
+      "source": "Multitude One"
     },
     {
       "platform": "LinkedIn",
-      "title": "Assistant Director, Social Media - Agency Guacamole",
-      "link": "https://www.linkedin.com/jobs/view/assistant-director-social-media-at-agency-guacamole-4487594263",
+      "title": "Head of Shorts - Dhar Mann Studios",
+      "link": "https://www.linkedin.com/jobs/view/head-of-shorts-at-dhar-mann-studios-4488629486",
       "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "21 minutes ago",
-      "source": "Agency Guacamole"
+      "location": "Burbank, CA",
+      "date": "21 hours ago",
+      "source": "Dhar Mann Studios"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Brand Marketing, Body Category, Naturium - E.L.F. BEAUTY",
+      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-body-category-naturium-at-e-l-f-beauty-4481711150",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "9 hours ago",
+      "source": "E.L.F. BEAUTY"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Communications, Brand & Digital Marketing - Arup",
+      "link": "https://www.linkedin.com/jobs/view/head-of-communications-brand-digital-marketing-at-arup-4489638912",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "Arup"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Social Media Director - LUX VITAE INDUSTRIES",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-lux-vitae-industries-4488623760",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "21 hours ago",
+      "source": "LUX VITAE INDUSTRIES"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "SVP, Original Programming - Starz",
+      "link": "https://www.linkedin.com/jobs/view/svp-original-programming-at-starz-4489918055",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "8 hours ago",
+      "source": "Starz"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Director [Contract] - Spin Master",
+      "link": "https://www.linkedin.com/jobs/view/art-director-contract-at-spin-master-4471218636",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "2 hours ago",
+      "source": "Spin Master"
     },
     {
       "platform": "Central Casting",
@@ -168,6 +191,13 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-rhfsx-z8gk6",
       "alert": false,
       "date": "October 23, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Barista Photo Double",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
     },
     {
       "platform": "Everyset",
@@ -216,82 +246,30 @@
     },
     {
       "platform": "Everyset",
-      "title": "Hipster Diner Patrons & Japanese Diner Patrons",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
       "title": "Various Park Goer Roles",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true
     },
     {
       "platform": "Everyset",
-      "title": "Young Leo",
+      "title": "REVISED Young Charles",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true,
       "location": "Los Angeles, CA"
     },
     {
       "platform": "UserInterviews",
-      "title": "Life and Career Experiences Study",
-      "link": "https://www.userinterviews.com/projects/UoLD8nuytg/apply",
-      "pay": "$60",
+      "title": "Have RPA experience? Let's talk!",
+      "link": "https://www.userinterviews.com/projects/KvRdc9sinA/apply",
+      "pay": "$120",
       "duration": "60 MIN",
       "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Business Landscape and Insights",
-      "link": "https://www.userinterviews.com/projects/fsNdO4ZwtA/apply",
-      "pay": "$40",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your Professional Perspective in a Quick Video Study",
-      "link": "https://www.userinterviews.com/projects/3HIyVyfRrg/apply",
-      "pay": "$100",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Do you work in the mortgage servicing industry? We want to talk to you!",
-      "link": "https://www.userinterviews.com/projects/OXPGhzwnqg/apply",
-      "pay": "$80",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who shop online!",
-      "link": "https://www.userinterviews.com/projects/PYdfgAuP8g/apply",
-      "pay": "$1",
-      "duration": "8 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who travel for leisure internationally!",
-      "link": "https://www.userinterviews.com/projects/zMZVn6R70A/apply",
-      "pay": "$1",
-      "duration": "5 MIN",
-      "source": "UserInterviews",
-      "alert": false
+      "alert": true
     },
     {
       "platform": "UserInterviews",
       "title": "Looking for people who manage their own money and use financial apps!",
-      "link": "https://www.userinterviews.com/projects/DZZZ4oHDhg/apply",
+      "link": "https://www.userinterviews.com/projects/ClKqAjVI3A/apply",
       "pay": "$1",
       "duration": "2 MIN",
       "source": "UserInterviews",
@@ -299,8 +277,17 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people who want to share feedback on a product!",
-      "link": "https://www.userinterviews.com/projects/2oV18SMvvw/apply",
+      "title": "Adult Everyday Needs",
+      "link": "https://www.userinterviews.com/projects/SseR873agA/apply",
+      "pay": "$170",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for students who use AI creative tools!",
+      "link": "https://www.userinterviews.com/projects/tOtN_S3dtg/apply",
       "pay": "$1",
       "duration": "4 MIN",
       "source": "UserInterviews",
@@ -308,21 +295,57 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "NY Tech Lawyers Deal",
-      "link": "https://www.userinterviews.com/projects/fKxpHFeQUQ/apply",
-      "pay": "$300",
-      "duration": "90 MIN",
+      "title": "Entretenimiento digital interactivo - Estudio pago UX [Argentina]",
+      "link": "https://www.userinterviews.com/projects/r_YR4Ax5jw/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "5hr PC Playtest! [Ref: PSMDL1126UI]",
+      "link": "https://www.userinterviews.com/projects/tmpK2Vn4bw/apply",
+      "pay": "$100",
+      "duration": "300 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We want to hear more about your role!",
+      "link": "https://www.userinterviews.com/projects/3b8BPAKpOQ/apply",
+      "pay": "$120",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Public Issues Colorado Espanol Nov 18",
-      "link": "https://www.userinterviews.com/projects/yPl35LMmHg/apply",
-      "pay": "$175",
-      "duration": "120 MIN",
+      "title": "How Filmmakers Plan Their Shoots",
+      "link": "https://www.userinterviews.com/projects/LWDJ6k17uQ/apply",
+      "pay": "$50",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Legal Focus Group. Listen to a real legal case and help evaluate both perspectives on the case.",
+      "link": "https://www.userinterviews.com/projects/rLr0zYP_dw/apply",
+      "pay": "$200",
+      "duration": "180 MIN",
       "source": "UserInterviews",
       "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "UX Researchers \u2013 Share Your Experience!",
+      "link": "https://www.userinterviews.com/projects/oJvHjBmEAQ/apply",
+      "pay": "$15",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
     }
   ],
   "errors": {},
@@ -333,7 +356,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
