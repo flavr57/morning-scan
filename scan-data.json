@@ -1,99 +1,82 @@
 {
-  "generated": "2026-11-11T19:59:13.789432+00:00",
+  "generated": "2026-11-12T20:37:48.353571+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
       "platform": "Project Casting",
-      "title": "$3,000 Commercial Casting Call for Male and Female Models",
-      "link": "https://projectcasting.com/job/3000-commercial-casting-call-for-male-and-female-models",
+      "title": "$3,650 Fiverr Commercial Casting Call",
+      "link": "https://projectcasting.com/job/3650-fiverr-commercial-casting-call",
       "alert": true,
-      "pay": "$3,000",
-      "location": "California",
-      "date": "November 11, 2026",
-      "source": "Miami Talent Casting",
+      "pay": "$3,650",
+      "location": "Los Angeles, CA",
+      "date": "November 12, 2026",
+      "source": "JQ Productions",
       "production_type": "Commercials"
     },
     {
       "platform": "Project Casting",
-      "title": "Models and Character Extras Casting Call for Major Pop Star Album...",
-      "link": "https://projectcasting.com/job/models-and-character-extras-casting-call-for-major-pop-star-album-artwork",
+      "title": "Los Angeles Casting Call for People with Physical Disabilities",
+      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-people-with-physical-disabilities",
       "alert": true,
       "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 12, 2026",
+      "source": "ZBD TALENT",
+      "production_type": "TV & Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "NOW CASTING: FUTURE ONLINE STARS \u2013 Live Streaming & Content Creation...",
+      "link": "https://projectcasting.com/job/now-casting-future-online-stars",
+      "alert": true,
+      "pay": "$$$",
       "location": "Los Angeles, CA",
       "date": "November 11, 2026",
-      "source": "Tallulah Bernard Casting",
-      "short_description": "An upcoming album artwork photoshoot for a major pop star in Los Angeles, California, is seeking models and character extras ages 25\u201365 with unique, unconventional, and expressive appearances.",
-      "production_type": "Modeling"
+      "source": "Online Model Mastery",
+      "production_type": "Influencer"
     },
     {
       "platform": "Project Casting",
-      "title": "Production Assistants for Film and Television Projects",
-      "link": "https://projectcasting.com/job/production-assistants-for-film-and-television-projects",
+      "title": "$800/Day Energy Drink Commercial Casting Call",
+      "link": "https://projectcasting.com/job/800-day-energy-drink-commercial-casting-call",
       "alert": true,
-      "pay": "$",
+      "pay": "$800",
       "location": "Los Angeles, CA",
-      "date": "November 10, 2026",
-      "source": "Gravity Umbrella",
-      "short_description": "Exciting opportunities are available for aspiring and experienced Production Assistants looking to work in the film and television industry across the United States.",
-      "production_type": "Entertainment jobs & Crew"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Producers of \u2018Storage Wars\u2019 Casting Call for a House Full of...",
-      "link": "https://projectcasting.com/job/producers-of-storage-wars-casting-call-for-a-house-full-of-collections",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "November 9, 2026",
-      "source": "Big Fish Casting",
-      "production_type": "Reality Show"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Seeking Fashion Influencer Creators",
-      "link": "https://projectcasting.com/job/seeking-fashion-influencer-creators",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "November 9, 2026",
-      "source": "Open Air",
-      "production_type": "Social Media Content"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$500/Day Feature Model Casting Call in Los Angeles",
-      "link": "https://projectcasting.com/job/500-day-feature-model-casting-call-in-los-angeles",
-      "alert": true,
-      "pay": "$500",
-      "location": "Los Angeles, CA",
-      "date": "November 9, 2026",
-      "source": "Klerifai",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "$350/Day Streetwear Brand Los Angeles Casting Call",
-      "link": "https://projectcasting.com/job/350-day-streetwear-brand-los-angeles-casting-call",
-      "alert": true,
-      "pay": "$350",
-      "location": "Los Angeles, CA",
-      "date": "November 9, 2026",
-      "source": "Amor Morales",
+      "date": "November 11, 2026",
+      "source": "United Casting",
       "production_type": "Commercials"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Social, Brand & Culture - Monks",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-social-brand-culture-at-monks-4473515865",
+      "title": "Creative Director - Creative Integration - Expedia Group",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-creative-integration-at-expedia-group-4489083391",
+      "alert": false,
+      "location": "Beverly Hills, CA",
+      "date": "14 hours ago",
+      "source": "Expedia Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director - Doctronic",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-doctronic-4490363709",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "9 hours ago",
-      "source": "Monks"
+      "date": "4 hours ago",
+      "source": "Doctronic"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Prime, NASC - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-prime-nasc-at-amazon-4489947451",
+      "title": "Creative Director, Energy Sector (Los Angeles Based) - ICF Next",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-energy-sector-los-angeles-based-at-icf-next-4489054454",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "ICF Next"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Devices Brand Studio - Amazon",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-devices-brand-studio-at-amazon-4455904697",
       "alert": false,
       "location": "Santa Monica, CA",
       "date": "6 hours ago",
@@ -101,75 +84,64 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Franchise Creative- Multimedia - NBCUniversal",
-      "link": "https://www.linkedin.com/jobs/view/director-franchise-creative-multimedia-at-nbcuniversal-4489960749",
-      "alert": false,
-      "location": "Universal City, CA",
-      "date": "3 hours ago",
-      "source": "NBCUniversal"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Marketing & Creative - Multitude One",
-      "link": "https://www.linkedin.com/jobs/view/director-of-marketing-creative-at-multitude-one-4489024891",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "57 minutes ago",
-      "source": "Multitude One"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Shorts - Dhar Mann Studios",
-      "link": "https://www.linkedin.com/jobs/view/head-of-shorts-at-dhar-mann-studios-4488629486",
+      "title": "Senior Creative Director (Agency) - times10",
+      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-agency-at-times10-4490386599",
       "alert": false,
       "location": "Burbank, CA",
-      "date": "21 hours ago",
-      "source": "Dhar Mann Studios"
+      "date": "2 hours ago",
+      "source": "times10"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Brand Marketing, Body Category, Naturium - E.L.F. BEAUTY",
-      "link": "https://www.linkedin.com/jobs/view/director-brand-marketing-body-category-naturium-at-e-l-f-beauty-4481711150",
+      "title": "Senior Vice President, Brand and Creative Services - United Talent Agency",
+      "link": "https://www.linkedin.com/jobs/view/senior-vice-president-brand-and-creative-services-at-united-talent-agency-4480001697",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "9 hours ago",
-      "source": "E.L.F. BEAUTY"
+      "date": "6 hours ago",
+      "source": "United Talent Agency"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Communications, Brand & Digital Marketing - Arup",
-      "link": "https://www.linkedin.com/jobs/view/head-of-communications-brand-digital-marketing-at-arup-4489638912",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "20 hours ago",
-      "source": "Arup"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Media Director - LUX VITAE INDUSTRIES",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-lux-vitae-industries-4488623760",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "LUX VITAE INDUSTRIES"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "SVP, Original Programming - Starz",
-      "link": "https://www.linkedin.com/jobs/view/svp-original-programming-at-starz-4489918055",
+      "title": "Director, Graphics & Embroidery - FIGS",
+      "link": "https://www.linkedin.com/jobs/view/director-graphics-embroidery-at-figs-4473700932",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "8 hours ago",
-      "source": "Starz"
+      "date": "7 hours ago",
+      "source": "FIGS"
     },
     {
       "platform": "LinkedIn",
-      "title": "Art Director [Contract] - Spin Master",
-      "link": "https://www.linkedin.com/jobs/view/art-director-contract-at-spin-master-4471218636",
+      "title": "Head of Communications & Brand - Relativity Space",
+      "link": "https://www.linkedin.com/jobs/view/head-of-communications-brand-at-relativity-space-4490030987",
+      "alert": false,
+      "location": "Long Beach, CA",
+      "date": "20 hours ago",
+      "source": "Relativity Space"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Social Media Director \u2013 Fashion & Lifestyle Brand \u2013 Los Angeles - Mode Executive",
+      "link": "https://www.linkedin.com/jobs/view/social-media-director-%E2%80%93-fashion-lifestyle-brand-%E2%80%93-los-angeles-at-mode-executive-4489235467",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "2 hours ago",
-      "source": "Spin Master"
+      "date": "7 hours ago",
+      "source": "Mode Executive"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Vice President, Alternative Entertainment - Fox Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/vice-president-alternative-entertainment-at-fox-entertainment-4465395019",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "7 hours ago",
+      "source": "Fox Entertainment"
+    },
+    {
+      "platform": "Central Casting",
+      "title": "BLACK RAV 4 2020+",
+      "link": "https://blog.centralcasting.com/jobs-la/2026/black-rav-4-2020",
+      "alert": false,
+      "date": "November 11, 2026"
     },
     {
       "platform": "Central Casting",
@@ -184,13 +156,6 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-crm6z",
       "alert": false,
       "date": "October 29, 2026"
-    },
-    {
-      "platform": "Central Casting",
-      "title": "**CLOSED** NON-UNION BACKGROUND WITH INDIAN FORMAL WEAR",
-      "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-rhfsx-z8gk6",
-      "alert": false,
-      "date": "October 23, 2026"
     },
     {
       "platform": "Everyset",
@@ -233,20 +198,7 @@
     },
     {
       "platform": "Everyset",
-      "title": "BG w/ 1970-1992 Cars (PLEASE READ THE APPLICATION)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
       "title": "WGI Employee (FINANCE/LAWYER TYPES)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Park Goer Roles",
       "link": "https://jobs.everyset.com/job-board",
       "alert": true
     },
@@ -258,91 +210,104 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "UserInterviews",
-      "title": "Have RPA experience? Let's talk!",
-      "link": "https://www.userinterviews.com/projects/KvRdc9sinA/apply",
-      "pay": "$120",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
+      "platform": "Everyset",
+      "title": "Charles - Lookalike",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Tiki Bar Customers",
+      "link": "https://jobs.everyset.com/job-board",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people who manage their own money and use financial apps!",
-      "link": "https://www.userinterviews.com/projects/ClKqAjVI3A/apply",
-      "pay": "$1",
-      "duration": "2 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Adult Everyday Needs",
-      "link": "https://www.userinterviews.com/projects/SseR873agA/apply",
-      "pay": "$170",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for students who use AI creative tools!",
-      "link": "https://www.userinterviews.com/projects/tOtN_S3dtg/apply",
-      "pay": "$1",
-      "duration": "4 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Entretenimiento digital interactivo - Estudio pago UX [Argentina]",
-      "link": "https://www.userinterviews.com/projects/r_YR4Ax5jw/apply",
-      "pay": "$60",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "5hr PC Playtest! [Ref: PSMDL1126UI]",
-      "link": "https://www.userinterviews.com/projects/tmpK2Vn4bw/apply",
+      "title": "Research process documentation (Life Sciences, Chemistry, Materials Science, or Earth Science)",
+      "link": "https://www.userinterviews.com/projects/6JbnXW05cQ/apply",
       "pay": "$100",
-      "duration": "300 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "We want to hear more about your role!",
-      "link": "https://www.userinterviews.com/projects/3b8BPAKpOQ/apply",
-      "pay": "$120",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "How Filmmakers Plan Their Shoots",
-      "link": "https://www.userinterviews.com/projects/LWDJ6k17uQ/apply",
-      "pay": "$50",
       "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Legal Focus Group. Listen to a real legal case and help evaluate both perspectives on the case.",
-      "link": "https://www.userinterviews.com/projects/rLr0zYP_dw/apply",
-      "pay": "$200",
-      "duration": "180 MIN",
+      "title": "Share Your Experience with Orthopedic Care",
+      "link": "https://www.userinterviews.com/projects/zCoQxIQagg/apply",
+      "pay": "$20",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seniors - Share your experience with Orthopedic Care!",
+      "link": "https://www.userinterviews.com/projects/tY6wsAKwEg/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Experience with Orthopedic Care Providers",
+      "link": "https://www.userinterviews.com/projects/4WvdSimRcg/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Gaming & Entertainment Experience Study",
+      "link": "https://www.userinterviews.com/projects/KHC2jLgiag/apply",
+      "pay": "$10",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Everyday Choices & Consumer Insights Study",
+      "link": "https://www.userinterviews.com/projects/zDwqhvf3Jg/apply",
+      "pay": "$8",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Wear Prescription Glasses? Get Paid to Test Wearable Technology! | NEW On-Site Study | Pittsburgh, PA",
+      "link": "https://www.userinterviews.com/projects/Yr1T9Lkfsw/apply",
+      "pay": "$120",
+      "duration": "150 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "UX Researchers \u2013 Share Your Experience!",
-      "link": "https://www.userinterviews.com/projects/oJvHjBmEAQ/apply",
-      "pay": "$15",
+      "title": "Iced Beverage Study",
+      "link": "https://www.userinterviews.com/projects/s28W0ubwMg/apply",
+      "pay": "$50",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "How do you use cloud products?",
+      "link": "https://www.userinterviews.com/projects/V6li7XjR6w/apply",
+      "pay": "$150",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share Your Experience with Family Orthopedic Care",
+      "link": "https://www.userinterviews.com/projects/ZPmNttENew/apply",
+      "pay": "$20",
       "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
@@ -356,7 +321,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 7
+      "count": 4
     },
     "LinkedIn": {
       "status": "ok",
