@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T20:17:07.176406+00:00",
+  "generated": "2026-11-14T18:38:02.718346+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
     {
@@ -41,48 +41,73 @@
       "link": "https://projectcasting.com/job/casting-call-for-families-needed-for-corporate-commercial",
       "alert": true,
       "pay": "$",
-      "location": "California",
+      "location": "Los Angeles, CA",
       "date": "November 12, 2026",
       "source": "Backstory Creative",
       "production_type": "Commercials"
     },
     {
-      "platform": "Project Casting",
-      "title": "Los Angeles Casting Call for People with Physical Disabilities",
-      "link": "https://projectcasting.com/job/los-angeles-casting-call-for-people-with-physical-disabilities",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "November 12, 2026",
-      "source": "ZBD TALENT",
-      "production_type": "TV & Video"
+      "platform": "LinkedIn",
+      "title": "Creative Director - Best Choice Products",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-best-choice-products-4491026309",
+      "alert": false,
+      "location": "Newport Beach, CA",
+      "date": "18 hours ago",
+      "source": "Best Choice Products"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director, Head of Creative - Twitch",
-      "link": "https://www.linkedin.com/jobs/view/director-head-of-creative-at-twitch-4464164232",
+      "title": "Group Creative Director - Monks",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-at-monks-4490785777",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "Twitch"
+      "date": "20 hours ago",
+      "source": "Monks"
     },
     {
       "platform": "LinkedIn",
-      "title": "Styling Director - Contemporary Womenswear Brand - Los Angeles - Mode Executive",
-      "link": "https://www.linkedin.com/jobs/view/styling-director-contemporary-womenswear-brand-los-angeles-at-mode-executive-4489564262",
+      "title": "Creative Director (Video Ads) - Jerry",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-video-ads-at-jerry-4488995145",
       "alert": false,
-      "location": "Los Angeles Metropolitan Area",
+      "location": "Los Angeles, CA",
+      "date": "20 hours ago",
+      "source": "Jerry"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Executive Creative Director - Oxford Road",
+      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-at-oxford-road-4481030175",
+      "alert": false,
+      "location": "Los Angeles, CA",
       "date": "9 hours ago",
-      "source": "Mode Executive"
+      "source": "Oxford Road"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - D\u00f4en",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-d%C3%B4en-4450769729",
+      "title": "Director of Growth Creative - Dr. Squatch",
+      "link": "https://www.linkedin.com/jobs/view/director-of-growth-creative-at-dr-squatch-4456041925",
       "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "22 hours ago",
-      "source": "D\u00f4en"
+      "location": "Marina del Rey, CA",
+      "date": "2 hours ago",
+      "source": "Dr. Squatch"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Design & Development - NBCUniversal",
+      "link": "https://www.linkedin.com/jobs/view/director-design-development-at-nbcuniversal-4483148421",
+      "alert": false,
+      "location": "Universal City, CA",
+      "date": "9 hours ago",
+      "source": "NBCUniversal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director Experiential Design - Live Events - Mattel, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/director-experiential-design-live-events-at-mattel-inc-4429782359",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "4 hours ago",
+      "source": "Mattel, Inc."
     },
     {
       "platform": "LinkedIn",
@@ -90,62 +115,26 @@
       "link": "https://www.linkedin.com/jobs/view/design-director-experiential-packaging-at-kosas-4489819425",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
+      "date": "23 hours ago",
       "source": "Kosas"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director \u2013 Fashion & Lifestyle Brand \u2013 Los Angeles - Mode Executive",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-%E2%80%93-fashion-lifestyle-brand-%E2%80%93-los-angeles-at-mode-executive-4489564259",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "9 hours ago",
-      "source": "Mode Executive"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Digital Twin Creative Lead - Booz Allen Hamilton",
-      "link": "https://www.linkedin.com/jobs/view/digital-twin-creative-lead-at-booz-allen-hamilton-4490525535",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "21 hours ago",
-      "source": "Booz Allen Hamilton"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creator Nation | Director, Communications - Creator Nation",
-      "link": "https://www.linkedin.com/jobs/view/creator-nation-director-communications-at-creator-nation-4474552811",
+      "title": "Director - Entertainment & Content Strategy - WME",
+      "link": "https://www.linkedin.com/jobs/view/director-entertainment-content-strategy-at-wme-4465167674",
       "alert": false,
       "location": "Beverly Hills, CA",
-      "date": "6 hours ago",
-      "source": "Creator Nation"
+      "date": "8 hours ago",
+      "source": "WME"
     },
     {
       "platform": "LinkedIn",
-      "title": "Design Director - MobilityWare",
-      "link": "https://www.linkedin.com/jobs/view/design-director-at-mobilityware-4489593621",
+      "title": "Senior Manager Brand & Creative - SCAN",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-brand-creative-at-scan-4453806688",
       "alert": false,
-      "location": "Irvine, CA",
-      "date": "2 hours ago",
-      "source": "MobilityWare"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Content Marketing & Growth at WonderLab - MeeBoss",
-      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-growth-at-wonderlab-at-meeboss-4490548532",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "19 hours ago",
-      "source": "MeeBoss"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Creative Operations & Production - Gametime",
-      "link": "https://www.linkedin.com/jobs/view/director-creative-operations-production-at-gametime-4488570509",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Gametime"
+      "location": "Long Beach, CA",
+      "date": "55 minutes ago",
+      "source": "SCAN"
     },
     {
       "platform": "Central Casting",
@@ -234,93 +223,93 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Sales Channels and Commercial Strategy Study",
-      "link": "https://www.userinterviews.com/projects/Yod76dTzNg/apply",
-      "pay": "$23",
+      "title": "Mayonnaise Product Ideas",
+      "link": "https://www.userinterviews.com/projects/MRV9RUJfeA/apply",
+      "pay": "$32",
+      "duration": "48 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Exploring the Future of AI in Manufacturing",
+      "link": "https://www.userinterviews.com/projects/8dOKGBDJXA/apply",
+      "pay": "$24",
       "duration": "10 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people in Denmark!",
-      "link": "https://www.userinterviews.com/projects/byUwHWq-JQ/apply",
-      "pay": "$1",
-      "duration": "3 MIN",
+      "title": "Convenience Stores Study!",
+      "link": "https://www.userinterviews.com/projects/r3aiHIv_1w/apply",
+      "pay": "$25",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Beverage Study",
-      "link": "https://www.userinterviews.com/projects/Y4a18xypWg/apply",
-      "pay": "$30",
-      "duration": "10 MIN",
+      "title": "Quick Video Study About Your Free Time",
+      "link": "https://www.userinterviews.com/projects/ICRLVzp2Bw/apply",
+      "pay": "$25",
+      "duration": "25 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "August 2026 Product testing in Scotts Valley - In person",
-      "link": "https://www.userinterviews.com/projects/eLUxennDQw/apply",
-      "pay": "$200",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Supply and Distribution Practices Study",
-      "link": "https://www.userinterviews.com/projects/-NoZj9-62Q/apply",
-      "pay": "$23",
+      "title": "Share Your Opinions in a Video Study",
+      "link": "https://www.userinterviews.com/projects/6Q2CwNP5Ww/apply",
+      "pay": "$50",
       "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Let's Talk Business!",
-      "link": "https://www.userinterviews.com/projects/WUvAn_7dbg/apply",
-      "pay": "$75",
-      "duration": "60 MIN",
+      "title": "Own a RV? We want to hear from you!",
+      "link": "https://www.userinterviews.com/projects/odeQ2xCzDg/apply",
+      "pay": "$30",
+      "duration": "45 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Let's Talk Business!",
-      "link": "https://www.userinterviews.com/projects/AulBUIKaeg/apply",
-      "pay": "$75",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Dog Owners: In-Person Discussion About Dog Toys in Philadelphia ($100)",
-      "link": "https://www.userinterviews.com/projects/AeAsyLR4QA/apply",
-      "pay": "$100",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Chat About Your Cats: In-Person Discussion in Philadelphia ($100)",
-      "link": "https://www.userinterviews.com/projects/qdrw6Jp1Mw/apply",
-      "pay": "$100",
-      "duration": "90 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your perspective on business software",
-      "link": "https://www.userinterviews.com/projects/BgnR8AfAig/apply",
-      "pay": "$200",
+      "title": "IT Decision Makers Needed!",
+      "link": "https://www.userinterviews.com/projects/iqYouUCiEg/apply",
+      "pay": "$150",
       "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "1 healthcare professional to join the research team ($65/hour)",
+      "link": "https://www.userinterviews.com/projects/D-7LI11jIQ/apply",
+      "pay": "$65",
+      "duration": "3 hour",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research on Experiences with Financial Services",
+      "link": "https://www.userinterviews.com/projects/p879JQ2yQQ/apply",
+      "pay": "$150",
+      "duration": "90 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for children 5-8 years old to test a new children's app!",
+      "link": "https://www.userinterviews.com/projects/d5QHeesodw/apply",
+      "pay": "$100",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
     }
   ],
   "errors": {},
@@ -331,7 +320,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "LinkedIn": {
       "status": "ok",
