@@ -1,7 +1,29 @@
 {
-  "generated": "2026-11-16T22:43:23.905437+00:00",
+  "generated": "2026-11-17T21:29:18.424850+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Luna Luna Model Search",
+      "link": "https://projectcasting.com/job/luna-luna-model-search",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 17, 2026",
+      "source": "Luna Luna Ballet",
+      "production_type": "Modeling"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Casting People Who Have Recently Inherited a House",
+      "link": "https://projectcasting.com/job/casting-people-who-have-recently-inherited-a-house",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 17, 2026",
+      "source": "Big Fish Casting",
+      "production_type": "Reality Show"
+    },
     {
       "platform": "Project Casting",
       "title": "Fashion Campaign Photographer",
@@ -38,105 +60,94 @@
       "production_type": "Commercials"
     },
     {
-      "platform": "Project Casting",
-      "title": "$4,000+ Major AI App Commercial Casting Call",
-      "link": "https://projectcasting.com/job/4000-major-ai-app-commercial-casting-call",
-      "alert": true,
-      "pay": "$4,000",
-      "location": "California",
-      "date": "November 13, 2026",
-      "source": "Real2Reel Casting",
-      "production_type": "Commercials"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director - Athletic - lululemon",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-athletic-at-lululemon-4490903263",
+      "title": "Executive Creative Director - Liquid I.V.",
+      "link": "https://www.linkedin.com/jobs/view/executive-creative-director-at-liquid-i-v-4454834585",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "3 hours ago",
-      "source": "lululemon"
+      "location": "El Segundo, CA",
+      "date": "5 hours ago",
+      "source": "Liquid I.V."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director - Artwork, Localization Enablement & Accessibility Programs (LEAP) - Prime Video & Amazon MGM Studios",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-artwork-localization-enablement-accessibility-programs-leap-at-prime-video-amazon-mgm-studios-4456716101",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "7 hours ago",
-      "source": "Prime Video & Amazon MGM Studios"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Design (adidas Lifestyle | Apparel) - adidas",
-      "link": "https://www.linkedin.com/jobs/view/director-design-adidas-lifestyle-apparel-at-adidas-4489758087",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "10 hours ago",
-      "source": "adidas"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Design Director, Pattern & Print - STAUD",
-      "link": "https://www.linkedin.com/jobs/view/design-director-pattern-print-at-staud-4490934366",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "STAUD"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Content Marketing & Growth at WonderLab - MeeBoss",
-      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-growth-at-wonderlab-at-meeboss-4489784064",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "MeeBoss"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Head of Communications, Brand & Digital Marketing - Arup",
-      "link": "https://www.linkedin.com/jobs/view/head-of-communications-brand-digital-marketing-at-arup-4489748507",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "6 hours ago",
-      "source": "Arup"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Media Manager - East West Bank",
-      "link": "https://www.linkedin.com/jobs/view/social-media-manager-at-east-west-bank-4473446023",
-      "alert": false,
-      "location": "Pasadena, CA",
-      "date": "13 hours ago",
-      "source": "East West Bank"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Marketing Manager, Prime Video - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/social-marketing-manager-prime-video-at-amazon-4457819398",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "8 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Digital Marketing and Social Media Manager - IJW Whiskey Company",
-      "link": "https://www.linkedin.com/jobs/view/digital-marketing-and-social-media-manager-at-ijw-whiskey-company-4473658594",
+      "title": "Creative Director - IJW Whiskey Company",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-ijw-whiskey-company-4473651870",
       "alert": false,
       "location": "Beverly Hills, CA",
-      "date": "6 hours ago",
+      "date": "8 hours ago",
       "source": "IJW Whiskey Company"
     },
     {
       "platform": "LinkedIn",
-      "title": "Ares Foundation Communications Officer - Ares Management",
-      "link": "https://www.linkedin.com/jobs/view/ares-foundation-communications-officer-at-ares-management-4427886476",
+      "title": "Creative Director - Luxury Presence",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-luxury-presence-4491405746",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "13 hours ago",
-      "source": "Ares Management"
+      "date": "2 hours ago",
+      "source": "Luxury Presence"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Franchise Creative- Multimedia - NBCUniversal",
+      "link": "https://www.linkedin.com/jobs/view/director-franchise-creative-multimedia-at-nbcuniversal-4491727713",
+      "alert": false,
+      "location": "Universal City, CA",
+      "date": "1 hour ago",
+      "source": "NBCUniversal"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Automotive Design - BMW Group",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-automotive-design-at-bmw-group-4491541047",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "22 hours ago",
+      "source": "BMW Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Brand & Creative Lead - Varda Space Industries",
+      "link": "https://www.linkedin.com/jobs/view/brand-creative-lead-at-varda-space-industries-4491125894",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "11 hours ago",
+      "source": "Varda Space Industries"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Director, Strategy - Brand & Creative - Monks",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-strategy-brand-creative-at-monks-4484031329",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "10 hours ago",
+      "source": "Monks"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Video - Variety",
+      "link": "https://www.linkedin.com/jobs/view/head-of-video-at-variety-4490811240",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "1 hour ago",
+      "source": "Variety"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Content Marketing & Growth at WonderLab - MeeBoss",
+      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-growth-at-wonderlab-at-meeboss-4491591397",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "MeeBoss"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Vice President, Development & Production \u2013 FOX Creator Studio - Fox Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/senior-vice-president-development-production-%E2%80%93-fox-creator-studio-at-fox-entertainment-4465387079",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "7 hours ago",
+      "source": "Fox Entertainment"
     },
     {
       "platform": "Central Casting",
@@ -158,6 +169,12 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-crm6z",
       "alert": false,
       "date": "October 29, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Traffic Jam Vehicle",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -217,111 +234,91 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Stand In #7",
-      "link": "https://jobs.everyset.com/job-board",
+      "platform": "UserInterviews",
+      "title": "Medical Device/Blood Collection Performance Study",
+      "link": "https://www.userinterviews.com/projects/87O-X5pL-w/apply",
+      "pay": "$60",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Test our website",
+      "link": "https://www.userinterviews.com/projects/Hl7O9d_V7A/apply",
+      "pay": "$15",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "The Evolving Financial Advisor Experience",
+      "link": "https://www.userinterviews.com/projects/ed6AgHB-cw/apply",
+      "pay": "$40",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Let's Talk About Health and Wellbeing",
+      "link": "https://www.userinterviews.com/projects/KzquuZGxig/apply",
+      "pay": "$70",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Share your experience with AI agent orchestration and business workflows",
+      "link": "https://www.userinterviews.com/projects/4hjunyT3Lw/apply",
+      "pay": "$250",
+      "duration": "25 MIN",
+      "source": "UserInterviews",
       "alert": true
     },
     {
-      "platform": "Aquent",
-      "title": "Art Director III (Ecommerce)",
-      "link": "https://aquent.com/find-work/214500",
-      "alert": false,
-      "date": "Posted Nov 16, 2026"
-    },
-    {
-      "platform": "Aquent",
-      "title": "Midweight Graphic Designer",
-      "link": "https://aquent.com/find-work/214491",
-      "alert": false,
-      "date": "Posted Nov 16, 2026"
-    },
-    {
       "platform": "UserInterviews",
-      "title": "Quick Think Out Loud Study!",
-      "link": "https://www.userinterviews.com/projects/Im8O1ByRpg/apply",
-      "pay": "$30",
-      "duration": "10 MIN",
+      "title": "Make Your Move Easier: Tell us how to make moving-related tasks easier (Open-Ended)",
+      "link": "https://www.userinterviews.com/projects/xma9WWqk7w/apply",
+      "pay": "$5",
+      "duration": "5 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Quick Think Out Loud Study!",
-      "link": "https://www.userinterviews.com/projects/gDGlQ3iI2Q/apply",
-      "pay": "$30",
-      "duration": "10 MIN",
+      "title": "UserTesting test: Survey",
+      "link": "https://www.userinterviews.com/projects/iiFumMYzPg/apply",
+      "pay": "$15",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Help improve hospital policy processes for people like you",
-      "link": "https://www.userinterviews.com/projects/lh5uFgaQqw/apply",
+      "title": "Make Your Move Easier: Tell us how to make moving-related tasks easier",
+      "link": "https://www.userinterviews.com/projects/OPzO3Bk4jg/apply",
+      "pay": "$5",
+      "duration": "5 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "J105443 Commercial/Industrial Cleaning Supply Study",
+      "link": "https://www.userinterviews.com/projects/PYYW8UXsRA/apply",
+      "pay": "$150",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Scheduling agent training",
+      "link": "https://www.userinterviews.com/projects/VycMc-K1Nw/apply",
       "pay": "$75",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "We want to hear from you!",
-      "link": "https://www.userinterviews.com/projects/32YYVs7YpA/apply",
-      "pay": "$200",
-      "duration": "45 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Website Usability Study",
-      "link": "https://www.userinterviews.com/projects/Maa45EwosA/apply",
-      "pay": "$75",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Calling All Identity Admins: Tell Us How the Work Really Gets Done!",
-      "link": "https://www.userinterviews.com/projects/MWJXZ6ceUQ/apply",
-      "pay": "$175",
-      "duration": "60 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Exploring Tinned Fish: Food Habits & Brand Experiences",
-      "link": "https://www.userinterviews.com/projects/bM9SE9ngUg/apply",
-      "pay": "$28",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your opinion on food products!",
-      "link": "https://www.userinterviews.com/projects/jqoe62Ipvw/apply",
-      "pay": "$125",
-      "duration": "75 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share your opinion on food products!",
-      "link": "https://www.userinterviews.com/projects/SMghKyhTEQ/apply",
-      "pay": "$125",
-      "duration": "75 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "User Study: How do you capture intraoral X-rays?",
-      "link": "https://www.userinterviews.com/projects/akvVCD8psw/apply",
-      "pay": "$65",
       "duration": "60 MIN",
       "source": "UserInterviews",
       "alert": false
@@ -335,7 +332,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "LinkedIn": {
       "status": "ok",
@@ -351,7 +348,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 2
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
