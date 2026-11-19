@@ -1,7 +1,42 @@
 {
-  "generated": "2026-11-18T21:03:52.395024+00:00",
+  "generated": "2026-11-19T21:09:15.383901+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Now Casting San Francisco Event Staff",
+      "link": "https://projectcasting.com/job/now-casting-san-francisco-event-staff",
+      "alert": true,
+      "pay": "$",
+      "location": "California",
+      "date": "November 19, 2026",
+      "source": "The Allure Agency",
+      "production_type": "Live Event"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "$1,200/Day Casting Call for Dramatic Actors",
+      "link": "https://projectcasting.com/job/1200-day-casting-call-for-dramatic-actors",
+      "alert": true,
+      "pay": "$1,200",
+      "location": "Los Angeles, CA",
+      "date": "November 19, 2026",
+      "source": "APE Castings",
+      "short_description": "A Los Angeles casting opportunity is seeking male actors ages 35 and older to perform a powerful, emotionally driven existential monologue for a commercial project.",
+      "production_type": "Commercials"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Short Horror Film Crew Casting Call",
+      "link": "https://projectcasting.com/job/short-horror-film-crew-casting-call",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 18, 2026",
+      "source": "Anthony Campanella",
+      "short_description": "An upcoming independent horror comedy short film, \u201cHOME,\u201d is seeking talented film crew members and creative professionals in Los Angeles, California.",
+      "production_type": "Entertainment Careers"
+    },
     {
       "platform": "Project Casting",
       "title": "Feature Film \u201cThe 7th\u201d Casting Call for Native American Actors",
@@ -48,116 +83,94 @@
       "production_type": "Music Video"
     },
     {
-      "platform": "Project Casting",
-      "title": "Luna Luna Model Search",
-      "link": "https://projectcasting.com/job/luna-luna-model-search",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "November 17, 2026",
-      "source": "Luna Luna Ballet",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Casting People Who Have Recently Inherited a House",
-      "link": "https://projectcasting.com/job/casting-people-who-have-recently-inherited-a-house",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "November 17, 2026",
-      "source": "Big Fish Casting",
-      "production_type": "Reality Show"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director, Brand - Z SUPPLY",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-at-z-supply-4492083248",
+      "title": "Creative Director - Typhur Robotics",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-typhur-robotics-4492297642",
       "alert": false,
-      "location": "Costa Mesa, CA",
-      "date": "2 hours ago",
-      "source": "Z SUPPLY"
+      "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Typhur Robotics"
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Retail Experience, Device Brand Studio - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-retail-experience-device-brand-studio-at-amazon-4484456571",
+      "title": "Group Creative Director (LA) - Game Seven Agency",
+      "link": "https://www.linkedin.com/jobs/view/group-creative-director-la-at-game-seven-agency-4492460587",
+      "alert": false,
+      "location": "West Hollywood, CA",
+      "date": "4 hours ago",
+      "source": "Game Seven Agency"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Automotive Design - BMW Group",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-automotive-design-at-bmw-group-4491541047",
       "alert": false,
       "location": "Santa Monica, CA",
       "date": "4 hours ago",
-      "source": "Amazon"
+      "source": "BMW Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Sr. Director, Creative Direction - TFT - Riot Games",
-      "link": "https://www.linkedin.com/jobs/view/sr-director-creative-direction-tft-at-riot-games-4459295144",
+      "title": "Senior Director, Branding, Prints & Graphics - SKIMS",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-branding-prints-graphics-at-skims-4492284000",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "16 hours ago",
+      "source": "SKIMS"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Head of Creator Content - System1",
+      "link": "https://www.linkedin.com/jobs/view/head-of-creator-content-at-system1-4482575806",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "8 hours ago",
+      "source": "System1"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director, Creator & Social - Expedia Group",
+      "link": "https://www.linkedin.com/jobs/view/director-creator-social-at-expedia-group-4491380454",
+      "alert": false,
+      "location": "West Hollywood, CA",
+      "date": "14 hours ago",
+      "source": "Expedia Group"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director of Communications and Editorial - International Documentary Association (IDA)",
+      "link": "https://www.linkedin.com/jobs/view/director-of-communications-and-editorial-at-international-documentary-association-ida-4492196495",
+      "alert": false,
+      "location": "Los Angeles Metropolitan Area",
+      "date": "2 hours ago",
+      "source": "International Documentary Association (IDA)"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Assistant Manager, Marketing Communications - Epson America Inc.",
+      "link": "https://www.linkedin.com/jobs/view/assistant-manager-marketing-communications-at-epson-america-inc-4492133812",
+      "alert": false,
+      "location": "Los Alamitos, CA",
+      "date": "10 hours ago",
+      "source": "Epson America Inc."
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Director, Strategic Marketing & Engagement - University of Southern California",
+      "link": "https://www.linkedin.com/jobs/view/associate-director-strategic-marketing-engagement-at-university-of-southern-california-4491781159",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "4 hours ago",
+      "source": "University of Southern California"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Designer, Publishing, 3558-1 - Cypress HCM",
+      "link": "https://www.linkedin.com/jobs/view/senior-designer-publishing-3558-1-at-cypress-hcm-4492191455",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "3 hours ago",
-      "source": "Riot Games"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Design \u2013 Color & Concept - Fabletics",
-      "link": "https://www.linkedin.com/jobs/view/director-design-%E2%80%93-color-concept-at-fabletics-4467486084",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "7 hours ago",
-      "source": "Fabletics"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "(USA) Director, Creative Strategy - Walmart",
-      "link": "https://www.linkedin.com/jobs/view/usa-director-creative-strategy-at-walmart-4482254313",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "8 hours ago",
-      "source": "Walmart"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Billboard: Head of Video Series and Livestreaming - Penske Media Corporation",
-      "link": "https://www.linkedin.com/jobs/view/billboard-head-of-video-series-and-livestreaming-at-penske-media-corporation-4486000125",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "21 hours ago",
-      "source": "Penske Media Corporation"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Global Social Media - Morphe",
-      "link": "https://www.linkedin.com/jobs/view/director-global-social-media-at-morphe-4491468149",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "20 hours ago",
-      "source": "Morphe"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Global Social Media - FORMA Brands",
-      "link": "https://www.linkedin.com/jobs/view/director-global-social-media-at-forma-brands-4490854368",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "15 hours ago",
-      "source": "FORMA Brands"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director, Video Strategy & Content Ecosystem - Mattel, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/director-video-strategy-content-ecosystem-at-mattel-inc-4467272917",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "8 hours ago",
-      "source": "Mattel, Inc."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Variety: Head of Video - Penske Media Corporation",
-      "link": "https://www.linkedin.com/jobs/view/variety-head-of-video-at-penske-media-corporation-4491444573",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "21 hours ago",
-      "source": "Penske Media Corporation"
+      "source": "Cypress HCM"
     },
     {
       "platform": "Central Casting",
@@ -179,6 +192,32 @@
       "link": "https://blog.centralcasting.com/jobs-la/2025/union-and-non-union-template-please-dont-delete-yab5m-crm6z",
       "alert": false,
       "date": "October 29, 2026"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Hospital Staff",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "Various Roles",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
+    },
+    {
+      "platform": "Everyset",
+      "title": "18TLY Halloween BG w/ Costumes",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "platform": "Everyset",
+      "title": "NYC Ped w. BIKE",
+      "link": "https://jobs.everyset.com/job-board",
+      "alert": true
     },
     {
       "platform": "Everyset",
@@ -218,31 +257,6 @@
       "alert": true
     },
     {
-      "platform": "Everyset",
-      "title": "Hospital Staff",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
-    },
-    {
-      "platform": "Everyset",
-      "title": "Various Assisted Living Home BG",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "WGI Employee (FINANCE/LAWYER TYPES)",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
-      "platform": "Everyset",
-      "title": "Tiki Bar Customers",
-      "link": "https://jobs.everyset.com/job-board",
-      "alert": true
-    },
-    {
       "platform": "Aquent",
       "title": "Social Graphic Designer",
       "link": "https://aquent.com/find-work/214575",
@@ -251,8 +265,17 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Online Study for Parents of propective students and prospetive traditional undergraduate students",
-      "link": "https://www.userinterviews.com/projects/kXHKFrtGiQ/apply",
+      "title": "Interview | Photo & Video Enthusiasts",
+      "link": "https://www.userinterviews.com/projects/xfT7_Juheg/apply",
+      "pay": "$70",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Interview | Content Creators & Photographers",
+      "link": "https://www.userinterviews.com/projects/EfO4GCH0mA/apply",
       "pay": "$100",
       "duration": "60 MIN",
       "source": "UserInterviews",
@@ -260,82 +283,73 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "$225 - Car Tire Enthusiasts in Columbus, Ohio",
-      "link": "https://www.userinterviews.com/projects/VbEsJIdLOg/apply",
-      "pay": "$225",
-      "duration": "90 MIN",
+      "title": "Looking for gig workers!",
+      "link": "https://www.userinterviews.com/projects/6AbttYorFw/apply",
+      "pay": "$5",
+      "duration": "8 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "How you use AI tools to route and assign requests",
-      "link": "https://www.userinterviews.com/projects/JZwZxcbQyQ/apply",
-      "pay": "$150",
+      "title": "Looking for people who do freelance work!",
+      "link": "https://www.userinterviews.com/projects/lFF6wKNETQ/apply",
+      "pay": "$5",
+      "duration": "11 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who want to share feedback on a product!",
+      "link": "https://www.userinterviews.com/projects/a1ND4eRVVw/apply",
+      "pay": "$5",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "We want your feedback!",
+      "link": "https://www.userinterviews.com/projects/YXTOXvyFow/apply",
+      "pay": "$60",
       "duration": "30 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Earn $150 USD (~\u00a3115) for 90-minute in-person research",
-      "link": "https://www.userinterviews.com/projects/UjBMwJGCmg/apply",
-      "pay": "$150",
+      "title": "Expecting Your First Baby? Earn $175 for an Online Research Study in Pennsylvania",
+      "link": "https://www.userinterviews.com/projects/I7-WHrwffA/apply",
+      "pay": "$175",
       "duration": "90 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Earn $150 USD (~\u00a3115) for 90-minute in-person research",
-      "link": "https://www.userinterviews.com/projects/V3uACRckhQ/apply",
-      "pay": "$150",
-      "duration": "90 MIN",
+      "title": "Seeking opinions on Sweet Snacks and Treats",
+      "link": "https://www.userinterviews.com/projects/QjqV4DDxyQ/apply",
+      "pay": "$90",
+      "duration": "60 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Looking for people who play Rummy on their phone or tablet!",
-      "link": "https://www.userinterviews.com/projects/PSv4xZetgg/apply",
+      "title": "UserTesting test: Live Conversation",
+      "link": "https://www.userinterviews.com/projects/R93xiDi-Ow/apply",
+      "pay": "$45",
+      "duration": "45 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Looking for people who want to share feedback on a product!",
+      "link": "https://www.userinterviews.com/projects/G0YOsiBlKA/apply",
       "pay": "$1",
-      "duration": "6 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Looking for people who play Rummy on their phone or tablet!",
-      "link": "https://www.userinterviews.com/projects/fQpDuCnLHA/apply",
-      "pay": "$1",
-      "duration": "6 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Racontez-nous votre parcours professionnel !",
-      "link": "https://www.userinterviews.com/projects/GIybdJvAOg/apply",
-      "pay": "$100",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Erz\u00e4hlen Sie uns von Ihren Erfahrungen als Berufst\u00e4tiger!",
-      "link": "https://www.userinterviews.com/projects/4nrUNARo6A/apply",
-      "pay": "$100",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Calling All Customer Service Pros: Tell us about your everyday tools ($100 for 55 Min)",
-      "link": "https://www.userinterviews.com/projects/u1DxB8CwSg/apply",
-      "pay": "$100",
-      "duration": "55 Min",
+      "duration": "1 MIN",
       "source": "UserInterviews",
       "alert": false
     }
@@ -348,7 +362,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "LinkedIn": {
       "status": "ok",
