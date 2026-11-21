@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-20T20:54:17.326228+00:00",
+  "generated": "2026-11-21T19:54:45.985238+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$2,000 Dog Food Commercial Casting Call for Couples with Dogs",
+      "link": "https://projectcasting.com/job/2000-dog-food-commercial-casting-call-for-couples-with-dogs",
+      "alert": true,
+      "pay": "$2,000",
+      "location": "Los Angeles, CA",
+      "date": "November 20, 2026",
+      "source": "Lucky Tennyson Casting",
+      "production_type": "Commercials"
+    },
     {
       "platform": "Project Casting",
       "title": "$2,000 Dog Food Commercial Casting Call for Individuals with Dogs",
@@ -72,105 +83,94 @@
       "production_type": "Social Media Content"
     },
     {
-      "platform": "Project Casting",
-      "title": "$1,000/Day Major R&B Artist Music Video Casting Call",
-      "link": "https://projectcasting.com/job/1000-day-major-rb-artist-music-video-casting-call",
-      "alert": true,
-      "pay": "$1,000",
+      "platform": "LinkedIn",
+      "title": "Creative Director, Brand - Arrowmac",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-brand-at-arrowmac-4492856683",
+      "alert": false,
+      "location": "Orange County, CA",
+      "date": "18 hours ago",
+      "source": "Arrowmac"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Creative Director, Energy Sector (Los Angeles Based) - ICF Next",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-energy-sector-los-angeles-based-at-icf-next-4489054454",
+      "alert": false,
       "location": "Los Angeles, CA",
-      "date": "November 18, 2026",
-      "source": "United Casting",
-      "production_type": "Music Video"
+      "date": "13 hours ago",
+      "source": "ICF Next"
     },
     {
       "platform": "LinkedIn",
-      "title": "Styling Director - Contemporary Womenswear Brand - Los Angeles - Mode Executive",
-      "link": "https://www.linkedin.com/jobs/view/styling-director-contemporary-womenswear-brand-los-angeles-at-mode-executive-4492586873",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "5 hours ago",
-      "source": "Mode Executive"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Lead - Koala\u00ae",
-      "link": "https://www.linkedin.com/jobs/view/creative-lead-at-koala%C2%AE-4491681634",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "16 hours ago",
-      "source": "Koala\u00ae"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Vice President, Associate Experience Design Director - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/vice-president-associate-experience-design-director-at-gsw-powered-by-syneos-health-4475996883",
+      "title": "Senior Director, Creative - IPSY",
+      "link": "https://www.linkedin.com/jobs/view/senior-director-creative-at-ipsy-4475248732",
       "alert": false,
       "location": "Santa Monica, CA",
-      "date": "2 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "date": "3 hours ago",
+      "source": "IPSY"
     },
     {
       "platform": "LinkedIn",
-      "title": "Social Media Director - 24 Seven Talent",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-at-24-seven-talent-4492505471",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "23 hours ago",
-      "source": "24 Seven Talent"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Director of Interior Design - AmaWaterways River Cruises",
-      "link": "https://www.linkedin.com/jobs/view/director-of-interior-design-at-amawaterways-river-cruises-4426017040",
-      "alert": false,
-      "location": "Calabasas, CA",
-      "date": "4 hours ago",
-      "source": "AmaWaterways River Cruises"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Social Media Director \u2013 Fashion & Lifestyle Brand \u2013 Los Angeles - Mode Executive",
-      "link": "https://www.linkedin.com/jobs/view/social-media-director-%E2%80%93-fashion-lifestyle-brand-%E2%80%93-los-angeles-at-mode-executive-4492599407",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "5 hours ago",
-      "source": "Mode Executive"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Director - Fashion Nova",
-      "link": "https://www.linkedin.com/jobs/view/art-director-at-fashion-nova-4492742209",
+      "title": "Director, Digital Creative - Expedia Group",
+      "link": "https://www.linkedin.com/jobs/view/director-digital-creative-at-expedia-group-4492869891",
       "alert": false,
       "location": "Beverly Hills, CA",
-      "date": "21 hours ago",
-      "source": "Fashion Nova"
+      "date": "13 hours ago",
+      "source": "Expedia Group"
     },
     {
       "platform": "LinkedIn",
-      "title": "Director / Cinematographer - Voyager Technologies",
-      "link": "https://www.linkedin.com/jobs/view/director-cinematographer-at-voyager-technologies-4492528106",
+      "title": "Director- Content (NYX) - L'Or\u00e9al",
+      "link": "https://www.linkedin.com/jobs/view/director-content-nyx-at-l-or%C3%A9al-4492857227",
+      "alert": false,
+      "location": "El Segundo, CA",
+      "date": "20 hours ago",
+      "source": "L'Or\u00e9al"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Director Design, Favorite Daughter - Favorite Daughter",
+      "link": "https://www.linkedin.com/jobs/view/director-design-favorite-daughter-at-favorite-daughter-4492878304",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Voyager Technologies"
+      "date": "14 hours ago",
+      "source": "Favorite Daughter"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Digital & Social Media Marketing - Voyager Technologies",
-      "link": "https://www.linkedin.com/jobs/view/head-of-digital-social-media-marketing-at-voyager-technologies-4492506993",
+      "title": "Creative Director - VeSync",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-vesync-4493243503",
+      "alert": false,
+      "location": "Tustin, CA",
+      "date": "19 hours ago",
+      "source": "VeSync"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Executive Producer, Snap Studio - Snap Inc.",
+      "link": "https://www.linkedin.com/jobs/view/executive-producer-snap-studio-at-snap-inc-4485647697",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "21 hours ago",
-      "source": "Voyager Technologies"
+      "date": "1 hour ago",
+      "source": "Snap Inc."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Strategy Lead - Snap Inc.",
-      "link": "https://www.linkedin.com/jobs/view/creative-strategy-lead-at-snap-inc-4484289419",
+      "title": "Director, Brand & Integrated Marketing - MeUndies",
+      "link": "https://www.linkedin.com/jobs/view/director-brand-integrated-marketing-at-meundies-4492895100",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "9 hours ago",
+      "source": "MeUndies"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Associate Director, Creative Strategy - Influential",
+      "link": "https://www.linkedin.com/jobs/view/associate-director-creative-strategy-at-influential-4493103249",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "2 hours ago",
-      "source": "Snap Inc."
+      "source": "Influential"
     },
     {
       "platform": "Central Casting",
@@ -260,78 +260,33 @@
     },
     {
       "platform": "Aquent",
-      "title": "Social Graphic Designer",
-      "link": "https://aquent.com/find-work/214575",
+      "title": "Brand Designer for Social",
+      "link": "https://aquent.com/find-work/214672",
       "alert": false,
-      "date": "Posted Nov 18, 2026"
+      "date": "Posted Nov 20, 2026"
     },
     {
       "platform": "UserInterviews",
-      "title": "Share Your Work Experiences",
-      "link": "https://www.userinterviews.com/projects/zI5DMwKY-w/apply",
+      "title": "\u00bfVas al Estadio Banorte este domingo a ver el partido de la NFL en vivo? US$40 por una breve encuesta en video",
+      "link": "https://www.userinterviews.com/projects/5CYYqlWfrA/apply",
       "pay": "$40",
-      "duration": "28 MIN",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Gaming & Entertainment Experience Study",
-      "link": "https://www.userinterviews.com/projects/FhlNz64H8w/apply",
-      "pay": "$20",
-      "duration": "10 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Healthcare Software Buyer Study",
-      "link": "https://www.userinterviews.com/projects/bQwx-9ZV9Q/apply",
-      "pay": "$60",
-      "duration": "28 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Tell us about your experiences!",
-      "link": "https://www.userinterviews.com/projects/VyiYaaWsQA/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Racontez-nous votre parcours!",
-      "link": "https://www.userinterviews.com/projects/V7CZcozPAg/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Erz\u00e4hlen Sie uns von Ihren Erfahrungen als Berufst\u00e4tiger!",
-      "link": "https://www.userinterviews.com/projects/dcFEuhmp8w/apply",
-      "pay": "$50",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Interview | Reviewing Lease Management software design concept",
-      "link": "https://www.userinterviews.com/projects/55ud8Ztwyg/apply",
+      "title": "Let's talk about how you shop for meat",
+      "link": "https://www.userinterviews.com/projects/QN8Wz1gD8w/apply",
       "pay": "$30",
-      "duration": "30 MIN",
+      "duration": "36 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Research interview: Your experience in the selection of a data quality and/or governance vendor",
-      "link": "https://www.userinterviews.com/projects/LeOZTpUdpw/apply",
+      "title": "Calling All Customer Service Pros: Tell us about your everyday tools ($100 for 60-Min Interview)",
+      "link": "https://www.userinterviews.com/projects/Hwdb_W8xmQ/apply",
       "pay": "$100",
       "duration": "60 MIN",
       "source": "UserInterviews",
@@ -339,19 +294,64 @@
     },
     {
       "platform": "UserInterviews",
-      "title": "Developer Workflow and Tools Study",
-      "link": "https://www.userinterviews.com/projects/6C6jk6Xktw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "P-30984-20 Everyday consumer habits!",
+      "link": "https://www.userinterviews.com/projects/lvq7CU6L6A/apply",
+      "pay": "$35",
+      "duration": "30 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking opinions on Sweet Snacks and Treats!",
-      "link": "https://www.userinterviews.com/projects/xmHcZWXIgg/apply",
-      "pay": "$90",
-      "duration": "45 MIN",
+      "title": "P-30989-3 Join our study about your online purhcases!",
+      "link": "https://www.userinterviews.com/projects/8enN_FMVuw/apply",
+      "pay": "$25",
+      "duration": "15 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "P-31002-3 Share your online selling experience",
+      "link": "https://www.userinterviews.com/projects/YuB865f33w/apply",
+      "pay": "$20",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "USD 40 for sharing your oral care habits",
+      "link": "https://www.userinterviews.com/projects/rsHQwZFnpQ/apply",
+      "pay": "$40",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "P-30983-79 Deel uw reisvoorkeuren!",
+      "link": "https://www.userinterviews.com/projects/Yv4N1VbEhA/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "P-30983-77 Jouw vakantie-ervaringen",
+      "link": "https://www.userinterviews.com/projects/ESEyc0jZ8A/apply",
+      "pay": "$35",
+      "duration": "35 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "P-30983-5 Jouw vakantie-ervaringen",
+      "link": "https://www.userinterviews.com/projects/rYykMtkAvw/apply",
+      "pay": "$20",
+      "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     }
