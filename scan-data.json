@@ -1,7 +1,41 @@
 {
-  "generated": "2026-11-25T22:06:49.262624+00:00",
+  "generated": "2026-11-26T22:05:05.575571+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "Music Video Casting Call for Dancers",
+      "link": "https://projectcasting.com/job/music-video-casting-call-for-dancers-3",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 26, 2026",
+      "source": "Atomic Honey Casting",
+      "short_description": "An exciting music video casting call is seeking expressive, physical, and dynamic dancers and movement artists in Los Angeles, California.",
+      "production_type": "Music Video"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "\u201cLAWU\u201d Feature Film Open Casting Call (Pay is $231/Day)",
+      "link": "https://projectcasting.com/job/lawu-feature-film-open-casting-call-pay-is-231-day",
+      "alert": true,
+      "pay": "$231",
+      "location": "California",
+      "date": "November 25, 2026",
+      "source": "Diversity Casting",
+      "production_type": "Feature Film"
+    },
+    {
+      "platform": "Project Casting",
+      "title": "Commercial Casting Call for Dogs",
+      "link": "https://projectcasting.com/job/commercial-casting-call-for-dogs",
+      "alert": true,
+      "pay": "$",
+      "location": "Los Angeles, CA",
+      "date": "November 25, 2026",
+      "source": "Lucky Tennyson Casting",
+      "production_type": "Commercials"
+    },
     {
       "platform": "Project Casting",
       "title": "Denim Brand Photo Shoot Casting Call for Models",
@@ -25,97 +59,63 @@
       "production_type": "Live Event"
     },
     {
-      "platform": "Project Casting",
-      "title": "Feature Film Casting Call for Transgender and Non-Binary Talent",
-      "link": "https://projectcasting.com/job/feature-film-casting-call-for-transgender-and-non-binary-talent",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "November 25, 2026",
-      "source": "Diversity Casting",
-      "short_description": "An upcoming feature film is seeking transgender and non-binary talent in Oakland, California. This casting opportunity welcomes individuals interested in bringing authentic representation and diver...",
-      "production_type": "Feature Film"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Commercial Los Angeles Casting Call for Dancers",
-      "link": "https://projectcasting.com/job/commercial-los-angeles-casting-call-for-dancers",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "November 24, 2026",
-      "source": "DCP Creative House",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "\u201cOur Golden Thread\u201d Casting call",
-      "link": "https://projectcasting.com/job/our-golden-thread-casting-call",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "November 24, 2026",
-      "source": "Black KO Entertainment",
-      "production_type": "TV & Video"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director - Starz",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-starz-4450739044",
+      "title": "Creative Director - Cooler Master Co., Ltd.",
+      "link": "https://www.linkedin.com/jobs/view/creative-director-at-cooler-master-co-ltd-4495227087",
       "alert": false,
-      "location": "Santa Monica, CA",
+      "location": "Los Angeles Metropolitan Area",
       "date": "22 hours ago",
-      "source": "Starz"
+      "source": "Cooler Master Co., Ltd."
     },
     {
       "platform": "LinkedIn",
-      "title": "Creative Director, Amazon XCM - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-amazon-xcm-at-amazon-4487030478",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "5 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director - BBDO Worldwide",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-bbdo-worldwide-4478121773",
+      "title": "Group Design Director, Brand Experience - Team One",
+      "link": "https://www.linkedin.com/jobs/view/group-design-director-brand-experience-at-team-one-4469058638",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "12 hours ago",
-      "source": "BBDO Worldwide"
+      "date": "7 hours ago",
+      "source": "Team One"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Creative Director, Brand & Marketing - Funko",
-      "link": "https://www.linkedin.com/jobs/view/senior-creative-director-brand-marketing-at-funko-4461289703",
-      "alert": false,
-      "location": "Burbank, CA",
-      "date": "9 hours ago",
-      "source": "Funko"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director, XCM Design Dept. - Amazon",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-xcm-design-dept-at-amazon-4487031349",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "8 hours ago",
-      "source": "Amazon"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Creative Director, TV & YouTube - Triplespeed",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-tv-youtube-at-triplespeed-4494739669",
+      "title": "Associate Creative Director (Art/Design) - Day One Agency",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-art-design-at-day-one-agency-4490355849",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "23 hours ago",
-      "source": "Triplespeed"
+      "source": "Day One Agency"
     },
     {
       "platform": "LinkedIn",
-      "title": "SVP, Experience Design & Innovation - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/svp-experience-design-innovation-at-gsw-powered-by-syneos-health-4486301830",
+      "title": "Associate Creative Director - Accenture",
+      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-accenture-4494959851",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "22 hours ago",
+      "source": "Accenture"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Sr. Creative Strategist - Sans",
+      "link": "https://www.linkedin.com/jobs/view/sr-creative-strategist-at-sans-4495279379",
+      "alert": false,
+      "location": "Culver City, CA",
+      "date": "11 hours ago",
+      "source": "Sans"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Manager of Communications, Campaigns - Fenwick & West",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-of-communications-campaigns-at-fenwick-west-4493464401",
+      "alert": false,
+      "location": "Santa Monica, CA",
+      "date": "23 hours ago",
+      "source": "Fenwick & West"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Art Supervisor - GSW, powered by Syneos Health",
+      "link": "https://www.linkedin.com/jobs/view/art-supervisor-at-gsw-powered-by-syneos-health-4478110761",
       "alert": false,
       "location": "Santa Monica, CA",
       "date": "6 hours ago",
@@ -123,30 +123,30 @@
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Director, Creative - Fenwick & West",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-creative-at-fenwick-west-4493439393",
+      "title": "Marketing Lead - Rivian",
+      "link": "https://www.linkedin.com/jobs/view/marketing-lead-at-rivian-4486538908",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "5 hours ago",
-      "source": "Fenwick & West"
+      "location": "El Segundo, CA",
+      "date": "12 hours ago",
+      "source": "Rivian"
     },
     {
       "platform": "LinkedIn",
-      "title": "Head of Content Marketing & Growth at WonderLab - MeeBoss",
-      "link": "https://www.linkedin.com/jobs/view/head-of-content-marketing-growth-at-wonderlab-at-meeboss-4494692636",
+      "title": "Seed Studio Visual Design Manager, Devices and Services - Google",
+      "link": "https://www.linkedin.com/jobs/view/seed-studio-visual-design-manager-devices-and-services-at-google-4495015309",
       "alert": false,
       "location": "Los Angeles, CA",
-      "date": "1 hour ago",
-      "source": "MeeBoss"
+      "date": "11 hours ago",
+      "source": "Google"
     },
     {
       "platform": "LinkedIn",
-      "title": "Associate Creative Director, Copy - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-at-gsw-powered-by-syneos-health-4494736831",
+      "title": "Senior Manager, Global Digital and Social Marketing - Franchise - Sony Pictures Entertainment",
+      "link": "https://www.linkedin.com/jobs/view/senior-manager-global-digital-and-social-marketing-franchise-at-sony-pictures-entertainment-4487553196",
       "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "22 hours ago",
-      "source": "GSW, powered by Syneos Health"
+      "location": "Culver City, CA",
+      "date": "12 hours ago",
+      "source": "Sony Pictures Entertainment"
     },
     {
       "platform": "Central Casting",
@@ -237,101 +237,93 @@
       "location": "Los Angeles, CA"
     },
     {
-      "platform": "Aquent",
-      "title": "Brand Designer for Social",
-      "link": "https://aquent.com/find-work/214672",
-      "alert": false,
-      "date": "Posted Nov 20, 2026"
+      "platform": "UserInterviews",
+      "title": "Looking for people who had DNA tested for health!",
+      "link": "https://www.userinterviews.com/projects/rmjWqm1zSA/apply",
+      "pay": "$5",
+      "duration": "2 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Seeking Professionals for a multi-week study - Earn up to $200!",
-      "link": "https://www.userinterviews.com/projects/aflHedxSkg/apply",
-      "pay": "$200",
+      "title": "Workplace Technology and Service Decisions",
+      "link": "https://www.userinterviews.com/projects/aYjjwiy3XA/apply",
+      "pay": "$15",
       "duration": "15 MIN",
       "source": "UserInterviews",
-      "alert": true
+      "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "$400 SUV Owners Miami",
-      "link": "https://www.userinterviews.com/projects/C7dHMYVHxg/apply",
-      "pay": "$400",
-      "duration": "120 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Share Your First Impressions!",
-      "link": "https://www.userinterviews.com/projects/Ec2w7iXXeg/apply",
-      "pay": "$30",
+      "title": "Qualitative research study, your input is needed [P-31007-4, 467907]",
+      "link": "https://www.userinterviews.com/projects/vs03FxGVYA/apply",
+      "pay": "$65",
       "duration": "35 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share Your First Impressions!",
-      "link": "https://www.userinterviews.com/projects/GHZfVpNQcg/apply",
-      "pay": "$30",
-      "duration": "35 MIN",
+      "title": "UserTesting test: Task based",
+      "link": "https://www.userinterviews.com/projects/DyLF7FrA4A/apply",
+      "pay": "$15",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Share your experiences and opinions",
-      "link": "https://www.userinterviews.com/projects/M-u-UDs60A/apply",
-      "pay": "$12",
-      "duration": "29 MIN",
+      "title": "Research Study on Poultry Farming Equipment and Technology",
+      "link": "https://www.userinterviews.com/projects/sQhYSR1Mhg/apply",
+      "pay": "$35",
+      "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Candidate Outreach on ZipRecruiter",
-      "link": "https://www.userinterviews.com/projects/a57Qp5C4ow/apply",
-      "pay": "$50",
-      "duration": "30 MIN",
+      "title": "Own an iPhone Duo? Get Paid to Open & Test an Axis Bank Digital Account (India)",
+      "link": "https://www.userinterviews.com/projects/XrWgGL9UTg/apply",
+      "pay": "$60",
+      "duration": "70 MIN",
       "source": "UserInterviews",
       "alert": false
     },
     {
       "platform": "UserInterviews",
-      "title": "Samsung Galaxy Users: Smart Tag Study + In-Person Group Discussion (Anaheim, CA)",
-      "link": "https://www.userinterviews.com/projects/VtpoTYlGag/apply",
-      "pay": "$350",
-      "duration": "120 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "NY Tech Lawyers Deal",
-      "link": "https://www.userinterviews.com/projects/gztmqDRMRw/apply",
+      "title": "San Francisco / Bay Area Smart Glasses + AI Assistant Habits Study",
+      "link": "https://www.userinterviews.com/projects/nAdIAP6kQw/apply",
       "pay": "$300",
-      "duration": "90 MIN",
+      "duration": "150 MIN",
       "source": "UserInterviews",
       "alert": true
     },
     {
       "platform": "UserInterviews",
-      "title": "Research Study on Child Car Seats",
-      "link": "https://www.userinterviews.com/projects/ntnR33IuIw/apply",
-      "pay": "$10",
-      "duration": "10 MIN",
+      "title": "Los Angeles Smart Glasses + AI Assistant Habits Study",
+      "link": "https://www.userinterviews.com/projects/GBYE54LTug/apply",
+      "pay": "$300",
+      "duration": "150 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Calling all social media users!",
+      "link": "https://www.userinterviews.com/projects/-O9EpbfiWQ/apply",
+      "pay": "$250",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Explain terminology relevant to your work",
+      "link": "https://www.userinterviews.com/projects/rwivOH0Y4w/apply",
+      "pay": "$20",
+      "duration": "20 MIN",
       "source": "UserInterviews",
       "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Do You Shop Online? Share Your Views and Earn \u00a3150",
-      "link": "https://www.userinterviews.com/projects/UdBmVi_rXA/apply",
-      "pay": "$195",
-      "duration": "3 min",
-      "source": "UserInterviews",
-      "alert": true
     }
   ],
   "errors": {},
@@ -358,7 +350,7 @@
     },
     "Aquent": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "Indeed": {
       "status": "ok",
