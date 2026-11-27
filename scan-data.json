@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-26T22:05:05.575571+00:00",
+  "generated": "2026-11-27T21:47:25.979927+00:00",
   "location": "Hermosa Beach, CA",
   "items": [
+    {
+      "platform": "Project Casting",
+      "title": "$75 Sports Content Creator Casting Call",
+      "link": "https://projectcasting.com/job/75-sports-content-creator-casting-call",
+      "alert": true,
+      "pay": "$75",
+      "location": "California",
+      "date": "November 26, 2026",
+      "source": "TOGETHXR",
+      "short_description": "A sports media production is seeking two local content creators in San Jose, California, to capture smartphone video content ahead of the PWHL San Jose home opener.",
+      "production_type": "Social Media Content"
+    },
     {
       "platform": "Project Casting",
       "title": "Music Video Casting Call for Dancers",
@@ -26,127 +38,94 @@
       "production_type": "Feature Film"
     },
     {
-      "platform": "Project Casting",
-      "title": "Commercial Casting Call for Dogs",
-      "link": "https://projectcasting.com/job/commercial-casting-call-for-dogs",
-      "alert": true,
-      "pay": "$",
-      "location": "Los Angeles, CA",
-      "date": "November 25, 2026",
-      "source": "Lucky Tennyson Casting",
-      "production_type": "Commercials"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Denim Brand Photo Shoot Casting Call for Models",
-      "link": "https://projectcasting.com/job/denim-brand-photo-shoot-casting-call-for-models",
-      "alert": true,
-      "pay": "$",
-      "location": "California",
-      "date": "November 25, 2026",
-      "source": "Shay Nielsen Casting",
-      "production_type": "Modeling"
-    },
-    {
-      "platform": "Project Casting",
-      "title": "Brand Ambassador Mountain View, California",
-      "link": "https://projectcasting.com/job/brand-ambassador-mountain-view-california",
-      "alert": true,
-      "pay": "$$",
-      "location": "California",
-      "date": "November 25, 2026",
-      "source": "Event Staffing LIve",
-      "production_type": "Live Event"
-    },
-    {
       "platform": "LinkedIn",
-      "title": "Creative Director - Cooler Master Co., Ltd.",
-      "link": "https://www.linkedin.com/jobs/view/creative-director-at-cooler-master-co-ltd-4495227087",
-      "alert": false,
-      "location": "Los Angeles Metropolitan Area",
-      "date": "22 hours ago",
-      "source": "Cooler Master Co., Ltd."
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Group Design Director, Brand Experience - Team One",
-      "link": "https://www.linkedin.com/jobs/view/group-design-director-brand-experience-at-team-one-4469058638",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "7 hours ago",
-      "source": "Team One"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director (Art/Design) - Day One Agency",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-art-design-at-day-one-agency-4490355849",
-      "alert": false,
-      "location": "Los Angeles, CA",
-      "date": "23 hours ago",
-      "source": "Day One Agency"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Associate Creative Director - Accenture",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-at-accenture-4494959851",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "22 hours ago",
-      "source": "Accenture"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Sr. Creative Strategist - Sans",
-      "link": "https://www.linkedin.com/jobs/view/sr-creative-strategist-at-sans-4495279379",
-      "alert": false,
-      "location": "Culver City, CA",
-      "date": "11 hours ago",
-      "source": "Sans"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Senior Manager of Communications, Campaigns - Fenwick & West",
-      "link": "https://www.linkedin.com/jobs/view/senior-manager-of-communications-campaigns-at-fenwick-west-4493464401",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "23 hours ago",
-      "source": "Fenwick & West"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Art Supervisor - GSW, powered by Syneos Health",
-      "link": "https://www.linkedin.com/jobs/view/art-supervisor-at-gsw-powered-by-syneos-health-4478110761",
-      "alert": false,
-      "location": "Santa Monica, CA",
-      "date": "6 hours ago",
-      "source": "GSW, powered by Syneos Health"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Marketing Lead - Rivian",
-      "link": "https://www.linkedin.com/jobs/view/marketing-lead-at-rivian-4486538908",
-      "alert": false,
-      "location": "El Segundo, CA",
-      "date": "12 hours ago",
-      "source": "Rivian"
-    },
-    {
-      "platform": "LinkedIn",
-      "title": "Seed Studio Visual Design Manager, Devices and Services - Google",
-      "link": "https://www.linkedin.com/jobs/view/seed-studio-visual-design-manager-devices-and-services-at-google-4495015309",
+      "title": "Senior Visual Designer, Product Experiences, 3536-1 - Cypress HCM",
+      "link": "https://www.linkedin.com/jobs/view/senior-visual-designer-product-experiences-3536-1-at-cypress-hcm-4486790996",
       "alert": false,
       "location": "Los Angeles, CA",
       "date": "11 hours ago",
-      "source": "Google"
+      "source": "Cypress HCM"
     },
     {
       "platform": "LinkedIn",
-      "title": "Senior Manager, Global Digital and Social Marketing - Franchise - Sony Pictures Entertainment",
-      "link": "https://www.linkedin.com/jobs/view/senior-manager-global-digital-and-social-marketing-franchise-at-sony-pictures-entertainment-4487553196",
+      "title": "Designer - Meta",
+      "link": "https://www.linkedin.com/jobs/view/designer-at-meta-4477035850",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "10 hours ago",
+      "source": "Meta"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Graphic Designer (Temp to hire) - Brighton Collectibles",
+      "link": "https://www.linkedin.com/jobs/view/graphic-designer-temp-to-hire-at-brighton-collectibles-4483717643",
+      "alert": false,
+      "location": "City of Industry, CA",
+      "date": "3 hours ago",
+      "source": "Brighton Collectibles"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Graphic Designer - Rocket Lab",
+      "link": "https://www.linkedin.com/jobs/view/graphic-designer-at-rocket-lab-4485840730",
+      "alert": false,
+      "location": "Long Beach, CA",
+      "date": "8 hours ago",
+      "source": "Rocket Lab"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Junior Art Director - Omnicom Production",
+      "link": "https://www.linkedin.com/jobs/view/junior-art-director-at-omnicom-production-4486916796",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Omnicom Production"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "We're always interested in interviewing talented people for freelance or contract work, including: Admin, Graphic Designers, Animators, Illustrators - PragerU",
+      "link": "https://www.linkedin.com/jobs/view/we-re-always-interested-in-interviewing-talented-people-for-freelance-or-contract-work-including-admin-graphic-designers-animators-illustrators-at-prageru-4480140343",
+      "alert": false,
+      "location": "Los Angeles County, CA",
+      "date": "5 hours ago",
+      "source": "PragerU"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Design Director - Delta Galil Industries",
+      "link": "https://www.linkedin.com/jobs/view/design-director-at-delta-galil-industries-4479852318",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "12 hours ago",
+      "source": "Delta Galil Industries"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Graphic Designer - Cider",
+      "link": "https://www.linkedin.com/jobs/view/senior-graphic-designer-at-cider-4495069613",
+      "alert": false,
+      "location": "Los Angeles, CA",
+      "date": "16 hours ago",
+      "source": "Cider"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "Senior Visual Designer - Audible UX Design - Audible",
+      "link": "https://www.linkedin.com/jobs/view/senior-visual-designer-audible-ux-design-at-audible-4471120688",
       "alert": false,
       "location": "Culver City, CA",
-      "date": "12 hours ago",
-      "source": "Sony Pictures Entertainment"
+      "date": "3 hours ago",
+      "source": "Audible"
+    },
+    {
+      "platform": "LinkedIn",
+      "title": "User Experience Designer IV - Jobsought",
+      "link": "https://www.linkedin.com/jobs/view/user-experience-designer-iv-at-jobsought-4495828926",
+      "alert": false,
+      "location": "Hawthorne, CA",
+      "date": "4 hours ago",
+      "source": "Jobsought"
     },
     {
       "platform": "Central Casting",
@@ -231,10 +210,81 @@
     },
     {
       "platform": "Everyset",
-      "title": "Hospital Staff",
+      "title": "Various Roles",
       "link": "https://jobs.everyset.com/job-board",
-      "alert": true,
-      "location": "Los Angeles, CA"
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Instacart Research in Ann Arbor, Farmington, Novi, MI AREA ONLY",
+      "link": "https://www.userinterviews.com/projects/eC-_d4cxNQ/apply",
+      "pay": "$120",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Ingredient Sourcing and Supplier Services",
+      "link": "https://www.userinterviews.com/projects/f1S-d4WbUg/apply",
+      "pay": "$25",
+      "duration": "12 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Ingredient Sourcing and Supplier Services",
+      "link": "https://www.userinterviews.com/projects/oJXMEH52Eg/apply",
+      "pay": "$25",
+      "duration": "12 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Research Study on Ingredient Sourcing and Supplier Services",
+      "link": "https://www.userinterviews.com/projects/0YDmxvMH0Q/apply",
+      "pay": "$25",
+      "duration": "12 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Business Banking - Share your experience",
+      "link": "https://www.userinterviews.com/projects/Fd05rz61lw/apply",
+      "pay": "$150",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": true
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Seeking adults aged 25-49 to share their opinions on health and wellness products!",
+      "link": "https://www.userinterviews.com/projects/ICd0G4SIng/apply",
+      "pay": "$60",
+      "duration": "60 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Everyday Experiences & Online Activities - Paid Study",
+      "link": "https://www.userinterviews.com/projects/2zqqyPxPrg/apply",
+      "pay": "$40",
+      "duration": "30 MIN",
+      "source": "UserInterviews",
+      "alert": false
+    },
+    {
+      "platform": "UserInterviews",
+      "title": "Teen Entertainment & Animated Storytelling Study",
+      "link": "https://www.userinterviews.com/projects/TW81OkA78Q/apply",
+      "pay": "$20",
+      "duration": "10 MIN",
+      "source": "UserInterviews",
+      "alert": false
     },
     {
       "platform": "UserInterviews",
@@ -253,77 +303,6 @@
       "duration": "15 MIN",
       "source": "UserInterviews",
       "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Qualitative research study, your input is needed [P-31007-4, 467907]",
-      "link": "https://www.userinterviews.com/projects/vs03FxGVYA/apply",
-      "pay": "$65",
-      "duration": "35 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "UserTesting test: Task based",
-      "link": "https://www.userinterviews.com/projects/DyLF7FrA4A/apply",
-      "pay": "$15",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Research Study on Poultry Farming Equipment and Technology",
-      "link": "https://www.userinterviews.com/projects/sQhYSR1Mhg/apply",
-      "pay": "$35",
-      "duration": "15 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Own an iPhone Duo? Get Paid to Open & Test an Axis Bank Digital Account (India)",
-      "link": "https://www.userinterviews.com/projects/XrWgGL9UTg/apply",
-      "pay": "$60",
-      "duration": "70 MIN",
-      "source": "UserInterviews",
-      "alert": false
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "San Francisco / Bay Area Smart Glasses + AI Assistant Habits Study",
-      "link": "https://www.userinterviews.com/projects/nAdIAP6kQw/apply",
-      "pay": "$300",
-      "duration": "150 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Los Angeles Smart Glasses + AI Assistant Habits Study",
-      "link": "https://www.userinterviews.com/projects/GBYE54LTug/apply",
-      "pay": "$300",
-      "duration": "150 MIN",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Calling all social media users!",
-      "link": "https://www.userinterviews.com/projects/-O9EpbfiWQ/apply",
-      "pay": "$250",
-      "source": "UserInterviews",
-      "alert": true
-    },
-    {
-      "platform": "UserInterviews",
-      "title": "Explain terminology relevant to your work",
-      "link": "https://www.userinterviews.com/projects/rwivOH0Y4w/apply",
-      "pay": "$20",
-      "duration": "20 MIN",
-      "source": "UserInterviews",
-      "alert": false
     }
   ],
   "errors": {},
@@ -334,7 +313,7 @@
     },
     "Project Casting": {
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     "LinkedIn": {
       "status": "ok",
